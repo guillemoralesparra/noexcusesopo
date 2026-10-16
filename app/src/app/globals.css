@@ -1,0 +1,180 @@
+@import "tailwindcss";
+@source not "../../.impeccable";
+
+/*
+ * Món visual "Rajola de Sant Pau": ceràmica vidrada verd-turquesa al marc, porcellana freda com a fons,
+ * ocre vidrat com a únic realç, maó de Sant Pau només per als errors.
+ * Escena d'ús: a casa a l'ordinador, de dia o vespre (clar); fosc segons el sistema.
+ */
+:root {
+  --ground: #eef2f0;
+  --surface: #ffffff;
+  --surface-2: #e2e9e6;
+  --ink: #142b27;
+  --ink-2: #3a554f;
+  --ink-3: #5d736e;
+  --glaze: #14695f;
+  --glaze-deep: #0c4b44;
+  --glaze-edge: #0a3f39;
+  --glaze-mid: #6fae9f;
+  --glaze-soft: #d6e9e3;
+  --on-glaze: #ffffff;
+  --on-glaze-2: #c9e3dc;
+  --ochre: #d9a441;
+  --ochre-edge: #a87a22;
+  --ochre-soft: #f7ebcf;
+  --ochre-ink: #7a5410;
+  --on-ochre: #2a1d05;
+  --brick: #a8432a;
+  --brick-soft: #f6e1da;
+  --on-brick: #ffffff;
+  --tile-empty: #dde5e2;
+  --focus: #0b57d0;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ground: #0d1816;
+    --surface: #14221f;
+    --surface-2: #1c2e2a;
+    --ink: #e4eeeb;
+    --ink-2: #b2c6c1;
+    --ink-3: #8aa19b;
+    --glaze: #3eb3a0;
+    --glaze-deep: #2b8d7e;
+    --glaze-edge: #1f6a5f;
+    --glaze-mid: #2c6f64;
+    --glaze-soft: #173b35;
+    --on-glaze: #04201b;
+    --on-glaze-2: #0b3b33;
+    --ochre: #e3b45a;
+    --ochre-edge: #b2852f;
+    --ochre-soft: #3a2f17;
+    --ochre-ink: #e3b45a;
+    --on-ochre: #241802;
+    --brick: #e58a70;
+    --brick-soft: #3d1f17;
+    --on-brick: #2a0d06;
+    --tile-empty: #22332f;
+    --focus: #8ab4ff;
+    color-scheme: dark;
+  }
+}
+
+@theme inline {
+  --color-ground: var(--ground);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-glaze: var(--glaze);
+  --color-glaze-deep: var(--glaze-deep);
+  --color-glaze-edge: var(--glaze-edge);
+  --color-glaze-mid: var(--glaze-mid);
+  --color-glaze-soft: var(--glaze-soft);
+  --color-on-glaze: var(--on-glaze);
+  --color-on-glaze-2: var(--on-glaze-2);
+  --color-ochre: var(--ochre);
+  --color-ochre-edge: var(--ochre-edge);
+  --color-ochre-soft: var(--ochre-soft);
+  --color-ochre-ink: var(--ochre-ink);
+  --color-on-ochre: var(--on-ochre);
+  --color-brick: var(--brick);
+  --color-brick-soft: var(--brick-soft);
+  --color-on-brick: var(--on-brick);
+  --color-tile-empty: var(--tile-empty);
+  --font-sans: var(--font-hanken), ui-sans-serif, system-ui, sans-serif;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+html {
+  background: var(--ground);
+  color: var(--ink);
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  font-feature-settings: "tnum" 0;
+  hyphens: manual;
+}
+::selection {
+  background: var(--ochre);
+  color: var(--on-ochre);
+}
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+* {
+  scrollbar-color: var(--glaze-mid) transparent;
+  scrollbar-width: thin;
+}
+a {
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1.5px;
+}
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Botó vidrat: la vora inferior fosca és el cantell de la rajola; en prémer, la rajola s'enfonsa. */
+@utility btn {
+  @apply inline-flex min-h-12 select-none items-center justify-center gap-2 rounded-xl px-5 text-base font-bold transition-[transform,border-color,background-color] duration-100 disabled:cursor-not-allowed;
+  border-bottom-width: 4px;
+  &:active:not(:disabled) {
+    transform: translateY(3px);
+    border-bottom-width: 1px;
+    margin-bottom: 3px;
+  }
+}
+@utility btn-glaze {
+  @apply btn bg-glaze text-on-glaze border-glaze-edge hover:bg-glaze-deep;
+  &:disabled {
+    @apply bg-surface-2 text-ink-3 border-surface-2;
+  }
+}
+@utility btn-ochre {
+  @apply btn bg-ochre text-on-ochre border-ochre-edge;
+}
+@utility btn-quiet {
+  @apply btn bg-surface text-ink border-surface-2 hover:bg-surface-2;
+}
+@utility panel {
+  @apply rounded-2xl bg-surface;
+}
+@utility field {
+  @apply min-h-12 w-full rounded-xl border-2 border-surface-2 bg-surface px-3 text-base text-ink outline-none focus:border-glaze;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    transition-duration: 1ms !important;
+  }
+}
+
+/* Moment característic: una rajola es col·loca al paviment */
+@keyframes lay {
+  0% {
+    transform: translateY(-10px) rotate(-6deg) scale(0.7);
+    opacity: 0;
+  }
+  100% {
+    transform: none;
+    opacity: 1;
+  }
+}
+@keyframes rise {
+  from {
+    transform: translateY(16px);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}

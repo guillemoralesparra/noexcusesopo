@@ -1,0 +1,254 @@
+[
+ {
+  "slug": "llei-15-1990",
+  "title": "LLEI 15/1990, de 9 de juliol, d'ordenació sanitària de Catalunya",
+  "short": "Llei 15/1990 (LOSC)",
+  "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/1990/07/09/15",
+  "language": "ca",
+  "jurisdiction": "catalunya",
+  "consolidated_as_of": "2026-07-14",
+  "n_chunks": 108,
+  "temario": [
+   "T1"
+  ]
+ },
+ {
+  "slug": "decret-196-2010",
+  "title": "DECRET 196/2010, de 14 de desembre, del sistema sanitari integral d'utilització pública de Catalunya (SISCAT)",
+  "short": "Decret 196/2010 (SISCAT)",
+  "url": "https://portaljuridic.gencat.cat/eli/es-ct/d/2010/12/14/196",
+  "language": "ca",
+  "jurisdiction": "catalunya",
+  "consolidated_as_of": "2026-08-06",
+  "n_chunks": 30,
+  "temario": [
+   "T1"
+  ]
+ },
+ {
+  "slug": "ley-14-1986",
+  "title": "Ley 14/1986, de 25 de abril, General de Sanidad",
+  "short": "Llei 14/1986 (LGS)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2023-03-23",
+  "n_chunks": 152,
+  "temario": [
+   "T1",
+   "T3"
+  ]
+ },
+ {
+  "slug": "llei-8-2007",
+  "title": "LLEI 8/2007, de 30 de juliol, de l'Institut Català de la Salut",
+  "short": "Llei 8/2007 (ICS)",
+  "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/2007/07/30/8",
+  "language": "ca",
+  "jurisdiction": "catalunya",
+  "consolidated_as_of": "2026-07-14",
+  "n_chunks": 44,
+  "temario": [
+   "T2"
+  ]
+ },
+ {
+  "slug": "decret-13-2009",
+  "title": "DECRET 13/2009, de 3 de febrer, pel qual s'aproven els Estatuts de l'Institut Català de la Salut",
+  "short": "Decret 13/2009 (Estatuts ICS)",
+  "url": "https://portaljuridic.gencat.cat/eli/es-ct/d/2009/02/03/13",
+  "language": "ca",
+  "jurisdiction": "catalunya",
+  "consolidated_as_of": "2009-02-09",
+  "n_chunks": 58,
+  "temario": [
+   "T2"
+  ]
+ },
+ {
+  "slug": "llei-21-2000",
+  "title": "LLEI 21/2000, de 29 de desembre, sobre els drets d'informació concernent la salut i l'autonomia del pacient, i la documentació clínica",
+  "short": "Llei 21/2000",
+  "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/2000/12/29/21",
+  "language": "ca",
+  "jurisdiction": "catalunya",
+  "consolidated_as_of": "2025-11-29",
+  "n_chunks": 18,
+  "temario": [
+   "T3",
+   "T9"
+  ]
+ },
+ {
+  "slug": "ley-41-2002",
+  "title": "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.",
+  "short": "Llei 41/2002",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2023-03-01",
+  "n_chunks": 33,
+  "temario": [
+   "T3",
+   "T9"
+  ]
+ },
+ {
+  "slug": "lo-3-2018",
+  "title": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.",
+  "short": "LO 3/2018 (LOPDGDD)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2025-12-27",
+  "n_chunks": 145,
+  "temario": [
+   "T3"
+  ]
+ },
+ {
+  "slug": "rgpd",
+  "title": "REGLAMENTO (UE) 2016/679 DEL PARLAMENTO EUROPEO Y DEL CONSEJO de 27 de abril de 2016 relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos)",
+  "short": "RGPD (Reglament UE 2016/679)",
+  "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32016R0679",
+  "language": "es",
+  "jurisdiction": "ue",
+  "consolidated_as_of": null,
+  "n_chunks": 273,
+  "temario": [
+   "T3"
+  ]
+ },
+ {
+  "slug": "ley-55-2003",
+  "title": "Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud.",
+  "short": "Llei 55/2003 (Estatut marc)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2023-03-01",
+  "n_chunks": 114,
+  "temario": [
+   "T4",
+   "T6"
+  ]
+ },
+ {
+  "slug": "ley-53-1984",
+  "title": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas.",
+  "short": "Llei 53/1984 (incompatibilitats)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-151",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2024-06-08",
+  "n_chunks": 44,
+  "temario": [
+   "T4"
+  ]
+ },
+ {
+  "slug": "rdl-5-2015",
+  "title": "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+  "short": "RDL 5/2015 (TREBEP)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2025-07-30",
+  "n_chunks": 137,
+  "temario": [
+   "T5"
+  ]
+ },
+ {
+  "slug": "ley-44-2003",
+  "title": "Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias.",
+  "short": "Llei 44/2003 (LOPS)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21340",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2021-06-05",
+  "n_chunks": 73,
+  "temario": [
+   "T6",
+   "T9"
+  ]
+ },
+ {
+  "slug": "ley-31-1995",
+  "title": "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.",
+  "short": "Llei 31/1995 (LPRL)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2026-04-09",
+  "n_chunks": 80,
+  "temario": [
+   "T7"
+  ]
+ },
+ {
+  "slug": "rd-39-1997",
+  "title": "Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.",
+  "short": "RD 39/1997 (Reglament serveis de prevenció)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2025-10-17",
+  "n_chunks": 71,
+  "temario": [
+   "T7"
+  ]
+ },
+ {
+  "slug": "llei-17-2015",
+  "title": "LLEI 17/2015, del 21 de juliol, d'igualtat efectiva de dones i homes",
+  "short": "Llei 17/2015 (igualtat)",
+  "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/2015/07/21/17",
+  "language": "ca",
+  "jurisdiction": "catalunya",
+  "consolidated_as_of": "2023-03-18",
+  "n_chunks": 80,
+  "temario": [
+   "T8"
+  ]
+ },
+ {
+  "slug": "llei-5-2008",
+  "title": "LLEI 5/2008, de 24 d'abril, del dret de les dones a eradicar la violència masclista",
+  "short": "Llei 5/2008 (violència masclista)",
+  "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/2008/04/24/5",
+  "language": "ca",
+  "jurisdiction": "catalunya",
+  "consolidated_as_of": "2024-04-23",
+  "n_chunks": 123,
+  "temario": [
+   "T8"
+  ]
+ },
+ {
+  "slug": "lo-3-2021",
+  "title": "Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia.",
+  "short": "LO 3/2021 (eutanàsia)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-4628",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2021-03-25",
+  "n_chunks": 33,
+  "temario": [
+   "T9.3"
+  ]
+ },
+ {
+  "slug": "rd-954-2015",
+  "title": "Real Decreto 954/2015, de 23 de octubre, por el que se regula la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano por parte de los enfermeros.",
+  "short": "RD 954/2015 (prescripció infermera)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-14028",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2018-10-23",
+  "n_chunks": 26,
+  "temario": [
+   "E6.6"
+  ]
+ }
+]

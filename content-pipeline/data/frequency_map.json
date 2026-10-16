@@ -1,0 +1,1158 @@
+[
+ {
+  "epigraf": "T1.1",
+  "tema": "T1",
+  "titol": "Llei 15/1990 d'ordenació sanitària de Catalunya (LOSC): principis, CatSalut i ordenació territorial",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T1.2",
+  "tema": "T1",
+  "titol": "SISCAT (Decret 196/2010): disposicions comunes a centres, serveis i establiments",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T1.3",
+  "tema": "T1",
+  "titol": "Pla de salut de Catalunya: principis generals, objectius i indicadors",
+  "per_exam": {
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 1
+  },
+  "total": 2,
+  "share": 0.005194805194805195
+ },
+ {
+  "epigraf": "T2.1",
+  "tema": "T2",
+  "titol": "Llei 8/2007 de l'ICS: naturalesa i règim jurídic, objectius, funcions i principis de gestió",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T2.2",
+  "tema": "T2",
+  "titol": "Estatuts de l'ICS (Decret 13/2009) i organització: òrgans de govern i gerències territorials",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T2.3",
+  "tema": "T2",
+  "titol": "Missió, visió, valors i competències de l'ICS",
+  "per_exam": {
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 2,
+  "share": 0.005194805194805195
+ },
+ {
+  "epigraf": "T3.1",
+  "tema": "T3",
+  "titol": "Dret a la informació sanitària i consentiment informat (Llei 21/2000, Llei 41/2002)",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T3.2",
+  "tema": "T3",
+  "titol": "Intimitat, confidencialitat i història clínica",
+  "per_exam": {
+   "ics-dsi-2015-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "T3.3",
+  "tema": "T3",
+  "titol": "Autonomia del pacient: document de voluntats anticipades i instruccions prèvies",
+  "per_exam": {
+   "ics-dsi-2024-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "T3.4",
+  "tema": "T3",
+  "titol": "Carta de drets i deures de la ciutadania en relació amb la salut",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 3,
+  "share": 0.007792207792207792
+ },
+ {
+  "epigraf": "T3.5",
+  "tema": "T3",
+  "titol": "LOPDGDD i RGPD: conceptes, principis, drets ARSOPOL i delegat de protecció de dades",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T4.1",
+  "tema": "T4",
+  "titol": "Objecte, àmbit d'aplicació i classificació del personal estatutari",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T4.2",
+  "tema": "T4",
+  "titol": "Drets i deures del personal estatutari",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T4.3",
+  "tema": "T4",
+  "titol": "Adquisició i pèrdua de la condició de personal estatutari",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T4.4",
+  "tema": "T4",
+  "titol": "Retribucions i actualització de coneixements",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T4.5",
+  "tema": "T4",
+  "titol": "Incompatibilitats",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T5.1",
+  "tema": "T5",
+  "titol": "EBEP: objecte, àmbit d'aplicació i classes de personal",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T5.2",
+  "tema": "T5",
+  "titol": "Codi de conducta: principis ètics i principis de conducta",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T5.3",
+  "tema": "T5",
+  "titol": "III Acord de la Mesa Sectorial: jornada, permisos, llicències i condicions de treball",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T6.1",
+  "tema": "T6",
+  "titol": "Carrera professional: nivells, requisits i avaluació",
+  "per_exam": {
+   "ics-dsi-2024-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "T6.2",
+  "tema": "T6",
+  "titol": "Direcció per objectius (DPO) i retribució variable",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T7.1",
+  "tema": "T7",
+  "titol": "Llei 31/1995: conceptes bàsics, drets i obligacions",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T7.2",
+  "tema": "T7",
+  "titol": "Reglament dels serveis de prevenció i organització de recursos preventius",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T7.3",
+  "tema": "T7",
+  "titol": "Riscos laborals en l'àmbit sanitari: biològic, ergonòmic, psicosocial i agressions",
+  "per_exam": {
+   "ics-dsi-2019-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "T7.4",
+  "tema": "T7",
+  "titol": "Protocol d'assetjament sexual i per raó de sexe, orientació o identitat sexual",
+  "per_exam": {
+   "ics-dsi-2015-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "T8.1",
+  "tema": "T8",
+  "titol": "Llei 17/2015 d'igualtat efectiva: objecte, finalitats i principis d'actuació",
+  "per_exam": {
+   "ics-dsi-2015-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "T8.2",
+  "tema": "T8",
+  "titol": "Llei 5/2008 i Llei 17/2020: violència masclista, formes i àmbits",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T8.3",
+  "tema": "T8",
+  "titol": "II Pla d'Igualtat de l'ICS",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T9.1",
+  "tema": "T9",
+  "titol": "Principis de la bioètica i comitès d'ètica",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T9.2",
+  "tema": "T9",
+  "titol": "Secret professional: concepte i regulació jurídica",
+  "per_exam": {
+   "ics-dsi-2019-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "T9.3",
+  "tema": "T9",
+  "titol": "Decisions al final de la vida: Llei orgànica 3/2021 de regulació de l'eutanàsia",
+  "per_exam": {
+   "ics-dsi-2024-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "T10.1",
+  "tema": "T10",
+  "titol": "Concepte de qualitat, dimensions, qualitat tècnica i percebuda",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T10.2",
+  "tema": "T10",
+  "titol": "Cicle PDCA, diagrama causa-efecte i eines de millora",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T11.1",
+  "tema": "T11",
+  "titol": "Ofimàtica, Intranet, Internet i correu electrònic",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "T11.2",
+  "tema": "T11",
+  "titol": "Administració electrònica: identificació i signatura electròniques, seu electrònica",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "E1.1",
+  "tema": "E1",
+  "titol": "Ètica de les cures: codi deontològic i Codi d'ètica de les infermeres de Catalunya",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E1.2",
+  "tema": "E1",
+  "titol": "Models i teories infermeres",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 6,
+  "share": 0.015584415584415584
+ },
+ {
+  "epigraf": "E1.3",
+  "tema": "E1",
+  "titol": "Procés d'atenció d'infermeria (PAI)",
+  "per_exam": {
+   "ics-dsi-2016PI": 4,
+   "ics-dsi-2019-A": 1
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E1.4",
+  "tema": "E1",
+  "titol": "Llenguatges clínics: NANDA-I, NOC, NIC, ATIC i registres",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2024-A": 5
+  },
+  "total": 6,
+  "share": 0.015584415584415584
+ },
+ {
+  "epigraf": "E1.5",
+  "tema": "E1",
+  "titol": "Relació terapèutica i tècniques de comunicació; entrevista clínica",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E1.6",
+  "tema": "E1",
+  "titol": "Comunicació verbal i no verbal; comunicació de males notícies",
+  "per_exam": {
+   "ics-dsi-2016PI": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "E1.7",
+  "tema": "E1",
+  "titol": "Comunicació en situacions de crisi, agressivitat i violència",
+  "per_exam": {
+   "ics-dsi-2015-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "E1.8",
+  "tema": "E1",
+  "titol": "Recerca quantitativa, epidemiologia i bioestadística",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 2,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 6,
+  "share": 0.015584415584415584
+ },
+ {
+  "epigraf": "E1.9",
+  "tema": "E1",
+  "titol": "Recerca qualitativa i pràctica basada en l'evidència",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E1.10",
+  "tema": "E1",
+  "titol": "TIC i sistemes d'informació sanitaris",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "E1.11",
+  "tema": "E1",
+  "titol": "Intel·ligència artificial en salut",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "E1.12",
+  "tema": "E1",
+  "titol": "Nous rols infermers a l'atenció primària i comunitària",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "E2.1",
+  "tema": "E2",
+  "titol": "Promoció de la salut i salut comunitària; determinants socials",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E2.2",
+  "tema": "E2",
+  "titol": "Nivells de prevenció i cribratges",
+  "per_exam": {
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E2.3",
+  "tema": "E2",
+  "titol": "Vacunacions i calendari vacunal",
+  "per_exam": {
+   "ics-dsi-2016PI": 2,
+   "ics-dsi-2019-A": 3,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 7,
+  "share": 0.01818181818181818
+ },
+ {
+  "epigraf": "E2.4",
+  "tema": "E2",
+  "titol": "Prevenció de la dependència; valoració funcional",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 3,
+  "share": 0.007792207792207792
+ },
+ {
+  "epigraf": "E2.5",
+  "tema": "E2",
+  "titol": "Salut mediambiental",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "E2.6",
+  "tema": "E2",
+  "titol": "Cronicitat: models d'atenció, PCC i MACA",
+  "per_exam": {
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 2,
+  "share": 0.005194805194805195
+ },
+ {
+  "epigraf": "E2.7",
+  "tema": "E2",
+  "titol": "Factors de risc i estils de vida en el cicle vital",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 2,
+   "ics-dsi-2019-A": 1
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E2.8",
+  "tema": "E2",
+  "titol": "Atenció a la salut d'infants i adolescents",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 4,
+   "ics-dsi-2019-A": 4,
+   "ics-dsi-2024-A": 3
+  },
+  "total": 13,
+  "share": 0.033766233766233764
+ },
+ {
+  "epigraf": "E2.9",
+  "tema": "E2",
+  "titol": "Atenció a la gent gran: fragilitat i síndromes geriàtriques",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E2.10",
+  "tema": "E2",
+  "titol": "Salut familiar: valoració, cicle vital familiar, família funcional/disfuncional",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2019-A": 1
+  },
+  "total": 2,
+  "share": 0.005194805194805195
+ },
+ {
+  "epigraf": "E2.11",
+  "tema": "E2",
+  "titol": "Diversitat afectiva, sexual i de gènere; vulnerabilitat social",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "E2.12",
+  "tema": "E2",
+  "titol": "Teories de la vinculació afectiva",
+  "per_exam": {
+   "ics-dsi-2015-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "E2.13",
+  "tema": "E2",
+  "titol": "Diagnòstic de salut i priorització de problemes en salut comunitària",
+  "per_exam": {
+   "ics-dsi-2024-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "E2.14",
+  "tema": "E2",
+  "titol": "Problemes de salut prevalents en la infància",
+  "per_exam": {
+   "ics-dsi-2024-A": 4
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E3.1",
+  "tema": "E3",
+  "titol": "Urgències i emergències: triatge, suport vital i RCP, politraumatisme",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 6,
+  "share": 0.015584415584415584
+ },
+ {
+  "epigraf": "E3.2",
+  "tema": "E3",
+  "titol": "Embaràs: seguiment i educació maternal",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 3,
+  "share": 0.007792207792207792
+ },
+ {
+  "epigraf": "E3.3",
+  "tema": "E3",
+  "titol": "Part, puerperi, lactància materna i cures del nounat",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 3
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E3.4",
+  "tema": "E3",
+  "titol": "Problemes cardiocirculatoris: cardiopatia isquèmica, IC, HTA, arítmies i ECG, vascular",
+  "per_exam": {
+   "ics-dsi-2015-A": 3,
+   "ics-dsi-2016PI": 8,
+   "ics-dsi-2019-A": 5,
+   "ics-dsi-2024-A": 4
+  },
+  "total": 20,
+  "share": 0.05194805194805195
+ },
+ {
+  "epigraf": "E3.5",
+  "tema": "E3",
+  "titol": "Problemes respiratoris: MPOC, asma, oxigenoteràpia i inhaladors",
+  "per_exam": {
+   "ics-dsi-2015-A": 4,
+   "ics-dsi-2016PI": 10,
+   "ics-dsi-2019-A": 8,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 24,
+  "share": 0.06233766233766234
+ },
+ {
+  "epigraf": "E3.6",
+  "tema": "E3",
+  "titol": "Problemes nefrourinaris: MRC, diàlisi, sondatge vesical, incontinència",
+  "per_exam": {
+   "ics-dsi-2015-A": 3,
+   "ics-dsi-2016PI": 3,
+   "ics-dsi-2019-A": 5,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 12,
+  "share": 0.03116883116883117
+ },
+ {
+  "epigraf": "E3.7",
+  "tema": "E3",
+  "titol": "Aparell reproductor i salut sexual: anticoncepció, ITS, climateri, càncers ginecològics i de pròstata",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 3,
+  "share": 0.007792207792207792
+ },
+ {
+  "epigraf": "E3.8",
+  "tema": "E3",
+  "titol": "Intoxicacions agudes, antídots i urgències ambientals",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E4.1",
+  "tema": "E4",
+  "titol": "Valoració nutricional, obesitat i desnutrició",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2019-A": 1
+  },
+  "total": 2,
+  "share": 0.005194805194805195
+ },
+ {
+  "epigraf": "E4.2",
+  "tema": "E4",
+  "titol": "Diabetis mellitus",
+  "per_exam": {
+   "ics-dsi-2015-A": 4,
+   "ics-dsi-2016PI": 4,
+   "ics-dsi-2019-A": 4,
+   "ics-dsi-2024-A": 4
+  },
+  "total": 16,
+  "share": 0.04155844155844156
+ },
+ {
+  "epigraf": "E4.3",
+  "tema": "E4",
+  "titol": "Altres trastorns metabòlics i endocrins: tiroide, dislipèmies",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E4.4",
+  "tema": "E4",
+  "titol": "Problemes neurològics: AVC, epilèpsia, demències, Parkinson, valoració neurològica",
+  "per_exam": {
+   "ics-dsi-2015-A": 5,
+   "ics-dsi-2016PI": 8,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 5
+  },
+  "total": 20,
+  "share": 0.05194805194805195
+ },
+ {
+  "epigraf": "E4.5",
+  "tema": "E4",
+  "titol": "Problemes musculoesquelètics: fractures, osteoporosi, immobilitzacions",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 4,
+   "ics-dsi-2024-A": 3
+  },
+  "total": 10,
+  "share": 0.025974025974025976
+ },
+ {
+  "epigraf": "E4.6",
+  "tema": "E4",
+  "titol": "Malalties infeccioses i parasitàries: TBC, VIH, hepatitis, MDO",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 6,
+  "share": 0.015584415584415584
+ },
+ {
+  "epigraf": "E4.7",
+  "tema": "E4",
+  "titol": "Problemes digestius i ostomies",
+  "per_exam": {
+   "ics-dsi-2015-A": 3,
+   "ics-dsi-2019-A": 2
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E4.8",
+  "tema": "E4",
+  "titol": "Problemes hepatobiliars i pancreàtics",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 2
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E4.9",
+  "tema": "E4",
+  "titol": "Alteracions hidroelectrolítiques i de l'equilibri àcid-base",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 1
+  },
+  "total": 2,
+  "share": 0.005194805194805195
+ },
+ {
+  "epigraf": "E5.1",
+  "tema": "E5",
+  "titol": "Lesions cutànies: úlceres per pressió, ferides, cremades i úlceres vasculars",
+  "per_exam": {
+   "ics-dsi-2015-A": 3,
+   "ics-dsi-2016PI": 5,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 3
+  },
+  "total": 13,
+  "share": 0.033766233766233764
+ },
+ {
+  "epigraf": "E5.2",
+  "tema": "E5",
+  "titol": "Hematologia i immunitat: anèmies, coagulació i anticoagulants, anafilaxi",
+  "per_exam": {
+   "ics-dsi-2019-A": 3,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E5.3",
+  "tema": "E5",
+  "titol": "Problemes maxil·lofacials, ORL i oftalmològics",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 3
+  },
+  "total": 7,
+  "share": 0.01818181818181818
+ },
+ {
+  "epigraf": "E5.4",
+  "tema": "E5",
+  "titol": "Problemes multisistèmics: xoc, sèpsia, pacient crític i oncològic",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E5.5",
+  "tema": "E5",
+  "titol": "Salut mental: trastorns, risc de suïcidi i contenció",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 3
+  },
+  "total": 7,
+  "share": 0.01818181818181818
+ },
+ {
+  "epigraf": "E5.6",
+  "tema": "E5",
+  "titol": "Addiccions i vulnerabilitat social",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E5.7",
+  "tema": "E5",
+  "titol": "Malaltia terminal i cures pal·liatives",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 4,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 9,
+  "share": 0.023376623376623377
+ },
+ {
+  "epigraf": "E5.8",
+  "tema": "E5",
+  "titol": "Problemes dermatològics: dermatitis, micosis, prurit i toxicodèrmies",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E6.1",
+  "tema": "E6",
+  "titol": "Adherència terapèutica: conceptes, mesura i intervencions",
+  "per_exam": {
+   "ics-dsi-2015-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "E6.2",
+  "tema": "E6",
+  "titol": "Educació per a la salut: models i mètodes",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2019-A": 2,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E6.3",
+  "tema": "E6",
+  "titol": "Farmacologia clínica: grups, efectes adversos i incompatibilitats",
+  "per_exam": {
+   "ics-dsi-2015-A": 3,
+   "ics-dsi-2016PI": 3,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 8,
+  "share": 0.02077922077922078
+ },
+ {
+  "epigraf": "E6.4",
+  "tema": "E6",
+  "titol": "Administració de medicaments: vies, tècniques, conservació i comprovacions",
+  "per_exam": {
+   "ics-dsi-2016PI": 3,
+   "ics-dsi-2019-A": 1
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E6.5",
+  "tema": "E6",
+  "titol": "Càlcul de dosis i de velocitat de perfusió",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 2,
+  "share": 0.005194805194805195
+ },
+ {
+  "epigraf": "E6.6",
+  "tema": "E6",
+  "titol": "Indicació i prescripció infermera de medicaments",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "E6.7",
+  "tema": "E6",
+  "titol": "Dietètica i dietes terapèutiques; educació nutricional",
+  "per_exam": {
+   "ics-dsi-2015-A": 3,
+   "ics-dsi-2016PI": 4,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 10,
+  "share": 0.025974025974025976
+ },
+ {
+  "epigraf": "E6.8",
+  "tema": "E6",
+  "titol": "Nutrició artificial: enteral i parenteral",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 3
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E6.9",
+  "tema": "E6",
+  "titol": "Tècniques i procediments: accessos venosos, sondes, mostres, constants",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 6,
+  "share": 0.015584415584415584
+ },
+ {
+  "epigraf": "E6.10",
+  "tema": "E6",
+  "titol": "Disfàgia orofaríngia: cribratge i adaptació de textures",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 2,
+  "share": 0.005194805194805195
+ },
+ {
+  "epigraf": "E6.11",
+  "tema": "E6",
+  "titol": "Mobilització del pacient i mecànica corporal",
+  "per_exam": {
+   "ics-dsi-2016PI": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "E7.1",
+  "tema": "E7",
+  "titol": "Asèpsia, antisèpsia, desinfecció i esterilització",
+  "per_exam": {
+   "ics-dsi-2019-A": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 2,
+  "share": 0.005194805194805195
+ },
+ {
+  "epigraf": "E7.2",
+  "tema": "E7",
+  "titol": "Infeccions relacionades amb l'assistència sanitària: higiene de mans i programes Zero",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 2,
+   "ics-dsi-2024-A": 2
+  },
+  "total": 6,
+  "share": 0.015584415584415584
+ },
+ {
+  "epigraf": "E7.3",
+  "tema": "E7",
+  "titol": "Aïllaments, precaucions i residus sanitaris",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 2
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E7.4",
+  "tema": "E7",
+  "titol": "Seguretat clínica: error humà, esdeveniments adversos i notificació",
+  "per_exam": {
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2024-A": 3
+  },
+  "total": 4,
+  "share": 0.01038961038961039
+ },
+ {
+  "epigraf": "E7.5",
+  "tema": "E7",
+  "titol": "Identificació del pacient i comunicació en les transferències",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "E7.6",
+  "tema": "E7",
+  "titol": "Prevenció de caigudes i lesions",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 3,
+  "share": 0.007792207792207792
+ },
+ {
+  "epigraf": "E7.7",
+  "tema": "E7",
+  "titol": "Seguretat farmacològica i transfusional",
+  "per_exam": {
+   "ics-dsi-2015-A": 2,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 3
+  },
+  "total": 6,
+  "share": 0.015584415584415584
+ },
+ {
+  "epigraf": "E7.8",
+  "tema": "E7",
+  "titol": "Seguretat quirúrgica i periintervencionista",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "E7.9",
+  "tema": "E7",
+  "titol": "Conciliació de la medicació",
+  "per_exam": {
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2019-A": 1
+  },
+  "total": 2,
+  "share": 0.005194805194805195
+ },
+ {
+  "epigraf": "E8.1",
+  "tema": "E8",
+  "titol": "Teories de l'estrès i l'afrontament; mecanismes d'adaptació",
+  "per_exam": {
+   "ics-dsi-2015-A": 4,
+   "ics-dsi-2019-A": 1
+  },
+  "total": 5,
+  "share": 0.012987012987012988
+ },
+ {
+  "epigraf": "E8.2",
+  "tema": "E8",
+  "titol": "Adaptació a la malaltia, la discapacitat o una situació vital; intervencions de suport",
+  "per_exam": {},
+  "total": 0,
+  "share": 0.0
+ },
+ {
+  "epigraf": "E8.3",
+  "tema": "E8",
+  "titol": "Atenció al cuidador i la família: sobrecàrrega i claudicació",
+  "per_exam": {
+   "ics-dsi-2019-A": 1
+  },
+  "total": 1,
+  "share": 0.0025974025974025974
+ },
+ {
+  "epigraf": "E8.4",
+  "tema": "E8",
+  "titol": "Procés de dol: dol funcional i disfuncional",
+  "per_exam": {
+   "ics-dsi-2015-A": 1,
+   "ics-dsi-2016PI": 1,
+   "ics-dsi-2024-A": 1
+  },
+  "total": 3,
+  "share": 0.007792207792207792
+ }
+]

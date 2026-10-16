@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20251220T143914Z</fecha_actualizacion>
+      <identificador>BOE-A-2021-4628</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="7723">Jefatura del Estado</departamento>
+      <rango codigo="1290">Ley Orgánica</rango>
+      <fecha_disposicion>20210324</fecha_disposicion>
+      <numero_oficial>3/2021</numero_oficial>
+      <titulo>Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>20210325</fecha_publicacion>
+      <diario_numero>72</diario_numero>
+      <fecha_vigencia>20210625</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/lo/2021/03/24/3</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-2021-4628</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

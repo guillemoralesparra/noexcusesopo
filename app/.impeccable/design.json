@@ -1,0 +1,1022 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-16T23:32:35.160Z",
+  "title": "Design System: NoExcusesOpo",
+  "extensions": {
+    "colorMeta": {
+      "ground": {
+        "role": "neutral",
+        "displayName": "Cool Porcelain",
+        "canonical": "oklch(95.8% 0.005 165.0)",
+        "tonalRamp": [
+          "#090c0b",
+          "#242726",
+          "#434644",
+          "#646765",
+          "#868a88",
+          "#abafad",
+          "#cfd1d0",
+          "#edefee"
+        ],
+        "theme": "light",
+        "darkToken": "ground-dark"
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "White Glaze",
+        "canonical": "oklch(100.0% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#262626",
+          "#454545",
+          "#666666",
+          "#898989",
+          "#aeaeae",
+          "#d1d1d1",
+          "#eeeeee"
+        ],
+        "theme": "light",
+        "darkToken": "surface-dark"
+      },
+      "surface-2": {
+        "role": "neutral",
+        "displayName": "Grout",
+        "canonical": "oklch(92.8% 0.008 168.7)",
+        "tonalRamp": [
+          "#080c0a",
+          "#232826",
+          "#414744",
+          "#626865",
+          "#848b88",
+          "#a9b0ad",
+          "#ced2d0",
+          "#ecefee"
+        ],
+        "theme": "light",
+        "darkToken": "surface-2-dark"
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Green-Black Ink",
+        "canonical": "oklch(26.9% 0.030 181.4)",
+        "tonalRamp": [
+          "#000f0c",
+          "#142b27",
+          "#334b46",
+          "#536c67",
+          "#768f8a",
+          "#9ab5af",
+          "#c7d4d1",
+          "#e4f2ef"
+        ],
+        "theme": "light",
+        "darkToken": "ink-dark"
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Ink 2",
+        "canonical": "oklch(42.6% 0.034 179.2)",
+        "tonalRamp": [
+          "#00100b",
+          "#122c27",
+          "#304b45",
+          "#516d66",
+          "#739089",
+          "#98b5ae",
+          "#c6d5d1",
+          "#e3f2ef"
+        ],
+        "theme": "light",
+        "darkToken": "ink-2-dark"
+      },
+      "ink-3": {
+        "role": "neutral",
+        "displayName": "Ink 3",
+        "canonical": "oklch(53.6% 0.027 179.9)",
+        "tonalRamp": [
+          "#000f0c",
+          "#172b27",
+          "#354a45",
+          "#566b66",
+          "#788f8a",
+          "#9cb4ae",
+          "#c8d4d1",
+          "#e5f2ef"
+        ],
+        "theme": "light",
+        "darkToken": "ink-3-dark"
+      },
+      "glaze": {
+        "role": "primary",
+        "displayName": "Sant Pau Verdigris",
+        "canonical": "oklch(47.1% 0.078 183.0)",
+        "tonalRamp": [
+          "#00140e",
+          "#00322a",
+          "#005249",
+          "#24756a",
+          "#4d998d",
+          "#73beb2",
+          "#b6dad3",
+          "#d3f8f1"
+        ],
+        "theme": "light",
+        "darkToken": "glaze-dark"
+      },
+      "glaze-deep": {
+        "role": "primary",
+        "displayName": "Deep Verdigris",
+        "canonical": "oklch(37.3% 0.061 183.7)",
+        "tonalRamp": [
+          "#00120e",
+          "#00302a",
+          "#135048",
+          "#39726a",
+          "#5d968d",
+          "#82bbb2",
+          "#bcd8d3",
+          "#d9f6f1"
+        ],
+        "theme": "light",
+        "darkToken": "glaze-deep-dark"
+      },
+      "glaze-edge": {
+        "role": "primary",
+        "displayName": "Fired Edge",
+        "canonical": "oklch(33.3% 0.054 183.7)",
+        "tonalRamp": [
+          "#00120e",
+          "#002f29",
+          "#1d4e48",
+          "#407069",
+          "#63948d",
+          "#88bab1",
+          "#bfd7d3",
+          "#dcf5f0"
+        ],
+        "theme": "light",
+        "darkToken": "glaze-edge-dark"
+      },
+      "glaze-mid": {
+        "role": "primary",
+        "displayName": "Half Glaze",
+        "canonical": "oklch(70.4% 0.069 177.4)",
+        "tonalRamp": [
+          "#00130b",
+          "#003126",
+          "#085145",
+          "#347366",
+          "#589789",
+          "#7dbdad",
+          "#bad9d1",
+          "#d7f7ee"
+        ],
+        "theme": "light",
+        "darkToken": "glaze-mid-dark"
+      },
+      "glaze-soft": {
+        "role": "primary",
+        "displayName": "Glaze Wash",
+        "canonical": "oklch(91.8% 0.022 175.0)",
+        "tonalRamp": [
+          "#020e0b",
+          "#1b2a26",
+          "#394944",
+          "#5a6a65",
+          "#7c8e88",
+          "#a1b3ad",
+          "#cad3d0",
+          "#e7f1ee"
+        ],
+        "theme": "light",
+        "darkToken": "glaze-soft-dark"
+      },
+      "on-glaze": {
+        "role": "primary",
+        "displayName": "On Glaze",
+        "canonical": "oklch(100.0% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#262626",
+          "#454545",
+          "#666666",
+          "#898989",
+          "#aeaeae",
+          "#d1d1d1",
+          "#eeeeee"
+        ],
+        "theme": "light",
+        "darkToken": "on-glaze-dark"
+      },
+      "on-glaze-2": {
+        "role": "primary",
+        "displayName": "On Glaze Muted",
+        "canonical": "oklch(89.5% 0.029 177.7)",
+        "tonalRamp": [
+          "#000f0b",
+          "#162b26",
+          "#344a45",
+          "#556c66",
+          "#778f89",
+          "#9bb4ae",
+          "#c8d4d1",
+          "#e5f2ee"
+        ],
+        "theme": "light",
+        "darkToken": "on-glaze-2-dark"
+      },
+      "ochre": {
+        "role": "secondary",
+        "displayName": "Ochre Glaze",
+        "canonical": "oklch(75.1% 0.130 79.8)",
+        "tonalRamp": [
+          "#240000",
+          "#451700",
+          "#683900",
+          "#8c5b00",
+          "#b27f05",
+          "#d9a441",
+          "#e8cda1",
+          "#ffebbe"
+        ],
+        "theme": "light",
+        "darkToken": "ochre-dark"
+      },
+      "ochre-edge": {
+        "role": "secondary",
+        "displayName": "Ochre Edge",
+        "canonical": "oklch(61.1% 0.115 78.9)",
+        "tonalRamp": [
+          "#220000",
+          "#431a00",
+          "#653a00",
+          "#895c00",
+          "#ae802a",
+          "#d5a553",
+          "#e6cda7",
+          "#ffebc4"
+        ],
+        "theme": "light",
+        "darkToken": "ochre-edge-dark"
+      },
+      "ochre-soft": {
+        "role": "secondary",
+        "displayName": "Ochre Wash",
+        "canonical": "oklch(94.2% 0.039 87.6)",
+        "tonalRamp": [
+          "#120a00",
+          "#2e250e",
+          "#4e442c",
+          "#70654c",
+          "#93886f",
+          "#b8ad92",
+          "#d6d0c3",
+          "#f4eee0"
+        ],
+        "theme": "light",
+        "darkToken": "ochre-soft-dark"
+      },
+      "on-ochre": {
+        "role": "secondary",
+        "displayName": "On Ochre",
+        "canonical": "oklch(24.1% 0.043 80.2)",
+        "tonalRamp": [
+          "#140800",
+          "#31240c",
+          "#51432a",
+          "#73644a",
+          "#97876c",
+          "#bcac90",
+          "#d8d0c2",
+          "#f6eddf"
+        ],
+        "theme": "light",
+        "darkToken": "on-ochre-dark"
+      },
+      "brick": {
+        "role": "tertiary",
+        "displayName": "Sant Pau Brick",
+        "canonical": "oklch(51.5% 0.139 35.1)",
+        "tonalRamp": [
+          "#310000",
+          "#580000",
+          "#7f1b00",
+          "#a64128",
+          "#cf664c",
+          "#f88b70",
+          "#fbc1b3",
+          "#ffdfcf"
+        ],
+        "theme": "light",
+        "darkToken": "brick-dark"
+      },
+      "brick-soft": {
+        "role": "tertiary",
+        "displayName": "Brick Wash",
+        "canonical": "oklch(92.5% 0.025 39.4)",
+        "tonalRamp": [
+          "#140704",
+          "#31221d",
+          "#51413b",
+          "#73625c",
+          "#97847e",
+          "#bda9a2",
+          "#d9cecb",
+          "#f7ece8"
+        ],
+        "theme": "light",
+        "darkToken": "brick-soft-dark"
+      },
+      "on-brick": {
+        "role": "tertiary",
+        "displayName": "On Brick",
+        "canonical": "oklch(100.0% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#262626",
+          "#454545",
+          "#666666",
+          "#898989",
+          "#aeaeae",
+          "#d1d1d1",
+          "#eeeeee"
+        ],
+        "theme": "light",
+        "darkToken": "on-brick-dark"
+      },
+      "tile-empty": {
+        "role": "neutral",
+        "displayName": "Unlaid Tile",
+        "canonical": "oklch(91.5% 0.009 171.8)",
+        "tonalRamp": [
+          "#070c0b",
+          "#222826",
+          "#404744",
+          "#616865",
+          "#848b88",
+          "#a8b0ad",
+          "#ced2d0",
+          "#ebefee"
+        ],
+        "theme": "light",
+        "darkToken": "tile-empty-dark"
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus Blue",
+        "canonical": "oklch(49.5% 0.199 260.6)",
+        "tonalRamp": [
+          "#03004d",
+          "#001572",
+          "#033c98",
+          "#2a61c0",
+          "#4d86e8",
+          "#71acff",
+          "#b3d2ff",
+          "#d0f0ff"
+        ],
+        "theme": "light",
+        "darkToken": "focus-dark"
+      },
+      "ground-dark": {
+        "role": "neutral",
+        "displayName": "Cool Porcelain (dark)",
+        "canonical": "oklch(19.8% 0.016 182.0)",
+        "tonalRamp": [
+          "#040d0c",
+          "#1e2927",
+          "#3c4846",
+          "#5c6967",
+          "#7f8d8a",
+          "#a3b2af",
+          "#cbd3d1",
+          "#e9f0ef"
+        ],
+        "theme": "dark",
+        "lightToken": "ground"
+      },
+      "surface-dark": {
+        "role": "neutral",
+        "displayName": "White Glaze (dark)",
+        "canonical": "oklch(23.8% 0.020 179.6)",
+        "tonalRamp": [
+          "#030e0b",
+          "#1c2a27",
+          "#3a4945",
+          "#5a6a66",
+          "#7d8d89",
+          "#a1b2ae",
+          "#cad3d1",
+          "#e8f1ef"
+        ],
+        "theme": "dark",
+        "lightToken": "surface"
+      },
+      "surface-2-dark": {
+        "role": "neutral",
+        "displayName": "Grout (dark)",
+        "canonical": "oklch(28.4% 0.025 178.9)",
+        "tonalRamp": [
+          "#010f0b",
+          "#192b27",
+          "#374a45",
+          "#576b66",
+          "#7a8e89",
+          "#9eb3ae",
+          "#c9d4d1",
+          "#e6f1ee"
+        ],
+        "theme": "dark",
+        "lightToken": "surface-2"
+      },
+      "ink-dark": {
+        "role": "neutral",
+        "displayName": "Green-Black Ink (dark)",
+        "canonical": "oklch(94.1% 0.011 176.3)",
+        "tonalRamp": [
+          "#060d0b",
+          "#212826",
+          "#3f4745",
+          "#606866",
+          "#828b89",
+          "#a7b0ae",
+          "#cdd2d1",
+          "#ebf0ee"
+        ],
+        "theme": "dark",
+        "lightToken": "ink"
+      },
+      "ink-2-dark": {
+        "role": "neutral",
+        "displayName": "Ink 2 (dark)",
+        "canonical": "oklch(81.0% 0.023 179.0)",
+        "tonalRamp": [
+          "#020e0b",
+          "#1a2a27",
+          "#384945",
+          "#586b66",
+          "#7b8e89",
+          "#9fb3ae",
+          "#c9d4d1",
+          "#e7f1ee"
+        ],
+        "theme": "dark",
+        "lightToken": "ink-2"
+      },
+      "ink-3-dark": {
+        "role": "neutral",
+        "displayName": "Ink 3 (dark)",
+        "canonical": "oklch(68.9% 0.027 178.0)",
+        "tonalRamp": [
+          "#000f0b",
+          "#172b26",
+          "#354a45",
+          "#566b66",
+          "#788f89",
+          "#9db4ae",
+          "#c8d4d1",
+          "#e5f2ee"
+        ],
+        "theme": "dark",
+        "lightToken": "ink-3"
+      },
+      "glaze-dark": {
+        "role": "primary",
+        "displayName": "Sant Pau Verdigris (dark)",
+        "canonical": "oklch(69.7% 0.107 180.1)",
+        "tonalRamp": [
+          "#00160d",
+          "#003529",
+          "#005647",
+          "#007969",
+          "#209e8c",
+          "#52c4b1",
+          "#abddd2",
+          "#c8fbf0"
+        ],
+        "theme": "dark",
+        "lightToken": "glaze"
+      },
+      "glaze-deep-dark": {
+        "role": "primary",
+        "displayName": "Deep Verdigris (dark)",
+        "canonical": "oklch(58.4% 0.092 180.6)",
+        "tonalRamp": [
+          "#00150d",
+          "#003329",
+          "#005447",
+          "#017769",
+          "#3c9b8c",
+          "#65c1b1",
+          "#b1dbd2",
+          "#cef9f0"
+        ],
+        "theme": "dark",
+        "lightToken": "glaze-deep"
+      },
+      "glaze-edge-dark": {
+        "role": "primary",
+        "displayName": "Fired Edge (dark)",
+        "canonical": "oklch(47.6% 0.074 181.3)",
+        "tonalRamp": [
+          "#00130d",
+          "#003129",
+          "#005247",
+          "#2b7469",
+          "#51988c",
+          "#77beb1",
+          "#b8d9d2",
+          "#d5f7f0"
+        ],
+        "theme": "dark",
+        "lightToken": "glaze-edge"
+      },
+      "glaze-mid-dark": {
+        "role": "primary",
+        "displayName": "Half Glaze (dark)",
+        "canonical": "oklch(49.5% 0.070 180.8)",
+        "tonalRamp": [
+          "#00130d",
+          "#003128",
+          "#015147",
+          "#317368",
+          "#56978b",
+          "#7bbdb0",
+          "#b9d9d2",
+          "#d6f7f0"
+        ],
+        "theme": "dark",
+        "lightToken": "glaze-mid"
+      },
+      "glaze-soft-dark": {
+        "role": "primary",
+        "displayName": "Glaze Wash (dark)",
+        "canonical": "oklch(32.4% 0.043 181.1)",
+        "tonalRamp": [
+          "#00110c",
+          "#072d28",
+          "#294d46",
+          "#4a6e67",
+          "#6d928b",
+          "#91b7af",
+          "#c3d6d2",
+          "#e0f4ef"
+        ],
+        "theme": "dark",
+        "lightToken": "glaze-soft"
+      },
+      "on-glaze-dark": {
+        "role": "primary",
+        "displayName": "On Glaze (dark)",
+        "canonical": "oklch(22.0% 0.035 179.1)",
+        "tonalRamp": [
+          "#00100b",
+          "#102c27",
+          "#2f4b45",
+          "#506d66",
+          "#739189",
+          "#97b6ae",
+          "#c5d5d1",
+          "#e3f3ef"
+        ],
+        "theme": "dark",
+        "lightToken": "on-glaze"
+      },
+      "on-glaze-2-dark": {
+        "role": "primary",
+        "displayName": "On Glaze Muted (dark)",
+        "canonical": "oklch(31.9% 0.052 179.1)",
+        "tonalRamp": [
+          "#00110c",
+          "#002e27",
+          "#214e46",
+          "#437067",
+          "#66948a",
+          "#8bb9af",
+          "#c0d7d1",
+          "#ddf5ef"
+        ],
+        "theme": "dark",
+        "lightToken": "on-glaze-2"
+      },
+      "ochre-dark": {
+        "role": "secondary",
+        "displayName": "Ochre Glaze (dark)",
+        "canonical": "oklch(79.5% 0.121 81.7)",
+        "tonalRamp": [
+          "#220000",
+          "#421a00",
+          "#643b00",
+          "#885d00",
+          "#ae811e",
+          "#d4a64b",
+          "#e5cea5",
+          "#ffebc1"
+        ],
+        "theme": "dark",
+        "lightToken": "ochre"
+      },
+      "ochre-edge-dark": {
+        "role": "secondary",
+        "displayName": "Ochre Edge (dark)",
+        "canonical": "oklch(64.5% 0.115 80.0)",
+        "tonalRamp": [
+          "#210000",
+          "#421a00",
+          "#643b00",
+          "#885d00",
+          "#ad8029",
+          "#d4a553",
+          "#e5cea7",
+          "#ffebc4"
+        ],
+        "theme": "dark",
+        "lightToken": "ochre-edge"
+      },
+      "ochre-soft-dark": {
+        "role": "secondary",
+        "displayName": "Ochre Wash (dark)",
+        "canonical": "oklch(31.1% 0.041 85.4)",
+        "tonalRamp": [
+          "#130900",
+          "#30250d",
+          "#4f442b",
+          "#71654b",
+          "#94886d",
+          "#baad91",
+          "#d7d0c2",
+          "#f5eedf"
+        ],
+        "theme": "dark",
+        "lightToken": "ochre-soft"
+      },
+      "on-ochre-dark": {
+        "role": "secondary",
+        "displayName": "On Ochre (dark)",
+        "canonical": "oklch(21.9% 0.042 81.3)",
+        "tonalRamp": [
+          "#140900",
+          "#31240d",
+          "#50432b",
+          "#72644b",
+          "#96876d",
+          "#bcac91",
+          "#d8d0c2",
+          "#f6eddf"
+        ],
+        "theme": "dark",
+        "lightToken": "on-ochre"
+      },
+      "brick-dark": {
+        "role": "tertiary",
+        "displayName": "Sant Pau Brick (dark)",
+        "canonical": "oklch(72.4% 0.118 36.7)",
+        "tonalRamp": [
+          "#2d0000",
+          "#510000",
+          "#77260e",
+          "#9e4a32",
+          "#c56d54",
+          "#ee9278",
+          "#f5c4b6",
+          "#ffe2d3"
+        ],
+        "theme": "dark",
+        "lightToken": "brick"
+      },
+      "brick-soft-dark": {
+        "role": "tertiary",
+        "displayName": "Brick Wash (dark)",
+        "canonical": "oklch(27.8% 0.049 35.8)",
+        "tonalRamp": [
+          "#1b0300",
+          "#3b1d15",
+          "#5c3c33",
+          "#805c53",
+          "#a47f75",
+          "#cba499",
+          "#e0ccc6",
+          "#fee9e3"
+        ],
+        "theme": "dark",
+        "lightToken": "brick-soft"
+      },
+      "on-brick-dark": {
+        "role": "tertiary",
+        "displayName": "On Brick (dark)",
+        "canonical": "oklch(20.5% 0.051 35.7)",
+        "tonalRamp": [
+          "#1c0300",
+          "#3b1d14",
+          "#5d3b32",
+          "#805c52",
+          "#a57f74",
+          "#cca398",
+          "#e1ccc6",
+          "#ffe9e3"
+        ],
+        "theme": "dark",
+        "lightToken": "on-brick"
+      },
+      "tile-empty-dark": {
+        "role": "neutral",
+        "displayName": "Unlaid Tile (dark)",
+        "canonical": "oklch(30.5% 0.024 178.4)",
+        "tonalRamp": [
+          "#020e0b",
+          "#1a2a26",
+          "#384945",
+          "#586b66",
+          "#7b8e89",
+          "#9fb3ae",
+          "#c9d4d1",
+          "#e7f1ee"
+        ],
+        "theme": "dark",
+        "lightToken": "tile-empty"
+      },
+      "focus-dark": {
+        "role": "neutral",
+        "displayName": "Focus Blue (dark)",
+        "canonical": "oklch(76.9% 0.117 261.6)",
+        "tonalRamp": [
+          "#00003b",
+          "#01205e",
+          "#1f4183",
+          "#3f64a9",
+          "#6188d0",
+          "#84aef8",
+          "#bcd2f8",
+          "#d9f0ff"
+        ],
+        "theme": "dark",
+        "lightToken": "focus"
+      }
+    },
+    "themes": {
+      "mechanism": "Same custom properties on :root, redefined under @media (prefers-color-scheme: dark). No manual theme toggle; color-scheme follows. theme-color meta: #14695f light, #0d1816 dark."
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Sign-in floor statement only."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "One H1 per page, phrased as the page's question or state. 28/36px on inner pages, 28/40px on home."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Section heads and feedback titles."
+      },
+      "question": {
+        "displayName": "Question",
+        "purpose": "Question stems, max 62ch."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Explanations, max 62ch; case narrative 68ch."
+      },
+      "body-option": {
+        "displayName": "Option",
+        "purpose": "Answer option text."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Small sentence-case section heads inside panels, ink-2."
+      },
+      "figure": {
+        "displayName": "Figure",
+        "purpose": "Proof figures, scores and counts, always tabular."
+      }
+    },
+    "shadows": [
+      {
+        "name": "none",
+        "value": "none",
+        "purpose": "The system uses no box-shadows. Depth is tonal (porcelain vs white) plus the fired edge."
+      },
+      {
+        "name": "fired-edge",
+        "value": "border-bottom: 4px solid <darker shade of fill>",
+        "purpose": "Thickness of pressable tiles: glaze-edge under glaze, ochre-edge under ochre, surface-2 under white."
+      },
+      {
+        "name": "fired-edge-pressed",
+        "value": "transform: translateY(3px); border-bottom-width: 1px; margin-bottom: 3px",
+        "purpose": "Active state of every pressable tile: it sinks into the floor."
+      },
+      {
+        "name": "focus-ring",
+        "value": "outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 6px",
+        "purpose": "Global :focus-visible ring."
+      },
+      {
+        "name": "scrim",
+        "value": "rgb(from var(--ink) r g b / 0.4)",
+        "purpose": "Behind the mobile answer sheet."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out-expo",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Easing for lay and rise."
+      },
+      {
+        "name": "lay",
+        "value": "@keyframes lay { 0% { transform: translateY(-10px) rotate(-6deg) scale(0.7); opacity: 0 } 100% { transform: none; opacity: 1 } }",
+        "purpose": "Signature: a tile is laid. 600ms with 45ms diagonal stagger on sign-in, 700ms on highlighted mosaic tiles, 900ms on the completion hero tile."
+      },
+      {
+        "name": "rise",
+        "value": "@keyframes rise { from { transform: translateY(16px); opacity: 0 } to { transform: none; opacity: 1 } }",
+        "purpose": "Feedback panel entry, 240ms."
+      },
+      {
+        "name": "press",
+        "value": "100ms transform, border-color, background-color",
+        "purpose": "Button press and hover."
+      },
+      {
+        "name": "hover-lift",
+        "value": "translateY(-2px), 150ms",
+        "purpose": "Mosaic tile hover."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "@media (prefers-reduced-motion: reduce) { animation-duration: 1ms !important; transition-duration: 1ms !important }",
+        "purpose": "All motion collapses to its end state."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "sm",
+        "value": "640px",
+        "purpose": "Gutter 24px, larger headline and time tiles."
+      },
+      {
+        "name": "lg",
+        "value": "1024px",
+        "purpose": "Verdigris rail replaces top bar and tab bar; practice feedback becomes a 420px side panel; exam answer sheet becomes a 260px side column; keyboard hints appear."
+      },
+      {
+        "name": "xl",
+        "value": "1280px",
+        "purpose": "Home gains the 400px mosaic column."
+      }
+    ],
+    "keyboard": {
+      "practice": {
+        "1-4 / A-D": "choose option",
+        "Q": "submit as Ho sé",
+        "W": "submit as Dubto",
+        "E": "submit as A l'atzar",
+        "Enter": "continue"
+      },
+      "exam": {
+        "1-4 / A-D": "choose option",
+        "ArrowLeft": "previous question",
+        "ArrowRight": "next question",
+        "M": "flag question"
+      },
+      "ignore": "Typing in inputs/textareas and any Cmd/Ctrl chord."
+    },
+    "tileMastery": {
+      "none": "transparent, dashed tile-empty outline",
+      "untouched": "tile-empty ground",
+      "started": "glaze-soft ground, 1 glaze quarter-circle corner",
+      "familiar": "glaze-soft ground, 2 corners",
+      "competent": "glaze-mid ground, 4 corners",
+      "mastered": "glaze ground, 4 ochre corners, on-glaze-2 rosette, ochre centre",
+      "mosaicSizing": "1x1 per epígraf; 2x2 when official exam weight is high; 10 columns, 4px gap, dense flow"
+    }
+  },
+  "components": [
+    {
+      "name": "Glaze Button",
+      "kind": "button",
+      "refersTo": "button-glaze",
+      "description": "Primary action: a verdigris tile with a fired bottom edge that sinks when pressed.",
+      "html": "<button class=\"ds-btn ds-btn-glaze\">Començar <svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14\"/><path d=\"m12 5 7 7-7 7\"/></svg></button>",
+      "css": ".ds-btn { display: inline-flex; align-items: center; justify-content: center; gap: 8px; min-height: 48px; padding: 0 20px; border-radius: 12px; font: 700 16px/1 \"Hanken Grotesk\", ui-sans-serif, system-ui, sans-serif; border: 0; border-bottom: 4px solid; cursor: pointer; transition: transform 100ms, border-color 100ms, background-color 100ms; } .ds-btn:active:not(:disabled) { transform: translateY(3px); border-bottom-width: 1px; margin-bottom: 3px; } .ds-btn:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; } .ds-btn-glaze { background: var(--glaze); color: var(--on-glaze); border-bottom-color: var(--glaze-edge); } .ds-btn-glaze:hover { background: var(--glaze-deep); } .ds-btn-glaze:disabled { background: var(--surface-2); color: var(--ink-3); border-bottom-color: var(--surface-2); cursor: not-allowed; }"
+    },
+    {
+      "name": "Ochre Button",
+      "kind": "button",
+      "refersTo": "button-ochre",
+      "description": "The one warm return-to action per screen (practise mistakes, practise this epígraf).",
+      "html": "<button class=\"ds-btn-ochre\">Repassa les fallades</button>",
+      "css": ".ds-btn-ochre { display: inline-flex; align-items: center; gap: 8px; min-height: 48px; padding: 0 20px; border-radius: 12px; font: 700 16px/1 \"Hanken Grotesk\", ui-sans-serif, sans-serif; border: 0; border-bottom: 4px solid var(--ochre-edge); background: var(--ochre); color: var(--on-ochre); cursor: pointer; transition: transform 100ms; } .ds-btn-ochre:active { transform: translateY(3px); border-bottom-width: 1px; margin-bottom: 3px; } .ds-btn-ochre:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }"
+    },
+    {
+      "name": "Quiet Button",
+      "kind": "button",
+      "refersTo": "button-quiet",
+      "description": "Secondary action: white tile with a grout edge.",
+      "html": "<button class=\"ds-btn-quiet\">Acabar per avui</button>",
+      "css": ".ds-btn-quiet { display: inline-flex; align-items: center; gap: 8px; min-height: 48px; padding: 0 20px; border-radius: 12px; font: 700 16px/1 \"Hanken Grotesk\", ui-sans-serif, sans-serif; border: 0; border-bottom: 4px solid var(--surface-2); background: var(--surface); color: var(--ink); cursor: pointer; transition: transform 100ms, background-color 100ms; } .ds-btn-quiet:hover { background: var(--surface-2); } .ds-btn-quiet:active { transform: translateY(3px); border-bottom-width: 1px; margin-bottom: 3px; } .ds-btn-quiet:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }"
+    },
+    {
+      "name": "Time Tile",
+      "kind": "custom",
+      "refersTo": "time-tile",
+      "description": "Radio tile for how much time the student has; selection recomposes the suggested session.",
+      "html": "<div class=\"ds-time\"><label class=\"ds-time-tile\"><input type=\"radio\" name=\"m\"><b>10 min</b><span>repàs ràpid</span></label><label class=\"ds-time-tile\"><input type=\"radio\" name=\"m\" checked><b>25 min</b><span>sessió completa</span></label><label class=\"ds-time-tile\"><input type=\"radio\" name=\"m\"><b>45 min o més</b><span>sessió llarga</span></label></div>",
+      "css": ".ds-time { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; font-family: \"Hanken Grotesk\", ui-sans-serif, sans-serif; } .ds-time-tile { position: relative; display: flex; flex-direction: column; justify-content: space-between; min-height: 112px; padding: 16px; border-radius: 16px; border-bottom: 4px solid var(--surface-2); background: var(--surface); color: var(--ink); cursor: pointer; transition: background-color 150ms; } .ds-time-tile:hover { background: var(--glaze-soft); } .ds-time-tile input { position: absolute; opacity: 0; } .ds-time-tile b { font-size: 32px; font-weight: 800; line-height: 1; letter-spacing: -0.03em; } .ds-time-tile span { font-size: 14px; font-weight: 500; color: var(--ink-2); } .ds-time-tile:has(input:checked) { background: var(--glaze); color: var(--on-glaze); border-bottom-color: var(--glaze-edge); } .ds-time-tile:has(input:checked) span { color: var(--on-glaze-2); } .ds-time-tile:has(input:focus-visible) { outline: 3px solid var(--focus); outline-offset: 2px; }"
+    },
+    {
+      "name": "Option Card",
+      "kind": "custom",
+      "refersTo": "option-card",
+      "description": "Answer option with letter well; rest, selected, correct and wrong states.",
+      "html": "<div class=\"ds-opts\"><button class=\"ds-opt\" role=\"radio\" aria-checked=\"false\"><span class=\"ds-opt-k\">a</span><span>Rest state option</span></button><button class=\"ds-opt is-sel\" role=\"radio\" aria-checked=\"true\"><span class=\"ds-opt-k\">b</span><span>Selected option</span></button><button class=\"ds-opt is-ok\"><span class=\"ds-opt-k\">&#10003;</span><span>Correct after correction</span></button><button class=\"ds-opt is-bad\"><span class=\"ds-opt-k\">&#10005;</span><span>Wrong choice</span></button></div>",
+      "css": ".ds-opts { display: grid; gap: 10px; font-family: \"Hanken Grotesk\", ui-sans-serif, sans-serif; } .ds-opt { display: flex; align-items: flex-start; gap: 12px; width: 100%; padding: 14px 16px; text-align: left; font-size: 17px; line-height: 1.375; color: var(--ink); background: var(--surface); border: 2px solid var(--surface-2); border-bottom-width: 4px; border-radius: 16px; cursor: pointer; transition: border-color 100ms, background-color 100ms; } .ds-opt:hover { border-color: var(--glaze-mid); } .ds-opt:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; } .ds-opt-k { display: grid; place-items: center; flex-shrink: 0; width: 32px; height: 32px; border-radius: 8px; font-size: 15px; font-weight: 800; text-transform: uppercase; background: var(--ground); color: var(--ink-2); } .ds-opt.is-sel, .ds-opt.is-ok { border-color: var(--glaze); background: var(--glaze-soft); } .ds-opt.is-sel .ds-opt-k, .ds-opt.is-ok .ds-opt-k { background: var(--glaze); color: var(--on-glaze); } .ds-opt.is-bad { border-color: var(--brick); background: var(--brick-soft); } .ds-opt.is-bad .ds-opt-k { background: var(--brick); color: var(--on-brick); }"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "48px field with a grout border that turns verdigris on focus.",
+      "html": "<input class=\"ds-field\" placeholder=\"Codi d'invitació\">",
+      "css": ".ds-field { min-height: 48px; width: 100%; padding: 0 12px; border-radius: 12px; border: 2px solid var(--surface-2); background: var(--surface); color: var(--ink); font: 400 16px \"Hanken Grotesk\", ui-sans-serif, sans-serif; outline: none; } .ds-field:focus { border-color: var(--glaze); } .ds-field:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }"
+    },
+    {
+      "name": "Verdigris Rail",
+      "kind": "nav",
+      "refersTo": "rail",
+      "description": "Desktop navigation rail (from 1024px); becomes top bar plus bottom tab bar below.",
+      "html": "<nav class=\"ds-rail\"><b class=\"ds-rail-mark\">NoExcusesOpo</b><a class=\"ds-rail-i\" aria-current=\"page\" href=\"#\">Què fem ara?</a><a class=\"ds-rail-i\" href=\"#\">Temari</a><a class=\"ds-rail-i\" href=\"#\">Simulacres</a><a class=\"ds-rail-i\" href=\"#\">Repàs</a><a class=\"ds-rail-i\" href=\"#\">Progrés</a></nav>",
+      "css": ".ds-rail { display: flex; flex-direction: column; gap: 4px; width: 256px; padding: 24px 16px; background: var(--glaze); font-family: \"Hanken Grotesk\", ui-sans-serif, sans-serif; } .ds-rail-mark { margin: 0 12px 32px; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; color: var(--on-glaze); } .ds-rail-i { display: flex; align-items: center; min-height: 44px; padding: 0 12px; border-radius: 12px; font-size: 15px; font-weight: 600; color: var(--on-glaze-2); text-decoration: none; transition: background-color 150ms, color 150ms; } .ds-rail-i:hover { background: color-mix(in srgb, var(--glaze-deep) 60%, transparent); color: var(--on-glaze); } .ds-rail-i[aria-current=\"page\"] { background: var(--glaze-deep); color: var(--on-glaze); } .ds-rail-i:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }"
+    },
+    {
+      "name": "Mastery Tile",
+      "kind": "custom",
+      "refersTo": "tile",
+      "description": "Hydraulic tile whose motif completes with mastery: untouched, started, familiar, competent, mastered.",
+      "html": "<div class=\"ds-tiles\"><svg viewBox=\"0 0 40 40\"><rect x=\".5\" y=\".5\" width=\"39\" height=\"39\" rx=\"3\" fill=\"var(--tile-empty)\"/></svg><svg viewBox=\"0 0 40 40\"><rect x=\".5\" y=\".5\" width=\"39\" height=\"39\" rx=\"3\" fill=\"var(--glaze-soft)\"/><path d=\"M0 0 H14 A14 14 0 0 1 0 14 Z\" fill=\"var(--glaze)\"/></svg><svg viewBox=\"0 0 40 40\"><rect x=\".5\" y=\".5\" width=\"39\" height=\"39\" rx=\"3\" fill=\"var(--glaze-soft)\"/><path d=\"M0 0 H14 A14 14 0 0 1 0 14 Z\" fill=\"var(--glaze)\"/><path d=\"M40 40 H26 A14 14 0 0 1 40 26 Z\" fill=\"var(--glaze)\"/></svg><svg viewBox=\"0 0 40 40\"><rect x=\".5\" y=\".5\" width=\"39\" height=\"39\" rx=\"3\" fill=\"var(--glaze-mid)\"/><g fill=\"var(--glaze)\"><path d=\"M0 0 H14 A14 14 0 0 1 0 14 Z\"/><path d=\"M40 40 H26 A14 14 0 0 1 40 26 Z\"/><path d=\"M40 0 V14 A14 14 0 0 1 26 0 Z\"/><path d=\"M0 40 V26 A14 14 0 0 1 14 40 Z\"/></g></svg><svg class=\"ds-lay\" viewBox=\"0 0 40 40\"><rect x=\".5\" y=\".5\" width=\"39\" height=\"39\" rx=\"3\" fill=\"var(--glaze)\"/><g fill=\"var(--ochre)\"><path d=\"M0 0 H14 A14 14 0 0 1 0 14 Z\"/><path d=\"M40 40 H26 A14 14 0 0 1 40 26 Z\"/><path d=\"M40 0 V14 A14 14 0 0 1 26 0 Z\"/><path d=\"M0 40 V26 A14 14 0 0 1 14 40 Z\"/></g><g fill=\"var(--on-glaze-2)\"><path d=\"M20 9 L24 20 L20 31 L16 20 Z\"/><path d=\"M9 20 L20 16 L31 20 L20 24 Z\"/><circle cx=\"20\" cy=\"20\" r=\"3\" fill=\"var(--ochre)\"/></g></svg></div>",
+      "css": ".ds-tiles { display: grid; grid-template-columns: repeat(5, 48px); gap: 4px; } .ds-tiles svg { display: block; width: 48px; height: 48px; transition: transform 150ms; } .ds-tiles svg:hover { transform: translateY(-2px); } .ds-lay { animation: ds-lay 700ms cubic-bezier(0.16, 1, 0.3, 1) both; } @keyframes ds-lay { 0% { transform: translateY(-10px) rotate(-6deg) scale(0.7); opacity: 0; } 100% { transform: none; opacity: 1; } } @media (prefers-reduced-motion: reduce) { .ds-lay { animation-duration: 1ms; } }"
+    },
+    {
+      "name": "Resume Strip",
+      "kind": "card",
+      "refersTo": "resume-strip",
+      "description": "Ochre-wash strip to resume an unfinished session, with an ochre fired-edge play tile.",
+      "html": "<a class=\"ds-resume\" href=\"#\"><span class=\"ds-resume-i\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><polygon points=\"6 3 20 12 6 21 6 3\"/></svg></span><span><b>Tens una sessió a mitges</b><br><small>Simulacre · Convocatòria 2024</small></span><span class=\"ds-resume-go\">Continuar</span></a>",
+      "css": ".ds-resume { display: flex; align-items: center; gap: 16px; padding: 20px; border-radius: 16px; background: var(--ochre-soft); color: var(--ink); text-decoration: none; font-family: \"Hanken Grotesk\", ui-sans-serif, sans-serif; transition: background-color 150ms; } .ds-resume:hover { background: color-mix(in srgb, var(--ochre) 30%, var(--ochre-soft)); } .ds-resume:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; } .ds-resume small { font-size: 15px; color: var(--ink-2); } .ds-resume-i { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: var(--ochre); color: var(--on-ochre); border-bottom: 4px solid var(--ochre-edge); } .ds-resume-go { margin-left: auto; font-weight: 700; color: var(--on-ochre); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "Rajola de Sant Pau",
+    "overview": "The syllabus is a Catalan hydraulic-tile floor of 110 epígrafs, laid tile by tile as the student masters them. The shell is glazed ceramic: a verdigris rail and verdigris primary actions on a cool porcelain ground, with deep green-black ink. Ochre glaze is the one warm highlight, and Sant Pau brick red appears only when an answer is wrong. Everything else stays quiet so that long Catalan clinical text can be read comfortably.\n\nThe material idea is literal but restrained. Buttons and choice cards have a darker bottom edge, like the fired edge of a tile, and they sink into the floor when pressed. The geometric tile motif (quarter-circle corners filling in, then a rosette) belongs to the progress mosaic, the session-complete moment and the sign-in floor. It never decorates ordinary panels. Density is calm: one question per screen, generous tap targets, a fixed reading measure.\n\nThe system refuses the category default of a grey dashboard with one accent and the gamified cartoon path. Progress is a floor being laid, not points or streaks.",
+    "keyCharacteristics": [
+      "Verdigris owns the frame (rail, primary actions, mastered tiles); porcelain owns the reading surface.",
+      "One grotesk (Hanken Grotesk) at heavy display weight with tight tracking; tabular figures for every number.",
+      "Glazed pressed-edge buttons and cards: a 4px darker bottom edge that collapses on press.",
+      "Tile mastery motif encodes six states; tile size in the mosaic encodes official exam weight.",
+      "Light and dark themes follow the system setting; every color is a CSS custom property with both values."
+    ],
+    "rules": [
+      {
+        "name": "The Brick Means Wrong Rule",
+        "body": "Brick red is reserved for wrong answers. Never use it for destructive actions, warnings, branding or emphasis; warnings and \"may be outdated\" notices are ochre.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Warm Glaze Rule",
+        "body": "Ochre is the only warm color and marks the single thing worth returning to (resume, review mistakes, flags, the mastered rosette). One ochre action per screen.",
+        "section": "colors"
+      },
+      {
+        "name": "The Measure Rule",
+        "body": "Question stems and explanations never run wider than 62ch; case narratives 68ch. The page can be wide; the reading line cannot.",
+        "section": "typography"
+      },
+      {
+        "name": "The Tabular Figures Rule",
+        "body": "Every number that can change or be compared (scores, counts, timer, dates, answer grid) uses tabular figures.",
+        "section": "typography"
+      },
+      {
+        "name": "The Fired Edge Rule",
+        "body": "Thickness is a bottom border in the darker shade of the same glaze, never a drop shadow. Pressable things have it; static panels do not.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** give every pressable control the fired edge: a 4px bottom border in the darker shade of its own fill, collapsing to 1px with a 3px drop on press.",
+      "**Do** keep verdigris for the frame and the primary action, and limit each screen to one ochre action.",
+      "**Do** use the tile motif to show mastery, and let tile size carry official exam weight.",
+      "**Do** keep question stems and explanations within 62ch and set numbers in tabular figures.",
+      "**Do** define every new color as a custom property with both light and dark values.",
+      "**Do** keep focus blue as the only focus indicator so focus never looks like selection."
+    ],
+    "donts": [
+      "**Don't** use brick red for anything other than a wrong answer.",
+      "**Don't** use box-shadows for depth; use porcelain against white and the fired edge.",
+      "**Don't** put the geometric tile motif on ordinary panels, buttons or headers; it lives in the mosaic, the completion moment and the sign-in floor.",
+      "**Don't** add a second typeface; hierarchy comes from Hanken Grotesk weight, size and tracking.",
+      "**Don't** set labels in uppercase with letter-spacing; small heads are 14px bold sentence case."
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "llei-15-1990": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "eli_page": "llei-15-1990.eli.html",
+      "document": "llei-15-1990.pjc-document.json",
+      "affectations": "llei-15-1990.pjc-affectations.json",
+      "mode": "structured",
+      "documentId": "48426",
+      "validity": "2163302",
+      "traceability": "02"
+    }
+  },
+  "decret-196-2010": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "eli_page": "decret-196-2010.eli.html",
+      "document": "decret-196-2010.pjc-document.json",
+      "affectations": "decret-196-2010.pjc-affectations.json",
+      "mode": "structured",
+      "documentId": "567359",
+      "validity": "2165886",
+      "traceability": "02"
+    }
+  },
+  "llei-8-2007": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "eli_page": "llei-8-2007.eli.html",
+      "document": "llei-8-2007.pjc-document.json",
+      "affectations": "llei-8-2007.pjc-affectations.json",
+      "mode": "structured",
+      "documentId": "445808",
+      "validity": "2161488",
+      "traceability": "02"
+    }
+  },
+  "decret-13-2009": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "eli_page": "decret-13-2009.eli.html",
+      "document": "decret-13-2009.pjc-document.json",
+      "affectations": "decret-13-2009.pjc-affectations.json",
+      "mode": "published-html",
+      "documentId": "475970",
+      "validity": "1",
+      "traceability": "01"
+    }
+  },
+  "llei-21-2000": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "eli_page": "llei-21-2000.eli.html",
+      "document": "llei-21-2000.pjc-document.json",
+      "affectations": "llei-21-2000.pjc-affectations.json",
+      "mode": "structured",
+      "documentId": "246194",
+      "validity": "2121887",
+      "traceability": "02"
+    }
+  },
+  "ley-41-2002": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "ley-41-2002.boe-metadatos.xml",
+      "texto": "ley-41-2002.boe-texto.xml"
+    }
+  },
+  "lo-3-2018": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "lo-3-2018.boe-metadatos.xml",
+      "texto": "lo-3-2018.boe-texto.xml"
+    }
+  },
+  "rgpd": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "html": "rgpd.eurlex.html"
+    }
+  },
+  "ley-55-2003": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "ley-55-2003.boe-metadatos.xml",
+      "texto": "ley-55-2003.boe-texto.xml"
+    }
+  },
+  "ley-53-1984": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "ley-53-1984.boe-metadatos.xml",
+      "texto": "ley-53-1984.boe-texto.xml"
+    }
+  },
+  "rdl-5-2015": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "rdl-5-2015.boe-metadatos.xml",
+      "texto": "rdl-5-2015.boe-texto.xml"
+    }
+  },
+  "ley-44-2003": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "ley-44-2003.boe-metadatos.xml",
+      "texto": "ley-44-2003.boe-texto.xml"
+    }
+  },
+  "ley-31-1995": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "ley-31-1995.boe-metadatos.xml",
+      "texto": "ley-31-1995.boe-texto.xml"
+    }
+  },
+  "rd-39-1997": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "rd-39-1997.boe-metadatos.xml",
+      "texto": "rd-39-1997.boe-texto.xml"
+    }
+  },
+  "llei-17-2015": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "eli_page": "llei-17-2015.eli.html",
+      "document": "llei-17-2015.pjc-document.json",
+      "affectations": "llei-17-2015.pjc-affectations.json",
+      "mode": "structured",
+      "documentId": "698967",
+      "validity": "1966849",
+      "traceability": "02"
+    }
+  },
+  "llei-5-2008": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "eli_page": "llei-5-2008.eli.html",
+      "document": "llei-5-2008.pjc-document.json",
+      "affectations": "llei-5-2008.pjc-affectations.json",
+      "mode": "structured",
+      "documentId": "491383",
+      "validity": "2024894",
+      "traceability": "02"
+    }
+  },
+  "lo-3-2021": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "lo-3-2021.boe-metadatos.xml",
+      "texto": "lo-3-2021.boe-texto.xml"
+    }
+  },
+  "rd-954-2015": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "rd-954-2015.boe-metadatos.xml",
+      "texto": "rd-954-2015.boe-texto.xml"
+    }
+  },
+  "ley-14-1986": {
+    "ok": true,
+    "fetched": "2026-10-16",
+    "files": {
+      "metadatos": "ley-14-1986.boe-metadatos.xml",
+      "texto": "ley-14-1986.boe-texto.xml"
+    }
+  }
+}

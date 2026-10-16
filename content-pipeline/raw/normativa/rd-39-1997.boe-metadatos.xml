@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20261015T114214Z</fecha_actualizacion>
+      <identificador>BOE-A-1997-1853</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="4430">Ministerio de Trabajo y Asuntos Sociales</departamento>
+      <rango codigo="1340">Real Decreto</rango>
+      <fecha_disposicion>19970117</fecha_disposicion>
+      <numero_oficial>39/1997</numero_oficial>
+      <titulo>Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>19970131</fecha_publicacion>
+      <diario_numero>27</diario_numero>
+      <fecha_vigencia>19970331</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/rd/1997/01/17/39</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-1997-1853</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

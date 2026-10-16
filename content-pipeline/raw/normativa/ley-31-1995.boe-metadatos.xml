@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20260622T064046Z</fecha_actualizacion>
+      <identificador>BOE-A-1995-24292</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="7723">Jefatura del Estado</departamento>
+      <rango codigo="1300">Ley</rango>
+      <fecha_disposicion>19951108</fecha_disposicion>
+      <numero_oficial>31/1995</numero_oficial>
+      <titulo>Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>19951110</fecha_publicacion>
+      <diario_numero>269</diario_numero>
+      <fecha_vigencia>19960210</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/l/1995/11/08/31</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

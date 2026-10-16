@@ -1,0 +1,19 @@
+{
+  "_doc": "Formats d'examen. 'ics-2025-provisional' s'actualitzarà quan el tribunal publiqui la diligència de criteris d'Infermeria (convocatòria 100-2025).",
+  "ics-2025-provisional": {
+    "status": "provisional",
+    "basis": "Precedent 2024 (mateix tipus de convocatòria) + bases SLT/2380/2025",
+    "exercises": [
+      {"id": "test", "questions": 70, "options": 4, "max_points": 50, "min_points": 25},
+      {"id": "cases", "cases": 3, "questions": 25, "options": 4, "max_points": 50, "min_points": 25}
+    ],
+    "penalty_per_wrong": 0,
+    "penalty_alternatives_to_simulate": [0, 0.25],
+    "time_minutes_total": 120,
+    "notes": "Les bases 2025 fan els dos exercicis eliminatoris (mínim 25 cadascun), a diferència del 2024. Altres categories de la 100-2025 tenen −1/4 per error: cal confirmar-ho per a Infermeria."
+  },
+  "ics-2024": {"status": "historic", "test": 70, "cases": 25, "penalty_per_wrong": 0, "time_minutes_total": 120},
+  "ics-2019": {"status": "historic", "test": 76, "cases": 24, "penalty_per_wrong": 0, "time_minutes_total": 120},
+  "ics-2016PI": {"status": "historic", "test": 50, "cases": 20, "case_choice": "1 de 2", "penalty_per_wrong": null},
+  "ics-2015": {"status": "historic", "test": 100, "cases": 0, "penalty_per_wrong": null}
+}

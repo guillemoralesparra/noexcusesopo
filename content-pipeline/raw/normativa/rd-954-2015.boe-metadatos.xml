@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20251219T183913Z</fecha_actualizacion>
+      <identificador>BOE-A-2015-14028</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="9222">Ministerio de Sanidad, Servicios Sociales e Igualdad</departamento>
+      <rango codigo="1340">Real Decreto</rango>
+      <fecha_disposicion>20151023</fecha_disposicion>
+      <numero_oficial>954/2015</numero_oficial>
+      <titulo>Real Decreto 954/2015, de 23 de octubre, por el que se regula la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano por parte de los enfermeros.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>20151223</fecha_publicacion>
+      <diario_numero>306</diario_numero>
+      <fecha_vigencia>20151224</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/rd/2015/10/23/954</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-2015-14028</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

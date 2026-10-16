@@ -1,0 +1,1909 @@
+[
+ {
+  "id": "ics-dsi-2015-A-1",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "HDA con signos de hipovolemia (taquicardia, oliguria, pliegue): prioridad shock hipovolémico.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-2",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Ante sospecha de reacción transfusional se detiene la transfusión, se valora y se avisa.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-3",
+  "answer": [
+   "d"
+  ],
+  "confidence": "low",
+  "reason": "La vejiga llena desplaza el útero e interfiere en su contracción (enunciado ambiguo).",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-4",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Segundo escalón fallido: tercer escalón con opioide mayor (morfina) ± coadyuvantes.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-5",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La pérdida extensa de epidermis en NET implica alto riesgo de infección/sepsis.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-6",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La higiene incorrecta es causa frecuente de balanitis.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-7",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La relajación progresiva requiere actitud pasiva, no comportamiento activo.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-8",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Pérdidas con risa, tos o cambios posturales: incontinencia de esfuerzo.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-9",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Incapacidad para hablar, respirar o toser es signo típico de obstrucción por cuerpo extraño.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-10",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Las sardinas son ricas en purinas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-11",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "La candidiasis cursa con aumento de flujo blanquecino espeso tras antibióticos.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-12",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "Glucemia 100-250 mg/dL es rango adecuado para iniciar ejercicio.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-13",
+  "answer": [
+   "a",
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "El TLP se caracteriza por impulsividad y conductas autolesivas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-14",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La peritonitis es la complicación con mayor morbimortalidad en diálisis peritoneal.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-15",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El arroz no contiene gluten.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-16",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "GOLD 3 (grave): FEV1 30-49%.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-17",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Las infecciones elevan hormonas de estrés y la glucemia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-18",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "'Acción reactiva interactiva' no es un método cualitativo.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-19",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "El balance nitrogenado refleja cambios del metabolismo proteico (catabolismo/anabolismo).",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-20",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Controlar el residuo gástrico ayuda a prevenir broncoaspiración.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-21",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Polifagia, polidipsia y poliuria son manifestaciones clásicas de DM1.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-22",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La profundidad recomendada es 5-6 cm, no 6-10 cm.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-23",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "Aumentar líquidos no incrementa el débito de la ileostomía (aumenta la diuresis).",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-24",
+  "answer": [
+   "b",
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Escucha activa: empatía/disponibilidad y concentrarse en el mensaje dando retroalimentación.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-25",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Respeto a la autonomía e intimidad: preguntar a la paciente y explicar el procedimiento.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-26",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "500 mL/4 h = 125 mL/h = 125 microgotas/min (41,7 gotas/min).",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-27",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Mantener la cama en posición baja reduce caídas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-28",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Ante quemadura química ocular, irrigación inmediata abundante.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-29",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Los AINE pueden desencadenar brotes de colitis ulcerosa.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-30",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "La restricción de carbohidratos favorece la cetosis/acidosis metabólica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-31",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Tono alto, invasión física y amenaza: estilo agresivo.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-32",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La merluza es el alimento con menos hierro de los citados.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-33",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "La dermatitis irritativa cursa con escozor, eritema, edema y vesículas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-34",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La prueba de la voz susurrada se usa en el cribado de hipoacusia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-35",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Precauciones estándar: sangre/fluidos, mucosas y piel no íntegra.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-36",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "APGAR familiar: adaptación, participación, crecimiento, afecto, resolución; no 'conocimiento'.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-37",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La afectación ósea/tendinosa corresponde a la categoría IV.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-38",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El catastrofismo se caracteriza por pensamientos negativos, no positivos.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-39",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "PIC normal adultos ~10-15 mmHg y niños menor; la opción d es la única fisiológica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-40",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "La hipertonía de aductores es signo de alerta a los 8-9 meses; la ausencia de Moro es normal.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-41",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La Ley 17/2015 reconoce el valor del trabajo doméstico y de cuidados.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-42",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Morisky-Green evalúa adherencia terapéutica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-43",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "No deben transmitirse juicios morales al drogodependiente.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-44",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Los menores de 14-15 años no se consideran siempre mayores de edad; la mayoría sanitaria es a los 16.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-45",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La confidencialidad no es un derecho absoluto; hay excepciones justificadas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-46",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "La negligencia/abandono es la forma más frecuente de maltrato en ancianos.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-47",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "Cualquiera puede presentar la solicitud; sin consentimiento de la víctima el órgano competente actúa igualmente.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-48",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Los estudios de Benner son de principios de los 80, no de los 50.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-49",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Nola Pender: modelo de promoción de la salud.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-50",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Glasgow 4+4+5 = 13.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-51",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "Neonatos, ancianos, IR y cirróticos tienen más riesgo de TACO; el adulto de 49 con enfisema el menor.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-52",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La sulfadiazina argéntica está contraindicada en embarazadas, neonatos y prematuros.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-53",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "Los planes estandarizados del ICS usan la terminología ATIC, no NANDA-NIC-NOC.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-54",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "El angioedema no es complicación del golpe de calor.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-55",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Cada aspiración no debe superar 10-15 segundos.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-56",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "La lactulosa suele tardar 24-48 h en hacer efecto.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-57",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "Contacto infantil de TB bacilífera: quimioprofilaxis primaria independientemente del PPD inicial.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-58",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La onda P representa la despolarización auricular, duración ≤0,11 s.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-59",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "El último paso de la fricción alcohólica es la rotación de las yemas sobre la palma contraria.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-60",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "≥6 UBE en una ocasión es consumo intensivo/alto riesgo.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-61",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Tras la crisis: posición lateral de seguridad.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-62",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "El envejecimiento aumenta la susceptibilidad a infecciones.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-63",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Volumen corriente: aire movilizado en una respiración normal.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-64",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "No se deben masajear zonas enrojecidas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-65",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Barthel mide independencia en ABVD.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-66",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La respuesta simpática aumenta FC y TA.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-67",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "En EPOC retenedor, O2 a alta concentración causa hipoventilación/narcosis y apnea.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-68",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "El coma mixedematoso es complicación del hipotiroidismo.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-69",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Fumar diariamente, aunque sea un cigarrillo, es ser fumador.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-70",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Los IECA producen tos seca persistente.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-71",
+  "answer": [
+   "a",
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Disreflexia autonómica: incorporar al paciente y buscar globo vesical/fecaloma.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-72",
+  "answer": [
+   "a",
+   "b",
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Código ético COIC: responsabilidad, autonomía, intimidad/confidencialidad, justicia social, compromiso profesional.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-73",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La higiene de manos es la medida más importante contra la infección nosocomial.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-74",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "No se debe pautar evitar recuerdos; el duelo requiere elaborarlos.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-75",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "Los ejercicios de suelo pélvico (Kegel) ayudan a inhibir la urgencia junto al reentrenamiento vesical.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-76",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Disnea, inquietud y esputo rosado: edema agudo de pulmón.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-77",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La paternidad no es factor de riesgo de suicidio.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-78",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Control neurovascular: pulsos, temperatura y sensibilidad.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-79",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La diverticulitis no es complicación de la CPRE.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-80",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Reconocer los errores es parte del abordaje correcto de la agresividad.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-81",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La mayor parte del agua se absorbe en el intestino delgado.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-82",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El VHC no se transmite por vía aérea; no precisa mascarilla.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-83",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El atenolol (betabloqueante) reduce la frecuencia cardiaca.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-84",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "Disminuir la actividad física es una estrategia no adaptativa.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-85",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La hiponatremia aguda grave produce edema cerebral.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-86",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Los objetivos educativos deben ser claros y realistas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-87",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "Inquietud, alteraciones urinarias y estertores son típicos de la agonía; la estomatitis no.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-88",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La proteinuria define la preeclampsia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-89",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Se debe espirar profundamente antes de la inhalación, no hacer inspiración superficial.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-90",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Conductas típicas de ansiedad por separación al iniciar la escuela.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-91",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Signo de Battle: equimosis mastoidea.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-92",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Tras fractura de huesos largos: taquipnea, confusión y petequias = embolia grasa.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-93",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La textura néctar es 51-350 cP, no ≥900 cP.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-94",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La neutropenia febril conlleva riesgo de sepsis y shock séptico.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-95",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "TAM = 80 + (46/3) ≈ 95 mmHg.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-96",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Mononucleosis: fiebre, faringitis y adenopatías cervicales.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-97",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "En decanulación accidental de traqueostomía establecida: insertar nueva cánula y pedir ayuda.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-98",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La N-acetilcisteína es el antídoto del paracetamol.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-99",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La prevalencia se estudia con un diseño descriptivo transversal.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2015-A-100",
+  "answer": [
+   "b",
+   "c",
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Accesibilidad, organización del sistema, edad y sexo son determinantes de utilización.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-1",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Categoría III: pérdida total de espesor con afectación del tejido subcutáneo.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-2",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "No se recomienda antibioterapia profiláctica en EPOC estable.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-3",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La ropa interior ajustada no previene la incontinencia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-4",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La valoración de la respiración no debe durar más de 10 segundos.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-5",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Es falsa: la presión baja mantenida largo tiempo produce más daño que alta y breve.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-6",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "La insuficiencia hepática no es un precipitante habitual de IC.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-7",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Gasto energético = metabolismo basal + actividad física + termogénesis.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-8",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Los planes estandarizados deben individualizarse.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-9",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "Proteínas de alto valor biológico contienen todos los aminoácidos esenciales.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-10",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Metaparadigma: persona, entorno, salud y cuidados; no 'enfermedad'.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-11",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La incontinencia de urgencia se debe a contracciones involuntarias del detrusor.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-12",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Los objetivos e intervenciones se fijan en la fase de planificación.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-13",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "El antígeno no es un eslabón de la cadena epidemiológica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-14",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Los guantes se cambian entre procedimientos en el mismo paciente.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-15",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "En DM2 la educación prioriza el ejercicio regular (las otras opciones son de DM1 o erróneas).",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-16",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Se recomienda agua tibia; el agua caliente aumenta la dermatitis.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-17",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "En DM2 normopeso, guías catalanas de la época: dieta y ejercicio 3 meses y reevaluar HbA1c.",
+  "today_differs": true,
+  "today_note": "Las guías actuales (ADA/redGDPS) recomiendan iniciar metformina junto a estilo de vida desde el diagnóstico."
+ },
+ {
+  "id": "ics-dsi-2016PI-18",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Haemophilus influenzae invasivo: precauciones de gotas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-19",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "El fracaso de antidiabéticos orales a dosis plenas indica insulinización definitiva.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-20",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Grado II: somnolencia, desorientación, conducta inapropiada.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-21",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El sondaje vesical requiere sistema de drenaje cerrado.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-22",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La pérdida de peso mejora la resistencia a la insulina y la glucemia a largo plazo.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-23",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Atrofia y pérdida de fuerza por inmovilización = síndrome de desuso.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-24",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "La fiebre no siempre está presente (ancianos, inmunodeprimidos, antibióticos previos).",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-25",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Alimentos y líquidos muy calientes empeoran el prurito.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-26",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La HTA es el principal factor de riesgo del ictus hemorrágico.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-27",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "pH bajo con PCO2 alta: acidosis respiratoria.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-28",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La vía intradérmica usa un ángulo de 5-15º.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-29",
+  "answer": [
+   "d"
+  ],
+  "confidence": "low",
+  "reason": "Estreñimiento, náuseas y vómitos son los efectos clásicos de la codeína; la sequedad bucal es la menos característica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-30",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La sonda no debe superar la mitad del diámetro de la cánula/vía aérea.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-31",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "La semivida de eliminación de la morfina es de unas 2-3 horas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-32",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Las inmovilizaciones son el último recurso, no la primera opción.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-33",
+  "answer": [
+   "b"
+  ],
+  "confidence": "low",
+  "reason": "Factores de riesgo de TACO: IC, edad avanzada, inestabilidad hemodinámica; la obesidad no (sí el bajo peso).",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-34",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El reflejo de Moro es normal a los 2 meses.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-35",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El error se detectó antes de llegar al paciente: casi incidente.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-36",
+  "answer": [
+   "a"
+  ],
+  "confidence": "low",
+  "reason": "El protocolo pediátrico inicia consejos de salud dental con la erupción dentaria (7-9 meses).",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-37",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La codeína es un opioide débil del segundo escalón.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-38",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Prevención cuaternaria: evitar iatrogenia por sobreintervención.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-39",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La investigación-acción participativa busca cambio y mejora de la práctica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-40",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Signos de descompensación: aumento >1 kg/día o >2 kg en 2-3 días, ortopnea, nicturia, etc.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-41",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "El código ético COIC enmarca el acompañamiento al final de la vida en el valor responsabilidad.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-42",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Estudio de intervención sin grupo control: cuasiexperimental.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-43",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "El Plan de Salud no plantea planificar centralizando la gestión.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-44",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La E de Snellen mide agudeza visual.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-45",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Fases: análisis, prioridades, objetivos, intervenciones, implementación y evaluación.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-46",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El programa Salut i Escola se dirige a 3º y 4º de ESO.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-47",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Fagerström 8 = dependencia alta.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-48",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El peso debe controlarse a diario, no semanalmente.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-49",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "El objetivo es aumentar la realidad de la pérdida, no disminuirla.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-50",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La empatía facilita el relato del paciente.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-101",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La NIHSS cuantifica la gravedad del ictus.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-102",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El ictus subaracnoideo es hemorrágico.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-103",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Ojos a la voz 3 + palabras inapropiadas 3 + retirada 4 = 10.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-104",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Tras el ictus: hipoxia, reducción del flujo y extensión de la lesión (penumbra).",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-105",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Herida limpia con vacunación desconocida: pauta completa de Td (0, 4-8 sem, 6-12 m) sin IGT.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-106",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "HTA: PAS ≥140 y/o PAD ≥90 persistente en mayores de 18 años.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-107",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "El cabezal se mantiene a 30º; >45º no se recomienda.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-108",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "En la FA no hay ondas P (ondas f); los dientes de sierra son del flutter.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-109",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La movilidad conservada no es factor de riesgo de caídas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-110",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Reforzar la comunicación verbal y no verbal en la afasia de expresión.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-111",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Hemianopsia: pérdida de visión de la mitad del campo visual.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-112",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La fiebre no es signo de HIC.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-113",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "En prevención de broncoaspiración se evitan los líquidos finos.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-114",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Administrar la NE en Fowler o semi-Fowler.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-115",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Lavar la sonda con 20-30 mL de agua tras cada fármaco.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-116",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La aguja se inserta a 90º en el pliegue cutáneo, no a 45º.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-117",
+  "answer": [
+   "c"
+  ],
+  "confidence": "low",
+  "reason": "El pañal se coloca desde la parte posterior; se retira de delante hacia atrás.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-118",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "Etapas de la conciliación: detección, aclaración y resolución de discrepancias.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-119",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Para estabilidad se separan los pies, no se juntan.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-120",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Recoger información sobre el estado de salud es la valoración.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-121",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La EPOC se caracteriza por obstrucción no totalmente reversible.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-122",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "En EPOC la tos suele ser productiva y matutina, no seca nocturna.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-123",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Se requieren mínimo 3 maniobras aceptables (hasta 8), no máximo 3.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-124",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "La visita PREALT revisa estabilidad, tratamiento y educación; no actividades preventivas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-125",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Definición de dependencia de la Ley 39/2006.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-126",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Exfumador: abstinencia ≥1 año.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-127",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "mMRC/BMRC grado 2: no mantener el paso de personas de su edad en llano.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-128",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "El test de la marcha de 6 minutos mide tolerancia al ejercicio.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-129",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Categoría I: eritema no blanqueable con piel intacta.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-130",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La cura en ambiente húmedo es la recomendada; no secar el lecho.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-131",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "Guías ICS/europeas de la época: objetivo <140/90 (o <140/85) en diabéticos.",
+  "today_differs": true,
+  "today_note": "Las guías actuales (ADA 2025, ESC 2024) recomiendan <130/80 si se tolera."
+ },
+ {
+  "id": "ics-dsi-2016PI-132",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Los corticoides inhalados producen disfonía, tos y candidiasis orofaríngea.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-133",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La vía inhalatoria es de elección en EPOC.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-134",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "No hace falta separar 30 min el salbutamol de las comidas.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-135",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "El shock anafiláctico no es un efecto secundario habitual de antihipertensivos.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-136",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Objetivos e intervenciones se fijan en la planificación.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-137",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "La revacunación con VNP23 es a >65 años si la primera dosis fue antes de los 65.",
+  "today_differs": true,
+  "today_note": "Actualmente se usa la conjugada VNC20 en dosis única para ≥65 años y grupos de riesgo."
+ },
+ {
+  "id": "ics-dsi-2016PI-138",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "La fiebre no es signo de toxicidad por O2/hipercapnia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-139",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Adecuar textura de los alimentos a la capacidad de masticar/deglutir.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2016PI-140",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "ITB = PAS más alta del tobillo / PAS braquial.",
+  "today_differs": false,
+  "today_note": null
+ }
+]

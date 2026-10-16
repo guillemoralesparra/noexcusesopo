@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20251218T194148Z</fecha_actualizacion>
+      <identificador>BOE-A-2002-22188</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="7723">Jefatura del Estado</departamento>
+      <rango codigo="1300">Ley</rango>
+      <fecha_disposicion>20021114</fecha_disposicion>
+      <numero_oficial>41/2002</numero_oficial>
+      <titulo>Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>20021115</fecha_publicacion>
+      <diario_numero>274</diario_numero>
+      <fecha_vigencia>20030516</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/l/2002/11/14/41</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

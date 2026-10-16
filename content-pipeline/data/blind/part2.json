@@ -1,0 +1,1932 @@
+[
+ {
+  "id": "ics-dsi-2019-A-1",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "L'APOC parteix de les necessitats de la comunitat, no de les de l'equip.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-2",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Ser l'organització de referència i líder és la visió de l'ICS.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-3",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "L'atàxia és la incoordinació dels moviments musculars.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-4",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "En la xerostomia terminal es prioritzen cures locals; la hidratació parenteral no està indicada.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-5",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Davant reacció transfusional cal aturar la transfusió, no només disminuir la velocitat.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-6",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La codeïna és un opioide feble del segon esglaó.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-7",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Les varius esofàgiques es deuen a la hipertensió portal.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-8",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La recollida de dades correspon a la valoració.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-9",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "El residu gàstric es comprova en nutrició enteral, no parenteral.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-10",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El test de Zarit mesura la sobrecàrrega del cuidador.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-11",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "L'obstrucció urinària causa IRA postrenal.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-12",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La febre no sempre és present en la neutropènia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-13",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "L'experiència viscuda s'estudia amb disseny fenomenològic.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-14",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "En adults la relació és 30:2.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-15",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "Es recomana dTpa a cada embaràs entre les setmanes 27 i 36.",
+  "today_differs": true,
+  "today_note": "A Catalunya actualment es pot administrar des de la setmana 20 (preferentment 27-28); verificar."
+ },
+ {
+  "id": "ics-dsi-2019-A-16",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El secret professional es manté més enllà del procés assistencial.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-17",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "No està indicat l'ús de placebo en cures pal·liatives.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-18",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La fenilcetonúria és un cribratge neonatal, no de complicacions de la DM2.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-19",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Infecció amb hipotensió i signes de SIRS indica xoc sèptic.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-20",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Anafilaxi i xoc anafilàctic no són sinònims.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-21",
+  "answer": [
+   "b"
+  ],
+  "confidence": "low",
+  "reason": "Segons el PAPPS de l'època, a partir dels 40 anys sense factors de risc el cribratge es feia cada 2 anys.",
+  "today_differs": true,
+  "today_note": "PAPPS posteriors recomanen cribratge anual a partir dels 40 anys; verificar."
+ },
+ {
+  "id": "ics-dsi-2019-A-22",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "Als 8 anys hi ha 20 peces més els 4 primers molars definitius.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-23",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Les precaucions estàndard inclouen la higiene respiratòria.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-24",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "L'OCD prevé la hipertensió pulmonar en la MPOC hipoxèmica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-25",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La disúria és el dolor o coïssor miccional.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-26",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "Els fibrats potencien l'efecte de l'acenocumarol, no l'inhibeixen.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-27",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La dosi de tuberculina és 0,1 ml intradèrmica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-28",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "No s'ha de dur a terme una indicació que pugui causar dany.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-29",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "L'entrenament del sòl pelvià és d'elecció en la IU d'esforç.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-30",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "El capçal s'eleva a uns 30°, no a 90°.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-31",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Es manté la via IM seguint la fitxa tècnica i mesures per evitar hematomes.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-32",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Patró creixent-decreixent amb apnea és Cheyne-Stokes.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-33",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El flumazenil és l'antídot de les benzodiazepines.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-34",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El VHC es transmet per sang; no cal mascareta.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-35",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La secreció purulenta indica infecció i no és normal.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-36",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "Les bosses buides d'orina són residus sanitaris del grup II.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-37",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La restricció de líquids no es recomana per a la continència.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-38",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "És el trastorn d'estrès posttraumàtic.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-39",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Límits: 102 cm homes i 88 cm dones.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-40",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La prevenció terciària evita aguditzacions amb la malaltia ja establerta.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-41",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Cal assecar els dispositius per no diluir el desinfectant.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-42",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Les secrecions pancreàtiques són alcalines.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-43",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Una dieta baixa en residus no causa diarrea.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-44",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La pericarditis no sempre és bacteriana.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-45",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "La silicona s'usa en sondatges de llarga durada, no curts.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-46",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La polidípsia és pròpia de la hipercalcèmia, no de la hipocalcèmia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-47",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La prevalença s'estima amb un estudi descriptiu transversal.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-48",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Respectar la decisió de la persona competent és el valor d'autonomia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-49",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Les plaquetes s'infonen en uns 30-60 minuts.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-50",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La taula de Llevant detecta precoçment desviacions del desenvolupament psicomotor.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-51",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "L'autoculpabilització és un afrontament no adaptatiu.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-52",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Cal fomentar respiracions profundes, no superficials.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-53",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Mantenir-se actiu és efectiu en la lumbàlgia aguda.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-54",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La dinàmica uterina es controla durant el part, no en el puerperi.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-55",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Els col·lutoris amb alcohol irriten la mucosa.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-56",
+  "answer": [
+   "a"
+  ],
+  "confidence": "low",
+  "reason": "El protocol recomana girar diàriament la sonda PEG per evitar adherències.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-57",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "No s'han de reencaputxar les agulles.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-58",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "L'APGAR familiar valora la funció familiar.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-59",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "Els greixos han d'aportar aproximadament el 20-30% (fins a 35%) de les calories.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-60",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La infermera experta té domini intuïtiu de la situació.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-61",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "En el xoc hipovolèmic cal reposar volum, no restringir-lo.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-62",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Cal reduir la sal per sota de 5-6 g/dia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-63",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Els analgèsics del tercer esglaó es poden associar als del primer.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-64",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "Les altres opcions són contraindicacions clares; la pell fràgil es cita com a contraindicació.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-65",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La tos altera la mesura de la PVC.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-66",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Hipotensió, bradicàrdia i miosi suggereixen sobredosi d'opiacis.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-67",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "L'optotip a distància detecta principalment miopies.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-68",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Les glinides es prenen abans dels àpats.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-69",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Tots els olis aporten unes 9 kcal/g; l'oliva no és menys calòric.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-70",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "L'alimentació per SNG s'administra amb el capçal elevat, no en decúbit supí.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-71",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "El Pla de Salut planteja un enfocament predictiu, preventiu i proactiu.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-72",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Si perd la consciència cal iniciar RCP amb compressions.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-73",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El salmó, l'orada i el llobarro no s'han d'evitar pel mercuri.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-74",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "L'estadi III és una pèrdua total del gruix de la pell en forma de cràter.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-75",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "En lactants s'usa el vast lateral.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-76",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "L'entrevista motivacional està centrada en la persona.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-101",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "IMC 26 correspon a sobrepès.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-102",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "El factor de risc és un IMC baix (<20), no superior a 20.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-103",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Circulació, moviment i sensibilitat valoren l'estat neurovascular.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-104",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Cal mantenir l'abducció per evitar la luxació.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-105",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "Un concentrat d'hematies s'ha d'infondre en menys de 4 hores.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-106",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "En la gent gran la ITU sovint es manifesta amb desorientació.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-107",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "L'HBPM s'injecta a 90° respecte al plec.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-108",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La ingurgitació jugular és un criteri major de Framingham.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-109",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Els betablocadors causen bradicàrdia, no taquicàrdia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-110",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Expressar el propi acord o desacord no facilita l'escolta activa.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-111",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "En IC estable no està indicat restringir els líquids a 1 L/dia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-112",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Es recomana consum regular de fruita seca.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-113",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "És el model transteòric del canvi.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-114",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Els comprimits de nicotina poden produir singlot i molèsties bucals.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-115",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La interrupció injustificada del tractament és una omissió.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-116",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Cabal cardíac = volum sistòlic × freqüència cardíaca.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-117",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La metilcel·lulosa és un laxant formador de massa.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-118",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "FEV1 50-79% és GOLD 2, moderada.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-119",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Els antitussígens no es recomanen en la MPOC.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-120",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "pH baix amb PaCO2 alta i HCO3 normal és acidosi respiratòria.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-121",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "En la pneumònia es recomanen exercicis respiratoris.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-122",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "La nebulització permet administrar diversos fàrmacs i dosis altes.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-123",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "La determinació per part del pacient és autoanàlisi.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2019-A-124",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "El test de Fagerström mesura la dependència nicotínica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-1",
+  "answer": [
+   "a"
+  ],
+  "confidence": "low",
+  "reason": "Els hidrocol·loides s'indiquen en ferides amb exsudat escàs (o lleu-moderat).",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-2",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Si la tos és ineficaç, primer 5 cops interescapulars.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-3",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Hi ha factors genètics i neurobiològics que predisposen al TLP.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-4",
+  "answer": [
+   "b"
+  ],
+  "confidence": "low",
+  "reason": "El pla s'adreça a infants de 5-15 anys amb poca activitat i més de 2 h sedentàries.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-5",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "El diagnòstic d'adaptació al nou estat de salut correspon al domini d'afrontament.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-6",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "L'epistaxi es tracta amb compressió digital uns 10 minuts.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-7",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "El VPH es transmet per contacte pell a pell.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-8",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "L'àcid folínic és l'antídot del metotrexat.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-9",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El braquial no forma part del maneguet rotatori.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-10",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La dosi correcta de tuberculina és 0,1 ml.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-11",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Mai s'ha de doblar la dosi oblidada d'un ACOD.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-12",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Treponema pallidum causa la sífilis.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-13",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "El SNiSP Cat es va implantar el 2021 a hospitals i primària.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-14",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "Per al nivell 1 cal un mínim de 5 anys d'exercici.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-15",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "REGICOR inclou edat, sexe, tabac, diabetis, colesterol i PA.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-16",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El sègol conté gluten.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-17",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "El cribratge de càncer colorectal és prevenció secundària.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-18",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "Consum de risc: >28 UBE/setmana en homes i >17 en dones.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-19",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Valors i actituds són factors predisposants en PRECEDE.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-20",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El DVA és el document on la persona capaç expressa instruccions anticipades.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-21",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Són els determinants de salut.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-22",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La flora resident és difícil d'eliminar.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-23",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "La hipocalcèmia, no la hipercalcèmia, es relaciona amb el xoc cardiogènic.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-24",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "Pneumònia zero inclou higiene bucal amb clorhexidina 0,12-0,2% cada 6-8 h.",
+  "today_differs": true,
+  "today_note": "Revisions recents qüestionen la clorhexidina oral; verificar la versió vigent del projecte."
+ },
+ {
+  "id": "ics-dsi-2024-A-25",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La tos orienta a etiologia vírica, no estreptocòccica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-26",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La CAD cursa amb respiració de Kussmaul, no de Cheyne-Stokes.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-27",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Meleis va desenvolupar la teoria de les transicions.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-28",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "L'hemoperitoneu irrita el diafragma i irradia el dolor a l'espatlla.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-29",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Hanlon valora magnitud, severitat, eficàcia i factibilitat.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-30",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Els exercicis respiratoris actius són la intervenció adequada.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-31",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El 2022 es va incorporar la MenB als 2, 4 i 12 mesos.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-32",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La posició de Fowler alta afavoreix l'estasi venosa pelviana.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-33",
+  "answer": [
+   "c"
+  ],
+  "confidence": "low",
+  "reason": "La gabapentina és fàrmac de primera línia en el dolor neuropàtic.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-34",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La parcialitat no és un valor de l'ICS.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-35",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "L'escabiosi requereix contacte cutani prolongat.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-36",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "És la definició de terminologia infermera.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-37",
+  "answer": [
+   "c"
+  ],
+  "confidence": "medium",
+  "reason": "Les telangièctasis no contraindiquen l'ITB.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-38",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La miastènia no altera la sensibilitat ni la coordinació.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-39",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El dol disfuncional comporta deteriorament funcional.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-40",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "La intervenció és la variable independent.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-41",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Les vacunes de grip i herpes zòster es poden coadministrar.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-42",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "La cama queda en rotació externa, no interna.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-43",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Cal dirigir el raig a la part superior i traccionar amunt i enrere en adults.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-44",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Respectar la intimitat de tercers és un deure, no un dret.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-45",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "No s'han d'oclure les lesions per càndides.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-46",
+  "answer": [
+   "a"
+  ],
+  "confidence": "low",
+  "reason": "El grau II presenta incapacitat moderada, dolor difús i inestabilitat lleu.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-47",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Alertar la població sobre l'augment de casos no és objectiu del pla.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-48",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "El test del xiuxiueig detecta hipoacúsia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-49",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Lesió per sobre de T6 amb aquests signes suggereix disrèflexia autònoma.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-50",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Ingesta compulsiva sense conductes compensatòries és trastorn per afartament.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-51",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "La guia recomana farinacis integrals a cada àpat.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-52",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La llei exigeix dues sol·licituds escrites separades almenys 15 dies.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-53",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La beguda de soja enriquida amb calci és la millor alternativa.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-54",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "El codi s'estructura en responsabilitat, autonomia, intimitat, justícia social i compromís.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-55",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "L'adrenalina 1:1000 IM és el fàrmac d'elecció.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-56",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "No s'han de donar formatges de llet crua a lactants.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-57",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "És un glaucoma agut d'angle tancat.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-58",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "Els cinc factors més predictius inclouen història de caigudes i problemes de continència.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-59",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "L'atenció pal·liativa pediàtrica abasta de l'etapa prenatal a l'adolescència.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-60",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "L'error alfa és rebutjar la hipòtesi nul·la quan és certa.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-61",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Els professionals implicats són la segona víctima.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-62",
+  "answer": [
+   "d"
+  ],
+  "confidence": "low",
+  "reason": "El SIRS no sembla un diagnòstic propi del pla de limfoma mediastínic.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-63",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "L'escala de Ramsay avalua el nivell de sedació.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-64",
+  "answer": [
+   "c"
+  ],
+  "confidence": "low",
+  "reason": "En menors de 30 mesos la guia ICS recomana clorhexidina aquosa 2%.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-65",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "El PAPPS no recomana cribratge cada dos anys sinó més espaiat.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-66",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La HIC causa midriasi, no miosi.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-67",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El flushing és el rentat amb SF abans, durant i després de cada ús.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-68",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Les crisis focals s'originen en xarxes d'un sol hemisferi.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-69",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "L'hemorràgia causa hipovolèmia i IRA prerenal.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-70",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "L'experiència viscuda requereix disseny fenomenològic.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-101",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "RACE valora parèsia facial, braquial, crural, desviació oculocefàlica i afàsia/agnòsia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-102",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Glasgow no valora la reacció pupil·lar.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-103",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "68 kg × 0,9 = 61,2 mg; el 10% són 6,12 mg.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-104",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Braden ≤12 indica risc alt.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-105",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Cal garantir 30-35 kcal/kg/dia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-106",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Segell labial, residus i deglució fraccionada són signes d'eficàcia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-107",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Per 6 dies-4 setmanes amb fàrmac no vesicant, línia mitjana.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-108",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "Barthel <20 indica dependència total.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-109",
+  "answer": [
+   "b"
+  ],
+  "confidence": "medium",
+  "reason": "La vulnerabilitat de la filla cuidadora orienta a risc d'afrontament familiar ineficaç.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-110",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Una mort per error transfusional és un esdeveniment sentinella.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-111",
+  "answer": [
+   "d"
+  ],
+  "confidence": "medium",
+  "reason": "La profilaxi rutinària es fa a la setmana 28, no abans de la 26 sense esdeveniment.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-113",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "El calostre té més sodi i menys lactosa que la llet madura.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-114",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "La saturació preductal es mesura a la mà dreta.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-115",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Es recomana suplement de vitamina D en lactància materna.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-116",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El VRS és el principal agent de bronquiolitis.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-117",
+  "answer": [
+   "a"
+  ],
+  "confidence": "medium",
+  "reason": "Cal fraccionar les preses, no espaiar-les.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-118",
+  "answer": [
+   "b"
+  ],
+  "confidence": "high",
+  "reason": "Glucèmia basal ≥126 mg/dL en dues ocasions és diagnòstica.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-119",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "La nefropatia és una complicació microvascular.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-120",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "Les sulfonilurees (glimepirida) tenen més risc d'hipoglucèmia.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-121",
+  "answer": [
+   "d"
+  ],
+  "confidence": "high",
+  "reason": "Les zones d'injecció es valoren a higiene i integritat cutània.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-122",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "Demanar el significat d'una expressió és una pregunta aclaridora.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-124",
+  "answer": [
+   "c"
+  ],
+  "confidence": "high",
+  "reason": "El murmuri vesicular és un so normal.",
+  "today_differs": false,
+  "today_note": null
+ },
+ {
+  "id": "ics-dsi-2024-A-125",
+  "answer": [
+   "a"
+  ],
+  "confidence": "high",
+  "reason": "El PIIC és dinàmic, no estàtic.",
+  "today_differs": false,
+  "today_note": null
+ }
+]

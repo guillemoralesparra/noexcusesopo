@@ -1,0 +1,18 @@
+# Dependències i builds
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Base de dades local (PGlite) i secrets
+app/.data/
+.env*
+!.env.example
+
+# Fitxers regenerables o de treball
+content-pipeline/pages/
+app/.impeccable/review/
+app/.impeccable/mocks/
+__pycache__/
+.vercel/

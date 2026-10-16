@@ -1,0 +1,1509 @@
+{
+ "1": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.44,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "2": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.53,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "3": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.36,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "4": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.42,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "5": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.36,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "6": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.44,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "7": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.38,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "8": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.51,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "9": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.48,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "10": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "11": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.41,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "12": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.44,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "13": {
+  "answer": null,
+  "accepted": [
+   "a",
+   "d"
+  ],
+  "status": "multi",
+  "fills": [
+   0.4,
+   0.0,
+   0.0,
+   0.48,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "14": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.39,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "15": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.34,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "16": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.44,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "17": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.4,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "18": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.48,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "19": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.44,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "20": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.41,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "21": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.44,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "22": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "23": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "24": {
+  "answer": null,
+  "accepted": [
+   "b",
+   "c"
+  ],
+  "status": "multi",
+  "fills": [
+   0.0,
+   0.37,
+   0.37,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "25": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.44,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "26": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.41,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "27": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.44,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "28": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "29": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.42,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "30": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.38,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "31": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.46,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "32": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.43,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "33": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.41,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "34": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.38,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "35": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.39,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "36": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.37,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "37": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.33,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "38": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.44,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "39": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.51,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "40": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.46,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "41": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.44,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "42": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.52,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "43": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.4,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "44": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.4,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "45": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.48,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "46": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.46,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "47": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.45,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "48": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.43,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "49": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.38,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "50": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.45,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "51": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.47,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "52": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.46,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "53": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.41,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "54": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "55": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.42,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "56": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.4,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "57": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.34,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "58": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.44,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "59": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.37,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "60": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.42,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "61": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.37,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "62": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.32,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "63": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.37,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "64": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.51,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "65": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.38,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "66": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.42,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "67": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.33,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "68": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.37,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "69": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.36,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "70": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.46,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "71": {
+  "answer": null,
+  "accepted": [
+   "a",
+   "c"
+  ],
+  "status": "multi",
+  "fills": [
+   0.4,
+   0.0,
+   0.33,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "72": {
+  "answer": null,
+  "accepted": [
+   "a",
+   "b",
+   "c"
+  ],
+  "status": "multi",
+  "fills": [
+   0.38,
+   0.33,
+   0.36,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "73": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.4,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "74": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.3,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "75": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.38,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "76": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.4,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "77": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.35,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "78": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.4,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "79": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.4,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "80": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.43,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "81": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.43,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "82": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.4,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "83": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.32,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "84": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.31,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "85": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.32,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "86": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.4,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "87": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.36,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "88": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.44,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "89": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.41,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "90": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.42,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "91": {
+  "answer": "b",
+  "accepted": [
+   "b"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.52,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "92": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.41,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "93": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.47,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "94": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.39,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "95": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.49,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "96": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.36,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "97": {
+  "answer": "c",
+  "accepted": [
+   "c"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.35,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "98": {
+  "answer": "a",
+  "accepted": [
+   "a"
+  ],
+  "status": "ok",
+  "fills": [
+   0.35,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "99": {
+  "answer": "d",
+  "accepted": [
+   "d"
+  ],
+  "status": "ok",
+  "fills": [
+   0.0,
+   0.0,
+   0.0,
+   0.44,
+   0.0
+  ],
+  "red": 0.0
+ },
+ "100": {
+  "answer": null,
+  "accepted": [
+   "b",
+   "c",
+   "d"
+  ],
+  "status": "multi",
+  "fills": [
+   0.0,
+   0.31,
+   0.39,
+   0.33,
+   0.0
+  ],
+  "red": 0.0
+ }
+}

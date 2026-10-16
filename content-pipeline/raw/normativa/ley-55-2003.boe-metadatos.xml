@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <metadatos>
+      <fecha_actualizacion>20251218T200435Z</fecha_actualizacion>
+      <identificador>BOE-A-2003-23101</identificador>
+      <ambito codigo="1">Estatal</ambito>
+      <departamento codigo="7723">Jefatura del Estado</departamento>
+      <rango codigo="1300">Ley</rango>
+      <fecha_disposicion>20031216</fecha_disposicion>
+      <numero_oficial>55/2003</numero_oficial>
+      <titulo>Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud.</titulo>
+      <diario>Boletín Oficial del Estado</diario>
+      <fecha_publicacion>20031217</fecha_publicacion>
+      <diario_numero>301</diario_numero>
+      <fecha_vigencia>20031218</fecha_vigencia>
+      <estatus_derogacion>N</estatus_derogacion>
+      <estatus_anulacion>N</estatus_anulacion>
+      <vigencia_agotada>N</vigencia_agotada>
+      <estado_consolidacion codigo="3">Finalizado</estado_consolidacion>
+      <url_eli>https://www.boe.es/eli/es/l/2003/12/16/55</url_eli>
+      <url_html_consolidada>https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101</url_html_consolidada>
+    </metadatos>
+  </data>
+</response>

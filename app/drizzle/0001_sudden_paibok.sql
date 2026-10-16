@@ -1,0 +1,1 @@
+ALTER TABLE "cases" ADD COLUMN "segments" jsonb DEFAULT '[]'::jsonb NOT NULL;

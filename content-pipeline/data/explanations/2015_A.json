@@ -1,0 +1,1583 @@
+[
+ {
+  "id": "ics-dsi-2015-A-1",
+  "summary": "El pacient té una hemorràgia digestiva alta i ja mostra signes de pèrdua de volum: taquicàrdia, oligúria, desorientació, pal·lidesa i signe del plec positiu (deshidratació). Una TA de 110/70 en un ancià pot ser normal en aparença i amagar un xoc compensat. Per això el problema potencial prioritari és el xoc hipovolèmic, que compromet la vida a curt termini.",
+  "options": {
+   "a": "Incorrecta: el risc de caiguda existeix, però no amenaça la vida de manera immediata com la hipovolèmia.",
+   "b": "Incorrecta: l'encefalopatia s'associa sobretot a l'HDA en pacients cirròtics, i aquí no hi ha antecedents hepàtics.",
+   "c": "Correcta: el sagnat actiu, amb taquicàrdia, oligúria i alteració de la consciència, indica hipoperfusió i risc de xoc hipovolèmic.",
+   "d": "Incorrecta: la febre obliga a vigilar-la, però la hipovolèmia per sagnat és la complicació més immediata i greu."
+  },
+  "key_point": "En una HDA, la taquicàrdia, l'oligúria i la confusió alerten d'un xoc hipovolèmic encara que la TA sembli normal.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-2",
+  "summary": "Qualsevol signe nou durant una transfusió (tremolors, calfreds, febre, dispnea, urticària) es tracta com una possible reacció transfusional. Primer cal aturar la transfusió i mantenir la via permeable, després valorar els signes vitals i avisar el metge. Els tremolors poden indicar una reacció febril no hemolítica, però no es pot descartar una reacció greu sense valorar el pacient.",
+  "options": {
+   "a": "Incorrecta: tranquil·litzar el pacient sense aturar la transfusió endarrereix l'actuació davant d'una possible reacció.",
+   "b": "Correcta: el primer pas davant d'una sospita de reacció transfusional és aturar la transfusió, valorar el pacient i avisar el metge.",
+   "c": "Incorrecta: els tremolors no són normals en una transfusió de plaquetes i tapar el pacient pot emmascarar una reacció.",
+   "d": "Incorrecta: accelerar la transfusió augmentaria la quantitat de component que rep el pacient si hi ha una reacció."
+  },
+  "key_point": "Davant qualsevol signe nou durant una transfusió: aturar-la, valorar el pacient i avisar el metge.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-3",
+  "summary": "En el puerperi immediat, la diüresi informa de l'estat hemodinàmic: si l'orina disminueix, pot ser un signe d'hipovolèmia per hemorràgia postpart. També cal vigilar la micció perquè una bufeta distesa desplaça l'úter i n'impedeix la contracció, cosa que afavoreix el sagnat. Per això, entre les opcions, la raó principal és que l'oligúria pot indicar una hemorràgia.",
+  "options": {
+   "a": "Incorrecta: la retenció urinària no evita la distensió uterina, sinó que desplaça l'úter i en dificulta la involució.",
+   "b": "Incorrecta: la distensió vesical no afavoreix la diüresi ni la contracció uterina, sinó que la dificulta.",
+   "c": "Correcta: la disminució de la diüresi pot ser un signe d'hipovolèmia per hemorràgia postpart.",
+   "d": "Incorrecta: la bufeta plena sí que desplaça l'úter, però n'impedeix la contracció en lloc d'afavorir-la."
+  },
+  "key_point": "Després del part, cal vigilar la diüresi: l'oligúria pot alertar d'hemorràgia, i la bufeta plena impedeix que l'úter es contregui.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-4",
+  "summary": "L'escala analgèsica de l'OMS té tres graons: no opioides, opioides menors (codeïna, tramadol) i opioides majors. En tots els graons es poden afegir coanalgèsics. Si el dolor no es controla amb codeïna (segon graó), el pas següent és un opioide major, com la morfina, que n'és el fàrmac de referència.",
+  "options": {
+   "a": "Correcta: la morfina, amb coanalgèsics o sense, és l'opioide major de referència del tercer graó.",
+   "b": "Incorrecta: la pentazocina és un agonista-antagonista amb efecte sostre i efectes psicotomimètics, i no es recomana en el dolor oncològic.",
+   "c": "Incorrecta: no s'associen dos opioides, i la dihidrocodeïna és un opioide menor com la codeïna.",
+   "d": "Incorrecta: la dihidrocodeïna continua sent un opioide menor, de manera que no és pujar de graó."
+  },
+  "key_point": "Si un opioide menor no controla el dolor, se substitueix per un opioide major (morfina) i no se n'hi afegeix un altre de menor.",
+  "sources": [
+   {
+    "type": "ref",
+    "label": "OMS, Cancer Pain Relief (1986)"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-5",
+  "summary": "La necròlisi epidèrmica tòxica provoca un despreniment extens de l'epidermis, semblant al d'un gran cremat. La pell deixa de fer de barrera i el risc d'infecció és molt alt. La sèpsia és la principal causa de mort d'aquests pacients, per això és la complicació potencial prioritària.",
+  "options": {
+   "a": "Correcta: la pèrdua extensa de la barrera cutània fa que la sèpsia sigui la complicació més greu i la principal causa de mortalitat.",
+   "b": "Incorrecta: la hipertèrmia maligna és una reacció farmacogenètica a anestèsics i no té relació amb la NET.",
+   "c": "Incorrecta: les seqüeles oculars (sinèquies, cicatrius) són possibles, però no són la complicació principal.",
+   "d": "Incorrecta: la luxació no és una complicació d'aquesta malaltia cutània."
+  },
+  "key_point": "La NET es cuida com un gran cremat: la sèpsia és el risc principal.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-6",
+  "summary": "La balanitis és la inflamació del gland, de manera que només afecta els nens. En els infants petits sovint es deu a una higiene inadequada (excessiva o insuficient), a irritants o a restes d'orina sota el prepuci. Es prevé amb una higiene suau amb aigua i sense forçar la retracció del prepuci.",
+  "options": {
+   "a": "Incorrecta: el gland és una estructura del penis, per això la balanitis afecta els nens.",
+   "b": "Correcta: la higiene incorrecta de la zona és una causa freqüent de balanitis en infants.",
+   "c": "Incorrecta: el que es desaconsella és la retracció forçada, que pot causar fissures o parafimosi, però retraure suaument el prepuci per a la higiene no afavoreix la infecció.",
+   "d": "Incorrecta: es pot prevenir amb una higiene adequada i evitant irritants."
+  },
+  "key_point": "Una higiene genital suau i correcta, sense forçar el prepuci, prevé la balanitis infantil.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-7",
+  "summary": "La relaxació muscular progressiva de Jacobson consisteix a tensar i després relaxar grups musculars de manera seqüencial, en una posició còmoda i parant atenció a la respiració. Demana una actitud passiva i receptiva per notar la diferència entre tensió i relaxació. Per això mantenir un comportament actiu no en forma part.",
+  "options": {
+   "a": "Incorrecta (és característica): cal adoptar una posició còmoda per relaxar-se.",
+   "b": "Correcta: la tècnica requereix una actitud passiva, no un comportament actiu.",
+   "c": "Incorrecta (és característica): tensar, percebre la tensió i alliberar-la és el nucli de la tècnica.",
+   "d": "Incorrecta (és característica): fer-se conscient de la respiració ajuda a la relaxació."
+  },
+  "key_point": "Relaxació de Jacobson: tensar, notar, deixar anar, amb una actitud passiva i en una posició còmoda.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-8",
+  "summary": "La incontinència d'esforç és la pèrdua d'orina que apareix quan augmenta la pressió abdominal: tossir, riure, aixecar-se o fer exercici. És freqüent en dones multípares per la debilitat del sòl pelvià. La clau és que la pèrdua va lligada a l'esforç i no a una urgència per orinar.",
+  "options": {
+   "a": "Incorrecta: la incontinència funcional es deu a limitacions físiques o cognitives per arribar al vàter o fer-lo servir.",
+   "b": "Correcta: les pèrdues quan es tus, es riu o es canvia de posició són típiques de la incontinència d'esforç.",
+   "c": "Incorrecta: la incontinència d'urgència es presenta amb un desig sobtat i imperiós d'orinar.",
+   "d": "Incorrecta: la incontinència mixta combina símptomes d'esforç i d'urgència, i aquí no es descriu cap urgència."
+  },
+  "key_point": "Si la dona perd orina quan tus, riu o fa un esforç, és incontinència d'esforç; si la perd amb una urgència sobtada, és d'urgència.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-9",
+  "summary": "En l'obstrucció de la via aèria per un cos estrany, el signe més habitual i que permet reconèixer-la és que la persona no pot parlar, respirar o tossir eficaçment, i sovint es porta les mans al coll. La cianosi és un signe tardà d'hipòxia. El so típic de l'obstrucció alta és l'estridor, no la ranera.",
+  "options": {
+   "a": "Incorrecta: la cianosi és un signe tardà, no precoç.",
+   "b": "Incorrecta: l'ús de la musculatura accessòria no es limita a l'aleteig nasal, sinó que inclou tiratge i ús dels músculs del coll.",
+   "c": "Incorrecta: el so característic de l'obstrucció de la via aèria superior és l'estridor, i no hi ha cap so patognomònic.",
+   "d": "Correcta: la dificultat o incapacitat per parlar, respirar o tossir és el signe habitual."
+  },
+  "key_point": "Si la persona no pot parlar ni tossir, l'obstrucció és greu; la cianosi arriba tard.",
+  "sources": [
+   {
+    "type": "ref",
+    "label": "ERC Guidelines 2021"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-10",
+  "summary": "En la hiperuricèmia cal limitar els aliments rics en purines, perquè el metabolisme de les purines produeix àcid úric. El peix blau petit (sardines, anxoves), les vísceres, el marisc i la carn vermella en són molt rics. Els ous, la fruita i la majoria de verdures en tenen poques.",
+  "options": {
+   "a": "Correcta: les sardines són molt riques en purines i se n'ha de minimitzar el consum.",
+   "b": "Incorrecta: les carxofes no són una font rellevant de purines.",
+   "c": "Incorrecta: les pomes, com la majoria de fruites, gairebé no contenen purines.",
+   "d": "Incorrecta: els ous són una font de proteïna pobra en purines."
+  },
+  "key_point": "Hiperuricèmia: cal reduir el peix blau petit, les vísceres, el marisc i la carn vermella, que són rics en purines.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-11",
+  "summary": "Els antibiòtics de gran espectre alteren la flora vaginal (lactobacils) i afavoreixen la proliferació de Candida. La candidiasi vulvovaginal causa pruïja i cremor, eritema vulvar i un flux augmentat, blanquinós i espès (aspecte de llet quallada). El pH vaginal es manté normal, al voltant de 4,5 o menys.",
+  "options": {
+   "a": "Incorrecta: el flux verdós i espumós és típic de la tricomoniasi.",
+   "b": "Correcta: l'augment del flux blanquinós és el signe característic de la candidiasi.",
+   "c": "Incorrecta: la vulva sol estar eritematosa i edematosa, no pàl·lida.",
+   "d": "Incorrecta: el pH vaginal es pot mesurar i en la candidiasi sol ser normal."
+  },
+  "key_point": "Antibiòtic, pruïja i flux blanc espès apunten a candidiasi; flux verdós i espumós, a tricomoniasi.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-12",
+  "summary": "Abans de fer exercici, la persona amb diabetis ha de comprovar la glucèmia. Un interval d'uns 100-250 mg/dL es considera adequat per començar. Per sota de 100 mg/dL cal prendre hidrats de carboni abans d'iniciar l'activitat. Amb una hiperglucèmia alta i cossos cetònics, l'exercici està contraindicat perquè pot empitjorar la cetosi.",
+  "options": {
+   "a": "Correcta: 100-250 mg/dL és l'interval de glucèmia recomanat per iniciar l'exercici amb seguretat.",
+   "b": "Incorrecta: amb cetonúria no s'ha de fer exercici, perquè pot desencadenar o agreujar una cetoacidosi.",
+   "c": "Incorrecta: amb glucèmies baixes es recomana un suplement d'hidrats de carboni, però la xifra de 40 g com a mínim no correspon a les recomanacions habituals (uns 15-30 g).",
+   "d": "Incorrecta: la recomanació per als pacients amb insulina no és fer exercici 4-5 hores després dels àpats."
+  },
+  "key_point": "Exercici i diabetis: començar amb una glucèmia de 100-250 mg/dL i mai amb cossos cetònics.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-13",
+  "summary": "El trastorn límit de la personalitat es caracteritza per inestabilitat emocional, de les relacions i de la pròpia imatge, i per una impulsivitat marcada. Són freqüents les conductes autolesives i els gestos suïcides. Per això una lesió «accidental» en aquests pacients pot ser una autolesió i s'ha d'explorar amb respecte.",
+  "options": {
+   "a": "Correcta: la impulsivitat és un tret nuclear del trastorn límit.",
+   "b": "Incorrecta: el trastorn límit es caracteritza justament per la inestabilitat emocional.",
+   "c": "Incorrecta: el retard psicomotor és propi de la depressió greu, no del trastorn límit.",
+   "d": "Correcta: les conductes autolesives són característiques i freqüents en aquest trastorn."
+  },
+  "key_point": "Trastorn límit: impulsivitat, inestabilitat emocional i autolesions.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-14",
+  "summary": "La peritonitis és la complicació més important de la diàlisi peritoneal. Causa morbiditat i mortalitat, pot obligar a retirar el catèter i deteriora la membrana peritoneal. S'ha de sospitar davant de dolor abdominal, febre o líquid de drenatge tèrbol.",
+  "options": {
+   "a": "Correcta: la peritonitis és la complicació que comporta més morbiditat i mortalitat en la diàlisi peritoneal.",
+   "b": "Incorrecta: la migració del catèter causa problemes de drenatge, però rarament és greu.",
+   "c": "Incorrecta: les fuites de líquid són complicacions mecàniques de menys gravetat.",
+   "d": "Incorrecta: les alteracions posturals no són la complicació rellevant d'aquesta tècnica."
+  },
+  "key_point": "Diàlisi peritoneal amb dolor abdominal o líquid tèrbol: cal pensar en peritonitis.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-15",
+  "summary": "En la celiaquia cal fer una dieta estricta sense gluten, que és present al blat, l'ordi i el sègol. Tradicionalment també s'ha exclòs la civada per la contaminació creuada. L'arròs és un cereal sense gluten i és apte per a les persones celíaques.",
+  "options": {
+   "a": "Incorrecta: l'ordi conté gluten.",
+   "b": "Incorrecta: la civada es desaconsella perquè sovint està contaminada amb gluten; només és apta la civada certificada sense gluten.",
+   "c": "Correcta: l'arròs no conté gluten.",
+   "d": "Incorrecta: el blat és la principal font de gluten."
+  },
+  "key_point": "Els cereals sense gluten (arròs, blat de moro) són aptes; el blat, l'ordi, el sègol i la civada no certificada no ho són.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-16",
+  "summary": "La GOLD confirma l'obstrucció quan el quocient FEV1/FVC postbroncodilatador és inferior a 0,70. Després en classifica la gravetat segons el FEV1 respecte al valor teòric: GOLD 1 lleu (≥80%), GOLD 2 moderat (50-79%), GOLD 3 greu (30-49%) i GOLD 4 molt greu (<30%). Un FEV1 entre el 30% i el 50% correspon al grau greu. (L'enunciat imprès diu «= 30%», però vol dir «≥ 30%».)",
+  "options": {
+   "a": "Incorrecta: el grau lleu correspon a un FEV1 ≥80%.",
+   "b": "Incorrecta: el grau moderat correspon a un FEV1 entre el 50% i el 79%.",
+   "c": "Correcta: un FEV1 ≥30% i <50% és el grau greu (GOLD 3).",
+   "d": "Incorrecta: el grau molt greu correspon a un FEV1 <30%."
+  },
+  "key_point": "Graus GOLD segons el FEV1: ≥80 lleu, 50-79 moderat, 30-49 greu, <30 molt greu.",
+  "sources": [
+   {
+    "type": "ref",
+    "label": "GOLD 2024"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-17",
+  "summary": "Una infecció és una situació d'estrès per a l'organisme. Augmenten les hormones contrareguladores (cortisol, catecolamines, glucagó), que eleven la glucèmia i augmenten la resistència a la insulina. Per això en una persona diabètica amb una infecció cal intensificar el control glucèmic i sovint ajustar la insulina.",
+  "options": {
+   "a": "Incorrecta: les infeccions solen provocar hiperglucèmia, no hipoglucèmia.",
+   "b": "Incorrecta: les infeccions descompensen sovint el control metabòlic.",
+   "c": "Incorrecta: les infeccions augmenten les hormones d'estrès, no les disminueixen.",
+   "d": "Correcta: l'estrès infecciós eleva la glucèmia."
+  },
+  "key_point": "Diabètic amb infecció: cal esperar hiperglucèmia i vigilar més la glucèmia.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-18",
+  "summary": "Els principals enfocaments de recerca qualitativa són l'etnografia, la fenomenologia, la teoria fonamentada i la investigació-acció participativa, entre d'altres. Tots busquen comprendre experiències i significats des de la perspectiva dels participants. L'«acció reactiva interactiva» no és cap mètode de recerca reconegut.",
+  "options": {
+   "a": "Incorrecta (són mètodes qualitatius): l'etnografia i la fenomenologia són enfocaments qualitatius clàssics.",
+   "b": "Incorrecta (és un mètode qualitatiu): la investigació-acció participativa és un mètode qualitatiu.",
+   "c": "Incorrecta (és un mètode qualitatiu): la teoria fonamentada (grounded theory) és un mètode qualitatiu.",
+   "d": "Correcta: l'«acció reactiva interactiva» no és un mètode de recerca qualitativa."
+  },
+  "key_point": "Mètodes qualitatius clau: etnografia, fenomenologia, teoria fonamentada i investigació-acció participativa.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-19",
+  "summary": "El balanç nitrogenat compara el nitrogen que entra (proteïnes ingerides) amb el que s'elimina, sobretot per la urea urinària. Indica si predomina el catabolisme proteic (balanç negatiu) o l'anabolisme (balanç positiu). Per això és útil per seguir els canvis del metabolisme proteic durant la malaltia, però no mesura les reserves.",
+  "options": {
+   "a": "Incorrecta: el balanç nitrogenat no mesura les reserves corporals de proteïnes, sinó el seu recanvi.",
+   "b": "Correcta: informa dels canvis del metabolisme proteic (catabolisme o anabolisme) durant la malaltia.",
+   "c": "Incorrecta: no té relació amb el colesterol ni les lipoproteïnes.",
+   "d": "Incorrecta: el nitrogen reflecteix el metabolisme de les proteïnes, no el dels lípids."
+  },
+  "key_point": "Balanç nitrogenat negatiu vol dir catabolisme proteic; és un indicador dinàmic, no de reserves.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-20",
+  "summary": "Per prevenir la broncoaspiració en la nutrició enteral s'eleva el capçal a 30-45°, es comprova la posició de la sonda i es vigila la tolerància. Tradicionalment, la tolerància s'avalua mesurant el volum gàstric residual: un volum elevat indica un buidament gàstric lent i més risc de regurgitació. Entre les opcions, és l'única intervenció relacionada amb la prevenció de l'aspiració.",
+  "options": {
+   "a": "Incorrecta: el rentat de la sonda serveix per evitar que s'obstrueixi, no per prevenir l'aspiració.",
+   "b": "Correcta (segons l'examen): mesurar el volum gàstric residual permet detectar la intolerància i el risc de regurgitació.",
+   "c": "Incorrecta: la posició de Trendelenburg augmenta el risc d'aspiració; el que cal és elevar el capçal a 30-45°.",
+   "d": "Incorrecta: la rotació periòdica és una cura de les sondes de gastrostomia, no de la nasogàstrica, i no prevé l'aspiració."
+  },
+  "key_point": "Nutrició enteral: el capçal elevat a 30-45° és la mesura bàsica contra la broncoaspiració.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": "La medición rutinaria del volumen gástrico residual está hoy cuestionada (las guías ASPEN/SCCM de UCI desaconsejan su uso rutinario y otras lo reservan para casos seleccionados). Entre las opciones sigue siendo la única relacionada con la prevención de la broncoaspiración, pero la medida principal es la elevación del cabezal.",
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-21",
+  "summary": "La diabetis tipus 1 es presenta sovint de manera aguda en infants i adolescents. Els símptomes típics són poliúria, polidípsia i polifàgia, sovint amb pèrdua de pes. La hiperglucèmia causa diüresi osmòtica i set, i el dèficit d'insulina impedeix que les cèl·lules aprofitin la glucosa.",
+  "options": {
+   "a": "Incorrecta: en la DM1 és típica la pèrdua de pes, no la dificultat per perdre'n.",
+   "b": "Correcta: poliúria, polidípsia i polifàgia són les manifestacions clàssiques.",
+   "c": "Incorrecta: el cansament pot aparèixer, però no són les manifestacions primàries.",
+   "d": "Incorrecta: no són manifestacions característiques de la DM1."
+  },
+  "key_point": "Les tres P de la DM1 són poliúria, polidípsia i polifàgia, sovint amb pèrdua de pes.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-22",
+  "summary": "En el suport vital bàsic de l'adult, les compressions toràciques s'han de fer a una freqüència de 100-120 per minut. La profunditat ha de ser d'uns 5 cm i no més de 6 cm, amb una relació de 30:2 i interrompent-les el mínim possible. Una profunditat de 6 a 10 cm és excessiva i pot causar lesions.",
+  "options": {
+   "a": "Incorrecta (és certa): la freqüència recomanada és de 100-120 compressions per minut.",
+   "b": "Incorrecta (és certa): la relació compressions/ventilacions és 30:2.",
+   "c": "Correcta (és falsa): la profunditat correcta és de 5-6 cm, no de 6-10 cm.",
+   "d": "Incorrecta (és certa): les ventilacions no han d'interrompre les compressions més de 10 segons."
+  },
+  "key_point": "RCP de qualitat en adults: 100-120 compressions per minut, 5-6 cm de profunditat, 30:2 i el mínim d'interrupcions.",
+  "sources": [
+   {
+    "type": "ref",
+    "label": "ERC Guidelines 2021"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-23",
+  "summary": "En una ileostomia es perd el colon, que és on es reabsorbeix gran part de l'aigua i el sodi. Per això la persona amb ileostomia necessita més aigua i sal i té risc de deshidratació. Que begui més líquids no augmenta substancialment la quantitat de descàrrega, sinó que compensa les pèrdues, i per això l'afirmació a és la falsa.",
+  "options": {
+   "a": "Correcta (és falsa): augmentar els líquids no incrementa de manera significativa la descàrrega, i és necessari per evitar la deshidratació.",
+   "b": "Incorrecta (és certa): augmenten els requeriments d'aigua i de sodi perquè no hi ha absorció colònica.",
+   "c": "Incorrecta (és certa): l'excés de pes pot alterar la forma de l'abdomen i la funcionalitat de l'estoma.",
+   "d": "Incorrecta (és certa): durant les primeres setmanes es recomana una dieta baixa en residus per evitar l'obstrucció."
+  },
+  "key_point": "Ileostomia: cal més aigua i sal, i beure no és el que fa augmentar la descàrrega.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-24",
+  "summary": "L'escolta activa vol dir parar atenció de manera plena al missatge verbal i no verbal de l'altra persona. Inclou mostrar empatia i disponibilitat i oferir retroalimentació (parafrasejar, resumir) per comprovar que s'ha entès bé. No s'hi fan judicis de valor i s'atén precisament la comunicació no verbal.",
+  "options": {
+   "a": "Incorrecta: l'escolta activa evita emetre judicis de valor.",
+   "b": "Correcta: l'empatia i la disponibilitat en són elements essencials.",
+   "c": "Correcta: concentrar-se a rebre i interpretar el missatge i donar retroalimentació és la base de l'escolta activa.",
+   "d": "Incorrecta: cal atendre la conducta verbal, paraverbal i no verbal, no evitar-la."
+  },
+  "key_point": "Escolta activa: atenció plena, empatia, retroalimentació i cap judici.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-25",
+  "summary": "La pacient és una persona adulta i capaç, i és ella qui decideix si vol que la seva amiga hi sigui present. Abans de la cura, cal informar-la del procediment. Així es respecten la seva autonomia i la seva intimitat, principis que han d'orientar tota l'activitat assistencial.",
+  "options": {
+   "a": "Incorrecta: no és el professional qui decideix si l'acompanyant hi és present, sinó la pacient.",
+   "b": "Incorrecta: fer sortir l'amiga sense preguntar-ho a la pacient no respecta la seva voluntat.",
+   "c": "Incorrecta: donar per fet que l'amiga ha de sortir també és decidir per la pacient.",
+   "d": "Correcta: es pregunta a la pacient què prefereix i se l'informa del procediment, respectant-ne l'autonomia i la intimitat."
+  },
+  "key_point": "Una pacient adulta i capaç decideix qui l'acompanya; el professional informa i pregunta.",
+  "sources": [
+   {
+    "type": "norma",
+    "chunk": "ley-41-2002#art-2"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-26",
+  "summary": "500 mL en 4 hores són 500/4 = 125 mL/h. Amb un equip de microgoteig (60 microgotes/mL), les microgotes per minut coincideixen amb els mL/h: 125 microgotes/min. Amb un equip de macrogoteig estàndard (20 gotes/mL), serien unes 42 gotes/min (125 × 20 / 60).",
+  "options": {
+   "a": "Correcta: 125 mL/h equivalen a 125 microgotes/min.",
+   "b": "Incorrecta: 125 gotes/min correspondrien a 375 mL/h amb un equip de 20 gotes/mL.",
+   "c": "Incorrecta: 83 microgotes/min correspondrien a 83 mL/h.",
+   "d": "Incorrecta: amb 20 gotes/mL, 125 mL/h són unes 42 gotes/min, no 83."
+  },
+  "key_point": "Microgotes/min = mL/h; gotes/min = mL/h ÷ 3 (amb 20 gotes/mL).",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-27",
+  "summary": "Per prevenir les caigudes cal adaptar l'entorn, per exemple posant el llit a l'altura més baixa, frenat i amb el timbre a l'abast. Les contencions físiques i les baranes no prevenen les caigudes i fins i tot poden fer-les més greus, de manera que s'han d'individualitzar. El calçat ha de ser tancat, ajustat i amb sola antilliscant.",
+  "options": {
+   "a": "Correcta: el llit en la posició més baixa redueix la gravetat de les possibles caigudes.",
+   "b": "Incorrecta: la contenció física no està indicada de manera general i pot causar lesions.",
+   "c": "Incorrecta: les baranes no s'han de posar de manera sistemàtica, perquè la persona pot intentar saltar-les.",
+   "d": "Incorrecta: el tipus de calçat és important: ha de ser tancat i antilliscant."
+  },
+  "key_point": "Prevenció de caigudes: llit baix, entorn segur i calçat adequat; les contencions no s'usen de rutina.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-28",
+  "summary": "En una cremada química ocular, la gravetat depèn del temps de contacte amb el producte, sobretot si és un àlcali. La primera actuació és irrigar l'ull immediatament i de manera abundant amb aigua o sèrum durant diversos minuts. La valoració i la protecció de l'ull vénen després.",
+  "options": {
+   "a": "Incorrecta: registrar la lesió és posterior; primer cal irrigar.",
+   "b": "Incorrecta: tapar l'ull sense haver-lo irrigat manté el producte químic en contacte amb l'ull.",
+   "c": "Incorrecta: qualsevol apòsit és secundari a la irrigació.",
+   "d": "Correcta: irrigar immediatament amb aigua és la primera actuació."
+  },
+  "key_point": "Cremada química a l'ull: primer cal irrigar amb molta aigua, i després valorar.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-29",
+  "summary": "Els AINE com l'ibuprofèn poden desencadenar o agreujar brots de la malaltia inflamatòria intestinal, per això en la colitis ulcerosa se n'aconsella evitar l'ús. En aquests pacients es prefereix el paracetamol per a les molèsties. La resta de les opcions són recomanacions de salut generals.",
+  "options": {
+   "a": "Incorrecta: deixar de fumar es recomana per salut general, encara que en la colitis ulcerosa el tabac no sigui un factor de risc com en la malaltia de Crohn.",
+   "b": "Incorrecta: l'exercici físic regular és recomanable.",
+   "c": "Incorrecta: una dieta rica en proteïnes i pobra en residus és adequada, sobretot durant els brots.",
+   "d": "Correcta: l'ibuprofèn i altres AINE poden desencadenar exacerbacions i s'han d'evitar."
+  },
+  "key_point": "En la malaltia inflamatòria intestinal s'eviten els AINE i es prefereix el paracetamol.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-30",
+  "summary": "Si s'eliminen els hidrats de carboni, l'organisme obté l'energia sobretot dels greixos. L'oxidació dels greixos genera cossos cetònics (cetosi), que són àcids. En una persona diabètica, sobretot si pren insulina o alguns antidiabètics, això pot evolucionar cap a una acidosi metabòlica (cetoacidosi).",
+  "options": {
+   "a": "Incorrecta: la retinopatia és una complicació crònica de la hiperglucèmia mantinguda, no de la restricció d'hidrats.",
+   "b": "Incorrecta: la glucosúria s'associa a hiperglucèmia, i restringir els hidrats tendeix a reduir-la.",
+   "c": "Correcta: la cetosi per restricció d'hidrats pot provocar acidosi metabòlica.",
+   "d": "Incorrecta: la caquèxia no és la complicació esperable d'aquesta dieta."
+  },
+  "key_point": "Sense hidrats de carboni es cremen greixos, es produeixen cossos cetònics i hi ha risc d'acidosi metabòlica.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-31",
+  "summary": "L'estil agressiu defensa els propis interessos sense respectar els dels altres. Es reconeix per un to de veu alt, una parla ràpida, la mirada desafiant, el contacte físic intimidatori i els missatges amenaçadors. Agafar fort l'avantbraç i advertir «faries bé de no fer-me mal» n'és un exemple clar.",
+  "options": {
+   "a": "Incorrecta: l'estil assertiu expressa les necessitats amb respecte, sense amenaces ni intimidació.",
+   "b": "Correcta: el to alt, la intimidació física i l'advertiment amenaçador són propis de l'estil agressiu.",
+   "c": "Incorrecta: l'estil inhibit o passiu evita el conflicte i no expressa les necessitats.",
+   "d": "Incorrecta: «actiu» no és cap dels estils de comunicació clàssics (passiu, agressiu i assertiu)."
+  },
+  "key_point": "Estils de comunicació: passiu (no defensa els seus drets), agressiu (no respecta els dels altres) i assertiu (respecta els propis i els aliens).",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-32",
+  "summary": "Els aliments amb més ferro són les cloïsses i altres mol·luscs bivalves, els llegums, el rovell d'ou i la carn vermella. El peix blanc, com el lluç, en conté molt poc. El ferro hemo d'origen animal s'absorbeix millor, i la vitamina C millora l'absorció del ferro vegetal.",
+  "options": {
+   "a": "Incorrecta: el rovell d'ou té un contingut de ferro considerable.",
+   "b": "Incorrecta: les cloïsses són dels aliments més rics en ferro.",
+   "c": "Incorrecta: els llegums són una bona font de ferro no hemo.",
+   "d": "Correcta: el lluç és el que conté menys ferro de les quatre opcions."
+  },
+  "key_point": "Les cloïsses i els llegums són rics en ferro; el peix blanc en té poc.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-33",
+  "summary": "La dermatitis de contacte irritativa és una inflamació no al·lèrgica causada pel dany directe d'una substància o per l'oclusió i la fricció. Comença amb cremor, eritema i edema, i pot fer vesícules a la zona de contacte. Queda limitada a l'àrea exposada, en aquest cas la de l'apòsit.",
+  "options": {
+   "a": "Correcta: cremor, eritema, edema i vesícules són les manifestacions inicials habituals.",
+   "b": "Incorrecta: la inflamació causa eritema, no pal·lidesa, i l'abrasió no és la lesió inicial típica.",
+   "c": "Incorrecta: la pal·lidesa i les pústules no són característiques.",
+   "d": "Incorrecta: la urticària suggereix un mecanisme al·lèrgic immediat, no irritatiu."
+  },
+  "key_point": "Dermatitis irritativa: cremor, eritema, edema i vesícules, limitats a la zona de contacte.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-34",
+  "summary": "La prova de la veu xiuxiuejada és una tècnica senzilla de cribratge de la hipoacúsia en l'exploració física. El professional xiuxiueja paraules o números a una certa distància, darrere de la persona i tapant l'altra oïda, i comprova si els repeteix. No requereix cap aparell i té una bona sensibilitat per detectar pèrdues auditives.",
+  "options": {
+   "a": "Correcta: la veu xiuxiuejada és una prova de cribratge auditiu.",
+   "b": "Incorrecta: la prova de Romberg valora l'equilibri i la propiocepció.",
+   "c": "Incorrecta: el «test de Corti» no existeix; l'òrgan de Corti és una estructura de l'orella interna.",
+   "d": "Incorrecta: el test d'Ishihara valora la visió dels colors."
+  },
+  "key_point": "Cribratge auditiu senzill: veu xiuxiuejada (i diapasons); Ishihara és per als colors i Romberg per a l'equilibri.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-35",
+  "summary": "Les precaucions estàndard s'apliquen a tots els pacients, independentment del diagnòstic, sempre que hi pugui haver contacte amb sang, fluids corporals, secrecions i excrecions (excepte la suor), membranes mucoses o pell no íntegra. Tots aquests elements es consideren potencialment infecciosos.",
+  "options": {
+   "a": "Certa: la sang i els fluids corporals, excepte la suor, s'hi inclouen tant si estan tacats de sang com si no.",
+   "b": "Certa: les membranes mucoses s'hi inclouen.",
+   "c": "Certa: la pell no íntegra s'hi inclou.",
+   "d": "Correcta: totes les opcions anteriors formen part de l'àmbit de les precaucions estàndard."
+  },
+  "key_point": "Precaucions estàndard: amb tots els pacients, davant de sang, fluids (excepte suor), mucoses i pell no íntegra.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-36",
+  "summary": "L'APGAR familiar (Smilkstein) valora la percepció de la persona sobre el funcionament de la seva família en cinc àrees. Són Adaptació, Participació, Gradient de creixement (desenvolupament), Afecte i Resolució. El coneixement no és cap d'aquestes àrees.",
+  "options": {
+   "a": "Correcta: el coneixement no és una àrea de l'APGAR familiar.",
+   "b": "Incorrecta: l'adaptació és la A de l'acrònim.",
+   "c": "Incorrecta: la participació és la P.",
+   "d": "Incorrecta: l'afecte és la segona A."
+  },
+  "key_point": "APGAR familiar: Adaptació, Participació, Gradient de creixement, Afecte i Resolució.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-37",
+  "summary": "Una lesió per pressió de categoria III suposa una pèrdua total del gruix de la pell, amb afectació del teixit subcutani, i pot tenir exsudat i teixit necròtic. Com totes les lesions per pressió, té un origen isquèmic. Quan hi ha exposició o afectació d'os, tendó o múscul, ja és de categoria IV.",
+  "options": {
+   "a": "Incorrecta (és característica): les lesions per pressió són d'origen isquèmic.",
+   "b": "Incorrecta (és característica): en la categoria III hi ha destrucció del teixit subcutani.",
+   "c": "Incorrecta (és característica): pot haver-hi exsudat i àrees necròtiques.",
+   "d": "Correcta: l'afectació d'os i tendons defineix la categoria IV, no la III."
+  },
+  "key_point": "Categoria III: arriba fins al teixit subcutani; si afecta múscul, tendó o os, és de categoria IV.",
+  "sources": [
+   {
+    "type": "ref",
+    "label": "EPUAP/NPIAP/PPPIA, Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline (2019)"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-38",
+  "summary": "El catastrofisme és un estil d'afrontament cognitiu en què l'atenció es fixa en la possibilitat del pitjor resultat. S'hi magnifica l'amenaça i hi ha una sensació d'impotència. És un afrontament invalidant que s'associa a més ansietat i a un risc més alt de depressió, i es caracteritza per pensaments negatius, no positius.",
+  "options": {
+   "a": "Incorrecta (és certa): és un afrontament invalidant o desadaptatiu.",
+   "b": "Incorrecta (és certa): s'associa a un risc elevat de depressió.",
+   "c": "Correcta (és falsa): el catastrofisme es caracteritza per pensaments extremadament negatius.",
+   "d": "Incorrecta (és certa): és un afrontament cognitiu centrat en com es dirigeix l'atenció cap a l'amenaça."
+  },
+  "key_point": "Catastrofisme: esperar sempre el pitjor; és invalidant i predisposa a la depressió.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-39",
+  "summary": "La pressió intracranial normal en l'adult és baixa, aproximadament de 5 a 15 mmHg, i es parla d'hipertensió intracranial a partir de 20 mmHg mantinguts. En els infants els valors normals també són baixos. Les altres opcions donen xifres semblants a les de la pressió arterial, que són impossibles com a pressió intracranial fisiològica.",
+  "options": {
+   "a": "Incorrecta: 70-100 mmHg són valors propis de la pressió arterial mitjana, no de la PIC.",
+   "b": "Incorrecta: valors de fins a 35 mmHg indicarien una hipertensió intracranial greu.",
+   "c": "Incorrecta: els valors de 100-150 mmHg no són fisiològics per a la PIC.",
+   "d": "Correcta: és l'única opció amb valors baixos compatibles amb una PIC normal."
+  },
+  "key_point": "La PIC normal en l'adult és d'uns 5-15 mmHg; per sobre de 20 mmHg mantinguts hi ha hipertensió intracranial.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": "En la literatura los valores pediátricos normales suelen ser algo inferiores (aprox. 3-7 mmHg en niños) a los que da la opción d; aun así, d es la única opción fisiológicamente plausible.",
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-40",
+  "summary": "La hipertonia dels adductors (dificultat per separar les cuixes) és un signe d'alarma neurològic que pot indicar una afectació motora, com una paràlisi cerebral. És rellevant a partir dels primers mesos i, per tant, també als 8 mesos. Als 8 mesos, la coordinació mà-boca és normal i el reflex de Moro ja ha desaparegut, cosa que també és normal.",
+  "options": {
+   "a": "Correcta: la hipertonia dels adductors és un signe d'alerta del desenvolupament motor.",
+   "b": "Incorrecta segons la clau oficial: l'absència de somriure social se sol citar com a signe d'alarma als 2-3 mesos.",
+   "c": "Incorrecta: una coordinació mà-boca adequada és un assoliment normal.",
+   "d": "Incorrecta: el reflex de Moro desapareix cap als 4-6 mesos, de manera que no tenir-lo als 8 mesos és normal."
+  },
+  "key_point": "Als 8 mesos, el Moro absent és normal; la hipertonia dels adductors és un signe d'alarma.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": "La opción b también podría considerarse un signo de alarma: la ausencia de sonrisa social a los 8 meses persiste más allá de la edad esperada (2-3 meses). La clave oficial (a) es defendible porque es el signo de alarma típico de las tablas para esta franja, pero la pregunta es discutible.",
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-41",
+  "summary": "L'article 1.2 de la Llei 17/2015 enumera les finalitats de la llei. Una d'elles és reconèixer i tenir en compte el paper social i econòmic dels treballs familiar, domèstic i de cura de persones, que tradicionalment han exercit les dones. Les altres opcions alteren el text de la llei amb verbs contraris (promoure obstacles, incrementar el dèficit o les desigualtats).",
+  "options": {
+   "a": "Correcta: reprodueix la finalitat de l'article 1.2.b de la Llei 17/2015.",
+   "b": "Incorrecta: la llei diu que les polítiques públiques han de remoure els obstacles imposats per raó de sexe, no promoure'ls.",
+   "c": "Incorrecta: la llei parla de reparar el dèficit històric en la redistribució de la riquesa, no d'incrementar-lo.",
+   "d": "Incorrecta: la llei dona suport a les famílies perquè són un instrument eficaç per corregir desigualtats, no per incrementar-les."
+  },
+  "key_point": "Llei 17/2015: reconeix el valor del treball domèstic i de cura i obliga a remoure obstacles i a reparar desigualtats.",
+  "sources": [
+   {
+    "type": "norma",
+    "chunk": "llei-17-2015#art-1"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-42",
+  "summary": "El qüestionari de Morisky-Green avalua l'adherència al tractament farmacològic amb quatre preguntes sobre oblits i abandonaments de la medicació. És un dels instruments més utilitzats a l'atenció primària. Les altres escales avaluen aspectes diferents.",
+  "options": {
+   "a": "Correcta: el Morisky-Green mesura el compliment terapèutic.",
+   "b": "Incorrecta: l'índex de Katz valora la independència en les activitats bàsiques de la vida diària.",
+   "c": "Incorrecta: l'escala SCOFF és un cribratge de trastorns de la conducta alimentària.",
+   "d": "Incorrecta: l'índex de Karnofsky valora l'estat funcional, sobretot en pacients oncològics."
+  },
+  "key_point": "L'adherència als fàrmacs es valora amb el Morisky-Green.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-43",
+  "summary": "La relació terapèutica amb persones drogodependents es basa en l'acceptació de la persona sense jutjar-la, en reforçar els assoliments i en uns límits i unes normes clars. Els judicis morals generen rebuig, estigmatitzen i dificulten el vincle i l'adherència al tractament.",
+  "options": {
+   "a": "Incorrecta: l'acceptació de la persona és una base de la comunicació terapèutica.",
+   "b": "Incorrecta: reforçar els assoliments motiva el canvi.",
+   "c": "Correcta: la comunicació no s'ha de basar en judicis morals.",
+   "d": "Incorrecta: exigir el compliment de les normes pactades forma part de l'abordatge."
+  },
+  "key_point": "Amb persones drogodependents: acceptar-les, reforçar-les i posar límits clars, sense judicis morals.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-44",
+  "summary": "Els menors de 14-15 anys no són mai considerats automàticament majors d'edat per decidir. Si són competents per entendre l'abast de la intervenció, cal tenir en compte la seva opinió i poden consentir-hi. Si no ho són, el consentiment el dona el representant legal, després d'escoltar el menor si té més de 12 anys. La llei reconeix el consentiment personal sobretot als menors emancipats i als més grans de 16 anys. Les altres afirmacions reflecteixen la Carta de drets i deures sobre la planificació de decisions anticipades i el respecte a les decisions de la persona.",
+  "options": {
+   "a": "Incorrecta (és certa): la infermera promou la planificació anticipada i les voluntats anticipades.",
+   "b": "Incorrecta (és certa): es prioritzen les decisions de la persona i s'ajuda la família a entendre-les.",
+   "c": "Correcta (és falsa): no és cert que els menors de 14-15 anys siguin sempre considerats majors d'edat; la capacitat s'ha de valorar i la referència legal general són els 16 anys.",
+   "d": "Incorrecta (és certa): la planificació de decisions anticipades és un procés dinàmic i revocable."
+  },
+  "key_point": "Menors: decideixen personalment a partir dels 16 anys o si estan emancipats; per sota, cal valorar-ne la maduresa i escoltar-los a partir dels 12 anys.",
+  "sources": [
+   {
+    "type": "norma",
+    "chunk": "llei-21-2000#art-7"
+   },
+   {
+    "type": "norma",
+    "chunk": "ley-41-2002#art-9"
+   },
+   {
+    "type": "ref",
+    "label": "Carta de drets i deures de la ciutadania en relació amb la salut i l'atenció sanitària (Departament de Salut, 2015)"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-45",
+  "summary": "La confidencialitat de les dades de salut és un dret fonamental, però no és absolut. Hi pot haver excepcions justificades, per exemple quan hi ha un perjudici per a la mateixa persona o per a tercers, o per raons de salut pública, i s'han de valorar cas per cas. L'accés per a recerca o docència està regulat i obliga a separar les dades identificatives de les clíniques, llevat que el pacient hi hagi donat el consentiment.",
+  "options": {
+   "a": "Incorrecta: no és un dret absolut; els professionals implicats en l'assistència hi tenen accés.",
+   "b": "Correcta: no és un dret absolut, i les excepcions s'han de justificar i ponderar.",
+   "c": "Incorrecta: tots els professionals que intervenen en l'assistència del pacient poden accedir a la informació, no només qui ha fet l'acte.",
+   "d": "Incorrecta: les dades no es poden fer servir sempre per a recerca; cal anonimitzar-les o tenir el consentiment."
+  },
+  "key_point": "Confidencialitat: és un dret ferm però no absolut; les excepcions s'han de justificar i l'ús en recerca requereix anonimització o consentiment.",
+  "sources": [
+   {
+    "type": "norma",
+    "chunk": "llei-21-2000#art-5"
+   },
+   {
+    "type": "norma",
+    "chunk": "llei-21-2000#art-11"
+   },
+   {
+    "type": "ref",
+    "label": "Carta de drets i deures de la ciutadania en relació amb la salut i l'atenció sanitària (Departament de Salut, 2015)"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-46",
+  "summary": "El maltractament a les persones grans sovint passa desapercebut. L'omissió de cures o la negligència (abandonament) és una de les formes més freqüents, sobretot en persones dependents. Les persones grans amb discapacitat o dependència tenen més risc. La infermera ha de detectar els casos i comunicar-los pels circuits establerts, però no li correspon provar la sospita.",
+  "options": {
+   "a": "Incorrecta: no tots els professionals tenen la formació per detectar el maltractament, i per això sovint no es diagnostica.",
+   "b": "Correcta (segons la clau): la negligència i l'abandonament es consideren de les formes més freqüents.",
+   "c": "Incorrecta: a la infermera li correspon detectar i comunicar la sospita, no provar-la.",
+   "d": "Incorrecta: la discapacitat i la dependència augmenten el risc de maltractament."
+  },
+  "key_point": "Maltractament a la gent gran: sovint és negligència; la dependència n'augmenta el risc, i la infermera detecta i comunica.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": "Estudios de prevalencia más recientes (p. ej., metaanálisis de la OMS de 2017) sitúan el maltrato psicológico como la forma más frecuente en la comunidad; la negligencia predomina sobre todo en personas dependientes. La opción b sigue siendo la única aceptable entre las ofrecidas.",
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-47",
+  "summary": "Els protocols d'assetjament sexual i per raó de sexe dels centres de treball permeten que qualsevol persona que conegui els fets presenti la sol·licitud d'intervenció. Si la persona afectada no dona el seu consentiment per continuar, la sol·licitud no s'arxiva sense més. L'organització té el deure de protegir la salut i la seguretat del personal, i per això l'òrgan competent ha de prendre les mesures oportunes.",
+  "options": {
+   "a": "Incorrecta: no només la pot presentar la persona afectada, i aquesta pot estar acompanyada d'altres persones de confiança o de representants.",
+   "b": "Incorrecta: el consentiment i la voluntat de la persona afectada sí que es tenen en compte durant el procés.",
+   "c": "Incorrecta: la falta de consentiment no comporta automàticament l'arxivament, perquè l'organització ha d'actuar davant d'una situació de risc.",
+   "d": "Correcta: qualsevol persona amb coneixement dels fets pot presentar la sol·licitud, i si l'afectada no hi dona el consentiment, l'òrgan competent pren les mesures oportunes."
+  },
+  "key_point": "Davant d'un assetjament sexual, qualsevol persona pot activar el protocol i l'organització ha d'actuar encara que l'afectada no vulgui continuar.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": "La pregunta se basa en el protocolo interno vigente en 2015, que no está en el corpus. Los protocolos de acoso del ICS y de la Generalitat se han actualizado desde entonces, así que conviene comprobar en el protocolo vigente el procedimiento y los órganos concretos. El principio de fondo (cualquier persona puede comunicarlo y la organización actúa) sigue siendo coherente.",
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-48",
+  "summary": "Patricia Benner va descriure l'adquisició de l'expertesa infermera en cinc nivells: principiant, principiant avançada, competent, eficient i experta. Es va basar en el model d'adquisició d'habilitats de Dreyfus i Dreyfus. La seva obra principal, «From Novice to Expert», és del 1984 i la recerca es va fer a finals dels anys setanta i principis dels vuitanta, no als cinquanta.",
+  "options": {
+   "a": "Incorrecta (és certa): es basa en el model de Dreyfus i Dreyfus.",
+   "b": "Incorrecta (és certa): la seva obra es considera una filosofia infermera.",
+   "c": "Incorrecta (és certa): descriu cinc nivells de competència clínica.",
+   "d": "Correcta (és falsa): els estudis són de finals dels anys setanta i dels vuitanta, no dels cinquanta."
+  },
+  "key_point": "Benner, «From Novice to Expert» (1984): cinc nivells, basats en Dreyfus.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-49",
+  "summary": "Nola J. Pender va formular el model de promoció de la salut. El model explica com les característiques i experiències individuals i les cognicions i els afectes relacionats amb la conducta influeixen en l'adopció de conductes saludables. Les altres opcions corresponen a altres teòriques.",
+  "options": {
+   "a": "Correcta: Pender és l'autora del model de promoció de la salut.",
+   "b": "Incorrecta: la salut com a expansió de la consciència és de Margaret Newman.",
+   "c": "Incorrecta: el model d'adaptació és de Callista Roy.",
+   "d": "Incorrecta: el model del sistema conductual és de Dorothy Johnson."
+  },
+  "key_point": "Pender: promoció de la salut; Roy: adaptació; Johnson: sistema conductual; Newman: expansió de la consciència.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-50",
+  "summary": "L'escala de Glasgow suma tres respostes: obertura d'ulls (1-4), resposta verbal (1-5) i resposta motora (1-6). Obertura espontània = 4, parla confusa = 4 i localitza el dolor = 5. Total: 13.",
+  "options": {
+   "a": "Incorrecta: 11 no correspon a la suma (4 + 4 + 5).",
+   "b": "Incorrecta: 10 no correspon a la suma.",
+   "c": "Correcta: 4 + 4 + 5 = 13.",
+   "d": "Incorrecta: 8 indicaria un TCE greu i no correspon a aquesta exploració."
+  },
+  "key_point": "Glasgow: ulls 4, verbal 5, motora 6 (màxim 15); un resultat de 8 o menys indica un TCE greu.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-51",
+  "summary": "La sobrecàrrega circulatòria associada a la transfusió (TACO) és més freqüent en persones amb una capacitat limitada per tolerar volum. Són de més risc els nadons i les persones grans, i els pacients amb insuficiència cardíaca o renal, hepatopatia o hipoalbuminèmia. Un adult de mitjana edat amb emfisema no té cap d'aquests factors principals.",
+  "options": {
+   "a": "Incorrecta: la hepatopatia amb hipertensió portal augmenta el risc (hipoalbuminèmia, retenció de líquids).",
+   "b": "Correcta: és el pacient que té menys factors de risc de sobrecàrrega.",
+   "c": "Incorrecta: els nadons, pel seu volum sanguini petit, tenen més risc.",
+   "d": "Incorrecta: la insuficiència renal crònica limita l'eliminació de volum i augmenta el risc."
+  },
+  "key_point": "Risc de TACO: edats extremes i insuficiència cardíaca, renal o hepàtica; cal transfondre lentament i vigilar.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-52",
+  "summary": "La sulfadiazina argèntica és un antimicrobià tòpic d'ampli espectre que s'utilitza en cremades i s'aplica en una capa fina. Està contraindicada al final de l'embaràs, en nadons i en prematurs, perquè les sulfamides poden afavorir el kernicterus. Per això l'afirmació d és la que no és certa.",
+  "options": {
+   "a": "Incorrecta (és certa): té un ampli espectre contra gram positius, gram negatius i càndides.",
+   "b": "Incorrecta (és certa segons la clau): se li atribueix capacitat netejadora i de desbridament.",
+   "c": "Incorrecta (és certa): s'aplica en una capa fina, d'uns pocs mil·límetres.",
+   "d": "Correcta (és falsa): està contraindicada, no indicada, en embarassades a terme, nadons i prematurs."
+  },
+  "key_point": "Sulfadiazina argèntica: àmplia cobertura en cremades, però evitar-la en nadons, prematurs i a l'embaràs a terme.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-53",
+  "summary": "Els plans de cures estandarditzats dels hospitals de l'ICS es vinculen al motiu d'ingrés i parteixen d'un diagnòstic infermer principal. Inclouen les intervencions vinculades als problemes reals o de risc. Utilitzen la terminologia infermera ATIC, desenvolupada a l'ICS, i no les taxonomies NANDA, NIC i NOC.",
+  "options": {
+   "a": "Incorrecta (és certa): els plans es vinculen al motiu d'ingrés.",
+   "b": "Incorrecta (és certa): inclouen el concepte de diagnòstic infermer principal.",
+   "c": "Correcta (no és certa): els plans de l'ICS fan servir la terminologia ATIC, no NANDA, NIC i NOC.",
+   "d": "Incorrecta (és certa): proposen intervencions vinculades als problemes reals o de risc."
+  },
+  "key_point": "A l'ICS, els plans de cures estandarditzats es fan amb la terminologia ATIC.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-54",
+  "summary": "El cop de calor és una hipertèrmia greu que lesiona les cèl·lules de molts òrgans. Pot complicar-se amb rabdomiòlisi, insuficiència renal i hepàtica aguda, coagulació intravascular disseminada i afectació neurològica. L'angioedema és una reacció d'origen al·lèrgic o farmacològic (per exemple, per IECA) i no hi té relació.",
+  "options": {
+   "a": "Correcta: l'angioedema no és una complicació del cop de calor.",
+   "b": "Incorrecta: la insuficiència hepàtica aguda és una complicació coneguda.",
+   "c": "Incorrecta: la rabdomiòlisi és una complicació freqüent.",
+   "d": "Incorrecta: la CID pot aparèixer en els cops de calor greus."
+  },
+  "key_point": "Cop de calor: dany multiorgànic, amb rabdomiòlisi, insuficiència hepàtica i renal i CID.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-55",
+  "summary": "Cada aspiració de secrecions ha de ser breu, d'uns 10 segons i com a màxim 15, aplicant l'aspiració només en retirar la sonda. Les aspiracions llargues provoquen hipoxèmia, bradicàrdia, atelectàsies i lesions de la mucosa. Entre aspiracions cal deixar que el pacient es recuperi.",
+  "options": {
+   "a": "Incorrecta: 60 segons provocarien una hipoxèmia important.",
+   "b": "Incorrecta: 40 segons superen àmpliament el temps recomanat.",
+   "c": "Incorrecta: 30 segons també són excessius.",
+   "d": "Correcta: el temps recomanat per a cada aspiració és d'uns 10 segons."
+  },
+  "key_point": "Aspiració per traqueostomia: 10-15 segons com a màxim i aspirar en retirar la sonda.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-56",
+  "summary": "La lactulosa és un laxant osmòtic: arriba al colon sense absorbir-se, hi reté aigua i els bacteris la fermenten. El seu efecte no és immediat i sol aparèixer al cap de 24-48 hores, a vegades més. Per això, per prevenir el restrenyiment per opioides, cal començar-la al mateix temps que l'opioide.",
+  "options": {
+   "a": "Correcta: l'efecte acostuma a aparèixer en uns dos dies.",
+   "b": "Incorrecta: menys de 24 hores és poc habitual amb la lactulosa.",
+   "c": "Incorrecta: menys de 6 hores correspon a laxants més ràpids, com els rectals.",
+   "d": "Incorrecta: no cal esperar una setmana perquè faci efecte."
+  },
+  "key_point": "La lactulosa triga uns 1-2 dies a fer efecte: cal començar-la juntament amb l'opioide.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-57",
+  "summary": "Els contactes infantils d'un cas de tuberculosi pulmonar s'estudien amb la prova de la tuberculina (PPD) i, si cal, amb IGRA i radiografia. Si la prova és positiva i es descarta la malaltia activa, es fa tractament de la infecció tuberculosa latent, clàssicament amb isoniazida durant 6 mesos. Si és negativa, en els infants més petits es fa una profilaxi i es repeteix la prova al cap d'unes setmanes. La clau oficial considera correcta la pauta de 6 mesos condicionada a un PPD positiu.",
+  "options": {
+   "a": "Incorrecta: en un infant de 10 anys la indicació depèn del resultat del PPD; la profilaxi amb independència del PPD es fa sobretot en infants més petits.",
+   "b": "Correcta segons la clau: si el PPD és positiu i no hi ha malaltia, cal fer tractament preventiu durant 6 mesos.",
+   "c": "Incorrecta segons la clau: la durada de referència considerada a l'examen és de 6 mesos.",
+   "d": "Incorrecta: el tractament de la infecció latent depèn de si el PPD és positiu; no es fa independentment del resultat."
+  },
+  "key_point": "Contactes de TB: primer PPD o IGRA i descartar malaltia activa; si la prova és positiva, tractament de la infecció latent.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": "La terminología de la opción oficial es imprecisa: con PPD positivo se trata de quimioprofilaxis secundaria (tratamiento de la infección tuberculosa latente), no primaria. Además, la duración con isoniazida (6 vs 9 meses en niños) es variable según las guías, y hoy existen pautas cortas (rifampicina 4 meses, isoniazida + rifampicina 3 meses, 3HP) y uso de IGRA. Conviene revisar el protocolo vigente de Cataluña.",
+  "confidence": "low"
+ },
+ {
+  "id": "ics-dsi-2015-A-58",
+  "summary": "L'ona P representa la despolarització de les aurícules i és la primera deflexió del cicle cardíac a l'ECG. En condicions normals és positiva en la majoria de derivacions (com DII), dura 0,11 s o menys i té una amplitud de menys de 2,5 mm. La despolarització ventricular correspon al complex QRS.",
+  "options": {
+   "a": "Incorrecta: l'ona U és una ona tardana posterior a la T, sense relació amb la P.",
+   "b": "Correcta: l'ona P és la despolarització auricular i dura ≤0,11 s.",
+   "c": "Incorrecta: la despolarització ventricular és el QRS.",
+   "d": "Incorrecta: l'ona P normal sol ser positiva i dura més de 0,04 s."
+  },
+  "key_point": "P = aurícules (≤0,11 s); QRS = despolarització ventricular; T = repolarització ventricular.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-59",
+  "summary": "La tècnica de fricció amb solució alcohòlica de l'OMS té una seqüència de passos: palmell contra palmell, palmell sobre dors, palmells amb els dits entrellaçats, dors dels dits contra el palmell oposat, rotació dels polzes i, finalment, fricció rotatòria de les puntes dels dits sobre el palmell contrari. Després es deixa assecar.",
+  "options": {
+   "a": "Incorrecta: el palmell sobre el dors és un dels primers passos.",
+   "b": "Incorrecta: el dors dels dits contra el palmell és un pas intermedi.",
+   "c": "Incorrecta: la rotació dels polzes és el penúltim pas.",
+   "d": "Correcta: la fricció de les puntes dels dits sobre el palmell és l'últim pas abans d'assecar."
+  },
+  "key_point": "La higiene de mans de l'OMS acaba amb les puntes dels dits fregant el palmell contrari.",
+  "sources": [
+   {
+    "type": "ref",
+    "label": "OMS, Guidelines on Hand Hygiene in Health Care (2009)"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-60",
+  "summary": "En una UBE (a Espanya, 10 g d'alcohol), prendre 6 o més UBE en una sola ocasió es considera un consum intensiu, també anomenat «atracó» o binge drinking, encara que la mitjana setmanal sigui baixa. Aquest patró comporta un risc alt d'intoxicacions, accidents, violència i conductes de risc. Per això es classifica com a risc alt.",
+  "options": {
+   "a": "Incorrecta: 6 UBE en una ocasió no és un consum de risc baix.",
+   "b": "Incorrecta segons la clau: aquest patró de consum intensiu es considera de risc alt.",
+   "c": "Incorrecta: el «risc ocasional» no és una categoria estàndard.",
+   "d": "Correcta: el consum intensiu episòdic de 6 UBE o més implica risc alt."
+  },
+  "key_point": "6 UBE o més en una ocasió és un consum intensiu (binge) i un risc alt encara que sigui només el cap de setmana.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-61",
+  "summary": "Després d'una crisi convulsiva, si la persona està inconscient o amb el nivell de consciència disminuït, es col·loca en decúbit lateral, en posició lateral de seguretat, amb el cap lleugerament cap endavant. Així la llengua no obstrueix la via aèria i les secrecions o els vòmits poden sortir, cosa que redueix el risc d'aspiració.",
+  "options": {
+   "a": "Incorrecta: la posició de Fowler alta no protegeix la via aèria d'una persona amb la consciència disminuïda.",
+   "b": "Incorrecta: el decúbit supí afavoreix l'obstrucció per la llengua i l'aspiració.",
+   "c": "Correcta: el decúbit lateral protegeix la via aèria i facilita el drenatge de secrecions.",
+   "d": "Incorrecta: la posició de Trendelenburg no està indicada i pot augmentar la pressió intracranial."
+  },
+  "key_point": "Després d'una convulsió: posició lateral de seguretat, sense posar res a la boca.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-62",
+  "summary": "L'envelliment fisiològic comporta una immunosenescència, és a dir, una disminució de la resposta immunitària. Això augmenta la susceptibilitat a les infeccions i fa que es presentin de manera atípica. També disminueixen la velocitat de conducció nerviosa, l'agudesa visual i la massa òssia.",
+  "options": {
+   "a": "Incorrecta: la velocitat de conducció nerviosa disminueix amb l'edat.",
+   "b": "Incorrecta: l'agudesa visual disminueix (presbícia, cataractes).",
+   "c": "Incorrecta: la massa òssia disminueix.",
+   "d": "Correcta: la immunosenescència augmenta la susceptibilitat a les infeccions."
+  },
+  "key_point": "Amb l'edat disminueixen moltes funcions, i per això augmenta el risc d'infecció.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-63",
+  "summary": "El volum corrent és la quantitat d'aire que entra i surt dels pulmons en cada respiració tranquil·la, uns 500 mL en un adult. La capacitat pulmonar total és el volum màxim després d'una inspiració màxima. El volum residual és l'aire que queda després d'una espiració forçada.",
+  "options": {
+   "a": "Correcta: és la definició del volum corrent.",
+   "b": "Incorrecta: això és la capacitat pulmonar total.",
+   "c": "Incorrecta: després d'una espiració forçada queda el volum residual, no una capacitat màxima.",
+   "d": "Incorrecta: l'aire que queda després d'una espiració normal és la capacitat residual funcional."
+  },
+  "key_point": "Volum corrent: l'aire d'una respiració normal (uns 500 mL).",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-64",
+  "summary": "En la prevenció de les lesions per pressió no s'han de fer massatges a les prominències òssies ni a les zones envermellides. El massatge pot danyar els teixits que ja estan compromesos. La pell s'ha de mantenir neta, seca i hidratada, i la roba de llit ha de ser de teixits naturals i sense arrugues.",
+  "options": {
+   "a": "Incorrecta (és recomanable): rentar la pell amb aigua tèbia i sabó neutre és adequat.",
+   "b": "Incorrecta (és recomanable): hidratar la pell amb cremes sense colorants és adequat.",
+   "c": "Correcta: no s'han de fer massatges intensos a les zones envermellides.",
+   "d": "Incorrecta (és recomanable): la roba de llit de teixits naturals és adequada."
+  },
+  "key_point": "Zona envermellida: no s'hi fa massatge, s'alleuja la pressió.",
+  "sources": [
+   {
+    "type": "ref",
+    "label": "EPUAP/NPIAP/PPPIA, Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline (2019)"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-65",
+  "summary": "L'índex de Barthel mesura el grau d'independència en 10 activitats bàsiques de la vida diària, amb una puntuació de 0 a 100. Les interpretacions habituals són: menys de 20, dependència total; 20-35, greu; 40-55, moderada; 60 o més, lleu; 100, independència. Una puntuació de 25 indica una dependència greu.",
+  "options": {
+   "a": "Correcta: el Barthel valora les activitats bàsiques de la vida diària.",
+   "b": "Incorrecta: no valora la funció cognitiva; per a això hi ha el Pfeiffer o el MMSE.",
+   "c": "Incorrecta: 25 punts correspon a una dependència greu, no moderada.",
+   "d": "Incorrecta: 25 punts no és una dependència lleu."
+  },
+  "key_point": "Barthel = ABVD (0-100); Lawton = activitats instrumentals; Pfeiffer = cognició.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-66",
+  "summary": "L'estrès és un estat de tensió davant una amenaça real o percebuda. La resposta biològica està mediada per l'encèfal (eix hipotàlem-hipòfisi-suprarenal i sistema simpàtic), i la psicoemocional, per l'afrontament. L'activació simpàtica allibera catecolamines, que augmenten la freqüència cardíaca i la tensió arterial.",
+  "options": {
+   "a": "Incorrecta (és certa): és la definició d'estrès.",
+   "b": "Incorrecta (és certa): les respostes biofísiques estan mediades per l'encèfal.",
+   "c": "Incorrecta (és certa): l'afrontament modula la resposta psicoemocional.",
+   "d": "Correcta (és falsa): la resposta simpàtica augmenta la freqüència cardíaca i la TA."
+  },
+  "key_point": "Estrès = resposta simpàtica de lluita o fugida: més FC, més TA i més glucèmia.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-67",
+  "summary": "En alguns pacients amb MPOC i hipercàpnia crònica, administrar oxigen a concentracions altes pot empitjorar la hipercàpnia. Això passa per alteració de la relació ventilació/perfusió, per l'efecte Haldane i per la disminució de l'estímul ventilatori. Pot provocar una acidosi respiratòria, somnolència (narcosi) i, en el cas extrem, apnea. Per això en aquests pacients es fa una oxigenoteràpia controlada, buscant una saturació d'un 88-92%.",
+  "options": {
+   "a": "Incorrecta: el dolor anginós no és la complicació esperada de l'excés d'oxigen.",
+   "b": "Incorrecta: la retenció de CO2 causa acidosi respiratòria, no alcalosi.",
+   "c": "Correcta: la hipercàpnia progressiva pot deprimir el centre respiratori i provocar apnea.",
+   "d": "Incorrecta: l'alteració és respiratòria (per retenció de CO2), no metabòlica."
+  },
+  "key_point": "Pacient amb MPOC retenidor: oxigen controlat (SatO2 88-92%) per evitar hipercàpnia, narcosi i apnea.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-68",
+  "summary": "El coma mixedematós és la forma més greu de l'hipotiroïdisme descompensat i sovint el desencadena una infecció, el fred o els sedants. Es manifesta amb disminució de la consciència, hipotèrmia, bradicàrdia, hipoventilació i hiponatrèmia. És una urgència vital.",
+  "options": {
+   "a": "Correcta: el coma mixedematós és la complicació més greu de l'hipotiroïdisme.",
+   "b": "Incorrecta: la complicació greu de l'hipertiroïdisme és la crisi o tempesta tirotòxica.",
+   "c": "Incorrecta: l'hipoparatiroïdisme causa hipocalcèmia i tetània.",
+   "d": "Incorrecta: l'hiperparatiroïdisme causa hipercalcèmia."
+  },
+  "key_point": "Hipotiroïdisme greu: coma mixedematós; hipertiroïdisme greu: tempesta tiroïdal.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-69",
+  "summary": "Segons el criteri de l'OMS, és fumadora la persona que ha fumat diàriament durant l'últim mes, sigui quina sigui la quantitat, encara que sigui una sola cigarreta al dia. Per tant, una cigarreta diària després de dinar la classifica com a fumadora. No hi ha cap consum de tabac sense risc.",
+  "options": {
+   "a": "Correcta: fumar cada dia, encara que sigui una sola cigarreta, defineix una persona fumadora.",
+   "b": "Incorrecta: «fumadora potencial» no és una categoria aplicable a qui ja fuma cada dia.",
+   "c": "Incorrecta: fuma cada dia, de manera que no és no fumadora.",
+   "d": "Incorrecta: el fumador ocasional és el que no fuma cada dia."
+  },
+  "key_point": "Fumar una sola cigarreta cada dia ja és ser fumador diari.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-70",
+  "summary": "L'enalapril és un IECA. En inhibir l'enzim conversiu, també impedeix la degradació de la bradicinina, que s'acumula i pot provocar una tos seca persistent, sovint nocturna. Si la tos és molesta, se sol substituir per un ARA-II. Els IECA també poden causar hiperpotassèmia i angioedema.",
+  "options": {
+   "a": "Incorrecta: els IECA tendeixen a provocar hiperpotassèmia, no hipopotassèmia.",
+   "b": "Correcta: la tos seca persistent és l'efecte secundari típic dels IECA.",
+   "c": "Incorrecta: la hipersòmnia no és un efecte característic dels IECA.",
+   "d": "Incorrecta: l'hirsutisme no és un efecte descrit de l'enalapril."
+  },
+  "key_point": "IECA (-pril): tos seca, hiperpotassèmia i angioedema.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-71",
+  "summary": "El quadre és una disreflèxia autonòmica, una urgència en lesions medul·lars altes (normalment per sobre de T6). Un estímul nociceptiu per sota de la lesió, sovint un globus vesical o una impactació fecal, desencadena una hipertensió greu. La primera actuació és incorporar el pacient (capçal elevat i cames avall) per reduir la TA i buscar i eliminar la causa.",
+  "options": {
+   "a": "Correcta: elevar el capçal al màxim afavoreix una hipotensió ortostàtica que ajuda a reduir la TA.",
+   "b": "Incorrecta: el ventilador no tracta la causa i la sudoració és un símptoma del quadre.",
+   "c": "Correcta: cal buscar la causa desencadenant, sobretot el globus vesical i la impactació fecal.",
+   "d": "Incorrecta: elevar les cames augmenta el retorn venós i empitjora la hipertensió."
+  },
+  "key_point": "Disreflèxia autonòmica: incorporar el pacient i buscar un globus vesical o un fecaloma.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-72",
+  "summary": "El Codi d'ètica de les infermeres i infermers de Catalunya organitza el contingut entorn de valors professionals. Entre aquests valors hi ha la responsabilitat i el compromís professional, l'autonomia de la persona i la justícia social, i la intimitat i la confidencialitat. La «competència ètica i moral individual» no hi figura com a valor.",
+  "options": {
+   "a": "Correcta: la responsabilitat infermera i el compromís professional són valors explicitats al Codi.",
+   "b": "Correcta: l'autonomia de la persona i la justícia social hi figuren com a valors.",
+   "c": "Correcta: la intimitat i la confidencialitat hi figuren com a valors.",
+   "d": "Incorrecta: no és un dels valors explicitats al Codi."
+  },
+  "key_point": "Valors del Codi d'ètica: responsabilitat i compromís, autonomia i justícia social, intimitat i confidencialitat.",
+  "sources": [
+   {
+    "type": "ref",
+    "label": "Codi d'ètica de les infermeres i infermers de Catalunya (CCIIC, 2013)"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-73",
+  "summary": "La higiene de mans és la mesura més important, senzilla i eficaç per prevenir les infeccions relacionades amb l'atenció sanitària, perquè les mans són la principal via de transmissió entre pacients. Actualment es prefereix la fricció amb solució alcohòlica, i el rentat amb aigua i sabó es reserva per quan les mans estan brutes de manera visible.",
+  "options": {
+   "a": "Incorrecta: l'esterilització és essencial per al material crític, però no és la mesura més important de manera global.",
+   "b": "Incorrecta: portar bates netes no té l'impacte de la higiene de mans.",
+   "c": "Correcta: la higiene de mans és la mesura més important.",
+   "d": "Incorrecta: els guants no substitueixen la higiene de mans, i fer-los servir malament pot transmetre infeccions."
+  },
+  "key_point": "La higiene de mans és la mesura número u contra la infecció nosocomial.",
+  "sources": [
+   {
+    "type": "ref",
+    "label": "OMS, Guidelines on Hand Hygiene in Health Care (2009)"
+   }
+  ],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-74",
+  "summary": "En l'acompanyament del dol cal facilitar que la persona expressi sentiments, valorar els seus recursos d'afrontament i explorar la culpa i els remordiments, que poden complicar el procés. No s'han de donar pautes perquè la persona eviti els records, ni imposar l'acceptació. Evitar els records dificulta l'elaboració de la pèrdua.",
+  "options": {
+   "a": "Incorrecta (s'aplicaria): valorar les habilitats per sobreposar-se és adequat.",
+   "b": "Incorrecta (s'aplicaria): valorar la culpa i els remordiments ajuda a detectar un dol complicat.",
+   "c": "Incorrecta (s'aplicaria): facilitar l'expressió emocional és una intervenció clau.",
+   "d": "Correcta: dir-li que eviti els records dificulta l'elaboració del dol."
+  },
+  "key_point": "Dol: facilitar l'expressió i el record, i no forçar-ne l'oblit.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-75",
+  "summary": "Els exercicis de Kegel enforteixen la musculatura del sòl pelvià. També són útils en la incontinència d'urgència, perquè contreure el sòl pelvià ajuda a inhibir la contracció del detrusor i a controlar la urgència, i se solen combinar amb la reeducació vesical. Les altres opcions no són tècniques indicades per a aquest problema.",
+  "options": {
+   "a": "Correcta: els exercicis de Kegel ajuden a controlar la urgència i les pèrdues.",
+   "b": "Incorrecta: les emissions forçades no corregeixen la incontinència.",
+   "c": "Incorrecta: la percussió no és una tècnica per tractar la incontinència d'urgència.",
+   "d": "Incorrecta: la maniobra de Credé (pressió suprapúbica) serveix per buidar la bufeta en la retenció o la bufeta neurògena, no per a la urgència."
+  },
+  "key_point": "Incontinència d'urgència: exercicis de Kegel i reeducació vesical; el Credé és per a la retenció.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-76",
+  "summary": "En la insuficiència cardíaca esquerra descompensada, la pressió capil·lar pulmonar augmenta i el líquid passa als alvèols. Això provoca dispnea intensa, ortopnea, inquietud, tos i expectoració escumosa i rosada, signes típics de l'edema agut de pulmó. És una urgència que requereix incorporar el pacient, administrar oxigen i diürètics segons la prescripció.",
+  "options": {
+   "a": "Incorrecta: una sobreinfecció produiria febre i esput purulent, no rosat i escumós.",
+   "b": "Incorrecta: l'hemorràgia pulmonar produiria hemoptisi franca, no expectoració escumosa rosada en un context d'ICC.",
+   "c": "Incorrecta: l'IAM es manifesta sobretot amb dolor toràcic, encara que pot desencadenar un EAP.",
+   "d": "Correcta: l'expectoració escumosa rosada amb dispnea en una ICC és característica de l'edema agut de pulmó."
+  },
+  "key_point": "ICC amb dispnea i esput rosat escumós: edema agut de pulmó.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-77",
+  "summary": "Els factors de risc de suïcidi principals són els trastorns mentals (especialment la depressió greu), el consum de tòxics, els intents previs, els antecedents familiars de suïcidi, l'aïllament social i les malalties cròniques. Tenir fills a càrrec (paternitat) es considera un factor protector, no de risc.",
+  "options": {
+   "a": "Incorrecta: la depressió greu és un dels principals factors de risc.",
+   "b": "Incorrecta: els antecedents familiars de suïcidi augmenten el risc.",
+   "c": "Incorrecta: la drogodependència és un factor de risc.",
+   "d": "Correcta: la paternitat (tenir fills) és un factor protector."
+  },
+  "key_point": "Suïcidi: depressió, tòxics, intents previs i antecedents familiars són factors de risc; els fills i el suport social protegeixen.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-78",
+  "summary": "El control neurovascular d'una extremitat amb tracció, embenat o guix consisteix a valorar la circulació i la funció nerviosa per sota de la lesió. Inclou els polsos perifèrics, el color, la temperatura, l'emplenament capil·lar, la sensibilitat, la mobilitat i el dolor. Permet detectar a temps la compressió vascular o nerviosa i la síndrome compartimental.",
+  "options": {
+   "a": "Incorrecta: mantenir l'extremitat alineada és una cura de la tracció, no un control neurovascular.",
+   "b": "Incorrecta: les peses no s'han de manipular, han de penjar lliurement.",
+   "c": "Correcta: el control neurovascular valora els polsos, la temperatura i la sensibilitat.",
+   "d": "Incorrecta: són constants generals, no un control neurovascular de l'extremitat."
+  },
+  "key_point": "Control neurovascular: polsos, color, temperatura, emplenament capil·lar, sensibilitat, mobilitat i dolor de l'extremitat.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-79",
+  "summary": "La CPRE és una endoscòpia en què es canul·la la papil·la de Vater per accedir a les vies biliars i pancreàtiques. Les seves complicacions directes són la pancreatitis (la més freqüent), la colangitis, l'hemorràgia (sobretot després d'una esfinterotomia) i la perforació. La diverticulitis és una malaltia del colon i no té relació amb aquest procediment.",
+  "options": {
+   "a": "Incorrecta: la pancreatitis és la complicació més freqüent de la CPRE.",
+   "b": "Correcta: la diverticulitis no és una complicació de la CPRE.",
+   "c": "Incorrecta: la colangitis és una complicació coneguda.",
+   "d": "Incorrecta: la perforació és una complicació possible del procediment."
+  },
+  "key_point": "CPRE: pancreatitis, colangitis, hemorràgia i perforació.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-80",
+  "summary": "Davant d'una persona agressiva cal mantenir la calma i l'autocontrol, mostrar cordialitat i empatia i no respondre amb agressivitat. El contrabalanceig emocional consisteix a respondre amb la calma contrària a la tensió de l'altre. Si s'ha comès un error, reconèixer-lo ajuda a desactivar el conflicte, de manera que no fer-ho és incorrecte.",
+  "options": {
+   "a": "Incorrecta (és correcta): la cordialitat i l'empatia ajuden a desarticular l'agressivitat.",
+   "b": "Incorrecta (és correcta): el contrabalanceig emocional és una estratègia recomanada.",
+   "c": "Incorrecta (és correcta): l'autocontrol evita que el professional es contagiï de l'emoció de l'altre.",
+   "d": "Correcta: no reconèixer un error alimenta el conflicte; cal reconèixer-lo."
+  },
+  "key_point": "Davant l'agressivitat: calma, empatia i, si hi ha hagut un error, reconèixer-lo.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-81",
+  "summary": "La major part de l'aigua que arriba al tub digestiu (ingerida i de les secrecions) es reabsorbeix a l'intestí prim, sobretot al jejú i a l'ili. El colon reabsorbeix una part més petita, però és la que determina la consistència de la femta. L'estómac gairebé no absorbeix aigua.",
+  "options": {
+   "a": "Correcta: la major part de l'aigua es reabsorbeix a l'intestí prim.",
+   "b": "Incorrecta: el colon descendent absorbeix poca aigua comparat amb l'intestí prim.",
+   "c": "Incorrecta: el colon absorbeix aigua, però en quantitat més petita que l'intestí prim.",
+   "d": "Incorrecta: l'estómac absorbeix molt poca aigua."
+  },
+  "key_point": "L'aigua s'absorbeix sobretot a l'intestí prim; el colon fa l'ajust final.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-82",
+  "summary": "El virus de l'hepatitis C es transmet per via parenteral (sang), no per via respiratòria. Per això les precaucions estàndard són suficients: higiene de mans, guants quan hi ha contacte amb sang i notificació de les exposicions accidentals. La mascareta no és necessària per visitar el pacient.",
+  "options": {
+   "a": "Incorrecta (és necessària): la higiene de mans es fa abans i després d'atendre qualsevol pacient.",
+   "b": "Incorrecta (és necessària): qualsevol exposició accidental s'ha de notificar per fer-ne el seguiment.",
+   "c": "Correcta: la mascareta no és necessària perquè el VHC no es transmet per l'aire.",
+   "d": "Incorrecta (és necessària): cal fer servir guants en l'extracció de sang."
+  },
+  "key_point": "El VHC es transmet per la sang, no per l'aire: precaucions estàndard i cap mascareta.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-83",
+  "summary": "L'atenolol és un betablocador cardioselectiu (β1). Redueix la freqüència cardíaca i la contractilitat, i també la tensió arterial. Per això cal controlar el pols abans d'administrar-lo. La resta són antihipertensius que no baixen la freqüència cardíaca.",
+  "options": {
+   "a": "Incorrecta: l'enalapril (IECA) no disminueix la freqüència cardíaca.",
+   "b": "Correcta: l'atenolol, com a betablocador, produeix bradicàrdia.",
+   "c": "Incorrecta: la hidralazina és vasodilatadora i pot provocar taquicàrdia reflexa.",
+   "d": "Incorrecta: el losartan (ARA-II) no modifica significativament la freqüència cardíaca."
+  },
+  "key_point": "Els betablocadors (-olol) baixen la FC: cal comprovar el pols abans d'administrar-los.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-84",
+  "summary": "Les estratègies d'afrontament adaptatives ajuden a gestionar l'estrès: expressar les emocions, reinterpretar la situació de manera positiva o racionalitzar-la. Disminuir l'activitat física és una conducta d'evitació i aïllament que empitjora l'estat físic i emocional, i per això es considera no adaptativa.",
+  "options": {
+   "a": "Correcta: disminuir l'activitat física és una resposta no adaptativa.",
+   "b": "Incorrecta segons la clau: racionalitzar es considera aquí una estratègia cognitiva adaptativa.",
+   "c": "Incorrecta: reinterpretar la situació és una estratègia adaptativa.",
+   "d": "Incorrecta: l'expressió emocional és adaptativa."
+  },
+  "key_point": "Afrontament adaptatiu: expressar, reinterpretar i mantenir l'activitat; retirar-se i inhibir-se és desadaptatiu.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ },
+ {
+  "id": "ics-dsi-2015-A-85",
+  "summary": "En la hiponatrèmia aguda greu, el plasma queda hipotònic i l'aigua passa a l'interior de les cèl·lules. A l'encèfal, això produeix edema cerebral. S'han de vigilar la cefalea, les nàusees, la confusió, les convulsions i la disminució de la consciència. A més, la correcció massa ràpida del sodi pot causar una mielinòlisi pontina.",
+  "options": {
+   "a": "Incorrecta: l'angioedema és d'origen al·lèrgic o farmacològic.",
+   "b": "Incorrecta: l'edema agut de pulmó no és la complicació característica de la hiponatrèmia.",
+   "c": "Correcta: el principal risc de la hiponatrèmia aguda greu és l'edema cerebral.",
+   "d": "Incorrecta: l'edema de glotis no hi té relació."
+  },
+  "key_point": "Hiponatrèmia aguda: edema cerebral (cefalea, confusió, convulsions); cal corregir-la amb prudència.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-86",
+  "summary": "En l'educació per a la salut, els objectius han de ser clars, concrets, realistes, avaluables i pactats amb els destinataris. Amb adolescents és especialment important que hi participin i se'ls facin seus. Es poden formular diversos objectius, generals i específics.",
+  "options": {
+   "a": "Correcta: els objectius han de ser clars i realistes.",
+   "b": "Incorrecta: s'han de formular en termes de conducta observable i avaluable, no en termes neutres.",
+   "c": "Incorrecta: els adolescents haurien de participar en la definició dels objectius.",
+   "d": "Incorrecta: es poden formular diversos objectius."
+  },
+  "key_point": "Objectius educatius: clars, realistes, mesurables i pactats amb els destinataris.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-87",
+  "summary": "La situació d'agonia (últims dies) es caracteritza per deteriorament general, disminució de la consciència, inquietud o agitació, ranera, alteracions respiratòries i alteracions urinàries (oligúria o retenció). L'estomatitis no n'és una manifestació característica, encara que s'han de fer cures de la boca perquè la boca seca és freqüent.",
+  "options": {
+   "a": "Incorrecta: la inquietud o agitació és freqüent en l'agonia.",
+   "b": "Incorrecta: l'oligúria i la retenció urinària són freqüents.",
+   "c": "Incorrecta: la ranera és un signe típic dels últims dies.",
+   "d": "Correcta: l'estomatitis no és una manifestació característica de l'agonia."
+  },
+  "key_point": "Agonia: inquietud, ranera, alteracions respiratòries i oligúria; les cures de la boca són essencials.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-88",
+  "summary": "La preeclàmpsia es defineix per una hipertensió que apareix després de la setmana 20 de gestació, amb proteïnúria o amb altres signes de dany d'òrgan. La proteïnúria reflecteix l'afectació renal. Per això, en una gestant hipertensa, la seva aparició és un indicador clàssic de preeclàmpsia.",
+  "options": {
+   "a": "Incorrecta: l'hematúria no defineix la preeclàmpsia.",
+   "b": "Correcta: la proteïnúria és el signe clàssic de preeclàmpsia.",
+   "c": "Incorrecta: la cetonúria s'associa a dejuni o vòmits.",
+   "d": "Incorrecta: la glucosúria orienta a una diabetis gestacional o és fisiològica."
+  },
+  "key_point": "Hipertensió gestacional i proteïnúria: preeclàmpsia.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-89",
+  "summary": "Amb l'inhalador pressuritzat, primer s'agita, després s'expulsa l'aire a fons i, en començar una inspiració lenta i profunda, es prem el polsador. Després es reté la respiració uns 10 segons i s'esperen uns 30 segons abans de la inhalació següent. La inspiració ha de ser profunda, no superficial, perquè el fàrmac arribi als bronquis.",
+  "options": {
+   "a": "Incorrecta (és certa): cal agitar l'inhalador abans de fer-lo servir.",
+   "b": "Incorrecta (és certa): cal retenir la respiració uns 10 segons.",
+   "c": "Incorrecta (és certa): cal esperar uns 30 segons entre inhalacions.",
+   "d": "Correcta (és falsa): abans s'ha de fer una espiració completa, i la inhalació ha de ser lenta i profunda."
+  },
+  "key_point": "Inhalador pressuritzat: agitar, expulsar l'aire, inhalar lentament i profundament, retenir 10 s i esperar 30 s.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-90",
+  "summary": "L'ansietat de separació és normal en infants petits i sovint es reactiva en començar l'escola. Es manifesta amb aferrament als pares, plors, queixes somàtiques (mal de panxa) en el moment de separar-se i dificultat per dormir sols. Si és proporcionada i transitòria, n'hi ha prou d'orientar els pares.",
+  "options": {
+   "a": "Correcta: les manifestacions descrites són típiques de l'ansietat de separació.",
+   "b": "Incorrecta: «ansietat d'incertesa» no és el quadre característic que es descriu.",
+   "c": "Incorrecta: el quadre és de la nena, no dels pares.",
+   "d": "Incorrecta: «ansietat fisiològica» no és el terme que defineix aquest quadre."
+  },
+  "key_point": "Inici de l'escola amb aferrament, plors i mal de panxa al matí: ansietat de separació.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-91",
+  "summary": "El signe de Battle és una equimosi a la regió mastoidal, darrere de l'orella. Apareix al cap d'hores o dies d'un traumatisme i indica una possible fractura de la base del crani (os temporal). Altres signes d'aquest tipus de fractura són l'equimosi periorbitària bilateral, l'otolicorrea i la rinolicorrea.",
+  "options": {
+   "a": "Incorrecta: el signe de Battle no és dolor, sinó una equimosi visible.",
+   "b": "Correcta: és l'equimosi a la zona de l'apòfisi mastoide.",
+   "c": "Incorrecta: les parestèsies facials no defineixen aquest signe.",
+   "d": "Incorrecta: el tinnitus pot aparèixer, però no és el signe de Battle."
+  },
+  "key_point": "Battle = hematoma mastoidal; juntament amb l'equimosi periorbitària, fa sospitar una fractura de la base del crani.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-92",
+  "summary": "L'embòlia grassa apareix típicament entre 24 i 72 hores després d'una fractura d'os llarg, com la tíbia o el fèmur. Es presenta amb la tríada d'insuficiència respiratòria (taquipnea, hipoxèmia), alteració neurològica (desorientació) i erupció petequial, sovint amb febre i taquicàrdia.",
+  "options": {
+   "a": "Incorrecta: la TVP es manifesta amb dolor i edema de l'extremitat, sense petèquies.",
+   "b": "Incorrecta: el xoc neurogènic s'associa a lesió medul·lar i cursa amb hipotensió i bradicàrdia.",
+   "c": "Correcta: dificultat respiratòria, desorientació i petèquies després d'una fractura són típiques de l'embòlia grassa.",
+   "d": "Incorrecta: la síndrome compartimental produeix dolor intens i compromís local de l'extremitat."
+  },
+  "key_point": "Fractura d'os llarg i, al cap de 24-72 h, dispnea, confusió i petèquies: embòlia grassa.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-93",
+  "summary": "En la disfàgia, la flexió anterior del coll protegeix la via aèria. L'EAT-10 és un instrument de cribratge, i les complicacions respiratòries (pneumònia per aspiració) són la principal causa de mort. Quant a les textures, el nèctar és el grau d'espessiment més lleuger, seguit del de mel i del de púding. Per això atribuir al nèctar un espessor extrem és fals.",
+  "options": {
+   "a": "Incorrecta (és certa): la flexió anterior del coll en deglutir protegeix la via aèria.",
+   "b": "Incorrecta (és certa): l'EAT-10 és un mètode de cribratge de la disfàgia.",
+   "c": "Incorrecta (és certa): les complicacions respiratòries són la principal causa de mortalitat.",
+   "d": "Correcta (és falsa): la textura nèctar correspon a l'espessor més baix, no a un espessor extrem (que seria el púding)."
+  },
+  "key_point": "Textures: nèctar (lleuger) < mel < púding (extrem); avui es classifiquen amb el marc IDDSI.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": "La terminología néctar/miel/pudin ha sido sustituida en muchos centros por el marco IDDSI (niveles 0-7); la respuesta sigue siendo correcta conceptualmente.",
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-94",
+  "summary": "La neutropènia febril (menys de 500 neutròfils/mm³ i febre) és una urgència oncològica. Sense neutròfils, una infecció pot progressar ràpidament cap a una sèpsia i un xoc sèptic, amb pocs signes locals. Cal treure hemocultius i començar els antibiòtics empírics de manera precoç.",
+  "options": {
+   "a": "Correcta: les complicacions principals són la sèpsia i el xoc sèptic.",
+   "b": "Incorrecta: la immunodepressió ja hi és; no és una complicació potencial.",
+   "c": "Incorrecta: el risc principal no és una infestació.",
+   "d": "Incorrecta: l'aplàsia és la causa de la neutropènia, no la complicació."
+  },
+  "key_point": "Neutropènia febril: risc de sèpsia i de xoc sèptic, per això cal començar l'antibiòtic dins la primera hora.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-95",
+  "summary": "La TAM s'estima amb la fórmula TAM = (TAS + 2 × TAD) / 3, perquè la diàstole dura més que la sístole. Amb 126/80: (126 + 160) / 3 = 286 / 3 ≈ 95 mmHg. Una TAM de 65 mmHg o més es considera necessària per garantir la perfusió dels òrgans.",
+  "options": {
+   "a": "Incorrecta: 106 mmHg no correspon a la fórmula.",
+   "b": "Incorrecta: 85 mmHg no correspon a la fórmula.",
+   "c": "Correcta: (126 + 2 × 80) / 3 ≈ 95 mmHg.",
+   "d": "Incorrecta: 46 mmHg és la pressió diferencial (126 − 80), no la TAM."
+  },
+  "key_point": "TAM = (TAS + 2 × TAD) / 3; TAS − TAD = pressió diferencial.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-96",
+  "summary": "La mononucleosi infecciosa, causada pel virus d'Epstein-Barr, es presenta típicament en adolescents amb la tríada de febre, faringoamigdalitis i adenopaties cervicals. Sovint s'hi afegeixen astènia i esplenomegàlia. Per això cal evitar els esports de contacte durant unes setmanes.",
+  "options": {
+   "a": "Correcta: febre, faringitis i adenopaties cervicals són la tríada clàssica.",
+   "b": "Incorrecta: la icterícia i la pruïja no són les manifestacions més habituals.",
+   "c": "Incorrecta: el quadre sol cursar amb febre, no amb normotèrmia, i amb faringitis, no laringitis.",
+   "d": "Incorrecta: la tos nocturna no és característica."
+  },
+  "key_point": "Mononucleosi: febre, faringitis i adenopaties cervicals; atenció a l'esplenomegàlia.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-97",
+  "summary": "Una decanul·lació accidental pot comprometre la via aèria, sobretot en traqueostomies recents. L'actuació inicial és inserir una cànula nova (de recanvi, que sempre ha de ser a la capçalera, del mateix calibre o un de més petit) i demanar ajuda. No s'ha de perdre temps desinfectant la cànula que ha sortit.",
+  "options": {
+   "a": "Incorrecta: esperar 10 minuts mentre es desinfecta la cànula deixa el pacient sense via aèria segura.",
+   "b": "Incorrecta: tapar l'estoma sense reinserir la cànula no assegura la via aèria.",
+   "c": "Correcta: cal inserir una cànula nova i demanar ajuda.",
+   "d": "Incorrecta: netejar la cànula endarrereix l'actuació urgent."
+  },
+  "key_point": "Si es produeix una decanul·lació: cànula de recanvi (que sempre ha de ser a la capçalera) i demanar ajuda.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-98",
+  "summary": "L'antídot de la intoxicació per paracetamol és l'N-acetilcisteïna. Reposa el glutatió hepàtic i neutralitza el metabòlit tòxic (NAPQI), cosa que prevé la necrosi hepàtica. És més eficaç com més aviat s'administra, idealment en les primeres 8-10 hores.",
+  "options": {
+   "a": "Correcta: l'N-acetilcisteïna és l'antídot del paracetamol.",
+   "b": "Incorrecta: la penicil·lamina és un quelant (Wilson, metalls).",
+   "c": "Incorrecta: l'atropina s'utilitza en les intoxicacions per organofosforats o en la bradicàrdia.",
+   "d": "Incorrecta: la naloxona és l'antídot dels opioides."
+  },
+  "key_point": "Antídots: paracetamol → N-acetilcisteïna; opioides → naloxona; benzodiazepines → flumazenil.",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-99",
+  "summary": "Per conèixer la prevalença d'un problema en un moment concret (dolor no controlat a les 24 hores), el disseny adequat és un estudi observacional, descriptiu i transversal. Mesura la presència del fenomen en un sol tall temporal, sense intervenir ni comparar grups.",
+  "options": {
+   "a": "Incorrecta: els casos i controls són analítics i serveixen per estudiar factors associats, no per calcular la prevalença.",
+   "b": "Incorrecta: un disseny longitudinal segueix els subjectes en el temps, i el que es vol és mesurar un moment concret.",
+   "c": "Incorrecta: un disseny experimental implica una intervenció, i aquí no n'hi ha.",
+   "d": "Correcta: el transversal descriptiu és el disseny per estimar una prevalença."
+  },
+  "key_point": "Prevalença = estudi descriptiu transversal; incidència = estudi longitudinal (cohort).",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "high"
+ },
+ {
+  "id": "ics-dsi-2015-A-100",
+  "summary": "La utilització dels serveis sanitaris depèn de factors de la població (edat, sexe, nivell socioeconòmic, necessitat) i del sistema (accessibilitat, organització, oferta). Per això l'accessibilitat, l'organització del sistema i l'edat i el sexe hi estan associats. Les indicacions de les guies de pràctica clínica són un factor professional, no un determinant social.",
+  "options": {
+   "a": "Incorrecta: les guies de pràctica clínica orienten la decisió clínica, però no són un determinant social.",
+   "b": "Correcta: l'accessibilitat condiciona l'ús dels serveis.",
+   "c": "Correcta: l'organització del sistema sanitari influeix en com i quant s'utilitzen els serveis.",
+   "d": "Correcta: l'edat i el sexe són determinants clàssics de la utilització."
+  },
+  "key_point": "L'ús dels serveis depèn de la població (edat, sexe, condició social) i del sistema (accés i organització).",
+  "sources": [],
+  "agrees_with_official": true,
+  "doubt": null,
+  "confidence": "medium"
+ }
+]

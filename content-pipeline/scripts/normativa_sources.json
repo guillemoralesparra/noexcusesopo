@@ -1,0 +1,21 @@
+[
+  {"slug": "llei-15-1990", "short": "Llei 15/1990 (LOSC)", "jurisdiction": "catalunya", "source": "pjc", "eli": "https://portaljuridic.gencat.cat/eli/es-ct/l/1990/07/09/15", "temario": ["T1"]},
+  {"slug": "decret-196-2010", "short": "Decret 196/2010 (SISCAT)", "jurisdiction": "catalunya", "source": "pjc", "eli": "https://portaljuridic.gencat.cat/eli/es-ct/d/2010/12/14/196", "temario": ["T1"]},
+  {"slug": "ley-14-1986", "short": "Llei 14/1986 (LGS)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-1986-10499", "temario": ["T1", "T3"]},
+  {"slug": "llei-8-2007", "short": "Llei 8/2007 (ICS)", "jurisdiction": "catalunya", "source": "pjc", "eli": "https://portaljuridic.gencat.cat/eli/es-ct/l/2007/07/30/8", "temario": ["T2"]},
+  {"slug": "decret-13-2009", "short": "Decret 13/2009 (Estatuts ICS)", "jurisdiction": "catalunya", "source": "pjc", "eli": "https://portaljuridic.gencat.cat/eli/es-ct/d/2009/02/03/13", "temario": ["T2"]},
+  {"slug": "llei-21-2000", "short": "Llei 21/2000", "jurisdiction": "catalunya", "source": "pjc", "eli": "https://portaljuridic.gencat.cat/eli/es-ct/l/2000/12/29/21", "temario": ["T3", "T9"]},
+  {"slug": "ley-41-2002", "short": "Llei 41/2002", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2002-22188", "temario": ["T3", "T9"]},
+  {"slug": "lo-3-2018", "short": "LO 3/2018 (LOPDGDD)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2018-16673", "temario": ["T3"]},
+  {"slug": "rgpd", "short": "RGPD (Reglament UE 2016/679)", "jurisdiction": "ue", "source": "eurlex", "celex": "32016R0679", "temario": ["T3"]},
+  {"slug": "ley-55-2003", "short": "Llei 55/2003 (Estatut marc)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2003-23101", "temario": ["T4", "T6"]},
+  {"slug": "ley-53-1984", "short": "Llei 53/1984 (incompatibilitats)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-1985-151", "temario": ["T4"]},
+  {"slug": "rdl-5-2015", "short": "RDL 5/2015 (TREBEP)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2015-11719", "temario": ["T5"]},
+  {"slug": "ley-44-2003", "short": "Llei 44/2003 (LOPS)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2003-21340", "temario": ["T6", "T9"]},
+  {"slug": "ley-31-1995", "short": "Llei 31/1995 (LPRL)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-1995-24292", "temario": ["T7"]},
+  {"slug": "rd-39-1997", "short": "RD 39/1997 (Reglament serveis de prevenció)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-1997-1853", "temario": ["T7"]},
+  {"slug": "llei-17-2015", "short": "Llei 17/2015 (igualtat)", "jurisdiction": "catalunya", "source": "pjc", "eli": "https://portaljuridic.gencat.cat/eli/es-ct/l/2015/07/21/17", "temario": ["T8"]},
+  {"slug": "llei-5-2008", "short": "Llei 5/2008 (violència masclista)", "jurisdiction": "catalunya", "source": "pjc", "eli": "https://portaljuridic.gencat.cat/eli/es-ct/l/2008/04/24/5", "temario": ["T8"]},
+  {"slug": "lo-3-2021", "short": "LO 3/2021 (eutanàsia)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2021-4628", "temario": ["T9.3"]},
+  {"slug": "rd-954-2015", "short": "RD 954/2015 (prescripció infermera)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2015-14028", "temario": ["E6.6"]}
+]

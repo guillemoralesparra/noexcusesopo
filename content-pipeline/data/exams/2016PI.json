@@ -1,0 +1,1914 @@
+{
+ "exam_id": "ics-dsi-2016PI",
+ "title": "CONVOCATÒRIA DSI-PI-2016 – Primera prova",
+ "date": "2017-06-11",
+ "model": null,
+ "instructions": "CONVOCATÒRIA DSI-PI-2016. Categoria professional: Diplomat/ada sanitari/ària en infermeria (subgrup A2). Primera prova. Data: 11 de juny de 2017. Lloc: Barcelona – Universitat Pompeu Fabra.\n\nPRIMERA PROVA. PRIMER EXERCICI. TEST. Preguntes de la núm. 1 a la núm. 50\n\nPRIMERA PROVA. SEGON EXERCICI. SUPÒSIT PRÀCTIC. Cal escollir un dels 2 supòsits proposats:\n- En el cas que trieu el supòsit pràctic A, haureu de marcar la casella “A” del camp “Examen” del “Full de l’examen”, i respondre les preguntes de la núm. 101 a la núm. 120\n- En el cas que trieu el supòsit pràctic B, haureu de marcar la casella “B” del camp “Examen” del “Full de l’examen”, i respondre les preguntes de la núm. 121 a la núm. 140",
+ "cases": [
+  {
+   "id": "C1",
+   "title": "SUPÒSIT CLÍNIC A (Si escolliu aquest cas, les respostes s'han de marcar en les caselles 101 a la 120)",
+   "text": "La Sra. Maria té 83 anys i viu sola. Té antecedents d'hipertensió arterial (HTA) amb tractament farmacològic. La seva filla la veu per última vegada a les 10 h i la troba asimptomàtica. A les 17 h se la troba a terra amb una afàsia i amb una ferida incisocontusa a la zona frontal. S'activa el Codi ictus des del domicili. Arriba a urgències i se li realitza una tomografia axial computaritzada (TAC) de crani, es visualitza un infart de l'artèria cerebral mitjana (ACM) esquerra. En el moment de l'ingrés a la unitat d'ictus, les constants vitals són: pressió arterial (PA) 210/100 mmHg, freqüència cardíaca (FC) 70px', freqüència respiratòria (FR) 14 resp/m, afebril, glicèmia capil·lar de 98 mg/dl. Se li realitza un electrocardiograma (ECG) i s'evidencia una fibril·lació auricular.\n\nA les 48 hores de l'ictus, se li realitza un altre TAC de control i s'evidencia que no hi ha transformació hemorràgica, s'inicia tractament amb anticoagulants i posteriorment amb acenocumerol.\n\nNeurològicament, la pacient està amb una afàsia d'expressió, parèsia facial dreta, paralització braquial dreta i una parèsia crural dreta. Disfàgia total. Incontinència urinària, portadora de bolquer.\n\nA causa de la disfàgia i la poca col·laboració de la Maria, s'inicia nutrició enteral.\n\nA les 72 hores presenta millora de l'afàsia i inicia rehabilitació física i logopeda i es trasllada a una unitat d'hospitalització.",
+   "question_numbers": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "La Sra. Maria té 83 anys i viu sola. Té antecedents d'hipertensió arterial (HTA) amb tractament farmacològic. La seva filla la veu per última vegada a les 10 h i la troba asimptomàtica. A les 17 h se la troba a terra amb una afàsia i amb una ferida incisocontusa a la zona frontal. S'activa el Codi ictus des del domicili. Arriba a urgències i se li realitza una tomografia axial computaritzada (TAC) de crani, es visualitza un infart de l'artèria cerebral mitjana (ACM) esquerra. En el moment de l'ingrés a la unitat d'ictus, les constants vitals són: pressió arterial (PA) 210/100 mmHg, freqüència cardíaca (FC) 70px', freqüència respiratòria (FR) 14 resp/m, afebril, glicèmia capil·lar de 98 mg/dl. Se li realitza un electrocardiograma (ECG) i s'evidencia una fibril·lació auricular.\n\nA les 48 hores de l'ictus, se li realitza un altre TAC de control i s'evidencia que no hi ha transformació hemorràgica, s'inicia tractament amb anticoagulants i posteriorment amb acenocumerol.\n\nNeurològicament, la pacient està amb una afàsia d'expressió, parèsia facial dreta, paralització braquial dreta i una parèsia crural dreta. Disfàgia total. Incontinència urinària, portadora de bolquer."
+    },
+    {
+     "from_question": 111,
+     "text": "A causa de la disfàgia i la poca col·laboració de la Maria, s'inicia nutrició enteral."
+    },
+    {
+     "from_question": 118,
+     "text": "A les 72 hores presenta millora de l'afàsia i inicia rehabilitació física i logopeda i es trasllada a una unitat d'hospitalització."
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "title": "SUPÒSIT CLÍNIC B (Si escolliu aquest cas, les respostes s'han de marcar en les caselles 121 a la 140)",
+   "text": "En Joan, de 80 anys, està casat amb la Montse, que té la mateixa edat que en Joan i viuen els dos sols. Tenen un fill de 58 anys, en Jordi, casat i amb 2 fills. Degut a la seva feina, només pot anar a veure els seus pares el cap de setmana.\n\nIgual que en Joan, en Jordi és diabètic. Fa 5 anys en Joan va ser diagnosticat d'una malaltia pulmonar obstructiva crònica (MPOC) i des de llavors ja no fuma. És portador d'oxigen domiciliari. Porta una vida sedentària i, a més, té antecedents d'hipertensió arterial, diabetis mellitus tipus 2 i una lesió al sacre, pel que rep diferents tractaments.\n\nEl Sr. Joan ha estat ingressat a l'hospital. A través del programa PREALT, ens comuniquen que l'endemà serà donat d'alta.\n\nL'endemà la infermera va al domicili i comença a fer la valoració de la situació familiar i personal del Sr. Joan, que es troba en fase estable de la malaltia.\n\nTot seguit, la infermera fa una revisió del tractament farmacològic.\n\nLa infermera ja ha finalitzat la valoració del Sr. Joan, i tot seguit ha de fixar els objectius, activitats i intervencions que cal dur a terme.\n\nAls 2 mesos, en Joan presenta un episodi de reagudització de l'MPOC i ha de ser ingressat novament a l'hospital. Al cap d'1 mes marxa cap al seu domicili en fase avançada de la malaltia.\n\nEn Jordi, que és a casa amb els seus pares, li comenta a la infermera que es troba malament i està febril. Com que és diabètic, vol saber què ha de fer.\n\nLa infermera, a més, li indica que hauria d'anar al seu CAP per tal de completar el seguiment de la seva diabetis mellitus tipus 2; entre altres activitats li determinaran l'índex turmell-braç.",
+   "question_numbers": [
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "En Joan, de 80 anys, està casat amb la Montse, que té la mateixa edat que en Joan i viuen els dos sols. Tenen un fill de 58 anys, en Jordi, casat i amb 2 fills. Degut a la seva feina, només pot anar a veure els seus pares el cap de setmana.\n\nIgual que en Joan, en Jordi és diabètic. Fa 5 anys en Joan va ser diagnosticat d'una malaltia pulmonar obstructiva crònica (MPOC) i des de llavors ja no fuma. És portador d'oxigen domiciliari. Porta una vida sedentària i, a més, té antecedents d'hipertensió arterial, diabetis mellitus tipus 2 i una lesió al sacre, pel que rep diferents tractaments.\n\nEl Sr. Joan ha estat ingressat a l'hospital. A través del programa PREALT, ens comuniquen que l'endemà serà donat d'alta."
+    },
+    {
+     "from_question": 124,
+     "text": "L'endemà la infermera va al domicili i comença a fer la valoració de la situació familiar i personal del Sr. Joan, que es troba en fase estable de la malaltia."
+    },
+    {
+     "from_question": 126,
+     "text": "Tot seguit, la infermera fa una revisió del tractament farmacològic."
+    },
+    {
+     "from_question": 132,
+     "text": "La infermera ja ha finalitzat la valoració del Sr. Joan, i tot seguit ha de fixar els objectius, activitats i intervencions que cal dur a terme."
+    },
+    {
+     "from_question": 136,
+     "text": "Als 2 mesos, en Joan presenta un episodi de reagudització de l'MPOC i ha de ser ingressat novament a l'hospital. Al cap d'1 mes marxa cap al seu domicili en fase avançada de la malaltia."
+    },
+    {
+     "from_question": 138,
+     "text": "En Jordi, que és a casa amb els seus pares, li comenta a la infermera que es troba malament i està febril. Com que és diabètic, vol saber què ha de fer."
+    },
+    {
+     "from_question": 140,
+     "text": "La infermera, a més, li indica que hauria d'anar al seu CAP per tal de completar el seguiment de la seva diabetis mellitus tipus 2; entre altres activitats li determinaran l'índex turmell-braç."
+    }
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "n": 1,
+   "section": "test",
+   "case_id": null,
+   "stem": "Cal atendre una persona de 82 anys amb una demència avançada per Alzheimer, es troba enllitada i presenta una úlcera per pressió (UPP) estadi III. Quina de les valoracions següents ens confirmen aquest estadi?",
+   "options": {
+    "a": "Destrucció de la capa subcutània que pot afectar la fàscia subjacent.",
+    "b": "Afectació del teixit muscular, ossi i estructures de suport.",
+    "c": "Eritema amb pell intacta que no blanqueja amb la pressió.",
+    "d": "Epidermis i dermis destruïdes amb flictenes."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-1"
+  },
+  {
+   "n": 2,
+   "section": "test",
+   "case_id": null,
+   "stem": "Arriba a la consulta d'infermeria en Pere; té 58 anys, ha estat diagnosticat recentment amb malaltia pulmonar obstructiva crònica (MPOC) i es troba en una fase estable de la malaltia. Està prejubilat, és fumador de 10 cigarretes al dia i viu sol. Refereix tos productiva a primera hora del matí. Quina d'aquestes actuacions NO estaria recomanada en aquesta fase de la malaltia?",
+   "options": {
+    "a": "Prescriure l'administració d'antibiòtics de manera profilàctica.",
+    "b": "Aconsellar sobre l'administració de la vacuna antigripal i l'antipneumocòccica.",
+    "c": "Estimular-lo a realitzar exercici físic.",
+    "d": "Incidir sobre l'abandonament del tabac."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-2"
+  },
+  {
+   "n": 3,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quins d'aquests hàbits creus que NO ajuda a prevenir o millorar la incontinència urinària?",
+   "options": {
+    "a": "Vestir-se amb roba interior ben ajustada per tal d'evitar fugues.",
+    "b": "Anar al WC cada tres hores durant el dia.",
+    "c": "Prendre aliments que facilitin el bon ritme intestinal.",
+    "d": "Evitar la cafeïna en la dieta i les begudes carbonatades."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-3"
+  },
+  {
+   "n": 4,
+   "section": "test",
+   "case_id": null,
+   "stem": "Davant d'una aturada cardiorespiratòria, quina de les recomanacions següents sobre el suport vital bàsic és FALSA?",
+   "options": {
+    "a": "La posició correcta per al massatge cardíac és aquella en la qual els braços s'estenen de forma perpendicular sobre l'estèrnum del pacient.",
+    "b": "La relació de compressions toràciques/ventilació és de 30/2.",
+    "c": "Abans de començar les maniobres de reanimació, hem de comprovar l'absència de ventilació. Aquesta valoració pot durar fins a 30 segons.",
+    "d": "Les compressions toràciques han de tenir una profunditat entre 5 i 6 cm."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-4"
+  },
+  {
+   "n": 5,
+   "section": "test",
+   "case_id": null,
+   "stem": "En relació amb les úlceres per pressió (UPP), quina d'aquestes afirmacions és FALSA?",
+   "options": {
+    "a": "Aplicar una pressió alta durant un període curt de temps provoca més dany tissular que una pressió baixa durant un període llarg de temps.",
+    "b": "En la formació de les UPP participen 3 forces: pressió, cisallament i fricció.",
+    "c": "Els factors de risc més importants relacionats amb l'aparició d'UPP són: la immobilitat, la incontinència, el dèficit nutricional i el deteriorament cognitiu.",
+    "d": "Per evitar l'aparició d'UPP en persones enllitades, s'aconsellen canvis posturals almenys cada 2 hores."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-5"
+  },
+  {
+   "n": 6,
+   "section": "test",
+   "case_id": null,
+   "stem": "Arriba a urgències una persona amb simptomatologia d'insuficiència cardíaca. Del factors precipitants següents que desencadenen clínica, quin és FALS?",
+   "options": {
+    "a": "Hipertensió arterial mal controlada",
+    "b": "Insuficiència renal",
+    "c": "Fibril·lació auricular ràpida",
+    "d": "Insuficiència hepàtica"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-6"
+  },
+  {
+   "n": 7,
+   "section": "test",
+   "case_id": null,
+   "stem": "Les necessitats d'energia d'un individu adult estan determinades per:",
+   "options": {
+    "a": "El metabolisme basal, l'exercici físic i la termogènesi",
+    "b": "El creixement, la lipogènesi i el metabolisme",
+    "c": "L'estrès metabòlic, la termogènesi i l'exercici físic",
+    "d": "L'exercici físic, l'estat de salut i la glucogènesi"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-7"
+  },
+  {
+   "n": 8,
+   "section": "test",
+   "case_id": null,
+   "stem": "En relació amb els plans de cures estandarditzats, quina d'aquestes afirmacions NO és correcta?",
+   "options": {
+    "a": "La característica principal dels plans de cures estandarditzats és que el contingut està dissenyat considerant els problemes més freqüents d'un grup de població.",
+    "b": "Els plans estandarditzats no s'han d'individualitzar.",
+    "c": "Es distingeixen 4 tipologies de plans de cures estandarditzats: bàsics, específics, genèrics i complementaris.",
+    "d": "La individualització d'un pla estàndard implica la realització de la valoració de l'estat."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-8"
+  },
+  {
+   "n": 9,
+   "section": "test",
+   "case_id": null,
+   "stem": "Respecte dels aminoàcids, és cert que:",
+   "options": {
+    "a": "Els aminoàcids essencials es troben sobretot en els vegetals.",
+    "b": "Es consideren proteïnes d'alt valor biològic les que contenen aminoàcids essencials.",
+    "c": "Glicina i cisteïna són aminoàcids essencials.",
+    "d": "Un aminoàcid limitant és d'alt valor biològic."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-9"
+  },
+  {
+   "n": 10,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quin dels següents conceptes NO forma part del metaparadigma infermer?",
+   "options": {
+    "a": "L'entorn",
+    "b": "La persona",
+    "c": "Les cures infermeres",
+    "d": "El concepte de malaltia"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-10"
+  },
+  {
+   "n": 11,
+   "section": "test",
+   "case_id": null,
+   "stem": "Respecte a la incontinència d'urgència, és cert que la pèrdua d'orina és deguda a:",
+   "options": {
+    "a": "La incapacitat física o mental per arribar al bany.",
+    "b": "La pressió intravesical supera la pressió intrauretral.",
+    "c": "Les contraccions involuntàries del múscul detrusor.",
+    "d": "La disfunció de la musculatura pelviana provocada quan la pressió intraabdominal supera la intrauretral."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-11"
+  },
+  {
+   "n": 12,
+   "section": "test",
+   "case_id": null,
+   "stem": "Al Sr. Josep li han diagnosticat una insuficiència cardíaca. És el segon dia que ve a la consulta de la infermera per elaborar el pla de cures. En quina fase del procés infermer es fixen els objectius, es determinen les intervencions i activitats?",
+   "options": {
+    "a": "En la fase de diagnòstic",
+    "b": "En la fase de valoració",
+    "c": "En la fase d'execució",
+    "d": "En la fase de planificació"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-12"
+  },
+  {
+   "n": 13,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quin d'aquest elements NO pertany a la cadena epidemiològica?",
+   "options": {
+    "a": "Agent causal",
+    "b": "Hoste",
+    "c": "Reservori",
+    "d": "Antigen"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-13"
+  },
+  {
+   "n": 14,
+   "section": "test",
+   "case_id": null,
+   "stem": "Sobre la utilització de guants no estèrils, quina de les afirmacions següents és la CORRECTA?",
+   "options": {
+    "a": "Els guants ofereixen una completa protecció contra la contaminació de les mans.",
+    "b": "S'han de canviar en un mateix malalt sempre que canviem de procediment.",
+    "c": "No cal un rentat o antisèpsia abans d'utilitzar-los.",
+    "d": "Els guants no cal agafar-los sempre de l'envàs original, els podem guardar a la butxaca per facilitar la seva utilització."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-14"
+  },
+  {
+   "n": 15,
+   "section": "test",
+   "case_id": null,
+   "stem": "La Sra. Maria té 55 anys, recentment li han diagnosticat una diabetis mellitus tipus 2. L'educació sanitària anirà encaminada a:",
+   "options": {
+    "a": "La recomanació que els hidrats de carboni han de constituir el 45-60% de l'energia total diària, limitant els d'absorció lenta.",
+    "b": "La detecció precoç de la cetoacidosi diabètica.",
+    "c": "La pràctica regular d'exercici físic.",
+    "d": "Els coneixements sobre el glucagó."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-15"
+  },
+  {
+   "n": 16,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quina resposta NO és certa sobre l'antisèpsia de mans?",
+   "options": {
+    "a": "Cal utilitzar sabó antisèptic.",
+    "b": "Cal assecar-se amb tovalloles de paper.",
+    "c": "Es recomana aigua calenta pel risc de dermatitis.",
+    "d": "S'ha d'utilitzar dispensador de sabó."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-16"
+  },
+  {
+   "n": 17,
+   "section": "test",
+   "case_id": null,
+   "stem": "En Pau, un home de 40 anys amb normopès, debuta amb una diabetis mellitus tipus 2. El tractament inicial serà:",
+   "options": {
+    "a": "Prescriure un fàrmac oral.",
+    "b": "Prescriure un pla d'alimentació i exercici adequat al pacient i veure el seu impacte en l'HbA1c al cap de tres mesos.",
+    "c": "Prescriure un pla d'alimentació i exercici adequat a la persona i veure el seu impacte en l'HbA1c al cap de 6 mesos.",
+    "d": "Prescriure insulina."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-17"
+  },
+  {
+   "n": 18,
+   "section": "test",
+   "case_id": null,
+   "stem": "L'Ignasi ingressa a l'hospital per una meningitis per Haemophilus influenzae i ens avisen que s'ha d'aïllar. De les següents precaucions per evitar la transmissió de l'agent infecciós, quina és la CORRECTA?",
+   "options": {
+    "a": "Precaucions per evitar la transmissió per gotes.",
+    "b": "Precaucions per evitar la transmissió per contacte.",
+    "c": "Precaucions per evitar la transmissió per contacte i aire.",
+    "d": "Precaucions per evitar la transmissió per aire."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-18"
+  },
+  {
+   "n": 19,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quina de les situacions següents correspon a una situació d'insulinoteràpia definitiva:",
+   "options": {
+    "a": "Control metabòlic deficient en pacients tractats amb fàrmacs orals a dosis plenes",
+    "b": "Tractament amb corticoesteroides",
+    "c": "Embaràs i lactància",
+    "d": "Descompensació aguda de la hiperglucèmia"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-19"
+  },
+  {
+   "n": 20,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quin d'aquests grups de símptomes defineix un nivell II d'encefalopatia hepàtica?",
+   "options": {
+    "a": "Estupor, dificultat per aixecar-se, confusió marcada, parla incoherent. Malalt dormit la major part del temps.",
+    "b": "Nivell normal de consciència amb períodes de letargia i eufòria. Inversió dels patrons del son dia-nit.",
+    "c": "Comatós. No respon a estímuls dolorosos. Absència de reflexos tendinosos profunds.",
+    "d": "Augment de la somnolència; desorientació; conducta inapropiada; canvis d'humor; agitació."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-20"
+  },
+  {
+   "n": 21,
+   "section": "test",
+   "case_id": null,
+   "stem": "El Sr. Ramon és portador d'una sonda vesical durant el postoperatori immediat d'una cirurgia abdominal. Com a personal d'infermeria, cal tenir en compte que:",
+   "options": {
+    "a": "Ha de portar una bossa de diüresi de circuit obert.",
+    "b": "Cal portar una bossa de diüresi de circuit tancat.",
+    "c": "Cal canviar la sonda cada setmana.",
+    "d": "Es recomana la sonda de silicona com a primera opció."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-21"
+  },
+  {
+   "n": 22,
+   "section": "test",
+   "case_id": null,
+   "stem": "La Maria és una senyora amb diabetis mellitus tipus 2 i obesitat. En cada visita, la infermera insisteix a fer educació sanitària relacionada amb l'alimentació, ja que en persones diabètiques que presenten sobrepès i obesitat, la disminució de pes:",
+   "options": {
+    "a": "Millora la resistència a la insulina i la glucèmia a llarg termini.",
+    "b": "Millora la glucèmia a curt termini, però no millora la resistència a la insulina.",
+    "c": "Millora la resistència a la insulina i la glucèmia a curt termini.",
+    "d": "Millora la glucèmia a llarg termini, però no millora la resistència a la insulina."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-22"
+  },
+  {
+   "n": 23,
+   "section": "test",
+   "case_id": null,
+   "stem": "L'atròfia muscular i la pèrdua de força després de la immobilització d'una extremitat per embenat d'escaiola es coneix com:",
+   "options": {
+    "a": "Síndrome compartimental",
+    "b": "Síndrome d'estancament",
+    "c": "Síndrome de Guillain Barré",
+    "d": "Síndrome de desús"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-23"
+  },
+  {
+   "n": 24,
+   "section": "test",
+   "case_id": null,
+   "stem": "La Sra. Puig és donada d'alta de l'hospital després de 4 setmanes d'ingrés per a tractament d'una endocarditis infecciosa. Quina de les següents afirmacions en relació amb aquesta malaltia és FALSA:",
+   "options": {
+    "a": "Una adequada higiene bucal és bàsica per a la prevenció primària de la malaltia en pacients portadors de vàlvula cardíaca.",
+    "b": "Existeix un alt risc de tornar a patir la malaltia encara que s'hagi tractat adequadament.",
+    "c": "La febre sempre és present en les primeres fases de la malaltia.",
+    "d": "L'isquèmia cerebral pot ser una complicació secundària a l'endocarditis."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-24"
+  },
+  {
+   "n": 25,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quina de les recomanacions següents NO estaria indicada en un pacient que pateix pruïja relacionada amb un problema dermatològic:",
+   "options": {
+    "a": "Ingerir aliments i líquids molt calents.",
+    "b": "Mantenir les ungles curtes.",
+    "c": "Banyar-se amb aigua tèbia.",
+    "d": "Usar solucions emol·lients després del bany."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-25"
+  },
+  {
+   "n": 26,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quin és el factor de risc més important de l'ictus hemorràgic?",
+   "options": {
+    "a": "L'edat",
+    "b": "El tabac",
+    "c": "La hipertensió arterial",
+    "d": "Antecedents familiars"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-26"
+  },
+  {
+   "n": 27,
+   "section": "test",
+   "case_id": null,
+   "stem": "Es realitza una gasometria arterial a una persona, els resultats de la qual són d'un PH de 7,25, una PCO2 52 i HCO₃⁻ de 28 mEq/l. Estem davant d'una:",
+   "options": {
+    "a": "Alcalosi respiratòria",
+    "b": "Acidosi metabòlica",
+    "c": "Alcalosi metabòlica",
+    "d": "Acidosi respiratòria"
+   },
+   "has_figure": false,
+   "transcription_notes": "HCO₃⁻ is printed with subscript 3 and superscript minus sign; \"PCO2\" is printed with a normal-size 2.",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-27"
+  },
+  {
+   "n": 28,
+   "section": "test",
+   "case_id": null,
+   "stem": "En quina de les vies d'administració següents l'angle de l'agulla es de 5-15º?",
+   "options": {
+    "a": "Via subcutània",
+    "b": "Via endovenosa",
+    "c": "Administració intratecal",
+    "d": "Via intradèrmica"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-28"
+  },
+  {
+   "n": 29,
+   "section": "test",
+   "case_id": null,
+   "stem": "El metge ha prescrit codeïna a una persona amb dolor. Els efectes d'aquest medicament NO inclouen:",
+   "options": {
+    "a": "Restrenyiment",
+    "b": "Nàusees",
+    "c": "Vòmits",
+    "d": "Boca seca"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-29"
+  },
+  {
+   "n": 30,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quina de les recomanacions següents NO haurem de tenir en compte a l'hora d'aspirar secrecions a una persona amb dificultats o incapacitat d'eliminar de forma autònoma les secrecions traqueobronquial:",
+   "options": {
+    "a": "Aspirar secrecions abans del tractament amb inhaladors.",
+    "b": "Hiperoxigenar abans d'aspirar en pacients amb insuficiència respiratòria.",
+    "c": "Seleccionar una sonda del major diàmetre possible.",
+    "d": "Aspirar abans dels canvi de cànula externa de traqueotomia."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-30"
+  },
+  {
+   "n": 31,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quina és la vida mitjana de la morfina?",
+   "options": {
+    "a": "2 hores",
+    "b": "4 hores",
+    "c": "5 hores",
+    "d": "6 hores"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-31"
+  },
+  {
+   "n": 32,
+   "section": "test",
+   "case_id": null,
+   "stem": "Les immobilitzacions en l'ambient sanitari són elements que limiten el moviment d'una persona. Quina de les afirmacions següents és FALSA:",
+   "options": {
+    "a": "Les immobilitzacions poden utilitzar-se per mantenir una persona en la posició correcta i impedir el moviment o caigudes durant la cirurgia o mentre estigui en una llitera.",
+    "b": "Les immobilitzacions no han de causar dany ni utilitzar-se com a càstig.",
+    "c": "Els professionals de la salut en primer terme han d'intentar la immobilització per controlar la persona i garantir la seva seguretat. Les immobilitzacions s'han d'utilitzar com a primera opció.",
+    "d": "Una infermera amb entrenament especial en l'ús d'immobilitzacions pot començar a utilitzar-les, però li ha de comentar a un metge que aquestes s'estan fent servir."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-32"
+  },
+  {
+   "n": 33,
+   "section": "test",
+   "case_id": null,
+   "stem": "Cal transfondre hemoderivats a una persona i adaptar la velocitat d'infusió. Quin dels factors de risc següents NO s'ha de tenir en compte per prevenir la sobrecàrrega circulatòria durant la infusió?",
+   "options": {
+    "a": "Insuficiència cardíaca",
+    "b": "Obesitat",
+    "c": "Edat avançada",
+    "d": "Inestabilitat hemodinàmica"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-33"
+  },
+  {
+   "n": 34,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quins dels següents NO és un signe d'alerta en el desenvolupament de l'infant als 2 mesos d'edat:",
+   "options": {
+    "a": "Irritabilitat permanent",
+    "b": "Resposta de Moro",
+    "c": "Sobresalt exagerat",
+    "d": "Polze adduït"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-34"
+  },
+  {
+   "n": 35,
+   "section": "test",
+   "case_id": null,
+   "stem": "Estàs atenent un noi de 22 anys per un flegmó al nivell IV-V d'urgències. El metge inicia la pauta d'amoxicil·lina 500 mg via oral cada 8 hores i metamizol 2 g intramuscular cada 8 hores. Quan vas a administrar el tractament, li preguntes si té algun tipus d'al·lèrgia i et respon que és al·lèrgic a la penicil·lina. De quin tipus d'incident es tracta?",
+   "options": {
+    "a": "Circumstància notificable",
+    "b": "Quasiincident",
+    "c": "Incident sense dany",
+    "d": "Esdeveniment advers"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-35"
+  },
+  {
+   "n": 36,
+   "section": "test",
+   "case_id": null,
+   "stem": "La càries és un problema de salut en l'edat pediàtrica de marcada prevalença. L'exploració bucodental es realitza dintre de les visites del Programa d'activitats preventives de promoció de la salut en l'edat pediàtrica. Quan es comença a donar pautes als pares per millorar la salut dental?",
+   "options": {
+    "a": "En la revisió del 7-9 mesos si han aparegut les primeres dents.",
+    "b": "En la primera revisió dels 0-30 dies.",
+    "c": "En la revisió dels 2 anys, quan cal introduir la utilització del raspall de dents.",
+    "d": "En el moment que apareixen les dents permanents."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-36"
+  },
+  {
+   "n": 37,
+   "section": "test",
+   "case_id": null,
+   "stem": "Segons l'escala analgèsica de l'OMS, la codeïna és un fàrmac que es troba:",
+   "options": {
+    "a": "Primer esglaó",
+    "b": "Tercer esglaó",
+    "c": "No es troba en cap esglaó de l'escala analgèsica de l'OMS",
+    "d": "Segon esglaó"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-37"
+  },
+  {
+   "n": 38,
+   "section": "test",
+   "case_id": null,
+   "stem": "La prevenció quaternària consisteix en:",
+   "options": {
+    "a": "Qualsevol activitat dirigida a identificar i tractar les persones asimptomàtiques que ja han desenvolupat una malaltia preclínica però aquesta no s'ha fet clínicament aparent.",
+    "b": "Qualsevol intervenció preventiva que constitueix part del tractament de les persones amb malaltia clínica.",
+    "c": "Qualsevol intervenció encaminada a evitar els riscos i la iatrogènia derivada de l'ús innecessari de les intervencions sanitàries.",
+    "d": "Qualsevol intervenció dirigida als individus sans amb la finalitat d'evitar o prevenir l'aparició d'un determinat trastorn o malaltia."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-38"
+  },
+  {
+   "n": 39,
+   "section": "test",
+   "case_id": null,
+   "stem": "Si es pretén assolir canvis tant individuals com col·lectius, comprendre la pràctica i millorar una situació, quin mètode d'investigació hem d'escollir?",
+   "options": {
+    "a": "Etnogràfic",
+    "b": "Teoria fonamentada",
+    "c": "Fenomenologia",
+    "d": "Investigació acció participativa"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-39"
+  },
+  {
+   "n": 40,
+   "section": "test",
+   "case_id": null,
+   "stem": "L'Octavi és un senyor que ha debutat amb una insuficiència cardiaca. En els consells que la infermera li dóna sobre com reconèixer els símptomes de descompensació, és cert que hi ha:",
+   "options": {
+    "a": "Augment de pes corporal (més de 2 kg en un dia o més de 4 kg en més de dos dies), edemes, augment de la dispnea, sensació de plenitud abdominal, disúria, alteracions del son.",
+    "b": "Augment de pes corporal (més d'1 kg en un dia o més de 2 kg en més de dos dies), edemes, augment de la dispnea, sensació de plenitud abdominal, ortopnea, augment de la nictúria, alteracions del son.",
+    "c": "Manteniment de pes corporal, edemes, augment de la dispnea, sensació de plenitud abdominal, ortopnea, augment de la nictúria, alteracions del son.",
+    "d": "Disminució de pes corporal (més d'1 kg en un dia o més de 4 kg en més de dos dies), edemes, augment de la dispnea, sensació de plenitud abdominal, ortopnea, augment de la nictúria, alteracions del son."
+   },
+   "has_figure": false,
+   "transcription_notes": "\"cardiaca\" printed without accent in the stem.",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-40"
+  },
+  {
+   "n": 41,
+   "section": "test",
+   "case_id": null,
+   "stem": "Atens al domicili un senyor de 50 anys en fase terminal. Acompanyes la persona atesa en tot el procés de final de vida, li proporciones el màxim de confort i benestar possible i procures facilitar el suport adequat a la família. Quin valor professional estàs aplicant segons el Codi d'ètica de les infermeres i infermers de Catalunya?",
+   "options": {
+    "a": "Responsabilitat",
+    "b": "Autonomia",
+    "c": "Intimitat i confidencialitat",
+    "d": "Justícia social"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-41"
+  },
+  {
+   "n": 42,
+   "section": "test",
+   "case_id": null,
+   "stem": "Un estudi d'intervenció en què NO hi ha grup control s'anomena:",
+   "options": {
+    "a": "Experimental",
+    "b": "Assaig clínic",
+    "c": "Assaig comunitari",
+    "d": "Quasi experimental"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-42"
+  },
+  {
+   "n": 43,
+   "section": "test",
+   "case_id": null,
+   "stem": "El Pla de Salut 2016-2020 contempla una sèrie de principis entre els quals NO es troba:",
+   "options": {
+    "a": "Centrar l'atenció en les persones i assegurar-ne el continuum assistencial.",
+    "b": "Garantir l'equitat en l'accés a les prestacions.",
+    "c": "Planificar centralitzant la gestió.",
+    "d": "Establir les causes socials com a factors principals que determinen les desigualtats en la salut de la comunitat."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-43"
+  },
+  {
+   "n": 44,
+   "section": "test",
+   "case_id": null,
+   "stem": "Atens un nen de 4 anys a la consulta i, seguint el Protocol d'activitats preventives de promoció de la salut en l'edat pediàtrica, li fas la prova de la \"E\" d'Snellen. Què estàs detectant?",
+   "options": {
+    "a": "Anomalies de les còrnies",
+    "b": "Anomalies de la motilitat ocular",
+    "c": "Anomalies de l'agudesa visual",
+    "d": "Anomalies de les pupil·les"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-44"
+  },
+  {
+   "n": 45,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quines són les fases dels programes de salut comunitària?",
+   "options": {
+    "a": "Anàlisi de la situació de salut, establiment de prioritats, formulació d'objectius, disseny de les intervencions, posada en marxa i avaluació.",
+    "b": "Detecció de necessitats, intervencions/activitats i tancament del programa.",
+    "c": "Diagnòstic de salut, cerca bibliogràfica, disseny del programa i finalització.",
+    "d": "Enquesta a la població, selecció d'activitats, posada en marxa i finalització."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-45"
+  },
+  {
+   "n": 46,
+   "section": "test",
+   "case_id": null,
+   "stem": "A quins alumnes va dirigit el Programa Salut i Escola?",
+   "options": {
+    "a": "1r i 2n d'Educació Secundària Obligatòria",
+    "b": "3r i 4t d'Educació Secundària Obligatòria",
+    "c": "Educació Primària",
+    "d": "Batxillerat"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-46"
+  },
+  {
+   "n": 47,
+   "section": "test",
+   "case_id": null,
+   "stem": "Si en una persona fumadora li passem el Test de Fageström i ens dona una puntuació de 8, què ens indica?",
+   "options": {
+    "a": "Dependència alta.",
+    "b": "Dependència moderada.",
+    "c": "Dependència baixa.",
+    "d": "No mesura la dependència."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-47"
+  },
+  {
+   "n": 48,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quina de les següents mesures no farmacològiques, es INCORRECTA en el tractament de les reaguditzacions de la Insuficiència cardiaca:",
+   "options": {
+    "a": "Restricció de sal a menys de 2g/dia.",
+    "b": "Restricció de líquids a menys d'1l/dia, sobretot si hi ha tendència a hiponatrèmia.",
+    "c": "Control setmanal de pes.",
+    "d": "Repòs durant la reagudització,."
+   },
+   "has_figure": false,
+   "transcription_notes": "Option d ends with \",.\" as printed. \"cardiaca\" printed without accent.",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-48"
+  },
+  {
+   "n": 49,
+   "section": "test",
+   "case_id": null,
+   "stem": "Quina de les afirmacions següents NO és un objectiu d'orientació en el dol?",
+   "options": {
+    "a": "Disminuir la realitat de la pèrdua.",
+    "b": "Ajudar la persona en procés de dol a expressar la seva afectivitat.",
+    "c": "Ajudar a vèncer els impediments que eviten el reajustament després de la pèrdua.",
+    "d": "Estimular per acomiadar-se del difunt i sentir-se confortable en la nova situació."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-49"
+  },
+  {
+   "n": 50,
+   "section": "test",
+   "case_id": null,
+   "stem": "En la fase exploratòria de l'entrevista, són tècniques afavoridores del recolzament narratiu que faciliten el relat de la persona:",
+   "options": {
+    "a": "Fer pregunta tancada",
+    "b": "Alta reactivitat",
+    "c": "Empatia",
+    "d": "Evitar contacte visual"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-50"
+  },
+  {
+   "n": 101,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "Quina és l'escala que puntua de forma numèrica la gravetat de l'ictus?",
+   "options": {
+    "a": "NIH STroke Scale",
+    "b": "EMINA",
+    "c": "BARTHEL",
+    "d": "GLASGOW"
+   },
+   "has_figure": false,
+   "transcription_notes": "\"STroke\" printed with capital T.",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-101"
+  },
+  {
+   "n": 102,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "Quins dels ictus següents NO és isquèmic?",
+   "options": {
+    "a": "Cardioembòlic",
+    "b": "Subaracnoïdal",
+    "c": "Lacunar",
+    "d": "Aterotrombòtic"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-102"
+  },
+  {
+   "n": 103,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "La infermera valora el nivell de consciència de la Maria fent ús de l'Escala de coma de Glasgow. Quina de les característiques següents es corresponen a un valor de 10 en aquesta escala?",
+   "options": {
+    "a": "Obertura ocular: espontània; resposta verbal: confusió; resposta motora: localitza el dolor.",
+    "b": "Obertura ocular: a la veu; resposta verbal: paraules inapropiades; resposta motora: localitza el dolor.",
+    "c": "Obertura ocular: al dolor; resposta verbal: sons incomprensibles; resposta motora: flexió anormal.",
+    "d": "Obertura ocular: a la veu; resposta verbal: paraules inapropiades; resposta motora: retira al dolor."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-103"
+  },
+  {
+   "n": 104,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "Quina d'aquestes és una complicació que pot presentar la Maria després d'haver patit l'accident vascular cerebral?",
+   "options": {
+    "a": "Hipòxia cerebral, augment del flux sanguini cerebral i una extensió de l'àrea de la lesió",
+    "b": "Hipòxia cerebral, reducció del flux sanguini cerebral i una disminució de l'àrea de la lesió",
+    "c": "Hipòxia cerebral, un augment del flux sanguini i disminució de l'àrea de la lesió",
+    "d": "Hipòxia cerebral, reducció del flux sanguini cerebral i una extensió de l'àrea de la lesió"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-104"
+  },
+  {
+   "n": 105,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "La Sra. Maria s'ha fet una ferida frontal neta en caure al terra a casa seva. El metge pauta la profilaxi del tètanus. Quan la infermera pregunta a la filla de la Sra. Maria si li coneix antecedents de vacunació del tètanus, ella respon que ho desconeix. En aquest cas, quina és la profilaxi del tètanus correta que cal realitzar?",
+   "options": {
+    "a": "Una dosi de toxoide tetànic i diftèric tipus adult (Td), més dosi d'immunoglobulina antitetànica (IGT) ara.",
+    "b": "Una dosi de Td ara, més una segona dosi a les 4-8 setmanes de la primera i una tercera dosi als 6-12 mesos de la segona",
+    "c": "Una dosi de Td ara, més una segona dosi a les 2 setmanes de la primera i una dosi recordatori cada 10 anys",
+    "d": "Una dosi de Td ara i una dosi d'IGT cada 10 anys com a recordatori"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-105"
+  },
+  {
+   "n": 106,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "En la definició i el cribratge de l'HTA és CERT que:",
+   "options": {
+    "a": "L'HTA es defineix com l'elevació persistent de les xifres de PAS ≥ 140 mmHg i/o PAD ≥ 90 mmHg en majors de 18 anys.",
+    "b": "L'elevació de la PA és persistent si la mitjana de 2 determinacions fetes a cada visita, d'un total de 2 visites, està elevada sempre.",
+    "c": "En les persones diabètiques i persones amb malaltia renal crònica, el diagnòstic d'HTA es fa segons els criteris PAS ≥ 150 mmHg i/o PAD ≥ 95 mmHg.",
+    "d": "Es recomana mesurar la PA cada any entre els 14 i 40 anys i cada 2 mesos a partir dels 40 anys, mitjançant una estratègia oportunista."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-106"
+  },
+  {
+   "n": 107,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "Quina de les mesures següents NO contribueix a evitar l'augment de la pressió intracranial?",
+   "options": {
+    "a": "Mantenir el capçal del llit amb una inclinació superior als 45º.",
+    "b": "Evitar l'estrès emocional i els despertars freqüents quan la persona està dormida.",
+    "c": "Mantenir una atmosfera de calma on els estímuls sorollosos siguin mínims.",
+    "d": "Adoptar mesures que previnguin la maniobra de Valsalva en les defecacions."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-107"
+  },
+  {
+   "n": 108,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "La fibril·lació auricular està associada a un major risc d'accident cerebrovascular. Quina de les següents és una característica de la fibril·lació auricular?",
+   "options": {
+    "a": "El ritme és regular.",
+    "b": "No existeixen ones P distingibles.",
+    "c": "L'interval PR té una durada de 0,24.",
+    "d": "Presenta ones F en forma de dents de serra."
+   },
+   "has_figure": false,
+   "transcription_notes": "Option a shows a small stray mark before \"és\" (scan artifact), not transcribed.",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-108"
+  },
+  {
+   "n": 109,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "A l'arribada a la unitat d'ictus la infermera fa l'avaluació del risc de caigudes. Quin d'aquests factors de risc NO es té en compte en la realització d'aquesta avaluació?",
+   "options": {
+    "a": "Mobilitat conservada",
+    "b": "Problemes d'incontinència",
+    "c": "Història de caigudes",
+    "d": "Estat cognitiu alterat"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-109"
+  },
+  {
+   "n": 110,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "La Sra. Maria té una afàsia d'expressió. Quina de les següents activitats dirigides a la millora de la comunicació en aquestes persones és CERTA?",
+   "options": {
+    "a": "Reforçar la comunicació verbal i no verbal, ja sigui gesticulant, assenyalant o dibuixant.",
+    "b": "Parlar lentament, augmentant el to de veu perquè la persona ens pugui entendre millor.",
+    "c": "Utilitzar frases curtes i concretes, fent ús d'un llenguatge infantil.",
+    "d": "Evitar mantenir el contacte visual mentre dura la conversa per no pressionar la persona."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-110"
+  },
+  {
+   "n": 111,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "Que és una hemianòpsia?",
+   "options": {
+    "a": "Percepció de dues imatges d'un únic objecte, visió doble",
+    "b": "Dificultat per a l'articulació de les paraules",
+    "c": "Manca de visió que afecta la meitat del camp visual",
+    "d": "Pèrdua de força no completa de la meitat lateral del cos"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-111"
+  },
+  {
+   "n": 112,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "Es considera hipertensió intracranial (HIC) quan la PIC és > 20 mmHg. Quin dels següents signes i símptomes NO es dona en una HIC?",
+   "options": {
+    "a": "Vòmits",
+    "b": "Alteracions pupil·lars",
+    "c": "Cefalea",
+    "d": "Febre"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-112"
+  },
+  {
+   "n": 113,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "La infermera es disposa a establir el pla de cures estandarditzat de l'ictus. Un dels problemes de risc que conté és el de risc de broncoaspiració. Quina de les següents activitats NO està inclosa dins de la intervenció infermera \"prevenció de la broncoaspiració\"?",
+   "options": {
+    "a": "Deglució: valoració",
+    "b": "Posició: Fowler alta (90º)",
+    "c": "Textura: líquida",
+    "d": "Test de la disfàgia: valoració"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-113"
+  },
+  {
+   "n": 114,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "A causa dels problemes de deglució de la Maria, es decideix iniciar nutrició enteral. Respecte a les cures d'infermeria, és CERT:",
+   "options": {
+    "a": "La introducció ràpida de la dieta pot produir restrenyiment.",
+    "b": "Abans d'administrar la nutrició enteral, no cal comprovar el contingut gàstric.",
+    "c": "Per administrar la dieta, és preferible col·locar la persona en posició Fowler o semiFowler.",
+    "d": "En col·locar l'SNG (Sondatge nasogàstric), la comprovem introduint 30-40 ml d'aigua."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-114"
+  },
+  {
+   "n": 115,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "A la Sra. Maria, un cop inserida la nutrició enteral, se li han d'administrar medicaments per la sonda. Quina precaució cal tenir en compte?",
+   "options": {
+    "a": "Es poden administrar diferents fàrmacs al mateix temps.",
+    "b": "Després d'administrar el fàrmac, cal comprovar la col·locació i permeabilitat de la sonda.",
+    "c": "S'ha d'administrar el fàrmac juntament amb el menjar.",
+    "d": "Cal netejar la sonda després de l'administració amb 20-30 ml d'aigua."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-115"
+  },
+  {
+   "n": 116,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "La Sra. Maria ha de començar el tractament d'heparina. De les següents afirmacions en relació amb l'administració d'heparina subcutània, quina d'aquestes afirmacions és FALSA?",
+   "options": {
+    "a": "El millor lloc per administrar la injecció és l'àrea abdominal a uns 5-6 cm del melic.",
+    "b": "Les xeringues precarregades no s'han de purgar de l'aire que porten.",
+    "c": "El plec cutani on s'injecta ha de tenir un angle de 45º respecte de la xeringa.",
+    "d": "Si la zona és molt sensible o la persona és propensa a la formació d'hematomes, s'ha de col·locar un glaçó uns segons abans o després de l'administració."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-116"
+  },
+  {
+   "n": 117,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "Per evitar infeccions i l'aparició de lesions en la pell de la Maria, és fonamental una higiene correcta. De les següents accions a dur a terme en tots els canvis de bolquers, és FALS que hem de:",
+   "options": {
+    "a": "Rentar-nos les mans.",
+    "b": "Retirar sempre els absorvents per la part anterior del cos de la Maria.",
+    "c": "Col·locar el bolquer per la part anterior del cos de la Maria.",
+    "d": "Netejar la pell correctament i procurar que quedi ben seca."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-117"
+  },
+  {
+   "n": 118,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "Un dels processos protocol·litzats en l'atenció hospitalària quan hi ha un trasllat intern és la conciliació de la medicació. Quines són les etapes del procés de conciliació de la medicació?",
+   "options": {
+    "a": "Detecció, revisió sistemàtica de la medicació i resolució",
+    "b": "Detecció, desprescripció i registre en la història clínica del pacient",
+    "c": "Selecció de pacient, aclariment i resolució",
+    "d": "Detecció, aclariment i resolució"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-118"
+  },
+  {
+   "n": 119,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "La filla de la Maria és la cuidadora informal que l'atèn de forma continuada i, per tant, l'ajudarà en la seva dependència. En molts casos la mobilització d'aquestes persones suposa esforços i lesions al cuidador. Quina de les recomanacions següents NO li donaries per facilitar la mobilització i prevenir lesions?",
+   "options": {
+    "a": "Estirar, rodar i empènyer requereix menys esforç que no pas aixecar.",
+    "b": "S'ha d'evitar torçar i doblegar la cintura.",
+    "c": "S'aconsegueix més estabilitat i facilitat de mobilització si es col·loquen els peus junts, es flexionen els genolls, s'usen els músculs de les cuixes i es dirigeix el moviment del genoll en direcció cap al moviment que s'ha de fer.",
+    "d": "Es gasta menys energia si es treballa amb una alçada còmoda que si es fa a un nivell molt baix."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-119"
+  },
+  {
+   "n": 120,
+   "section": "case",
+   "case_id": "C1",
+   "stem": "Es preveu l'alta de la Sra. Maria. A través del programa PREALT, ens comuniquen amb l'equip d'atenció primària per garantir la continuïtat de cures. L'endemà, la seva infermera acudeix al seu domicili i comencem a recollir informació sobre el seu estat de salut. En el procés infermer, aquesta etapa correspon a:",
+   "options": {
+    "a": "El diagnòstic",
+    "b": "La planificació",
+    "c": "La valoració",
+    "d": "L'execució"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-120"
+  },
+  {
+   "n": 121,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "La definició de l'MPOC ha anat variant al llarg del temps, però hi ha una sèrie de conceptes comuns que inclouen totes les definicions. Quin dels conceptes següents NO està inclòs en aquestes definicions?",
+   "options": {
+    "a": "Limitació crònica al flux aeri",
+    "b": "Reversibilitat total de l'obstrucció bronquial",
+    "c": "Cronicitat i progressió de la malaltia",
+    "d": "Tabaquisme"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-121"
+  },
+  {
+   "n": 122,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "Quina de les manifestacions següents NO es característica en l'MPOC?",
+   "options": {
+    "a": "Empitjorament de la dispnea amb l'exercici i l'esforç.",
+    "b": "La dispnea és progressiva i persistent.",
+    "c": "La tos sol ser seca i de predomini nocturn.",
+    "d": "La tos crònica, normalment, n'és el primer símptoma."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-122"
+  },
+  {
+   "n": 123,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "La prova diagnòstica per excel·lència de l'MPOC és l'espirometria forçada. Quina de les següents normes per a la realització de l'espirometria NO és correcta?",
+   "options": {
+    "a": "El calibratge de l'espiròmetre s'ha de fer cada dia, mitjançant xeringa de precisió de 3 a 5 litres.",
+    "b": "L'embocadura de l'espiròmetre ha de ser no deformable.",
+    "c": "El pacient pot estar dret o assegut.",
+    "d": "S'han de fer com a màxim tres maniobres."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-123"
+  },
+  {
+   "n": 124,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "Quina de les actuacions següents NO és un objectiu de la visita PREALT?",
+   "options": {
+    "a": "Dur a terme les activitats preventives.",
+    "b": "Descartar la reaparició de signes d'exacerbació.",
+    "c": "Fer educació sanitària.",
+    "d": "Revisar el pla terapèutic."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-124"
+  },
+  {
+   "n": 125,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "La dependència es defineix com:",
+   "options": {
+    "a": "La necessitat d'ajuda que té una persona per realitzar les activitats bàsiques de la vida diària (ABVD), derivada de l'edat, la malaltia o discapacitat i lligada a la falta o pèrdua d'autonomia física, mental, intel·lectual o sensorial.",
+    "b": "La necessitat d'ajuda que té una persona per realitzar les activitats bàsiques de la vida diària (ABVD), derivada d'una malaltia i lligada a la falta o pèrdua d'autonomia física.",
+    "c": "La necessitat d'ajuda que té una persona per realitzar les activitats bàsiques de la vida diària (ABVD), derivada d'una discapacitat i lligada a la falta o pèrdua d'autonomia mental o intel·lectual.",
+    "d": "La necessitat d'ajuda que té una persona per desenvolupar-se pel seu entorn més proper a causa d'una discapacitat física."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-125"
+  },
+  {
+   "n": 126,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "Interroga sobre l'hàbit tabàquic i en Joan comenta que va deixar de fumar fa 5 anys. Es considera exfumadora aquella persona que ha deixat de fumar fa:",
+   "options": {
+    "a": "6 mesos o més",
+    "b": "3 anys o més",
+    "c": "1 any o més",
+    "d": "2 anys o més"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-126"
+  },
+  {
+   "n": 127,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "La infermera explora el grau de dispnea a partir de l'escala BMRC (British Medical Research Council) i obté que el Sr. Joan està en un grau 2, que en l'escala de la valoració de la dispnea correspon a:",
+   "options": {
+    "a": "Necessitat d'aturar-se a descansar si es caminen uns 100 metres o pocs minuts després de caminar per terreny pla.",
+    "b": "Dispnea, si es camina ràpid per terreny pla o es puja un pendent poc pronunciat.",
+    "c": "Incapacitat per mantenir el pas d'altres persones de la mateixa edat, caminant per pla, per la dificultat respiratòria, o necessitat d'aturar-se a descansar.",
+    "d": "Absència de dispnea, excepte si es fa un exercici intens."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-127"
+  },
+  {
+   "n": 128,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "Al cap d'uns dies de l'alta la infermera valora la necessitat de realitzar el test de la marxa. Què mesura aquest test?",
+   "options": {
+    "a": "La tolerància a l'exercici físic.",
+    "b": "El grau de dispnea.",
+    "c": "El temps que tarda per aixecar-se de la cadira.",
+    "d": "La tolerància a l'apnea."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-128"
+  },
+  {
+   "n": 129,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "A l'hora de fer l'exploració de la pell, a la zona sacra detecta una úlcera per pressió (UPP) d'estadi I. Quina de les següents és una característica d'aquesta lesió per pressió d'estadi I?",
+   "options": {
+    "a": "Cràter profund, amb lleuger exsudat i amb marges ben definits.",
+    "b": "Presenta erosió i flictenes.",
+    "c": "Eritema amb pell intacta que no es blanqueja amb la pressió.",
+    "d": "Necrosi tissular i afectació del teixit muscular."
+   },
+   "has_figure": false,
+   "transcription_notes": "A small scan speck appears just before \"I\" in \"d'estadi I\" in the stem; read as \"estadi I\" (consistent with the second mention).",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-129"
+  },
+  {
+   "n": 130,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "La infermera dóna consells sobre com tenir cura de la UPP a la família. Sobre el tractament tòpic de les úlceres, quina de les afirmacions següents és FALSA?",
+   "options": {
+    "a": "No s'aconsella l'ús d'antisèptics cutanis, són citotòxics per al teixit sa.",
+    "b": "Cal assecar només la zona periulcerosa de la ferida, per tal d'evitar traumatismes de fricció.",
+    "c": "S'han d'utilitzar apòsits que assequin el llit de la ferida per tal d'evitar la proliferació d'infeccions.",
+    "d": "Pot estar indicat l'ús de cremes amb corticoides quan la pell del voltant de l'úlcera està envermellida, inflamada, fa mal o presenta èczema."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-130"
+  },
+  {
+   "n": 131,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "El Sr. Joan, a més, té hipertensió arterial (HTA). L'objectiu de control de l'HTA en persones diabètiques és reduir la pressió arterial (PA) a uns valors de:",
+   "options": {
+    "a": "PA sistòlica < 135 mmHg i diastòlica <85 mmHg",
+    "b": "PA sistòlica < 130 mmHg i diastòlica < 80 mmHg",
+    "c": "PA sistòlica < 140 mmHg i diastòlica < 90 mmHg",
+    "d": "PA sistòlica < 125 mmHg i diastòlics < 75 mmHg."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-131"
+  },
+  {
+   "n": 132,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "Indica quina de les següents afirmacions sobre el tractament de l'MPOC és CERTA.",
+   "options": {
+    "a": "És recomanable l'ús d'antitussígens.",
+    "b": "L'efecte advers que és presenta amb més incidència amb el tiotropi són les palpitacions.",
+    "c": "Els efectes adversos més freqüents dels glucocorticoides inhalats són la ronquera, la tos i la candidiasi orofaríngia.",
+    "d": "La via d'administració preferida per als diversos fàrmacs és l'endovenosa."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-132"
+  },
+  {
+   "n": 133,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "Pel que fa al tractament de l'MPOC, quina és la via d'elecció per a l'administració del tractament?",
+   "options": {
+    "a": "Via oral, és la més fàcil de prendre i millora el compliment.",
+    "b": "Via inhalatòria, permet administrar el fàrmac directament a l'òrgan diana i que la dosi administrada sigui baixa i amb menys efectes secundaris.",
+    "c": "Via endovenosa, l'efecte s'aconsegueix en el temps més curt.",
+    "d": "Indistintament."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-133"
+  },
+  {
+   "n": 134,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "En Joan ha de seguir tractament inhalat. Quins dels següents aspectes sobre el salbutamol aerosol és FALS?",
+   "options": {
+    "a": "Pot provocar cefalea, tremolor i taquicàrdia.",
+    "b": "Fer la inhalació en el curs d'una inspiració profunda seguida d'una apnea de 10 segons.",
+    "c": "Exhalar l'aire completament abans d'introduir el dispositiu a la boca.",
+    "d": "És recomanable deixar un interval de 30 minuts entre l'administració de l'inhalador i els àpats per no interferir en l'absorció del medicament."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "d"
+   ],
+   "answer": "d",
+   "id": "ics-dsi-2016PI-134"
+  },
+  {
+   "n": 135,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "El Sr. Joan també pren tractament per a l'HTA. Quin dels següents NO és un efecte secundari de la medicació antihipertensiva?",
+   "options": {
+    "a": "Fatiga",
+    "b": "Tos",
+    "c": "Xoc anafilàctic",
+    "d": "Hipotensió ortostàtica"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-135"
+  },
+  {
+   "n": 136,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "En quina fase del procés infermer es fixen els objectius i es determinen les intervencions i activitats?",
+   "options": {
+    "a": "En la fase de planificació",
+    "b": "En la fase de diagnòstic",
+    "c": "En la fase de valoració",
+    "d": "En la fase d'execució"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-136"
+  },
+  {
+   "n": 137,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "En Joan està en fase estable de la malaltia. Li recomanarem la vacunació antigripal i l'antipneumocòccica. Quina de les afirmacions següents NO és certa respecte a la vacuna antipneumocòccica?",
+   "options": {
+    "a": "Se n'administra una sola dosi.",
+    "b": "La revacunació sistemàtica no està indicada, excepte en les persones immunocompetents de més de 60 anys, a qui s'ha d'administrar una segona dosi al cap de 5 anys de la primera, si aquesta es va aplicar abans dels 55 anys.",
+    "c": "La revacunació sistemàtica no està indicada, excepte en les persones immunocompetents de més de 65 anys, a qui s'ha d'administrar una segona dosi al cap de 5 anys de la primera, si aquesta es va aplicar abans dels 65 anys.",
+    "d": "La vacuna antipneumocòccica és efectiva per prevenir la malaltia pneumocòccica invasiva en persones d'edat avançada immunocompetents (55 anys o més)."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "b"
+   ],
+   "answer": "b",
+   "id": "ics-dsi-2016PI-137"
+  },
+  {
+   "n": 138,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "El Sr. Joan és portador d'oxigen domiciliari. Dels següent signes i símptomes, quin NO és indicatiu d'intoxicació per oxigen?",
+   "options": {
+    "a": "Disàrtria",
+    "b": "Desorientació",
+    "c": "Febre",
+    "d": "Taquipnea"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "c"
+   ],
+   "answer": "c",
+   "id": "ics-dsi-2016PI-138"
+  },
+  {
+   "n": 139,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "A l'hora d'explicar la dieta en fases avançades de la malaltia, la infermera recomanarà:",
+   "options": {
+    "a": "Que la persona adeqüi els nutrients que pren, segons la seva capacitat de mastegar i deglutir.",
+    "b": "Que la persona no cal que descansi abans de menjar.",
+    "c": "Que s'augmenti el consum d'aigua amb gas.",
+    "d": "El fet de mantenir els bronquis lliures de secrecions no afecta a l'hora del menjar."
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-139"
+  },
+  {
+   "n": 140,
+   "section": "case",
+   "case_id": "C2",
+   "stem": "Com es calcula l'índex turmell-braç?",
+   "options": {
+    "a": "Pressió arterial sistòlica (PAS) més elevada del turmell (pols pedi o tibial posterior) / PAS braquial del braç control",
+    "b": "PAS braquial del braç control / PAS més elevada del turmell (pols pedi o tibial posterior)",
+    "c": "Pressió arterial diastòlica (PAD) més elevada del turmell (pols pedi o tibial posterior) / PAS braquial del braç control.",
+    "d": "PAD braquial del braç control / PAS més elevada del turmell (pols pedi o tibial posterior)"
+   },
+   "has_figure": false,
+   "transcription_notes": "",
+   "annulled": false,
+   "accepted": [
+    "a"
+   ],
+   "answer": "a",
+   "id": "ics-dsi-2016PI-140"
+  }
+ ],
+ "format": {
+  "penalty": null,
+  "time_min": null,
+  "note": "Promoció interna; s'escull un dels dos supòsits (A: 101-120, B: 121-140)"
+ }
+}
