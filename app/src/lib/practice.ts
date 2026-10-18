@@ -85,14 +85,16 @@ function compose(pool: QuestionRow[], all: QuestionRow[], cards: Map<string, Car
   const weight = new Map<string, number>();
   for (const q of all) if (q.origin === "official") weight.set(q.epigrafId, (weight.get(q.epigrafId) ?? 0) + 1);
   const j = () => (jitter ? 0.85 + Math.random() * 0.3 : 1);
+  // Les preguntes oficials recents primer; les històriques i les possiblement desactualitzades, menys
+  const trust = (q: QuestionRow) => (q.origin === "official" ? 1 : q.origin === "historical" ? 0.55 : 0.7) * (q.currency === "check" ? 0.6 : 1);
   const due: { q: QuestionRow; p: number }[] = [];
   const fresh: { q: QuestionRow; p: number }[] = [];
   const extra: { q: QuestionRow; p: number }[] = [];
   for (const q of pool) {
     const c = cards.get(q.id);
-    if (!c) fresh.push({ q, p: (1 + (weight.get(q.epigrafId) ?? 0) / 10) * j() });
+    if (!c) fresh.push({ q, p: (1 + (weight.get(q.epigrafId) ?? 0) / 10) * trust(q) * j() });
     else if (c.due <= now) due.push({ q, p: (1 - retrievability(c, now)) * j() });
-    else extra.push({ q, p: (1 - retrievability(c, now)) * j() });
+    else extra.push({ q, p: (1 - retrievability(c, now)) * trust(q) * j() });
   }
   const byP = (x: { q: QuestionRow; p: number }[]) => x.sort((a, b) => b.p - a.p).map((y) => y.q);
   const [d, f, e] = [byP(due), byP(fresh), byP(extra)];
@@ -216,7 +218,7 @@ export type ClientQuestion = {
   id: string;
   number: number | null;
   stem: string;
-  options: Record<OptionKey, string>;
+  options: Partial<Record<OptionKey, string>>;
   /** Nombre de respostes que cal marcar */
   required: number;
   epigrafId: string;
@@ -253,9 +255,12 @@ export type SessionView = {
 };
 
 function sourceLabel(q: QuestionRow, examTitles: Map<string, { title: string; date: string }>) {
-  if (q.origin !== "official" || !q.examId) return "Pregunta generada";
-  const e = examTitles.get(q.examId);
-  return `Examen oficial ICS ${e?.date.slice(0, 4) ?? ""} · pregunta ${q.number}`;
+  if (q.origin === "generated") return "Pregunta pròpia de la plataforma";
+  if (q.examId) {
+    const e = examTitles.get(q.examId);
+    return `${e ? examLabel(q.examId, e.date) : "Examen oficial ICS"}${q.number ? ` · pregunta ${q.number}` : ""}`;
+  }
+  return q.sourceLabel ?? "Examen oficial ICS (històric)";
 }
 
 export async function getSessionView(userId: number, sessionId: string): Promise<SessionView | null> {
@@ -322,7 +327,7 @@ export async function getSessionView(userId: number, sessionId: string): Promise
   };
 }
 
-const OPTION_KEYS: OptionKey[] = ["a", "b", "c", "d"];
+const OPTION_KEYS: OptionKey[] = ["a", "b", "c", "d", "e"];
 
 export async function saveAnswer(
   userId: number,

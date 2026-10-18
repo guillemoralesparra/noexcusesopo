@@ -19,6 +19,7 @@
     "drizzle-orm": "0.44.5",
     "jose": "6.1.0",
     "lucide-react": "0.453.0",
+    "marked": "16.4.1",
     "next": "15.5.28",
     "postgres": "3.4.7",
     "react": "19.1.0",

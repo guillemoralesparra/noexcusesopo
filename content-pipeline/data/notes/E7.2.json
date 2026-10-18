@@ -1,0 +1,36 @@
+{
+ "epigraf": "E7.2",
+ "body_md": "## En una frase\nLa higiene de mans és la mesura més important per prevenir les infeccions relacionades amb l'assistència sanitària (IRAS); els programes «Zero» agrupen paquets de mesures basades en l'evidència per reduir les infeccions més freqüents (catèter, ventilació mecànica, sonda urinària, resistències).\n\n## Conceptes clau\n- **IRAS / infecció nosocomial**: la que s'adquireix durant l'atenció i no estava present ni en incubació en l'ingrés. Les més freqüents: infecció urinària associada a sonda, de ferida quirúrgica, pneumònia associada a ventilació i bacterièmia associada a catèter.\n- **Flora de les mans**: **residents** (capes profundes, poc patògenes, difícils d'eliminar amb el rentat) i **transitòries** (superficials, adquirides per contacte, fàcils d'eliminar i les més relacionades amb la infecció nosocomial).\n- **Cadena epidemiològica**: reservori, via de sortida, mecanisme de transmissió, via d'entrada i hoste susceptible.\n- **Guants no estèrils**: no substitueixen la higiene de mans; s'han de canviar entre pacients i entre procediments en un mateix pacient.\n\n## Valors, escales i classificacions\n| Higiene de mans | Detall |\n|---|---|\n| **Fricció amb solució alcohòlica** | 20-30 s; mans visiblement netes; passos OMS (palmells, dors, entre dits, dits, polzes, puntes dels dits sobre el palmell oposat) |\n| **Aigua i sabó** | 40-60 s; mans visiblement brutes o amb sang; sempre amb *Clostridioides difficile* o norovirus |\n| **Aigua** | **Tèbia** (no calenta: irrita i resseca) |\n\n**Cinc moments de l'OMS**: abans de tocar el pacient; abans d'una tècnica neta o asèptica; després del risc d'exposició a fluids corporals; després de tocar el pacient; després de tocar l'entorn del pacient.\n\n| Programa | Objectiu | Mesures bàsiques |\n|---|---|---|\n| **Bacterièmia Zero** | Bacterièmia per catèter venós central | Higiene de mans, clorhexidina 2 % per a l'antisèpsia de la pell, precaucions màximes de barrera en la inserció, preferir subclàvia i evitar femoral, retirar catèters innecessaris |\n| **Pneumònia Zero** | Pneumònia associada a ventilació mecànica | Formació, higiene de mans, higiene bucal amb clorhexidina 0,12-0,2 % cada 6-8 h, pressió del baló del tub 20-30 cmH₂O, evitar el decúbit supí (elevació 30-45°), aspiració subglòtica, reduir la durada de la ventilació |\n| **ITU Zero** | Infecció urinària per sonda | Indicació correcta, tècnica estèril, sistema tancat, retirada precoç |\n| **Resistència Zero** | Bacteris multiresistents | Cribratge i mesures de contacte |\n\n## Actuació infermera\n- **Diagnòstic**: *Risc d'infecció*, *Protecció ineficaç*.\n- Higiene de mans als cinc moments; ungles curtes, sense anells, polseres ni rellotge; abstenir-se d'ungles artificials.\n- Cura i manteniment dels dispositius invasius segons protocol (apòsit, connectors, rentat, retirada).\n- Participació en la vigilància (VINCat a Catalunya) i en els programes Zero.\n- **Educació** a pacients i visites sobre higiene de mans i respiratòria.\n- **Mesures complementàries**: precaucions d'aïllament quan toqui, maneig correcte del catèter (apòsit, connectors desinfectats amb alcohol abans d'accedir-hi, canvi d'equips segons protocol), desinfecció de superfícies d'alt contacte, vacunació dels professionals (grip, hepatitis B) i notificació de les exposicions accidentals.\n- **Vigilància epidemiològica**: les dades d'incidència d'IRAS dels hospitals de Catalunya es recullen a través de VINCat, que retorna indicadors per comparar-se i millorar.\n\n## Què pregunten als exàmens\n- Mesura més important per prevenir la infecció nosocomial: rentat de mans (2016); últim pas de la fricció alcohòlica (2016).\n- Ús correcte dels guants: canviar-los entre procediments (2017); antisèpsia de mans: no s'ha de recomanar aigua calenta (2017).\n- Flora residents i transitòria (2024); Pneumònia Zero: higiene bucal amb clorhexidina cada 6-8 h (2024; evidència actual discutida).\n\n## Trampes freqüents\n- Dir que la flora resident és la més relacionada amb la infecció nosocomial (ho és la transitòria).\n- Utilitzar aigua calenta o fricció alcohòlica davant de mans visiblement brutes o *C. difficile*.\n- Substituir la higiene de mans pel canvi de guants.\n\n## Normativa i guies de referència\n- OMS, Guia de la higiene de mans en l'atenció sanitària (2009) i els 5 moments.\n- Projectes Zero (SEMICYUC, Ministeri de Sanitat); VINCat (Servei Català de la Salut).\n- Llei 31/1995 de prevenció de riscos laborals (risc biològic).\n",
+ "key_points": [
+  "La higiene de mans és la mesura més important per prevenir la infecció nosocomial.",
+  "La fricció alcohòlica dura 20-30 s; el rentat amb aigua i sabó 40-60 s, amb aigua tèbia.",
+  "Cal aigua i sabó si les mans estan visiblement brutes o davant C. difficile.",
+  "La flora transitòria és fàcil d'eliminar i és la més relacionada amb la infecció nosocomial.",
+  "Els 5 moments de l'OMS inclouen abans de tocar el pacient, abans de tècnica asèptica, després de fluids, després del pacient i després de l'entorn.",
+  "Pneumònia Zero inclou higiene bucal amb clorhexidina, elevació del capçal 30-45° i pressió del baló 20-30 cmH₂O.",
+  "Bacterièmia Zero aplica clorhexidina 2 %, barrera màxima en la inserció del catèter i retirada de catèters innecessaris."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 31/1995 de prevenció de riscos laborals",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+  },
+  {
+   "kind": "ref",
+   "label": "OMS, WHO Guidelines on Hand Hygiene in Health Care (2009)"
+  },
+  {
+   "kind": "ref",
+   "label": "Projectes Zero (Bacterièmia, Pneumònia, ITU, Resistència Zero)"
+  },
+  {
+   "kind": "ref",
+   "label": "VINCat, Servei Català de la Salut"
+  }
+ ],
+ "review_flags": [
+  "El protocolo Neumonía Zero fue revisado (2022): la evidencia reciente cuestiona la clorhexidina oral rutinaria; el examen 2024 la daba como correcta. Verificar versión vigente.",
+  "Pasos exactos de la técnica de fricción pueden variar según la versión del cartel."
+ ]
+}

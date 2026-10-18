@@ -1,0 +1,25 @@
+{
+ "epigraf": "E1.3",
+ "body_md": "## En una frase\nEl procés d'atenció d'infermeria (PAI) és el mètode científic i sistemàtic de l'activitat infermera, amb cinc etapes cícliques: **valoració, diagnòstic, planificació, execució i avaluació**.\n\n## Conceptes clau\n- És un procés **dinàmic, cíclic, flexible i centrat en la persona**; les etapes se superposen i l'avaluació retroalimenta la valoració.\n- **Valoració**: recollida, organització i validació de dades (subjectives i objectives; primàries i secundàries). Es fa seguint un model (Henderson, Gordon…) i amb entrevista, observació i exploració física. Pot ser inicial, focalitzada o contínua.\n- **Diagnòstic**: judici clínic sobre les respostes de la persona, família o comunitat. Format PES (problema, etiologia, signes/símptomes); en els diagnòstics de risc no hi ha signes i símptomes. Cal distingir **problema de col·laboració (complicació potencial)** de diagnòstic infermer.\n- **Planificació**: prioritzar problemes, fixar **objectius/resultats** (mesurables, realistes, amb temps i orientats a la persona) i seleccionar intervencions i activitats. Inclou el pla de cures escrit. En aquesta fase \"es fixen els objectius, es determinen les intervencions i les activitats\" (2016, dues vegades).\n- **Execució**: posar en pràctica el pla, registrar i continuar la valoració.\n- **Avaluació**: comparar l'estat actual amb els resultats esperats; decidir mantenir, modificar o finalitzar el pla.\n- **Plans de cures estandarditzats**: protocols per a problemes freqüents; **s'han d'individualitzar** sempre (2016).\n\n## Valors, escales i classificacions\n\n| Etapa | Pregunta clau | Producte |\n|---|---|---|\n| Valoració | Què passa? | Base de dades, patrons/necessitats alterats |\n| Diagnòstic | Quin problema i per què? | Llista de diagnòstics (NANDA/ATIC) |\n| Planificació | Què vull aconseguir i com? | Objectius (NOC), intervencions (NIC) |\n| Execució | Ho faig i ho registro | Registre d'activitats |\n| Avaluació | Ho he assolit? | Valoració de resultats, reajustament |\n\n**Prioritat dels problemes**: primer els que amenacen la vida o la seguretat (ABC, Maslow), després els que comprometen la funció i, finalment, els d'educació o desenvolupament; sempre tenint en compte les preferències de la persona.\n\n## Actuació infermera\n- Valoració: dades completes, validades i registrades; incloure el cuidador.\n- Diagnòstic: redactar només diagnòstics que la infermera pot tractar de manera autònoma.\n- Planificació: pactar objectius amb la persona; objectius SMART (específics, mesurables, assolibles, rellevants i temporals).\n- Execució: delegar només quan sigui adequat; documentar tot.\n- Avaluació: revisar-la a cada contacte; reformular si l'objectiu no s'assoleix.\n- Continuïtat: la informació d'una alta (p. ex. a través del programa PREALT) es recull amb la mateixa lògica de valoració.\n\n## Què pregunten als exàmens\n- Fase de planificació: on es fixen objectius, intervencions i activitats (2016, dues preguntes).\n- Fase de valoració: la informació recollida sobre l'estat de salut, també en un cas de continuïtat d'alta (2016, 2019).\n- Plans de cures estandarditzats i individualització: afirmació no correcta, \"no s'han d'individualitzar\" (2016).\n\n## Trampes freqüents\n- Confondre **valoració** (recollir dades) amb **diagnòstic** (interpretar-les).\n- Pensar que l'avaluació és només l'última fase: és contínua.\n- Creure que un pla estandarditzat substitueix l'individualitzat.\n- Confondre objectiu (resultat esperat en la persona) amb activitat (acció de la infermera).\n- Incloure complicacions mèdiques com a diagnòstic infermer.\n\n## Normativa i guies de referència\n- Llei 44/2003, d'ordenació de les professions sanitàries.\n- Llei 41/2002 (autonomia del pacient): registre i documentació clínica.\n- NANDA-I, NOC i NIC com a llenguatges que suporten el procés; a l'ICS, terminologia ATIC.",
+ "key_points": [
+  "El PAI té cinc etapes: valoració, diagnòstic, planificació, execució i avaluació.",
+  "Els objectius i les intervencions es fixen a la fase de planificació.",
+  "La informació recollida sobre l'estat de salut correspon a la valoració.",
+  "El format PES (problema, etiologia, signes/símptomes) s'usa en els diagnòstics reals; els de risc no tenen signes ni símptomes.",
+  "Els plans de cures estandarditzats sempre s'han d'individualitzar.",
+  "L'avaluació compara resultats amb objectius i és contínua, no només final."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 44/2003, d'ordenació de les professions sanitàries",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21340"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 41/2002 (documentació clínica)",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188"
+  }
+ ],
+ "review_flags": []
+}

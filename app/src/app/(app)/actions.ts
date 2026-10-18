@@ -54,7 +54,7 @@ export async function startPractice(form: FormData) {
 const answerSchema = z.object({
   sessionId: z.string().uuid(),
   questionId: z.string(),
-  selected: z.array(z.enum(["a", "b", "c", "d"])),
+  selected: z.array(z.enum(["a", "b", "c", "d", "e"])),
   confidence: z.enum(["sure", "doubt", "guess"]).nullable(),
   timeMs: z.number().int().nonnegative().nullable(),
 });

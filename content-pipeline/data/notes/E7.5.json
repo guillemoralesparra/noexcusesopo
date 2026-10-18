@@ -1,0 +1,25 @@
+{
+ "epigraf": "E7.5",
+ "body_md": "## En una frase\nIdentificar correctament el pacient amb almenys dos identificadors i transmetre la informació clínica de manera estructurada (per exemple, amb SBAR) evita errors greus en les transferències i en els procediments.\n\n## Conceptes clau\n- **Identificació activa**: demanar al pacient que digui el seu nom i la seva data de naixement, i contrastar-los amb la polsera i el document; no es fa servir el número de llit o d'habitació.\n- **Mínim de dos identificadors** (nom i cognoms, data de naixement, número d'història o CIP). Polsera identificativa en tots els ingressats; pacients no identificats: codi provisional.\n- **Moments crítics**: administració de medicaments, transfusions, extracció de mostres, procediments invasius i quirúrgics, entrega de dietes i trasllats.\n- **Comunicació en les transferències** (relleus, trasllats, altes): informació estructurada, completa, oral i escrita, amb oportunitat de fer preguntes.\n\n## Valors, escales i classificacions\n| SBAR | Contingut |\n|---|---|\n| **S**ituació | Qui sóc i quin és el problema |\n| **B**ackground (antecedents) | Història i context rellevant |\n| **A**valuació | Constants i valoració |\n| **R**ecomanació | Què es demana o proposa |\n\nAltres eines: I-PASS, llistes de verificació, **repetició de comandes verbals (*read-back*)**, ús d'abreviatures aprovades.\n\n## Actuació infermera\n- Comprovar la polsera abans de cada acte; corregir immediatament els errors d'identificació; no tapar ni retirar-la.\n- Comandes verbals només en urgències: escriure i repetir (read-back).\n- Transferències: assegurar el relleu al llit del pacient, incloure alergies, fàrmacs, riscos, pendents i plans.\n- **Educació** al pacient: col·laborar en la comprovació.\n\n## Què pregunten als exàmens\nNo s'ha preguntat en 2015-2024. Probable: nombre mínim d'identificadors, SBAR i identificació davant mostres o transfusió.\n\n## Trampes freqüents\n- Identificar pel número d'habitació o de llit.\n- Usar un sol identificador.\n- Preguntar «vostè és el senyor X?» en lloc de demanar que digui el seu nom.\n\n## Normativa i guies de referència\n- OMS, «Patient Identification» (Patient Safety Solutions, 2007) i Joint Commission, International Patient Safety Goals.\n- Estratègia de seguretat del pacient del SNS.\n",
+ "key_points": [
+  "Cal usar almenys dos identificadors (nom i cognoms, data de naixement, número d'història).",
+  "No s'identifica el pacient pel llit o l'habitació.",
+  "La identificació és activa: el pacient diu el seu nom.",
+  "SBAR: situació, antecedents, avaluació i recomanació.",
+  "Les comandes verbals s'han de repetir (read-back) i registrar.",
+  "Els moments crítics són medicació, transfusió, mostres, procediments i trasllats."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "OMS, Patient Safety Solutions: Patient Identification (2007)"
+  },
+  {
+   "kind": "ref",
+   "label": "Joint Commission International, International Patient Safety Goals"
+  }
+ ],
+ "review_flags": [
+  "No hay preguntas oficiales; contenido basado en recomendaciones generales. Verificar protocolo vigente del ICS."
+ ]
+}

@@ -1,0 +1,3229 @@
+[
+ {
+  "id": "ics-hist-258-23",
+  "stem": "Tots els fàrmacs següents són tractaments d’elecció en la quimioprofilaxis, EXCEPTE:",
+  "options": {
+   "a": "La rifampicina per contacte contra Haemophilus influenzae",
+   "b": "Isoniacida per contacte amb tuberculosi de baix risc",
+   "c": "Penicil·lina G sòdica en aquells nadons, les mares dels quals es desconeix que tinguin fets cultius vaginals",
+   "d": "Penicil·lina V per contacte amb Bordetella pertussis"
+  },
+  "source_label": "Examen oficial ICS · ICS, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-24",
+  "stem": "En una faringoamigdalitis aguda produïda per l’estreptococ Beta-hemolític del grup Ael tractament d’elecció és:",
+  "options": {
+   "a": "Azitromicina oral 12 mg/kg/dia a una dosi durant 5 dies",
+   "b": "Cefixima oral 8 mg/kg/dia a una dosi 10 dies",
+   "c": "Penicil·lina V oral 50 mg/kg/dia en 2-3 dosis durant 10 dies",
+   "d": "Amoxicil·lina + clavulànic 50 mg/kg/dia a 3 dosis durant 10 dies"
+  },
+  "source_label": "Examen oficial ICS · ICS, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-25",
+  "stem": "Les següents medicacions són efectives pel tractament de la laringitis aguda EXCEPTE una:",
+  "options": {
+   "a": "Budesonida nebulitzada",
+   "b": "Salbutamol nebulitzat",
+   "c": "Dexametasona oral",
+   "d": "L-adrenalina nebulitzada"
+  },
+  "source_label": "Examen oficial ICS · ICS, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-26",
+  "stem": "En relació al refredat comú totes les respostes són correctes EXCEPTE una:",
+  "options": {
+   "a": "La codeïna i el dextrometorfà no han demostrat eficàcia en el tractament de la tos dels refredats",
+   "b": "La vitamina C i la inhalació d’aire humidificat i calent no han demostrat més eficàcia que el placebo",
+   "c": "Existeixen suficients evidències sobre l’eficàcia de l’equinàcea en els quadres catarrals",
+   "d": "La guaifenesina i altres mucolítics no són eficaços en el tractament simptomàtic del refredat comú"
+  },
+  "source_label": "Examen oficial ICS · ICS, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-27",
+  "stem": "Ens ve a la consulta un nen de 13 mesos en tractament amb cisaprida. Quan es necessita tractament antibiòtic li podrem donar els antibiòtics següents EXCEPTE un:",
+  "options": {
+   "a": "Amoxicil·lina",
+   "b": "Cefuroxima axetil",
+   "c": "Trimetropim-sulfametoxazol",
+   "d": "Eritromicina"
+  },
+  "source_label": "Examen oficial ICS · ICS, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-28",
+  "stem": "En relació al tractament farmacològic de la dermatitis atòpica, quina de les afirmacions següents ÉS CERTA?",
+  "options": {
+   "a": "En els nens de 2 anys el tacrolimus al 0,1 % és el tractament d’elecció quan fracassen els corticoides de baixa potència",
+   "b": "El pimecròlimus és el tractament d’elecció en els nens per sota de 2 anys",
+   "c": "La fotoquimioteràpia amb PUVA està indicada en la dermatitis atòpica lleu",
+   "d": "Els corticoides continuen essent la pedra angular en el tractament de la dermatitis atòpica"
+  },
+  "source_label": "Examen oficial ICS · ICS, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-31",
+  "stem": "El senyor Genís de 74 anys ha estat donat d’alta hospitalària després d’un ingrés per empitjorament del seu estat general. La seva germana Àngela, cuidadora principal, va a la consulta i ens comenta que el seu germà es queixa de molt dolor. Segons l’informe d’alta presenta neoplàsia de pròstata amb metàstasis òssies. Es programa una visita domiciliària. En avaluar el dolor, quin dels criteris següents indica que està controlat?",
+  "options": {
+   "a": "Menys de 4 crisis de dolor en 24 h",
+   "b": "Puntuació menor de 3 en l’escala visual analògica",
+   "c": "Puntuació menor de 3 en l’escala categòrica numèrica",
+   "d": "Totes les respostes són certes"
+  },
+  "source_label": "Examen oficial ICS · Primària, 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-35",
+  "stem": "Quin dels següents efectes secundaris pot presentar un malalt amb tractament d’antidepressius tricíclics?",
+  "options": {
+   "a": "Augment de pes",
+   "b": "Hipotensió postural",
+   "c": "Diarrea",
+   "d": "Risc d’autòlisi"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Barcelona, 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-36",
+  "stem": "El temps màxim entre la preparació i la finalització d’administració d’amoxicil·lina més àcid clavulànic per via endovenosa és:",
+  "options": {
+   "a": "30 minuts",
+   "b": "60 minuts",
+   "c": "120 minuts",
+   "d": "No hi ha límits"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Barcelona, 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-37",
+  "stem": "Durant el tractament amb anticoagulants orals, quina afirmació és falsa?",
+  "options": {
+   "a": "S’han de prendre entre les 8 hores i les 9 hores AM",
+   "b": "No es poden prendre vitamines ni anticatarrals sense autorització",
+   "c": "S’ha d’interrompre el tractament 24 hores abans d’una intervenció",
+   "d": "L’alcohol pot modificar la resposta orgànica"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Barcelona, 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-40",
+  "stem": "Quan s’han d’administrar simultàniament diversos tipus d’insulina en una mateixa xeringa, quina carregareu primer?",
+  "options": {
+   "a": "Ràpida",
+   "b": "Intermèdia",
+   "c": "Retardada",
+   "d": "Indiferent"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Girona, 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-41",
+  "stem": "Quin dels següents agents citostàtics és capaç de provocar ulceracions locals després de la seva extravasació?",
+  "options": {
+   "a": "Metotrexat",
+   "b": "Cisplatí",
+   "c": "Fluorouracil",
+   "d": "Vinorelbina"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Girona, 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-42",
+  "stem": "Quina d’aquestes afirmacions és certa?",
+  "options": {
+   "a": "L’efecte placebo no és indicador que la persona no pateix dolor",
+   "b": "L’efecte placebo es pot utilitzar amb pacients amb dolor crònic",
+   "c": "La resposta positiva al placebo s’ha d’interpretar com a indici que el dolor no és real",
+   "d": "L’efecte placebo no està relacionat amb la resposta fisiològica al dolor"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Girona, 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-43",
+  "stem": "En administrar una injecció subcutània d’heparina és incorrecte:",
+  "options": {
+   "a": "Pessigar el teixit uns 15 mm amb el dit gros i l’índex",
+   "b": "Aplicar massatge sobre la zona després de la injecció",
+   "c": "Introduir l’agulla en angle de 90º respecte de la paret abdominal",
+   "d": "Variar regularment la zona abdominal on s’aplicarà la injecció"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Girona, 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-45",
+  "stem": "Senyaleu els efectes farmacològics de la morfina sobre el sistema nerviós central:",
+  "options": {
+   "a": "Analgèsic i de restrenyment",
+   "b": "Depressió respiratòria i de la tos",
+   "c": "Constricció pupil·lar i emesi",
+   "d": "Totes són correctes"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Tarragona, 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-47",
+  "stem": "Si un pacient afectat de malaltia pulmonar obstructiva crònica presenta arítmies cardíaques i mareig, a quin dels següents fàrmacs ho atriburíeu?",
+  "options": {
+   "a": "Corticoides",
+   "b": "Teofil·lina",
+   "c": "Mucolítics",
+   "d": "Antihistamínics"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Tarragona, 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-48",
+  "stem": "L-Dopa és un fàrmac que s’utilitza en:",
+  "options": {
+   "a": "La miastènia gravis",
+   "b": "La síndrome de Guillain-Barré",
+   "c": "La malaltia de Parkinson",
+   "d": "L’esclerosi múltiple"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Tarragona, 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-49",
+  "stem": "Si estem administrant sulfat de protamina és perquè:",
+  "options": {
+   "a": "El TPTA està molt allargat",
+   "b": "Es vol revertir l’efecte de l’heparina",
+   "c": "La via intrínseca de la coagulació està molt allargada",
+   "d": "El temps de sangria està alterat"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Lleida, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-50",
+  "stem": "Quina d’aquestes substàncies és antagonista pura dels opiacis?",
+  "options": {
+   "a": "Metadona",
+   "b": "Pentazocina",
+   "c": "Buprenorfina",
+   "d": "Naltrexona"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1993",
+  "year": 1993,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-51",
+  "stem": "En la gent gran la possibilitat de patir reaccions adverses per la mediació és:",
+  "options": {
+   "a": "Més gran en els homes que en les dones",
+   "b": "Més petita en els ancians de baix pes",
+   "c": "La mateixa que en l’adult",
+   "d": "Més gran en las persones que prenen molts medicaments",
+   "e": "Més petita en les dones obeses"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-53",
+  "stem": "Un pacient afectat de MPCO presenta tremolors, nerviosisme i taquiarítmies, a quin dels següents medicaments ho atribuiríeu?",
+  "options": {
+   "a": "Teofil·lines",
+   "b": "Broncodilatadors beta-adrenèrgiques",
+   "c": "Corticoides",
+   "d": "Antihistamínics",
+   "e": "Mucolítics"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-54",
+  "stem": "Els efectes extrapiramidals causats per la medicació neurolèptica poden produir acatísia, que es caracteritza per:",
+  "options": {
+   "a": "Pèrdua d’iniciativa motriu",
+   "b": "Dificultat d’estar-se quiet",
+   "c": "Moviments parasitaris que augmenten l’expressió dels gestos",
+   "d": "Actes automàtics imitatius"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-74",
+  "stem": "En un malalt amb probable lesió cerebral les mesures de tractament farmacològic aniran encaminades a reduir complicacions. Dels següents fàrmacs, quin s’utilitza per reduir l’edema cerebral o prevenir-ne l’aparició?",
+  "options": {
+   "a": "Hidralacina",
+   "b": "Manitol",
+   "c": "Fenitoïna",
+   "d": "Difenilhidantoïna"
+  },
+  "source_label": "Examen oficial ICS · Barcelona, 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-7",
+  "stem": "De les normes d’utilització i conservació dels antisèptics i desinfectants. Quina de les següents afirmacións és certa?",
+  "options": {
+   "a": "La barreja de diferents antisèptics és una mesura òptima per prevenir les infeccions, perquè, es potencia l’activitat antisèptica.",
+   "b": "Quan utilitzem un antisèptic caldrà, sempre, respectar el temps d’actuació i les concentracions indicades",
+   "c": "Quan s’apliquen antisèptics sobre grans superfícies cutànies, aquests mai s’absorbeixen per la pell.",
+   "d": "És molt convenient mantenir submergit l’instrumental en solucions desinfectants"
+  },
+  "source_label": "Examen oficial ICS · JTrueta-97",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-12",
+  "stem": "Entre les mesures de prevenció de les infeccions hospitalàries en pacients amb sonda urinària permanent cal:",
+  "options": {
+   "a": "Canviar la sonda a intervals rutinaris",
+   "b": "Fer rentats per evitar obstruccions",
+   "c": "Deixar lliure la sonda per facilitar el moviment",
+   "d": "Mantenir la bossa per sota de la bufeta per tal d’evitar el reflux de l’orina."
+  },
+  "source_label": "Examen oficial ICS · VH-99",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-17",
+  "stem": "Les infeccions nosocomials més freqüents són les de les: (SEGONS EPINE 2015)",
+  "options": {
+   "a": "Vies respiratòries",
+   "b": "Vies urinàries",
+   "c": "Ferides quirúrgiques",
+   "d": "Vies intravasculars"
+  },
+  "source_label": "Examen oficial ICS · VH-99",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-18",
+  "stem": "La bacterièmia per catèter es defineix com a :",
+  "options": {
+   "a": "Colonització del catèter",
+   "b": "Aïllament de bactèries viables en la sang, amb cultiu de catèter positiu, sense que se’n indentifiqui un altre focus originari.",
+   "c": "Presència d’eritema, dolor, induració o secreció purulenta, limitats a un diàmetre de 2 cm a partir del punt d’inserció",
+   "d": "Totes les respostes anteriors són correctes."
+  },
+  "source_label": "Examen oficial ICS · JTrueta-97",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-20",
+  "stem": "La mesura més important per a la prevenció de les infeccions hospitalàries és:",
+  "options": {
+   "a": "Screnning serològic de professionals i pacients",
+   "b": "Aïllament de pacient amb agents patògens multiresistents",
+   "c": "Rentat de mans",
+   "d": "Aïllament específic per categories"
+  },
+  "source_label": "Examen oficial ICS · Bell-98",
+  "year": 1998,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-21",
+  "stem": "En l’àmbit hospitalari el mecanisme de transmissió per contagi directe més freqüent és:",
+  "options": {
+   "a": "Per via aèria",
+   "b": "Per contacte a través de les mans contaminades",
+   "c": "Per via digestiva +",
+   "d": "Totes les afirmacions són falses"
+  },
+  "source_label": "Examen oficial ICS · VLD-98",
+  "year": 1998,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-22",
+  "stem": "Qué s’anomena vector en la cadena d’infecció?",
+  "options": {
+   "a": "El microorganisme que causa les infeccions",
+   "b": "El lloc on creix el microorganisme",
+   "c": "El portador no humà que transmet el microorganisme",
+   "d": "La porta d’entrada del microorganisme"
+  },
+  "source_label": "Examen oficial ICS · Bell-98",
+  "year": 1998,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-25",
+  "stem": "Quin tipus d’aïllament caldrà que adoptin les persones quan entrin en una habitació d’un malalt amb tuberculosi pulmonar?",
+  "options": {
+   "a": "Mesures d’aïllament per evitar la transmissió per aire",
+   "b": "Mesures d’aïllament per evitar la transmisió per contacte",
+   "c": "Mesures d’aïllament per evitar la transmissió per contacte i gotes",
+   "d": "Mesures d’aïllament per evitar la transmissió per gotes"
+  },
+  "source_label": "Examen oficial ICS · BCN-02",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-47",
+  "stem": "Quinad’aquestes accions per millorar la salivació en un pacient oncològic NO recomanaries?",
+  "options": {
+   "a": "Llepar troços de pinya natural",
+   "b": "Glopejar infusió de camamilla amb llimona",
+   "c": "Glopejar aigua amb bicarbonat",
+   "d": "Mastegar xiclets sense sucre"
+  },
+  "source_label": "Examen oficial ICS · Bcn-03",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-54",
+  "stem": "Després d’una punció lumbar, el pacient:",
+  "options": {
+   "a": "Romandrà en decúbit supí sense coixí",
+   "b": "Es posarà en Trendelemburg i a les fosques",
+   "c": "Es col·locarà en decúbit lateral dret",
+   "d": "Es col·locarà en decúbit lateral esquerre amb les cames flexionades"
+  },
+  "source_label": "Examen oficial ICS · Bcn-07",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-74",
+  "stem": "En un pacient amb traqueostomia que requereix aspiració de les secrecions, la principal complicació és la hipoxia. Com l’evitarem?",
+  "options": {
+   "a": "Realitzant aspiracions freqüents",
+   "b": "Introduint la sonda aspirant",
+   "c": "Amb pressió de succió elevada",
+   "d": "Hiperoxigenant prèviament al pacient"
+  },
+  "source_label": "Examen oficial ICS · BCN-07",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-75",
+  "stem": "En pacients en tractament d’hemodiàlisi, la fístula arteriovenosa interna (FAVI) s’utilitza:",
+  "options": {
+   "a": "Exclusivament per realitzar hemodiàlisi",
+   "b": "Com alternativa per extraccions en pacients amb problemes d’accés vascular",
+   "c": "En cas de dificultat de vies venoses per administrar medicació",
+   "d": "Com a accés vascular d’elecció, amb la correcta asèpsia per tal d’evitar una possible infecció"
+  },
+  "source_label": "Examen oficial ICS · Bcn-03",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-76",
+  "stem": "En ingressar en la unitat, l’embenatge de guix d’un pacient atès a urgències està humit, i es queixa que sent calor. Responeu:",
+  "options": {
+   "a": "Notificant-ho al metge, ja que aquest problema indica una pressió excesiva sobre els teixits tous",
+   "b": "Dient-li que no es preocupi, però controlant la temperatura corporal",
+   "c": "Realitzant una finestra en el guix, per evitar la hipertèrmia de l’extremitat",
+   "d": "Explicant-li que l’embenatge de guix es nota calent durant un temps mentre se solidifica i s’evapora l’humitat"
+  },
+  "source_label": "Examen oficial ICS · ArnVil-97",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-260-77",
+  "stem": "Durant l’Hemodiàlisi la complicació més freqüent és:",
+  "options": {
+   "a": "Vòmits",
+   "b": "Anèmia",
+   "c": "Cefalea",
+   "d": "Hipotensió"
+  },
+  "source_label": "Examen oficial ICS · Bcn-03",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-1",
+  "stem": "Davant d’un malalt amb incontinència urinària quin consell no s’ha de donar als cuidadors informals?",
+  "options": {
+   "a": "Cuidar la pell evitant el contacte excessiu amb l’orina.",
+   "b": "Avisar l’equip sanitari si hi ha irritacions o vermellors.",
+   "c": "Reduir la ingesta de líquids.",
+   "d": "Rentar la zona amb sabó neutre i assecar-la correctament."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-2",
+  "stem": "La incontinència urinària d’esforç a la dona es produeix per:",
+  "options": {
+   "a": "Hipersensibilitat del muscle detrusor de la bufeta.",
+   "b": "Diabetis.",
+   "c": "Lesions medul·lars.",
+   "d": "Fallida dels mecanismes esfinterians."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-3",
+  "stem": "La senyora Lluïsa explica que en ocasions té pèrdues d’orina que no li permeten arribar al vàter. Quina és la causa de la incontinència d’esforç?",
+  "options": {
+   "a": "La contracció involuntària de la bufeta.",
+   "b": "Els mecanismes de tancament i de contenció del coll vesical.",
+   "c": "Les malalties neurològiques.",
+   "d": "El sobreeiximent de la bufeta."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-4",
+  "stem": "Una dona consulta perquè darrerament “se li escapa l’orina”. En quin tipus d’incontinència urinària, a part de normes generals per prevenir la incontinència, s’afegeixen els exercicis de reforç del sòl pelvià proposats per Kegel?",
+  "options": {
+   "a": "Incontinència d’esforç.",
+   "b": "Incontinència d’urgència.",
+   "c": "Incontinència per sobreeiximent.",
+   "d": "Incontinència funcional."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-6",
+  "stem": "Després d’un trasplantament renal el malalt ha de:",
+  "options": {
+   "a": "Visitar el dentista i l’oftalmòleg un cop a l’any, prevenir el restrenyiment, reduir l’exposició solar.",
+   "b": "Prendre de forma habitual laxants, caminar com a mínim 1 hora diària, controlar les calories de la seva dieta.",
+   "c": "Prendre de forma habitual laxants, reduir l’exposició solar, reduir la ingesta de líquids.",
+   "d": "Prevenir el restrenyiment, prendre el sol cada dia com a mínim 1 hora, restringir de forma habitual la fruita."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-8",
+  "stem": "Quins signes d’alarma ha de controlar (un cop donat d’alta) un malalt després d’un trasplantament renal?",
+  "options": {
+   "a": "Augment brusc de pes, disminució de la diüresi i augment de la motilitat intestinal.",
+   "b": "Disminució brusca de pes, augment de la diüresi i febre sense causa aparent.",
+   "c": "Augment brusc de pes, disminució de la diüresi i febre sense causa aparent.",
+   "d": "Disminució brusca de pes, augment de la motilitat intestinal i augment de la diüresi."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-9",
+  "stem": "Quines intervencions d’infermeria cal fer als pacients amb litiasi renal?",
+  "options": {
+   "a": "Augmentar l’aportació de líquids (de 2 a 3 litres/dia) i recomanar repòs estricte.",
+   "b": "Controlar la diüresi total i recomanar repòs al llit.",
+   "c": "Controlar la diüresi total i disminuir l’aportació de líquids.",
+   "d": "Augmentar l’aportació de líquids (de 2 a 3 litres/dia) i afavorir la mobilitat."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-10",
+  "stem": "Les cures d’infermeria al pacient sotmès a cirurgia urològica inclouen:",
+  "options": {
+   "a": "Conèixer la ubicació exacta de les sondes/catèters i connectar-los a sistemes de drenatges oberts.",
+   "b": "Pinçar periòdicament les sondes de nefrostomia abans de retirar-les.",
+   "c": "Limitar la velocitat de la irrigació vesical contínua per evitar la formació de coàguls.",
+   "d": "Controlar la permeabilitat de les sondes i catèters periòdicament."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-13",
+  "stem": "Quina ha de ser l’actuació del personal d’infermeria davant una fístula arteriovenosa interna o accés vascular en un pacient amb insuficiència renal crònica que es dialitza?",
+  "options": {
+   "a": "No ha de prendre la tensió arterial al braç de la fístula ni fer-hi puncions per fer l’anàlisi.",
+   "b": "Evitar la hipertensió arterial.",
+   "c": "Comprovar la sensibilitat de l’extremitat.",
+   "d": "Mesurar la força."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-14",
+  "stem": "Quin és l’estudi més complet que permet valorar la funció i disfunció de l’aparell urinari baix?",
+  "options": {
+   "a": "Cistografia.",
+   "b": "Pielografia.",
+   "c": "Urodinàmica.",
+   "d": "Cateterisme."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-16",
+  "stem": "Una de les característiques que defineix la retenció urinària és:",
+  "options": {
+   "a": "Distensió vesical.",
+   "b": "Urgència miccional.",
+   "c": "Polaquiúria.",
+   "d": "Espasme vesical."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-18",
+  "stem": "La causa més freqüent d’infecció urinària en el pacient és:",
+  "options": {
+   "a": "Una higiene perineal deficient.",
+   "b": "Retenció urinària.",
+   "c": "Sondatge vesical.",
+   "d": "Una deficient higiene dels genitals."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-20",
+  "stem": "En un pacient amb tractament d’hemodiàlisi:",
+  "options": {
+   "a": "Disminuirem la ingesta de líquids.",
+   "b": "Puncionarem la fístula arteriovenosa per tal d’evitar fer malbé altres venes que poden ser futurs accessos vasculars per hemodiàlisi.",
+   "c": "Augmentarem la ingesta de fruita i verdura per afavorir el trànsit intestinal.",
+   "d": "Està indicat transfusions periòdiques de sang a causa de l’anèmia en aquests tipus de pacients."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-21",
+  "stem": "La diàlisi peritoneal no està indicada en:",
+  "options": {
+   "a": "Nens menors de 10 anys.",
+   "b": "Pacients que presentin adherències intraabdominals.",
+   "c": "Pacients amb trastorns hemodinàmics.",
+   "d": "Pacients amb diabetis i d’edat avançada."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-22",
+  "stem": "En relació a les cures post biòpsia renal quina mesura no és correcta?",
+  "options": {
+   "a": "Control de la tensió arterial.",
+   "b": "Repòs absolut de 24 hores.",
+   "c": "Vigilància de les primeres miccions",
+   "d": "Restricció de la ingesta de líquids."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-23",
+  "stem": "En relació a una nefrostomia indiqueu l’enunciat incorrecte:",
+  "options": {
+   "a": "Drena directament l’orina des del ronyó.",
+   "b": "Mai s’ha de pinçar.",
+   "c": "S’introdueix directament a la pelvis renal.",
+   "d": "Conserva tot el flux d’orina per l’urèter."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-24",
+  "stem": "Quina és la causa de mortalitat més important de la població trasplantada renal?",
+  "options": {
+   "a": "La patologia cardiovascular.",
+   "b": "Les infeccions oportunistes.",
+   "c": "Els processos neoplàsics.",
+   "d": "L’hepatopatia crònica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-27",
+  "stem": "En un nen de 4 anys operat d’hipospàdies quin del següents problemes reals o potencials ha de tenir en consideració el personal d’infermeria en el pla de cures?",
+  "options": {
+   "a": "Deteriorament de la mobilitat física relacionada amb la limitació imposada de moviments.",
+   "b": "Risc d’infecció en relació amb la ferida quirúrgica, la sonda vesical i venoclisi.",
+   "c": "Ansietat dels pares i del nen.",
+   "d": "Tots poden aparèixer."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2008",
+  "year": 2008,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-28",
+  "stem": "Quan aquest nen sigui donat d’alta, s’haurà d’instruir els pares sobre:",
+  "options": {
+   "a": "L’obstrucció del meat urinari.",
+   "b": "Detectar signes d’infecció d’orina.",
+   "c": "El nen no ha d’anar en bicicleta.",
+   "d": "Totes les respostes anteriors són certes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2008",
+  "year": 2008,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-261-41",
+  "stem": "Quina de les següents és la manifestació més freqüent en el càncer vesical?",
+  "options": {
+   "a": "Hematúria.",
+   "b": "Dolor abdominal.",
+   "c": "Anúria.",
+   "d": "Dolor lumbar."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-1",
+  "stem": "En el seguiment domiciliari d’un pacient amb AVC, quina afirmació és falsa?",
+  "options": {
+   "a": "A partir del 10 – 15 dies de la fase aguda s’instruirà a la família per iniciar les mobilitzacions passives del costat afectat 3 – 4 vegades/dia.",
+   "b": "Davant l’aparició d’una diarrea s’ha de descartar sempre l’aparició d’un fecaloma.",
+   "c": "Poden aparèixer alteracions emocionals i convulsions.",
+   "d": "Cal iniciar el control de la hipertensió arterial quan ja ha passat la fase aguda.",
+   "e": "Després de 2 – 3 setmanes de l’episodi agut s’ha de realitzar una reavaluació dels dèficits motors i sensorials."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-2",
+  "stem": "Quin dels següents termes relacionats amb el dolor correspon a la definició: “Resposta disminuïda als estímuls dolorosos”?",
+  "options": {
+   "a": "Analgèsia.",
+   "b": "Hipoestèsia.",
+   "c": "Hipoalgèsia.",
+   "d": "Tolerància al dolor."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-3",
+  "stem": "El senyor Lluís té una hipercolesterolèmia, diabetis tipus 2, malaltia de Parkinson i deteriorament cognitiu. El seu tractament habitual és insulina garglina, biperidé i L-dopa. S’indicarà a la cuidadora que el sr. Lluís prengui el comprimit de Levodopa:",
+  "options": {
+   "a": "Amb un aliment ric en vitamina C.",
+   "b": "Lluny de la ingesta de proteïnes.",
+   "c": "Amb un aliment ric en calci.",
+   "d": "Lluny dels aliments rics en fibra."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-4",
+  "stem": "En l’escala de coma de Glasgow per a nens de menys de 4 anys, quina afirmació és correcta?",
+  "options": {
+   "a": "La puntuació inferior a 6 és patològica.",
+   "b": "La puntuació inferior a 6 és normal.",
+   "c": "La puntuació superior a 15 és patològica.",
+   "d": "La puntuació inferior a 3 és indiferent."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-5",
+  "stem": "Assenyaleu quin estadi de nivell de consciència té un pacient neurològic a qui només podem despertar amb estímuls forts i continus:",
+  "options": {
+   "a": "Estupor.",
+   "b": "Coma.",
+   "c": "Confusió mental.",
+   "d": "Somnolència."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-6",
+  "stem": "Assenyaleu quina de les afirmacions següents és correcta:",
+  "options": {
+   "a": "El dolor associat amb càncer pot ser agut o crònic.",
+   "b": "El dolor agut persisteix després de la curació completa d’una malaltia.",
+   "c": "La duració del dolor agut és d’aproximadament sis mesos o més.",
+   "d": "Definim com a dolor referit quan es percebut pel pacient en la mateixa àrea en què esdevé la patologia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-7",
+  "stem": "Quina de les següents substàncies químiques o neurotransmissors endògens produïdes pel cos humà redueixen o modulen el dolor quan eviten la conducció dels impulsos dolorosos en el sistema nerviós central?",
+  "options": {
+   "a": "Endorfines.",
+   "b": "Nociceptors.",
+   "c": "Prostaglandines.",
+   "d": "Histamines."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-8",
+  "stem": "Quina de les afirmacions següents és falsa?",
+  "options": {
+   "a": "Als nounats no se’ls alteren les respostes fisiològiques per procediments quirúrgics dolorosos.",
+   "b": "Els lactants són sensibles al dolor provocat pels procediments quirúrgics.",
+   "c": "Els nens poden negar el dolor per por.",
+   "d": "Els anestèsics i analgèsics són útils en els nounats per disminuir el dolor."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-12",
+  "stem": "En una persona afecta d’accident vascular cerebral (AVC) hemorràgic recent, quina de les següents activitats d’infermeria no seria correcta?",
+  "options": {
+   "a": "Aspirar secrecions quan sigui necessari.",
+   "b": "Estimular la tos a través de fisioteràpia respiratòria.",
+   "c": "Administrar oxigenoteràpia.",
+   "d": "Aplicar mesures per evitar el restrenyiment."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-14",
+  "stem": "L’escala de Glasgow valora els següents paràmetres:",
+  "options": {
+   "a": "Coloració de la pell, temperatura, reflexos cutanis.",
+   "b": "Edat, reflexos cutanis, resposta verbal.",
+   "c": "Resposta verbal, obertura d’ulls, resposta motora.",
+   "d": "Resposta motora, tensió arterial, temperatura."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-15",
+  "stem": "La paràlisi de Bell és la que afecta a:",
+  "options": {
+   "a": "El nervi motor ocular comú.",
+   "b": "El nervi trigemin.",
+   "c": "El múscul orbicular de la parpella.",
+   "d": "A tots els músculs facials d’un costat de la cara."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-16",
+  "stem": "En el dolor crònic no és cert que:",
+  "options": {
+   "a": "Persisteix més de 6 mesos.",
+   "b": "És símptoma d’una malaltia contínua.",
+   "c": "Es pot mantenir en absència de lesió.",
+   "d": "Sol ser localitzat i continu."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-17",
+  "stem": "Es denomina llindar del dolor a:",
+  "options": {
+   "a": "La intensitat mínima de l’estímul que el malalt percep com a dolorosa.",
+   "b": "La intensitat mitjana de l’estímul que el malalt percep com a dolorosa.",
+   "c": "La intensitat màxima de l’estímul que el malalt percep com a dolorosa.",
+   "d": "b i c són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-19",
+  "stem": "El quadre clínic característic de la malaltia de Parkinson és:",
+  "options": {
+   "a": "Disàrtria, disfàgia, distonia i alteració de reflexes.",
+   "b": "Moviments oculars anormals, nàusees, vòmits i distonia.",
+   "c": "Rigidesa, bradicinèsia, tremolor de repòs i alteració dels reflexos posturals.",
+   "d": "Cap de les anteriors és certa."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-20",
+  "stem": "En el pacient amb malaltia vascular cerebral aguda (ictus) cal monitorar:",
+  "options": {
+   "a": "La funció neurològica.",
+   "b": "La funció cardiorespiratòria.",
+   "c": "La pressió arterial.",
+   "d": "Totes les respostes són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-22",
+  "stem": "L’escala de Glasgow per a la valoració del nivell de consciència inclou:",
+  "options": {
+   "a": "Valoració de les pupil·les i la resposta motora.",
+   "b": "Valoració de l’obertura dels ulls, resposta motora i resposta verbal.",
+   "c": "Valoració dels parells cranials i obertura dels ulls.",
+   "d": "Valoració de contraccions musculars anormals, valoració neurooftàlmica i valoració pupil·lar."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-23",
+  "stem": "En una isquèmia cerebral transitòria els símptomes han de solucionar-se en:",
+  "options": {
+   "a": "Menys d’una setmana.",
+   "b": "Menys de tres dies.",
+   "c": "Menys de 24 hores.",
+   "d": "Menys de 20 dies."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-29",
+  "stem": "Què cal fer abans d’iniciar l’alimentació d’un pacient diagnosticat d’accident vascular cerebral?",
+  "options": {
+   "a": "Posar-lo en posició de Fowler.",
+   "b": "Donar-li una dieta suau i líquida.",
+   "c": "Comprovar que no pateix afàsia.",
+   "d": "Oferir-li menjar a la carta que li vingui de gust."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-30",
+  "stem": "Quina és una característica del dolor crònic?",
+  "options": {
+   "a": "És de curta durada.",
+   "b": "Va acompanyat d’ansietat.",
+   "c": "Pot associar-se a depressió i cansament.",
+   "d": "El seu origen sempre està ben definit."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-31",
+  "stem": "Quan hem de valorar un pacient amb dolor, quins criteris utilitzareu?",
+  "options": {
+   "a": "Qualitat, origen i tipus d’analgèsia.",
+   "b": "Si és un dolor central o perifèric.",
+   "c": "Si és un dolor crònic, agut o maligne.",
+   "d": "Intensitat, cronologia i localització."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-32",
+  "stem": "En un pacient amb lesió cerebral un patró respiratori de Cheyne-Stokes pot significar que el nivell de la lesió es troba en:",
+  "options": {
+   "a": "Pont de Varolio.",
+   "b": "Medul·la espinal.",
+   "c": "Cervell mitjà o part superior del pont de Varolio.",
+   "d": "Hemisferis cerebrals."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-36",
+  "stem": "Quin dels següents signes pot manifestar un pacient amb meningitis?",
+  "options": {
+   "a": "Paràlisi dels pars cranials i atàxia cerebel·losa.",
+   "b": "Afebril i Babinski positiu.",
+   "c": "Febre i convulsions.",
+   "d": "Marxa en steppage i ptosi palpebral."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-50",
+  "stem": "Què és la fase prodròmica en la malaltia epilèptica?",
+  "options": {
+   "a": "Aparició de símptomes premonitoris de crisi.",
+   "b": "Aparició de crisis tòniques i clòniques.",
+   "c": "Aparició de crisis convulsives continuades.",
+   "d": "Pèrdua momentània de la consciència."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2009",
+  "year": 2009,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-55",
+  "stem": "Persona operada de bypass gàstric mitjançant cirurgia bariàtrica.\nUn correcte control del dolor postoperatori?",
+  "options": {
+   "a": "Provocarà bradipnea.",
+   "b": "Controlarà la constipació.",
+   "c": "Serà capaç de reduir les complicacions respiratòries.",
+   "d": "Provocarà bradicàrdia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-56",
+  "stem": "Dona de 66 anys que ve al servei d’urgències per hemiparèsia al cos esquerre, desviació de la comissura labial i debilitat a la marxa, sense hàbits tòxics ni al·lèrgies medicamentoses conegudes. Antecedents patològics: hipertensió arterial, diabetis mellitus amb tractament amb insulina, marcapassos cardíac per arítmia. Independent per les activitats de la vida diària. Es realitzen proves complementàries i ingressa per accident vascular cerebral isquèmic. TA 180/80 mmHg; FC 65 bpm; temperatura axil·lar 35,6 º C; glicèmia capil·lar 116 mg/dl.\nLa incapacitat de reconèixer objectes familiars que es perceben pels sentits en una persona amb afectació neurològica es denomina:",
+  "options": {
+   "a": "Agnòsia.",
+   "b": "Apràxia.",
+   "c": "Afàsia.",
+   "d": "Disàrtria."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-63",
+  "stem": "Quina de les següents intervencions i/o activitats que ha de realitzar la infermera en un malalt amb descompensació ascítica amb encefalopatia hepàtica és correcta?",
+  "options": {
+   "a": "Ensenyar el pacient a incloure en la dieta aliments rics en sodi.",
+   "b": "Facilitar-li benzodiacepines per conciliar el son.",
+   "c": "Controlar el perímetre abdominal i el pes.",
+   "d": "Potenciar que faci exercici per recuperar la capacitat funcional del fetge."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-64",
+  "stem": "El senyor Pere de 35 anys ha patit un accident de trànsit. Ingressa amb aixafament toràcic, traumatisme abdominal, probable lesió cerebral i múltiples fractures.\nLes mesures de tractament farmacològic en aquest malalt aniran encaminades a reduir complicacions. Dels següents fàrmacs quin s’utilitza per reduir l’edema cerebral o prevenir-ne l’aparició?",
+  "options": {
+   "a": "Hidralacina.",
+   "b": "Manitol.",
+   "c": "Fenitoïna.",
+   "d": "Difenilhidantoïna."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-66",
+  "stem": "Cuideu un ancià amb disfàgia. Sobre la disfàgia i el seu abordatge, quina de les següents respostes és falsa?",
+  "options": {
+   "a": "La flexió anterior del coll permet protegir la via respiratòria.",
+   "b": "Un dels mètodes de cribratge és l’ús de l’eina EAT-10.",
+   "c": "Les complicacions respiratòries suposen la principal causa de mortalitat dels pacients amb disfàgia orofaríngia.",
+   "d": "La textura nèctar es correspon amb un espessor extrem (= 900 cP)"
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-70",
+  "stem": "En Lluís va caure a terra quan era al centre cívic. Va ser valorat al centre d’atenció primària amb l’escala Cincinnati i es va sospitar d’un ictus. Quina de les següents no és una manifestació clínica de l’ictus?",
+  "options": {
+   "a": "Cefalea intensa sobtada.",
+   "b": "Confusió brusca.",
+   "c": "Irritabilitat.",
+   "d": "Trastorn visual."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-71",
+  "stem": "Quin dels següents no és un factor de risc d’ictus?",
+  "options": {
+   "a": "Hipertensió arterial.",
+   "b": "Mal control del tractament anticoagulant.",
+   "c": "Afàsia.",
+   "d": "Arterioesclerosi."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-262-74",
+  "stem": "La sra. Maria té 83 anys i viu sola. Té antecedents d’hipertensió arterial amb tractament farmacològics. La seva filla la veu per última vegada a les 10 h i la troba asimptomàtica. A les 17 h se la troba a terra amb una afàsia i amb una ferida incisocontusa. S’activa el Codi Ictus des del domicili. Arriba a urgències i se li realitza un TAC de crani, es visualitza un infart de l’artèria cerebral mitjana (ACM) esquerra. En el moment de l’ingrés a la unitat d’ictus les constants vitals són pressió arterial 210/100 mmHg, freqüència cardíaca 70 bpm, freqüència respiratòria 14 rpm, afebril, glicèmia capil·lar 98 mg/dl. Se li realitza un ECG i s’evidencia una fibril·lació auricular.\nQuina és l’escala que puntua de forma numèrica la gravetat de l’ictus?",
+  "options": {
+   "a": "NIH Stroke Scale.",
+   "b": "EMINA.",
+   "c": "BARTHEL.",
+   "d": "GLASGOW."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-1",
+  "stem": "De les següents afirmacions respecte als embenats de l’extremitat inferior quina és certa?",
+  "options": {
+   "a": "S’inicia a la zona proximal i acaba a la distal.",
+   "b": "Recobreix la zona lesionada d’articulació a articulació.",
+   "c": "Afavoreix el peu equí.",
+   "d": "Substitueix la indicació de fer repòs durant uns dies."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-2",
+  "stem": "En un pacient que presenta osteoporosi establerta, però que no ha tingut cap fractura, assenyaleu quina intervenció no estaria indicada:",
+  "options": {
+   "a": "Suprimir l’alcohol.",
+   "b": "Suprimir el tabac.",
+   "c": "Donar suplements de calci.",
+   "d": "Repòs al llit com més temps millor."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-3",
+  "stem": "En una lesió medul·lar completa situada en la segona vèrtebra cervical el resultat previst és:",
+  "options": {
+   "a": "Anul·lació de tota funció motora, amb dependència total d’altra persona, però es manté la sensitiva.",
+   "b": "Paraplegia.",
+   "c": "Paràlisi facial amb deteriorament de les funcions cerebrals.",
+   "d": "Mort per aturada respiratòria, només sobreviu amb suport ventilatori immediat."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-4",
+  "stem": "Quina de les següents activitats no s’ha de portar a terme en una persona amb lesió medul·lar per aconseguir una reeducació vesical:",
+  "options": {
+   "a": "Fer cateterismes intermitents.",
+   "b": "Indicar restricció hídrica.",
+   "c": "Controlar el residu postmiccional.",
+   "d": "Col·locar una sonda vesical permanent."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-5",
+  "stem": "En el postoperatori d’una artoplàstia de maluc, quines de les següents intervencions estan indicades per evitar complicacions?",
+  "options": {
+   "a": "Mantenir l’extremitat afectada en abducció i el maluc en flexió màxima.",
+   "b": "Iniciar una pauta d’exercicis específics per ampliar l’arc de moviment i millorar la força muscular del maluc.",
+   "c": "Girar el pacient sobre el costat intervingut, mantenint els dispositius per evitar l’abducció del membre.",
+   "d": "Iniciar la sedestació durant períodes esporàdics i mantenint el maluc en flexió màxima."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-6",
+  "stem": "En una fractura òssia, quines complicacions són immediates?",
+  "options": {
+   "a": "Alteracions neurològiques, retard en la consolidació.",
+   "b": "Necrosi vascular òssia, síndrome d’embòlia grassa.",
+   "c": "Retard en la consolidació, síndrome del compartiment aponeuròtic.",
+   "d": "Síndrome d’embòlia grassa, síndrome del compartiment aponeuròtic."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-7",
+  "stem": "En un malalt amb fractura òssia que porti una tracció, quins són els principis que s’han de seguir perquè sigui eficaç?",
+  "options": {
+   "a": "Posició terapèutica del pacient, presència de força de contracció, continuïtat, absència de fricció.",
+   "b": "Presència de força de tracció, posició en decúbit, continuïtat.",
+   "c": "Posició terapèutica del pacient, presència de força de tracció, presència de fricció.",
+   "d": "Presència de força de tracció, absència de fricció, discontinuïtat."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-8",
+  "stem": "Després de patir una fractura, l’aparició de petèquies en el tòrax i mucoses és un signe clínic de:",
+  "options": {
+   "a": "Síndrome del compartiment.",
+   "b": "Embòlia grassa.",
+   "c": "Osteomielitis.",
+   "d": "Tromboembolisme pulmonar."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-9",
+  "stem": "Per tal d’evitar el desplaçament d’una PTM (pròtesi total de maluc) hem de mantenir l’extremitat inferior amb:",
+  "options": {
+   "a": "Abducció i rotació neutral.",
+   "b": "Abducció i rotació externa.",
+   "c": "Posició neutra i extremitats alineades.",
+   "d": "Addució i rotació externa."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-10",
+  "stem": "Si en una programació quirúrgica de la unitat de traumatologia veiem escrit artròdesi això significa que es realitzarà:",
+  "options": {
+   "a": "Un reemplaçament total de l’articulació.",
+   "b": "Una immobilització articular per fusió de l’articulació.",
+   "c": "Una resecció d’una falca òssia per descàrrega.",
+   "d": "Una introducció de l’artroscopi a l’articulació."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-12",
+  "stem": "Quines recomanacions facilitarem a un pacient que se li ha col·locat una pròtesi total de maluc quan és donat d’alta?",
+  "options": {
+   "a": "Mantenir la posició assegut amb les cames en adducció.",
+   "b": "Mantenir la cama afectada en posició de semiflexió.",
+   "c": "Mantenir les cames en abducció mentre s’està assegut i/o estirat.",
+   "d": "Mantenir posició que permeti girar el maluc cap a fora."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-13",
+  "stem": "Les fases de la curació de les fractures són:",
+  "options": {
+   "a": "Proliferació cel·lular, formació de l’hematoma, call ossi, remodelació, ossificació.",
+   "b": "Hematoma, proliferació cel·lular, call ossi, ossificació, remodelació.",
+   "c": "Call ossi, proliferació, hematoma, remodelació, ossificació.",
+   "d": "Hematoma, call ossi, proliferació, ossificació, remodelació."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-14",
+  "stem": "Quina és l’actuació correcta davant una tracció esquelètica contínua?",
+  "options": {
+   "a": "Cal moure la tracció per evitar la incomoditat del pacient.",
+   "b": "Valorar el dolor com a símptoma d’intolerància.",
+   "c": "Fer canvis posturals per evitar les úlceres per decúbit.",
+   "d": "Fer oscil·lar els pesos per tal d’evitar la immobilitat contínua de l’extremitat."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-16",
+  "stem": "L’artrocentesi és:",
+  "options": {
+   "a": "Punció articular.",
+   "b": "Drenatge articular.",
+   "c": "Introducció de fàrmacs i analgèsics.",
+   "d": "Introducció d’aire en l’articulació."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-17",
+  "stem": "Una fractura oberta en quins graus es classifica?",
+  "options": {
+   "a": "Grau I.",
+   "b": "Grau I, II.",
+   "c": "Grau I, II, III.",
+   "d": "Grau I, II, III, IV."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-18",
+  "stem": "Tenim un pacient intervingut d’una pròtesi total de maluc, en quina posició ha de mantenir la cama operada per evitar la luxació del maluc?",
+  "options": {
+   "a": "Addució.",
+   "b": "Abducció.",
+   "c": "Rotació interna.",
+   "d": "Amb flexió del maluc."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-26",
+  "stem": "Un pacient es intervingut de fractura bimaleolar del turmell esquerre i surt del quiròfan amb una botina de guix. A les 6 hores de la intervenció el pacient presenta pal·lidesa, fredor de l’extremitat intervinguda, dolor i parestèsies. Quina ha de ser l’actuació correcta?",
+  "options": {
+   "a": "Elevació de l’extremitat, controlar els polsos pedis distals i avisar el traumatòleg.",
+   "b": "Administrar l’analgèsia pautada i anticoagulant per evitar un tromboembolisme.",
+   "c": "Esperar 30 minuts i tornar a valorar.",
+   "d": "Explicar al malalt que aquestes sensacions són habituals en el postoperatori immediat d’aquesta intervenció."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-30",
+  "stem": "Un adult enllitat, amb lesió medul·lar completa, presenta diaforesi, pols irregular, tensió arterial de 162/96 i cefalàlgia intensa. Quines de les accions següents són adequades en aquest cas? (assenyaleu les dues respostes correctes)",
+  "options": {
+   "a": "Elevar el capçal del llit a 90 º.",
+   "b": "Posar en marxa el ventilador per reduir la sudoració.",
+   "c": "Valorar la presència de globus vesical i d’impactació fecal.",
+   "d": "Col·locar el malalt en decúbit supí amb les cames lleugerament elevades."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-31",
+  "stem": "Sobre les manifestacions clíniques de la fractura de coll de fèmur, quina de les següents és certa?",
+  "options": {
+   "a": "Sol produir abducció i rotació externa de l’extremitat.",
+   "b": "Sol produir adducció i rotació interna de l’extremitat.",
+   "c": "Sol produir flexoextensió de l’extremitat.",
+   "d": "Sol produir allargament de l’extremitat."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-32",
+  "stem": "En ancians amb fractura de maluc és habitual el risc de síndrome de desús. Entre d’altres possibles, quines de les següents complicacions potencials engloba la síndrome de desús?",
+  "options": {
+   "a": "Risc de tromboembolisme, risc de lesions per pressió i risc d’atelèctasi.",
+   "b": "Risc de diarrea, risc de desnutrició i risc d’hiperglucèmia.",
+   "c": "Deliri, atelèctasi i contractura muscular.",
+   "d": "Incontinència urinària, desorientació i alteració del patró de son."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-33",
+  "stem": "En la valoració continuada de l’avaluació del dolor associat a una fractura de maluc, quina dels següents aspectes no es considera indicador de control adequat d’aquest símptoma?",
+  "options": {
+   "a": "El pacient refereix millora o disminució del dolor.",
+   "b": "El pacient es mostra tranquil i relaxat.",
+   "c": "El pacient presenta agitació psicomotriu.",
+   "d": "El pacient dorm plàcidament."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-34",
+  "stem": "Sobre la tècnica de tracció cutània, quina de les següents respostes és falsa?",
+  "options": {
+   "a": "Sol emprar-se per controlar espasmes musculars, contribuir a disminuir el dolor i immobilitzar la zona.",
+   "b": "Abans d’aplicar la tracció cutània, cal valorar la pell i fer un control neurovascular de les extremitats.",
+   "c": "Abans d’aplicar la tracció de Buck, s’encobla la pesa d’un mínim de 5 kg.",
+   "d": "Abans d’aplicar la tracció, cal assegurar-se que el pacient manté una alineació corporal adequada."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-35",
+  "stem": "Sobre la cura de les ferides quirúrgiques, quina de les següents afirmacions és certa?",
+  "options": {
+   "a": "Cal rentar-se les mans i posar-se guants per fer la cura.",
+   "b": "La neteja de la ferida s’ha de fer començant per la zona més distal.",
+   "c": "La presència d’exsudat serós és sempre suggerent d’infecció.",
+   "d": "L’ús de talla estèril i mascareta és necessari en tots els casos."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-36",
+  "stem": "Quina de les següents és una complicació potencial específica en el postoperatori de pròtesi total de maluc?",
+  "options": {
+   "a": "Risc d’hemorràgia.",
+   "b": "Risc d’infecció.",
+   "c": "Risc de retenció urinària.",
+   "d": "Risc de luxació."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-263-37",
+  "stem": "En l’educació sanitària per a la preparació a l’alta, sobre les mesures preventives de dislocació de la pròtesi, quina de les següents recomanacions sobre mobilització està contraindicada?",
+  "options": {
+   "a": "Mantenir els genolls separats.",
+   "b": "Evitar creuar les cames en seure.",
+   "c": "Evitar flexionar-se cap endavant en sedestació.",
+   "d": "Procurar la flexió del maluc de més de 90 º."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-1",
+  "stem": "La reacció de Mantoux amb induració i eritema superior a 10 mm de diàmetre significa que la persona:",
+  "options": {
+   "a": "Pateix la tuberculosi amb tota certesa.",
+   "b": "Ha estat exposada al micobacterium tuberculosi.",
+   "c": "Mai patirà cap malaltia tuberculosa.",
+   "d": "Haurà d’iniciar d’immediat tractament preventiu.",
+   "e": "Ha de vacunar-se en el moment que desaparegui la cutireacció."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-2",
+  "stem": "Quina és la taxa de seroconversió al VIH del personal sanitari que es punxa accidentalment?",
+  "options": {
+   "a": "0,1 %.",
+   "b": "És inferior al 0,5 %.",
+   "c": "És inferior al 0,10 %.",
+   "d": "10 %.",
+   "e": "5 %."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-3",
+  "stem": "Quants malalts seropositius desenvoluparan la sida i en quant de temps? (alerta! Com aquest examen és de 1994 les dades poden estar desactualitzades)",
+  "options": {
+   "a": "El 50 % la desenvoluparan als 10 anys.",
+   "b": "Pràcticament tots la desenvoluparan tard o d’hora.",
+   "c": "El 90 % la desenvoluparan als 10 anys.",
+   "d": "Només un 20 % no la desenvoluparan mai.",
+   "e": "Tots en un termini de temps concret."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-4",
+  "stem": "Què s’anomena període finestra en la infecció pel VIH?",
+  "options": {
+   "a": "El temps que va des del moment de la infecció fins als primers símptomes de malaltia.",
+   "b": "El temps que va des del moment de la infecció fins a la demostració dels antiVIH.",
+   "c": "El temps que va entre l’aparició de ganglis i els primers símptomes.",
+   "d": "El temps en què hi ha símptomes evidents.",
+   "e": "El temps en què la malaltia és asimptomàtica."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-5",
+  "stem": "Quins són els símptomes de la infecció per VIH que indiquen una progressió més ràpida cap a la SIDA?",
+  "options": {
+   "a": "Símptomes constitucionals.",
+   "b": "Candidiasi.",
+   "c": "Púrpura trombocitopènica.",
+   "d": "Febre."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-6",
+  "stem": "Quina és la taxa de seroconversió del virus de l’hepatitis B (VHB) en el personal sanitari?",
+  "options": {
+   "a": "Menys del 0,5 %.",
+   "b": "5 – 10 %.",
+   "c": "20 %.",
+   "d": "Prop del 30 %. (Nota: dades de 2016 del 6 al 30 %)"
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-7",
+  "stem": "Quan es dóna el resultat a una persona del virus d’immunodeficiència humana (VIH) (+) quina prova analítica s’ha realitzat?",
+  "options": {
+   "a": "Una prova d’Elisa.",
+   "b": "Una prova d’Elisa i un Western Blot.",
+   "c": "Un antigen P24.",
+   "d": "Totes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-8",
+  "stem": "Quina és la taxa de transmissió vertical del virus del VIH?",
+  "options": {
+   "a": "Entre 5 – 10 %.",
+   "b": "Entre 15 – 30 %. (Nota: dades de 2016 per Espanya del 1 %)",
+   "c": "75 – 85 %.",
+   "d": "90 %."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-9",
+  "stem": "Quina de les següents afirmacions és una característica del virus de la influenza?",
+  "options": {
+   "a": "El fenomen de la variació antigènica.",
+   "b": "Les resistències.",
+   "c": "La ineficàcia de la vacuna.",
+   "d": "L’absència de possibles complicacions."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-10",
+  "stem": "Quina és la causa més freqüent de ceguesa en les persones amb VIH?",
+  "options": {
+   "a": "Uveïtis arterial.",
+   "b": "Retinitis per càndida.",
+   "c": "Retinitis per citomegalovirus.",
+   "d": "Toxoplasmosi."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-11",
+  "stem": "A què s’associa la presència de papil·loma virus?",
+  "options": {
+   "a": "Càncer de coll uterí.",
+   "b": "Esterilitat.",
+   "c": "Embaràs ectòpic.",
+   "d": "Avortaments."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-12",
+  "stem": "Quina afirmació és certa en relació a les malalties infeccioses?",
+  "options": {
+   "a": "L’edat i la presència de malalties cròniques, entre d’altres factors, condicionen la història natural de la malaltia.",
+   "b": "És la causa més freqüent de consulta en els pacients ambulatoris.",
+   "c": "La identificació del portador és important, especialment en les malalties de transmissió sexual (MTS).",
+   "d": "Totes les respostes anteriors són correctes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-13",
+  "stem": "Respecte a les infeccions oportunistes, quina afirmació és correcta?",
+  "options": {
+   "a": "Són qualsevol tipus d’infecció que apareix en la població.",
+   "b": "Són un tipus d’infeccions que solament es donen en malalts amb SIDA.",
+   "c": "Són la causa principal de mortalitat en les persones amb SIDA.",
+   "d": "Són les infeccions pandèmiques."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-14",
+  "stem": "Quina de les següents afirmacions és certa respecte a les estratègies de prevenció primària de la infecció per VIH?",
+  "options": {
+   "a": "Els consells i les intervencions aniran destinats a les persones que ja estan infectades.",
+   "b": "Tenen com a objectiu disminuir la incidència de complicacions en els individus ja infectats.",
+   "c": "Tenen com a objectiu disminuir la incidència de nous casos d’infecció per VIH.",
+   "d": "Les dones en edat fèrtil i els adolescents constitueixen un grup no prioritari de les intervencions de prevenció primària."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-15",
+  "stem": "Actualment quin és el mecanisme principal de transmissió de la pediculosi púbica en el nostre medi?",
+  "options": {
+   "a": "Sexual.",
+   "b": "Hídric.",
+   "c": "Aeri.",
+   "d": "Alimentari."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-16",
+  "stem": "Quina resposta és certa en relació a les proves serològiques per al diagnòstic del VIH?",
+  "options": {
+   "a": "Un individu pot negar-se que li siguin realitzades.",
+   "b": "Són obligatòries en individus de risc.",
+   "c": "Són obligatòries per optar a certs tipus de treball.",
+   "d": "Les respostes b i c són correctes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-17",
+  "stem": "Quina és l’estimació de l’eficàcia del preservatiu masculí en la prevenció de les malalties de transmissió sexual?",
+  "options": {
+   "a": "Del 50 al 55 %.",
+   "b": "Del 60 al 70 %.",
+   "c": "Del 75 al 80 %.",
+   "d": "Del 85 al 90 %."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-18",
+  "stem": "Al pacient M. K. de 60 anys no vacunat prèviament amb BCG li hem practicat una prova de tuberculina i acudeix a la consulta a les 72 hores per a la lectura. A partir de quina mida de la induració considerem que té infecció tuberculosa?",
+  "options": {
+   "a": "Igual o superior a 2 mm.",
+   "b": "Igual o superior a 5 mm.",
+   "c": "Igual o superior a 8 mm.",
+   "d": "Igual o superior a 10 mm."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-19",
+  "stem": "Referent al risc de transmetre el VIH quina és la pràctica sexual de més risc?",
+  "options": {
+   "a": "Penetració anal insertiva sense protecció.",
+   "b": "Penetració anal receptiva sense protecció.",
+   "c": "Penetració vaginal receptiva sense protecció.",
+   "d": "Penetració vaginal insertiva sense protecció."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-20",
+  "stem": "Segons l’OMS la sida es pot classificar tant pel seu estadi clínic com per l’escala d’activitat del malalt. A quin grau classificaríem un malalt postrat al llit per sota del 50 % del dia durant el darrer mes?",
+  "options": {
+   "a": "1.",
+   "b": "2.",
+   "c": "3.",
+   "d": "4."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-21",
+  "stem": "A la població X s’observa des de fa temps la presència continuada de casos de brucellosi. Com classificaríem aquest fet?",
+  "options": {
+   "a": "Pandèmia.",
+   "b": "Endèmia.",
+   "c": "Epidèmia.",
+   "d": "Brot epidèmic."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-22",
+  "stem": "Quines característiques hauria de tenir la dieta d’un malalt amb sida?",
+  "options": {
+   "a": "Baixa en calories i greixos i alta en proteïnes.",
+   "b": "Baixa en calories, proteïnes i greixos.",
+   "c": "Alta en calories i relativament baixa en greixos i proteïnes.",
+   "d": "Alta en calories, proteïnes i relativament baixa en greixos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-23",
+  "stem": "J. A. és un senyor de 32 anys que ve a la consulta per fer-se les proves del VIH ja que ha tingut unes pràctiques sexuals de risc el darrer mes. Els resultats de les proves manifesten que és seronegatiu. Què li hem d’advertir?",
+  "options": {
+   "a": "La importància d’abandonar les conductes de risc.",
+   "b": "El seguiment no ha finalitzat i s’haurà de repetir l’anàlisi.",
+   "c": "La importància de fer-se proves d’hepatitis B i C.",
+   "d": "Totes les respostes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-24",
+  "stem": "De totes les malalties oportunistes indicatives de SIDA, quina és la més freqüent a Espanya?",
+  "options": {
+   "a": "Toxoplasmosi cerebral.",
+   "b": "Candidiasi esofàgica.",
+   "c": "Sarcoma de Kaposi.",
+   "d": "Tuberculosi."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-25",
+  "stem": "Quin dels problemes següents de salut té com a simptomatologia principal en la dona l’aparició de berrugues o fics carnosos a la vagina, cèrvix, anus, perineu i uretra?",
+  "options": {
+   "a": "Herpes genital.",
+   "b": "Condiloma.",
+   "c": "Melanoma.",
+   "d": "Micosi."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-26",
+  "stem": "Un malalt de SIDA que presenta aftes a la boca comparteix la vaixella amb la resta de la família. A quina dilució de lleixiu domèstic aconsellaríeu submergir la vaixella durant 10 – 30 minuts?",
+  "options": {
+   "a": "5 %.",
+   "b": "10 %.",
+   "c": "20 %.",
+   "d": "30 %."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-27",
+  "stem": "Quina de les següents malalties pot patir una dona com a conseqüència d’una infecció per chlamydies?",
+  "options": {
+   "a": "Meningitis.",
+   "b": "Endometriosi.",
+   "c": "Infecció orofaríngia.",
+   "d": "Malaltia inflamatòria pèlvica."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-28",
+  "stem": "Com ha de ser la dieta recomanada a les persones que pateixen la SIDA?",
+  "options": {
+   "a": "Normocalòrica.",
+   "b": "Alta en proteïnes.",
+   "c": "Baixa en oligoelements.",
+   "d": "Rica en greixos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-30",
+  "stem": "La pacient P. M. ens comenta que està prenent metronidazol per una tricomoniasi. Quina de les recomanacions següents li faríeu?",
+  "options": {
+   "a": "No conduir vehicles.",
+   "b": "Evitar el consum d’alcohol.",
+   "c": "No cal que la seva parella faci tractament.",
+   "d": "Totes les anteriors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-31",
+  "stem": "Què s’entén com a font en el cas d’un accident laboral en el qual s’ha produït inoculació de sang?",
+  "options": {
+   "a": "Persona de qui procedeix el material biològic inoculat durant l’accident.",
+   "b": "Persona que rep la inoculació de material biològic durant l’accident.",
+   "c": "Mostra de material biològic de la persona accidentada.",
+   "d": "Mostra de material biològic de la persona transmissora."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-32",
+  "stem": "Quin dels següents canvis observats en l’epidèmia del VIH no és cert? (alerta, és de 2005, no he trobat dades actualitzades al respecte)",
+  "options": {
+   "a": "L’increment de la prevalença dels casos d’infectats.",
+   "b": "El predomini de la via sexual en la transmissió del virus.",
+   "c": "La reducció de conductes de risc en homes homosexuals.",
+   "d": "L’increment del retard en el diagnòstic."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-34",
+  "stem": "D’aquestes malalties quina no és de declaració nominal?",
+  "options": {
+   "a": "Tuberculosi.",
+   "b": "HIV.",
+   "c": "Tètanus.",
+   "d": "Tifus."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-35",
+  "stem": "Es realitzarà el test de Western Blot com a prova diagnòstica per:",
+  "options": {
+   "a": "Excloure falsos positius en la infecció per VIH.",
+   "b": "L’estudi de l’anèmia hemolítica.",
+   "c": "L’estudi de les gammapaties monoclonals.",
+   "d": "El diagnòstic del mieloma múltiple."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-37",
+  "stem": "Una mare portador de virus d’hepatitis B la pot transmetre al nadó:",
+  "options": {
+   "a": "Per la vena umbilical.",
+   "b": "En el moment del part.",
+   "c": "Amb el contacte proper mare-fill.",
+   "d": "b i c són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-40",
+  "stem": "Respecte a la tuberculosi pulmonar quina és l’afirmació correcta?",
+  "options": {
+   "a": "La quimioprofilaxi s’administra en dosis repartides tres cops al dia durant una setmana.",
+   "b": "L’aïllament respiratori es manté 2 setmanes des què el malalt rep el tractament específic.",
+   "c": "Es considera PPD positiu la induració inferior a 5 mm.",
+   "d": "El PPD es conserva a temperatures altes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-43",
+  "stem": "Un dels enunciats següents és fals:",
+  "options": {
+   "a": "Sabrem que un pacient pateix la SIDA si està infectat per VIH.",
+   "b": "La gravetat de la infecció per VIH es mesura pel nivell de limfòcits T a la sang.",
+   "c": "La SIDA fa que el pacient sigui sensible a infeccions oportunistes a causa de l’escassa resistència del sistema immunitari.",
+   "d": "És molt important que tant el pacient com la família rebin educació sanitària per evitar possibles contagis."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-47",
+  "stem": "Quina de les afirmacions descrites a continuació és incorrecta?",
+  "options": {
+   "a": "Cal adoptar mesures de precaucions universals en atendre a pacients amb sospita de possible infecció per VIH.",
+   "b": "És molt important tenir en compte la confidencialitat del pacient en cas d’infecció per VIH.",
+   "c": "La prova de la detecció del VIH no és un procediment rutinari quan s’ingressen els pacients.",
+   "d": "El resultat de les proves per detectar el VIH, sí es fan, han d’aparèixer en un lloc destacat de la història clínica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-49",
+  "stem": "L’agent etiològic de la SIDA és el denominat?",
+  "options": {
+   "a": "LAV.",
+   "b": "HIV.",
+   "c": "ARV.",
+   "d": "HTLV-III."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-264-67",
+  "stem": "Ateneu una dona de 28 anys que refereix sensació de cremor a la vulva. Explica “M’estic arreglant la boca i fa 6 dies que estic prenent antibiòtic (amoxicil·lina/àcid clavulànic)”. Quin dels següents signes suggereix candidiasi vaginal?",
+  "options": {
+   "a": "Flux vaginal escàs, verdós de textura escumosa.",
+   "b": "Augment del flux vaginal, blanquinós o grogós.",
+   "c": "Pal·lidesa vulvar amb o sense fissures.",
+   "d": "pH vaginal imperceptible."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-1",
+  "stem": "Respecte a l’ús d’inhaladors, identifiqueu un dels errors més freqüents:",
+  "options": {
+   "a": "Agitar el flascó abans de la inhalació.",
+   "b": "Col·locar l’inhalador en posició invertida.",
+   "c": "Realitzar la maniobra amb rapidesa.",
+   "d": "Aguantar la respiració després de la inhalació medicamentosa."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1992",
+  "year": 1992,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-2",
+  "stem": "La forma més segura i eficaç d’eliminar les secrecions del sistema respiratori:",
+  "options": {
+   "a": "El drenatge postural.",
+   "b": "La tos productiva.",
+   "c": "L’aspiració faríngia.",
+   "d": "L’aspiració endotraqueal."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1992",
+  "year": 1992,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-3",
+  "stem": "En un pacient amb limitació crònica al flux aeri, quina recomanació és incorrecta?",
+  "options": {
+   "a": "No utilitzar roba estreta.",
+   "b": "Clima càlid amb un cert grau d’humitat.",
+   "c": "Abundant ingesta de líquids.",
+   "d": "Ingesta d’aliments rics en ferro."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1992",
+  "year": 1992,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-4",
+  "stem": "Quines d’aquestes patologies no forma part de la MPOC?",
+  "options": {
+   "a": "Bronquitis crònica.",
+   "b": "Bronquitis aguda.",
+   "c": "Malalties de les vies petites.",
+   "d": "Emfisema."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1993",
+  "year": 1993,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-5",
+  "stem": "Identifiqueu quina de les següents mesures poden millorar la història natural d’un pacient amb MPOC:",
+  "options": {
+   "a": "Espirometries periòdiques.",
+   "b": "Vacunació antipneumocòccica.",
+   "c": "Pulsioximetria.",
+   "d": "Medició del flux espiratori màxim (Peak flow meter).",
+   "e": "Regulació sanitària de la contaminació mediambiental ."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-6",
+  "stem": "L’objectiu de la respiració diafragmàtica és:",
+  "options": {
+   "a": "Facilitar el drenatge de les secrecions bronquials.",
+   "b": "Millorar la qualitat de vida del malalt respiratori crònic.",
+   "c": "Disminuir la dispnea.",
+   "d": "Reeducar la respiració del malalt.",
+   "e": "Mobilitzar el diafragma per augmentar el volum espiratori màxim."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-7",
+  "stem": "Quan està contraindicat el drenatge postural?",
+  "options": {
+   "a": "Insuficiència venosa.",
+   "b": "Diafragmàlgia.",
+   "c": "Arítmies.",
+   "d": "Hipereactivitat bronquial.",
+   "e": "Hepatopaties."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-8",
+  "stem": "En un pacient normopés amb MPOC, quin aliment limitaríeu?",
+  "options": {
+   "a": "Pastisseria.",
+   "b": "Llet.",
+   "c": "Sardines.",
+   "d": "Vedella.",
+   "e": "Col-i-flor."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-10",
+  "stem": "Quina mesura d’educació i higiene bronquial consideraríeu més important en un pacient amb problemes respiratoris crònics?",
+  "options": {
+   "a": "Respiració profunda i tos.",
+   "b": "Percussió i vibració.",
+   "c": "Drenatge postural.",
+   "d": "Hidratació ambiental."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-11",
+  "stem": "Quan està contraindicada la tos eficaç?",
+  "options": {
+   "a": "Hipoxèmia.",
+   "b": "Pneumotòrax.",
+   "c": "Dispnea.",
+   "d": "Taquipnea."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-12",
+  "stem": "Què entenem per flux espiratori màxim (FEM)?",
+  "options": {
+   "a": "És la unitat de mesura del Peak Flow Meter.",
+   "b": "Es produeix quan el pacient inspira el més fort possible en l’aparell mesurador o Peak Flow Meter.",
+   "c": "Es produeix quan el pacient espira al més fort possible en l’interior d’un mesurador de flux màxim.",
+   "d": "Es la mesura del volum espiratori després de la prova broncodilatadora per valorar la resposta terapèutica."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-13",
+  "stem": "Quin/s requisit/s ha de reunir l’administració d’oxigen perquè augmenti la supervivència en un pacient amb insuficiència respiratòria crònica a domicili?",
+  "options": {
+   "a": "Haurà d’administrar-se durant més de 15 hores i amb caràcter indefinit.",
+   "b": "Haurà d’administrar-se durant l’horari de màxima severitat de la patologia.",
+   "c": "Haurà d’administrar-se durant les hores de son per no distorsionar les activitats diürnes del pacient.",
+   "d": "Haurà d’administrar-se mitjançant ulleres nasals i amb caràcter indefinit."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-14",
+  "stem": "A l’atenció primària freqüentment s’utilitza el peak flow meter pels pacients amb malalties obstructives de les vies aèries. Què mesura?",
+  "options": {
+   "a": "El flux espiratori màxim.",
+   "b": "El nivell de monòxid de carboni.",
+   "c": "La capacitat vital forçada.",
+   "d": "L’índex de Tiffeneau."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-15",
+  "stem": "El sr. E. P. És un malalt respiratori tractat amb aerosols pressuritzats. Quina d’aquestes activitats ha d’evitar?",
+  "options": {
+   "a": "Efectuar la inhalació en bipedestació o assegut.",
+   "b": "Inhalar primer el broncodilatador i després el corticoide.",
+   "c": "Fer una espiració ràpida immediatament després de la inhalació.",
+   "d": "Rentar diàriament l’aparell inhalador amb aigua i sabó neutre."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-16",
+  "stem": "Visitem un pacient asmàtic. Per reforçar la musculatura toràcica i mantenir la capacitat respiratòria, quina de les indicacions que segueixen li recomanarem?",
+  "options": {
+   "a": "Drenatge postural i vibracions.",
+   "b": "Clapping i tos productiva.",
+   "c": "Percussió i maniobres per a la hipersecreció.",
+   "d": "Respiració diafragmàtica i frenat labial."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-17",
+  "stem": "Per ajudar a eliminar les secrecions bronquials s’utilitza la percussió toràcica. En quina de les patologies següents està contraindicada?",
+  "options": {
+   "a": "Osteoporosi.",
+   "b": "Hemoptisi recent.",
+   "c": "Metàstasi costal.",
+   "d": "Totes les anteriors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-18",
+  "stem": "Per realitzar oxigenoteràpia domiciliària s’utilitzen bombones metàl·liques que emmagatzemen gas a pressió. Quin dels aspectes següents s’ha de tenir en compte durant el seu ús?",
+  "options": {
+   "a": "Engreixar les vàlvules periòdicament amb productes especials.",
+   "b": "Evitar el perill de les fuges d’oxigen al medi ambient.",
+   "c": "Tenir les bombones necessàries per a un mes de tractament.",
+   "d": "Cap de les anteriors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-19",
+  "stem": "Respecte a la vacuna pneumocòccica, quina de les afirmacions següents és correcta?",
+  "options": {
+   "a": "Es podria administrar després del primer trimestre d’embaràs.",
+   "b": "Interfereix en els tractaments antibiòtics profilàctics.",
+   "c": "Les persones immunodeficients han de revacunar-se cada any.",
+   "d": "Els efectes adversos més freqüents són artràlgies i febre."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-20",
+  "stem": "Quin dels següents factors de risc pot influir en el desenvolupament de la malaltia obstructiva crònica?",
+  "options": {
+   "a": "El sexe.",
+   "b": "El tabac.",
+   "c": "El nivell socioeconòmic.",
+   "d": "Els tres anteriors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-21",
+  "stem": "El peak flow és l’aparell que usen per el seu autocontrol els pacients amb malalties pulmonars obstructives cròniques. Què mesura?",
+  "options": {
+   "a": "El flux espiratori màxim.",
+   "b": "El volum d’aire en el primer segon.",
+   "c": "L’índex de Tiffeneau.",
+   "d": "La capacitat vital forçada."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-22",
+  "stem": "El senyor P. J. és un malalt respiratori tractat amb aerosols pressuritzats. Per obtenir millor benefici d’aquesta medicació utilitza una cambra inhalatòria. Quina d’aquestes activitats ha d’evitar?",
+  "options": {
+   "a": "Efectuar la inhalació en bidepestació o assegut.",
+   "b": "Inhalar primer el broncodilatador i després el corticoide.",
+   "c": "Fer una espiració ràpida immediatament després de la inhalació.",
+   "d": "Rentar diàriament la cambra inhalatòria amb aigua i sabó neutre."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-23",
+  "stem": "Indiqueu la resposta correcta respecte del tabaquisme i la malaltia pulmonar obstructiva crònica (MPOC):",
+  "options": {
+   "a": "L’hàbit tabàquic és el factor de risc més important en l’etiologia de la MPOC i produeix en tots els fumadors una limitació del flux aeri més o menys important.",
+   "b": "L’hàbit tabàquic és el factor de risc més important en l’etiologia de la MPOC, però només el 15 % dels fumadors (fumadors “susceptibles”) desenvoluparan limitació al flux.",
+   "c": "La deshabituació tabàquica ha de recomanar-se a qualsevol pacient fumador quan s’apreciïn alteracions en l’exploració funcional respiratòria.",
+   "d": "Totes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-24",
+  "stem": "El peak flow mesura:",
+  "options": {
+   "a": "El volum espiratori màxim en el primer segon (FEV).",
+   "b": "La capacitat vital forçada màxima.",
+   "c": "El flux espiratori màxim.",
+   "d": "La capacitat pulmonar total."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-25",
+  "stem": "El patró ventilatori obstructiu es caracteritza per mostrar en l’espirometria forçada.",
+  "options": {
+   "a": "Un augment respiratori màxim en el primer segon.",
+   "b": "Una disminució de l’índex FEV1/FVC.",
+   "c": "Un augment inicial del percentatge, respecte al teòric de la FVC.",
+   "d": "Una disminució de la FVC amb FEV1 normal."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-26",
+  "stem": "De les següents manifestacions quina o quines indiquen dependència en la satisfacció de la necessitat de respirar?",
+  "options": {
+   "a": "Respiració superficial i diafragmàtica.",
+   "b": "Reflex de la tos.",
+   "c": "Tos i expectoració groguenca.",
+   "d": "Descansa amb el capçal del llit aixecat."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-27",
+  "stem": "Quin és el paràmetre espiromètric més important per determinar l’obstrucció bronquial?",
+  "options": {
+   "a": "FEM/FEV₁.",
+   "b": "FVC/FEF.",
+   "c": "FEV₁/FVC.",
+   "d": "FEF/FEM."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-28",
+  "stem": "Per quina raó juntament amb l’espirometria forçada es realitza la prova broncodilatadora?",
+  "options": {
+   "a": "Valorar el grau de reversibilitat de l’obstrucció bronquial.",
+   "b": "Orientar el tractament farmacològic.",
+   "c": "Ajudar a fer el diagnòstic diferencial amb altres malalties.",
+   "d": "Totes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-30",
+  "stem": "Una de les formes de classificació de la malaltia pulmonar obstructiva crònica és l’índex de BODE (The body-mass index, airflow obstruction, dyspnea and exercise capacity).\nSegons aquest índex una puntuació de 2 en el test de la marxa de 6 minuts correspon a un recorregut en metres de:",
+  "options": {
+   "a": "100 – 150.",
+   "b": "150 – 249.",
+   "c": "250 – 349.",
+   "d": "350 – 500."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-31",
+  "stem": "En la descompensació de la insuficiència respiratòria crònica (ICR) s’observa:",
+  "options": {
+   "a": "PaCO₂ > 45 mmHg.",
+   "b": "PaCO₂ < 45 mmHg.",
+   "c": "Alcalosi respiratòria.",
+   "d": "Alcalosi metabòlica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-32",
+  "stem": "Assenyaleu un dels diagnòstics principals d’infermeria associats amb l’asma aguda:",
+  "options": {
+   "a": "Patró de respiració ineficaç relacionat amb un augment de la resistència de la via aèria.",
+   "b": "Manca de tolerància a l’activitat per dispnea o per angoixa a la dispnea.",
+   "c": "Dèficit de nutrició: inferior als requeriments corporals per fatiga i dispnea.",
+   "d": "Disfunció sexual relacionada amb dispnea i fatiga."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-33",
+  "stem": "En les activitats d’un pla de cures d’un malalt sotmès a toracotomia és necessari:",
+  "options": {
+   "a": "Verificar la freqüència, patró i profunditat de la respiració.",
+   "b": "Elevar la capçalera del llit 30º o 40º sempre que el pacient presenti un estat hemodinàmic estable i estigui conscient.",
+   "c": "Vigilar l’electrocardiograma per a la detecció d’arítmies.",
+   "d": "Totes són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-34",
+  "stem": "Assenyaleu els tres símptomes més comuns que presenten els pacients amb episodis de crisis asmàtiques:",
+  "options": {
+   "a": "Tos, dispnea i sibilàncies.",
+   "b": "Febre, dolor articular i anorèxia.",
+   "c": "Edemes, dolor intens i febrícula.",
+   "d": "Febre, disfonia i mal estat general."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-35",
+  "stem": "Quina de les següents causes NO influeix en un major risc d’infecció respiratòria en la gent gran?",
+  "options": {
+   "a": "Cifosi.",
+   "b": "Menor eficàcia de la tos.",
+   "c": "Augment del diàmetre toràcic.",
+   "d": "Disminució de grassa subcutània."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-36",
+  "stem": "Quina d’aquestes malalties té una base atòpica?",
+  "options": {
+   "a": "Malaltia pulmonar obstructiva crònica.",
+   "b": "Febre del fenc.",
+   "c": "Asma intrínsec.",
+   "d": "Histiocitosi X."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-39",
+  "stem": "Quina de les següents mesures no s’ha de portar a terme en una persona que té una MPOC?",
+  "options": {
+   "a": "Administrar oxigen.",
+   "b": "Facilitar el repòs.",
+   "c": "Promoure la tos.",
+   "d": "Evitar el restrenyiment."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-40",
+  "stem": "Si una pacient afectat de MPOC presenta arítmies cardíaques i mareig, a quin del següents fàrmacs ho atribuiríeu?",
+  "options": {
+   "a": "Corticoides.",
+   "b": "Teofil·lina.",
+   "c": "Mucolítics.",
+   "d": "Antihistamínics."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-41",
+  "stem": "Es considera insuficiència respiratòria quan la pO₂ en sang arterial és menor de:",
+  "options": {
+   "a": "80 mmHg.",
+   "b": "60 mmHg.",
+   "c": "40 mmHg.",
+   "d": "20 mmHg."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-42",
+  "stem": "La capacitat pulmonar residual funcional és:",
+  "options": {
+   "a": "Volum màxim d’aire exhalat.",
+   "b": "Volum d’aire que queda en els pulmons després de l’espiració normal.",
+   "c": "Volum d’aire inhalat i espirat en cada respiració.",
+   "d": "Volum màxim d’aire que pot estar expulsat amb força després d’una espiració normal."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-43",
+  "stem": "A un pacient que porta un drenatge toràcic tipus Pleur-Evac® hi observem una fluctuació del nivell d’aigua o “efecte marea” a la cambra del segell hidràulic? Què vol dir?",
+  "options": {
+   "a": "Que estem drenant un pneumotòrax.",
+   "b": "Que el drenatge està obstruït.",
+   "c": "Que el drenatge està permeable.",
+   "d": "Que existeix una fuga en el sistema de drenatge."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-44",
+  "stem": "Un dels primers signes d’hipoxèmia és:",
+  "options": {
+   "a": "La taquicàrdia.",
+   "b": "La bradicàrdia.",
+   "c": "La cianosi.",
+   "d": "L’ús de la musculatura respiratòria accessòria."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-47",
+  "stem": "Si la gasometria arterial mostra els valors següents pH 7,57; pCO₂ 23 mmHg; HCO₃⁻ 18 mmol/l. El pacient presenta:",
+  "options": {
+   "a": "Acidosi respiratòria.",
+   "b": "Alcalosi metabòlica.",
+   "c": "Alcalosi respiratòria.",
+   "d": "Acidosi metabòlica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-48",
+  "stem": "Els cicles respiratoris regulars en què la freqüència i la profunditat de la respiració s’incrementen i després disminueixen fins a arribar a l’apnea d’una durada generalment de 20” s’anomenen:",
+  "options": {
+   "a": "Respiració de Biot.",
+   "b": "Respiració de Kussmaul.",
+   "c": "Respiració de Cheyne-Stokes.",
+   "d": "Eupnea."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-49",
+  "stem": "En el maneig del drenatge toràcic NO és correcte:",
+  "options": {
+   "a": "Mantenir sempre el sistema per sota del nivell del tòrax del pacient.",
+   "b": "Verificar que tots els tubs de la connexió siguin permeables i estar connectats de forma segura.",
+   "c": "Evitar que el pacient estossegui i respiri profundament.",
+   "d": "Mantenir el líquid adequat en el segell d’aigua per als sistemes d’aspiració humida."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-54",
+  "stem": "Home de 75 anys, fumador actiu d’un paquet/dia durant 45 anys, diabètic tipus 2 en tractament amb hipoglucemiants orals i dieta, amb tos i expectoració habituals. Ingressa per increment de la tos amb expectoració purulenta, dispnea de petits esforç i febre.\nEl pacient té PO₂ 50 i PCO₂ 50. Senyaleu l’oxigenoteràpia més adequada:",
+  "options": {
+   "a": "Alt flux d’oxigen: Ventimask© 50 %.",
+   "b": "Baix flux d’oxigen: Ventimask© 24 %.",
+   "c": "Mascareta de reservori amb alta concentració d’oxigen.",
+   "d": "Sense oxigen perquè seria perillós."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2008",
+  "year": 2008,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-56",
+  "stem": "Aquest home ha ingressat a la planta de medicina interna amb diagnòstic d’exacerbació de MPOC.\nSegons la taxonomia NANDA la dificultat per expulsar les secrecions defineix el diagnòstic d’infermeria:",
+  "options": {
+   "a": "Deteriorament de l’intercanvi gaseós.",
+   "b": "Patró respiratori ineficaç.",
+   "c": "Neteja ineficaç de vies aèries.",
+   "d": "Incapacitat per mantenir la ventilació espontània."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2008",
+  "year": 2008,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-58",
+  "stem": "Es valora la possibilitat d’aplicar-li ventilació mecànica no invasiva. Aquesta teràpia comporta un risc de:",
+  "options": {
+   "a": "Deshidratació.",
+   "b": "Trombosi venosa profunda.",
+   "c": "Deteriorament de la integritat cutània.",
+   "d": "Totes les respostes anteriors són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2008",
+  "year": 2008,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-59",
+  "stem": "En aquest cas la pauta de tractament amb metilprednisolona comporta un risc de complicació potencial:",
+  "options": {
+   "a": "Alteració de la mucosa oral.",
+   "b": "Hiperglicèmia.",
+   "c": "Dèficit de volum de líquids.",
+   "d": "Totes les respostes anteriors són certes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2008",
+  "year": 2008,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-64",
+  "stem": "En Miquel Regàs de 58 anys és un home que ha treballat els últims 20 anys en una empresa de pintures. Està ingressat a la planta de pneumologia per l’agudització de la seva malaltia obstructiva crònica, se li aplica el tractament farmacològic següent:\nOxigenoteràpia al 24 %. Salbutamol 2 inh/4 hores. Bromur d’ipratropi 2 inh/6 hores. Metilprednisolona 40 mg ev/8 hores. Amoxicil·lina-clavulànic 1 gr ev/8 hores.\nLa valoració d’infermeria de la necessitat d’oxigenació a l’ingrés és la següent: dificultat respiratòria, el malalt demana estar incorporat. Saturació per pulsioximetria del 88 %, tos productiva, expectoració d’esput espès i purulent. Freqüència respiratòria de 32 x’. Refereix estar cansat i tenir dolor costal esquerre que relaciona amb l’esforç de tossir. També s’observa una temperatura corporal de 38 º C.\nPer què penseu que al malalt, malgrat tenir una saturació d’oxigen per pulsioximetria del 88 5, se li pauta només oxigenoteràpia al 24 %?",
+  "options": {
+   "a": "Perquè una concentració més alta en el seu cas pot conduir a la depressió de l’estímul respiratori.",
+   "b": "Perquè si s’incrementa més l’índex de flux d’oxigen disminueix el nivell d’oxigen de la sang.",
+   "c": "Perquè si s’incrementa més l’índex de flux d’oxigen disminueix la retenció de diòxid de carboni de la sang.",
+   "d": "Perquè s’ha de tenir en compte que la hipoxèmia és un depressor de la respiració."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2009",
+  "year": 2009,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-69",
+  "stem": "Quan la hipoxèmia es cronifica, es manifesta per:",
+  "options": {
+   "a": "Policitèmia, apnees i febre.",
+   "b": "Hiperventilació i aleteig nasal.",
+   "c": "Policitèmia, hipocratisme digital i eritemes cutanis.",
+   "d": "Hipocratisme digital i convulsions."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-72",
+  "stem": "Esteu cuidant un ancià amb antecedents de MPOC i ICC i diagnosticat de pneumònia que rep oxigen per ulleres nasals a 2 l/minut. Quina complicació és més probable que patís si se li administrés oxigen a altes concentracions?",
+  "options": {
+   "a": "Dolor toràcic anginós.",
+   "b": "Alcalosi respiratòria.",
+   "c": "Apnea.",
+   "d": "Acidosi metabòlica."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-74",
+  "stem": "Esteu fent educació sanitària a un malalt amb MPOC que us pregunta: “Què és el volum corrent?”. Li responeu que el volum corrent és:",
+  "options": {
+   "a": "La quantitat d’aire inspirat i espirat en una respiració normal.",
+   "b": "La capacitat màxima dels pulmons després d’una inspiració forçada.",
+   "c": "La capacitat màxima dels pulmons després d’una espiració forçada.",
+   "d": "La quantitat d’aire corrent en els pulmons després de l’espiració."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-75",
+  "stem": "Segons l’escala GOLD, quin grau de severitat de l’MPOC es correspon amb un resultat d’espirometria de FEV₁/CVF < 0,70 i FEV₁ entre 30 % i < 50 %?",
+  "options": {
+   "a": "Lleu.",
+   "b": "Moderada.",
+   "c": "Greu.",
+   "d": "Molt greu."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-76",
+  "stem": "Assenyaleu quins d’aquests valors de FEV₁/FVC són compatibles amb el patró obstructiu:",
+  "options": {
+   "a": "FEV₁/FVC ≥ 70 %.",
+   "b": "FEV₁ > 80 %.",
+   "c": "FEV₁/FVC < 70 %.",
+   "d": "FVC < 80 %."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-77",
+  "stem": "Amb el sistema d’inhalador de pols seca multidosi tipus Accuhaler, en cas de necessitar una segona dosi, quin és l’interval mínim que cal esperar des què s’acaba la inhalació anterior?",
+  "options": {
+   "a": "30 minuts.",
+   "b": "1 minut.",
+   "c": "No cal esperar.",
+   "d": "30 segons."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-78",
+  "stem": "A més de la disminució del pH sèric, quins dels següents signes són indicadors d’acidosi respiratòria?",
+  "options": {
+   "a": "Augment de la PCO₂ i disminució del bicarbonat.",
+   "b": "Disminució de la PCO₂ i disminució del bicarbonat.",
+   "c": "Augment de la PCO₂ i augment del bicarbonat.",
+   "d": "Disminució de la PCO₂ i augment del bicarbonat."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-79",
+  "stem": "En un sistema de drenatge toràcic amb segell d’aigua, la fluctuació de l’alçada del líquid en el segell d’aigua ens indica:",
+  "options": {
+   "a": "Que hi ha una obstrucció en la zona interna del tub.",
+   "b": "Que hi ha un pinçament en el tub extern que n’impedeix el drenatge.",
+   "c": "Que el tub s’ha desplaçat fora de la pleura.",
+   "d": "Que funciona correctament."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-88",
+  "stem": "Quins dels següents aspectes sobre el salbutamol aerosol és fals?",
+  "options": {
+   "a": "Pot provocar cefalea, tremolor i taquicàrdia.",
+   "b": "Fer la inhalació en el curs d’una inspiració profunda seguida d’una apnea de 10 segons.",
+   "c": "Exhalar l’aire completament abans d’introduir el dispositiu a la boca.",
+   "d": "És recomanable deixar un interval de 30 minuts entre l’administració de l’inhalador i els àpats per no interferir en l’absorció del medicament."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-90",
+  "stem": "Al cap d’uns dies de l’alta a un pacient amb MPOC en fase estable de la malaltia, la infermera valora la necessitat de realitzar el test de la marxa. Què mesura aquest test?",
+  "options": {
+   "a": "La tolerància a l’exercici físic.",
+   "b": "El grau de dispnea.",
+   "c": "El temps que tarda per aixecar-se de la cadira.",
+   "d": "La tolerància a l’apnea."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-91",
+  "stem": "Quina de les afirmacions següents no és certa respecte a la vacuna antipneumocòccica en un pacient amb MPOC?",
+  "options": {
+   "a": "Se n’administra una sola dosi.",
+   "b": "La revacunació sistemàtica no està indicada, excepte en les persones immunocompetents de més de 60 anys, a qui s’ha d’administrar una segona dosi al cap de 5 anys de la primera, si aquesta es va aplicar abans dels 55 anys.",
+   "c": "La revacunació sistemàtica no està indicada, excepte en les persones immunocompetents de més de 65 anys, a qui s’ha d’administrar una segona dosi al cap de 5 anys de la primera, si aquesta es va aplicar abans dels 65 anys.",
+   "d": "La vacuna antipneumocòccica és efectiva per prevenir la malaltia pneumocòccica invasiva en persones d’edat avançada immunocompetents (55 anys o més)."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-92",
+  "stem": "Una persona presenta una reagudització de la seva MPOC i ha de ser reingressat novament a l’hospital. Al cap d’1 mes marxa cap al seu domicili en fase avançada de la malaltia.\nÉs portadora d’oxigen domiciliari. Dels següents signes i símptomes, quin no és indicatiu d’intoxicació per oxigen?",
+  "options": {
+   "a": "Disàrtria.",
+   "b": "Desorientació.",
+   "c": "Febre.",
+   "d": "Taquipnea."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-94",
+  "stem": "Es considera que un pacient asmàtic està ben controlat si:",
+  "options": {
+   "a": "Té símptomes nocturns i fa servir agonistes beta-2 tres dies per setmana.",
+   "b": "Té pocs símptomes, funció pulmonar normal i no li cal fer servir broncodilatadors de rescat.",
+   "c": "Tan sols té símptomes quan fa exercici moderat.",
+   "d": "Es desperta de matinada per sibilàncies i s’ha d’administrar salbutamol."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-95",
+  "stem": "Un pacient respiratori mostra en la seva gasometria arterial una pCO₂ de 55 mmHg. Què descriu més be aquest resultat?",
+  "options": {
+   "a": "Hipoxèmia.",
+   "b": "Hipercàpnia.",
+   "c": "Hipòxia.",
+   "d": "Hipocàrbia."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-96",
+  "stem": "Pel que fa a l’asma a la infància, totes les afirmacions següents són certes, EXCEPTE una:",
+  "options": {
+   "a": "La demostració d’al·lèrgia en nens petits amb sibilants és factor de risc d’asma persistent infantil.",
+   "b": "L’asma associada a la hipersensibilitat a l’aspirina no s’inicia a la infància.",
+   "c": "La infecció per virus respiratori sincitial protegeix de patir asma a l’edat adulta.",
+   "d": "Pot aparèixer asma en nenes que pateixen obesitat i pubertat precoç."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-97",
+  "stem": "En el tractament de la crisi asmàtica, totes les respostes són certes, EXCEPTE una:",
+  "options": {
+   "a": "Els beta-2 adrenèrgics d’acció curta són el tractament de primera elecció.",
+   "b": "El bromur d’ipratropi està indicat en el tractament de les crisis asmàtiques lleus.",
+   "c": "Els corticoides orals són més útils quan s’utilitzen de manera precoç.",
+   "d": "L’ús de cambra d’inhalació és tan útil com la nebulització en crisis lleus i moderades."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-98",
+  "stem": "Totes les respostes que es proposen a continuació corresponen a paràmetres clínics o funcionals per a la classificació de la gravetat de l’asma, EXCEPTE una:",
+  "options": {
+   "a": "Freqüència, durada i intensitat dels símptomes.",
+   "b": "Necessitat d’agonistes beta-2 adrenèrgics d’acció curta per controlar les crisis.",
+   "c": "Necessitat de corticoides orals per controlar les crisis.",
+   "d": "Valoració de la funció pulmonar intercrisi."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-99",
+  "stem": "En matèria de tuberculosi totes les respostes són certes EXCEPTE:",
+  "options": {
+   "a": "La infecció tuberculosa és el contacte amb el bacil tuberculós, amb PPD positiu, encara sense evidència de malaltia clínica.",
+   "b": "El risc de desenvolupar malaltia després de la infecció es del 50 %.",
+   "c": "La positivitat del PPD apareix entre les 2 i 10 setmanes del contacte tuberculós.",
+   "d": "La infecció per micobactèria atípica pot donar PPD positiu."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-100",
+  "stem": "Pel que fa a la pneumònia per Mycoplasma pneumoniae, quina de les respostes proposades és certa:",
+  "options": {
+   "a": "La màxima freqüència d’aparició és en nens menors de 3 anys.",
+   "b": "La radiologia presenta sempre un patró intersticial bilateral.",
+   "c": "En els nens més petits cursa freqüentment amb vessament pleural.",
+   "d": "Pot aparèixer un exantema eritematós inespecífic."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-265-101",
+  "stem": "En l’enfisema lobar congènit totes les respostes són certes EXCEPTE:",
+  "options": {
+   "a": "És conseqüència de l’obstrucció d’un lòbul pulmonar.",
+   "b": "La causa és una infecció prenatal.",
+   "c": "Es presenta com una insuficiència respiratòria en el nadó o el lactant petit.",
+   "d": "El tractament és quirúrgic."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-1",
+  "stem": "En la fase resolutiva d’una entrevista clínica es pot afirmar que:",
+  "options": {
+   "a": "Eduquem en els nous costums.",
+   "b": "Es realitza l’exploració física.",
+   "c": "S’esbrinen els motius de consulta.",
+   "d": "Negociem la individualització de les mesures terapèutiques.",
+   "e": "a i d són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-2",
+  "stem": "En l’entrevista clínica què s’entén per calidesa?",
+  "options": {
+   "a": "Una proximitat afectiva entre el pacient i l’entrevistador.",
+   "b": "Un apropament de la distància terapèutica.",
+   "c": "La capacitat de l’entrevistador per comprendre els pensaments i emocions de l’usuari.",
+   "d": "La capacitat de l’entrevistador per transmetre a l’usuari que coneix el seu problema."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-3",
+  "stem": "En una entrevista clínica entenem per reactivitat:",
+  "options": {
+   "a": "El temps que tarda l’entrevistador a intervenir després d’haver parlat el pacient.",
+   "b": "Conducta verbal o no verbal que ajuda a iniciar o continuar el relat sense indicar ni suggerir continguts.",
+   "c": "Reflectir amb el rostre reaccions emocionals del que ha estat explicat pel pacient.",
+   "d": "Cap resposta anterior és correcta."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-5",
+  "stem": "El sr. A. B. acudeix a la consulta d’infermeria acompanyat per la seva mare de 65 anys i un dels seus fills de 16 anys, tots tres necessiten els nostres serveis. Quin tipus d’entrevista farem?",
+  "options": {
+   "a": "Entrevista per a tercers.",
+   "b": "Entrevista grupal o familiar.",
+   "c": "Entrevista múltiple.",
+   "d": "Entrevista operativa."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-6",
+  "stem": "Estem fent l’entrevista a un noi de 18 anys i la seva mare ens interromp repetidament. Si li deixem expressar el seu punt de vista i les seves preocupacions, quina d’aquestes tècniques utilitzem?",
+  "options": {
+   "a": "Buidatge de la informació.",
+   "b": "Tècnica de filtre.",
+   "c": "Buidatge de la interferència.",
+   "d": "Visita múltiple."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-7",
+  "stem": "Una infermera li diu a un pacient: “Ara li explicaré en què consisteix la seva malaltia. Coneixia alguna cosa de la hipertensió arterial?”, a més de l’enunciació, quina tècnica d’entrevista ha utilitzat el professional?",
+  "options": {
+   "a": "Bidireccionalitat.",
+   "b": "Proposta d’acord.",
+   "c": "Comprovació.",
+   "d": "Racionalitat."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-12",
+  "stem": "Què hauríem d’evitar quan arriba un pacient a la consulta, cridant i amb una actitud agressiva?",
+  "options": {
+   "a": "Ser empàtic.",
+   "b": "Fer evident al pacient la seva actitud.",
+   "c": "Contestar amb el seu mateix to de veu.",
+   "d": "Reconduir l’entrevista cap a aspectes operatius."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-13",
+  "stem": "La infermera aplica l’entrevista motivacional al pacient. Quins són els principis de l’entrevista motivacional?",
+  "options": {
+   "a": "Ensenyar tècniques de relaxació, desautomatitzar conductes, expressar empatia i maneig de la resistència.",
+   "b": "Expressar empatia, promoure la discrepància, maneig de la resistència i recolzar l’autoeficàcia.",
+   "c": "Desautomatitzar conductes, promoure la discrepància, maneig de la resistència i buscar recolzament en l’entorn familiar.",
+   "d": "Totes són correctes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-14",
+  "stem": "La Laia és una noia de 22 anys que ve a la consulta i la infermera aprofita el fet i realitza activitats preventives.\nLa Laia ens diu que ella consumeix menys alcohol que els seus amics i que “mai va tajada”. Segons el model del procés de canvi, quina intervenció és la més indicada?",
+  "options": {
+   "a": "Facilitar l’expressió d’ambivalència i oferir material educatiu.",
+   "b": "Advertir les dificultats per disminuir el consum i de com s’afronten.",
+   "c": "Valorar els èxits passats aconseguits i advertir el risc de recaiguda.",
+   "d": "Donar informació i estimular l’autoeficàcia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-15",
+  "stem": "Mentre s’aborden els hàbits tòxics, la infermera observa que la Laia es pessiga repetidament la mà. Aquest gest segons Ekmann i Friesen és un:",
+  "options": {
+   "a": "Adaptador.",
+   "b": "Il·lustrador.",
+   "c": "Regulador.",
+   "d": "Emblema."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-16",
+  "stem": "El primer recurs que ha de buscar una infermera com a via de solució als problemes plantejats per una família és:",
+  "options": {
+   "a": "L’equip de salut.",
+   "b": "La comunitat.",
+   "c": "El/la treballador/a social.",
+   "d": "La mateixa família."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-17",
+  "stem": "En quin tipus d’entrevista la seqüència i formulació exacta de les preguntes està preestablerta?",
+  "options": {
+   "a": "Conversacional.",
+   "b": "Semiestructurada.",
+   "c": "Estructurada.",
+   "d": "a i b són correctes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-18",
+  "stem": "Segons el model d’entrevista semiestructurada (Borrell F. et al) en quina fase se situa la valoració del consum d’alcohol?",
+  "options": {
+   "a": "Resolutiva.",
+   "b": "Presa de decisions.",
+   "c": "Exploratòria.",
+   "d": "Delimitació de la demanda."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-22",
+  "stem": "Quina d’aquestes frases utilitza les tècniques de comunicació de formulació exploratòria?",
+  "options": {
+   "a": "Teniu antecedents de diabetis a la vostra família?",
+   "b": "Expliqueu-me alguna cosa més sobre els vostres hàbits alimentaris.",
+   "c": "Us sentiu molt dèbil sempre que feu un esforç?",
+   "d": "No teniu por de donar de mamar a la nena, és així?"
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-27",
+  "stem": "Assenyaleu quina de les següents característiques no és pròpia d’un bon entrevistador:",
+  "options": {
+   "a": "Calidesa.",
+   "b": "Alta reactivitat.",
+   "c": "Empatia.",
+   "d": "Assertivitat."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-28",
+  "stem": "A l’entrevista motivacional calen una sèrie d’habilitats específiques. Assenyaleu quina de les següents habilitats de l’entrevistador és la incorrecta:",
+  "options": {
+   "a": "Fer preguntes obertes.",
+   "b": "Potenciar el sentit de l’autoeficàcia.",
+   "c": "Presentar ambivalència afectiva.",
+   "d": "Fer escolta reflexiva."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-29",
+  "stem": "La Marta és una senyora de 47 anys, casada i amb dos fills, una nena de 16 anys i un nen de 8 anys. Treballa com a administrativa en una empresa constructora. Als 40 anys va ser diagnosticada de diabetis tipus 2 i està en tractament amb insulina. Els seus pares viuen prop de casa seva. Al seu pare li han diagnosticat fa un any una neoplàsia de pròstata i en aquest moment està en fase avançada. Sobre l’entrevista motivacional realitzada a la Marta, assenyaleu quina de les habilitats següents no correspon a aquest tipus d’entrevista:",
+  "options": {
+   "a": "Ús de preguntes obertes.",
+   "b": "Escolta activa o reflexiva.",
+   "c": "Fer resums.",
+   "d": "Evitar refrasejar."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-268-30",
+  "stem": "L’escolta activa és una eina imprescindible per establir una relació terapèutica amb el pacient hospitalitzat. Quina de les afirmacions és certa a l’hora de posar-la en pràctica?",
+  "options": {
+   "a": "Cal atendre només la comunicació verbal sense fer cas de la no verbal.",
+   "b": "Cal evitar qüestions difícils que es plantegin.",
+   "c": "Cal evitar interrompre el pacient o canviar de tema bruscament.",
+   "d": "Cal evitar el contacte ocular."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-269-1",
+  "stem": "L’exercici del rol autònom de la infermera es basa en:",
+  "options": {
+   "a": "La seva experiència i intuïció.",
+   "b": "Les ordres prescrites per d’altres professionals.",
+   "c": "Un model d’infermeria.",
+   "d": "La seva experiència.",
+   "e": "El treball amb col·laboració amb altres professionals de la salut."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-269-2",
+  "stem": "La infermeria d’un equip d’atenció primària en el desenvolupament de la funció investigadora realitza activitats de:",
+  "options": {
+   "a": "Realització d’estudis epidemiològics sobre la seva unitat.",
+   "b": "Col·laboració amb altres professionals d’equip en treballs d’investigació.",
+   "c": "Participació en la investigació d’altres camps de la infermeria.",
+   "d": "Realització d’estudis d’avaluació de la metodologia d’infermeria.",
+   "e": "Totes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-269-3",
+  "stem": "Entre les diferents funcions de l’equip d’assistència primària marca quina és falsa:",
+  "options": {
+   "a": "La realització dels estudis clínics i epidemiològics que es determini.",
+   "b": "L’autoavaluació de les activitats realitzades i dels recursos obtinguts.",
+   "c": "La solució de totes les demandes de la població que tinguin assignada.",
+   "d": "L’atenció sanitària individual i col·lectiva en règim ambulatori, domiciliari i d’urgència a la població.",
+   "e": "La participació en programes de control de qualitat."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-269-4",
+  "stem": "Quin és l’element bàsic del treball en equip?",
+  "options": {
+   "a": "L’objectiu comú.",
+   "b": "La divisió del treball.",
+   "c": "Les bones relacions interpersonals.",
+   "d": "El nivell de professionals diferents.",
+   "e": "El baix nivell jeràrquic."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-269-5",
+  "stem": "Indiqueu quina de les respostes s’adequa millor al concepte de “Programa d’atenció domiciliària”:",
+  "options": {
+   "a": "És un procés puntual que podria resumir-se com a l’administració de cures a domicili.",
+   "b": "Proporciona atenció integral de salut amb corresponsabilització de l’equip de salut i la família en el domicili.",
+   "c": "Té com a objectiu donar únicament cures d’infermeria a les persones i famílies que ho demanin.",
+   "d": "Totes les respostes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-269-6",
+  "stem": "És funció d’administració i coordinació dels equips d’atenció primària:",
+  "options": {
+   "a": "Assistir a la demanda ambulatòria, domiciliària i urgent.",
+   "b": "Vetllar per la qualitat de l’atenció prestada.",
+   "c": "Impulsar la cooperació de les institucions sanitàries i socials.",
+   "d": "Realitzar la recerca aplicada sobre els problemes de salut més prevalents."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-269-7",
+  "stem": "Segons el programa marc d’atenció a domicili, quin dels següents no és objectiu específic del programa ATDOM?",
+  "options": {
+   "a": "Elaborar un fitxer de recursos comunitaris.",
+   "b": "Tenir la informació bàsica sobre l’usuari en el domicili.",
+   "c": "Realitzar sessions clíniques sobre atenció domiciliària.",
+   "d": "Agilitar l’ingrés hospitalari dels malalts terminals."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-269-9",
+  "stem": "El procés de desenvolupament de l’APOC (Atenció Primària Orientada a la Comunitat) implica una sèrie d’etapes. Quines?",
+  "options": {
+   "a": "Examen preliminar i diagnòstic comunitari.",
+   "b": "Planificació i vigilància del programa.",
+   "c": "Avaluació i reexamen.",
+   "d": "Totes les anteriors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-269-10",
+  "stem": "Quina de les següents afirmacions referents als PADES és correcta?",
+  "options": {
+   "a": "Tenen un caràcter substitutori de l’APS, oferint una atenció continuada.",
+   "b": "El tipus d’intervenció que se’ls demana és el mateix que als EAP.",
+   "c": "Les seves actuacions es limiten a l’atenció als malalts terminals i les seves famílies.",
+   "d": "Són equips de suport de l’APS."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ }
+]

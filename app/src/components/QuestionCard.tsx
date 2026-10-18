@@ -7,7 +7,7 @@ import type { AnswerResult, ClientQuestion } from "@/lib/practice";
 import { reportAction } from "@/app/(app)/actions";
 import { useT } from "./LangProvider";
 
-export const KEYS: OptionKey[] = ["a", "b", "c", "d"];
+export const KEYS: OptionKey[] = ["a", "b", "c", "d", "e"];
 
 /**
  * Enunciat del supòsit. Durant la sessió només es mostra la narració fins a la pregunta actual,

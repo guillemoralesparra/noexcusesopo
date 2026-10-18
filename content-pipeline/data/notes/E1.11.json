@@ -1,0 +1,29 @@
+{
+ "epigraf": "E1.11",
+ "body_md": "## En una frase\nLa intel·ligència artificial (IA) ja s'usa a la salut per al suport al diagnòstic, la predicció de risc i l'automatització de tasques; cal conèixer-ne els avantatges, els riscos i el marc legal (RGPD i Reglament europeu d'IA).\n\n## Conceptes clau\n- **IA**: sistemes que fan tasques associades a la intel·ligència humana. **Aprenentatge automàtic** (*machine learning*) i **aprenentatge profund** (*deep learning*) aprenen patrons a partir de dades.\n- **IA generativa i models de llenguatge grans (LLM)**: produeixen text; poden **al·lucinar** (informació falsa però versemblant); no substitueixen el criteri clínic.\n- **Aplicacions**: lectura d'imatges (retinopatia diabètica, ressonàncies, dermatologia), triatge i alertes de deteriorament, predicció de risc (sèpsia, caigudes, reingressos), documentació clínica assistida, assistents virtuals, robòtica.\n- **Riscos**: biaix algorítmic, manca d'explicabilitat (\"caixa negra\"), privacitat, errors, dependència excessiva (*automation bias*), desigualtat d'accés.\n- **Principis ètics**: beneficència, no-maleficència, autonomia, justícia i explicabilitat; supervisió humana sempre.\n- **Marc legal**: **Reglament (UE) 2024/1689 d'IA**, que classifica els sistemes per risc (inacceptable, alt, limitat, mínim); els sistemes sanitaris solen ser d'**alt risc**. Les dades de salut tenen protecció reforçada (RGPD art. 9).\n\n## Valors, escales i classificacions\n\n| Nivell de risc (Reglament IA) | Exemple |\n|---|---|\n| Inacceptable | Puntuació social; manipulació subliminal |\n| Alt | Programari sanitari de diagnòstic, triatge d'urgències |\n| Limitat | Xatbots (obligació de transparència) |\n| Mínim | Filtres, funcions sense impacte significatiu |\n\n## Actuació infermera\n- Utilitzar les eines d'IA com a suport i **validar sempre** el resultat amb el criteri clínic.\n- No introduir dades identificables de pacients en eines públiques d'IA generativa.\n- Informar la persona quan hi intervé una eina automatitzada rellevant.\n- Detectar i notificar errors o biaixos.\n- Formar-se en competències digitals i alfabetització en IA.\n\n## Què pregunten als exàmens\nNo s'ha preguntat als exàmens oficials 2015-2024; és un contingut nou. Si apareix, serà conceptual: definició d'IA, riscos (biaix, privacitat) i necessitat de supervisió humana.\n\n## Trampes freqüents\n- Pensar que la IA té responsabilitat clínica: la responsabilitat és del professional.\n- Creure que un LLM és una font fiable sense verificar.\n- Confondre aprenentatge automàtic (subconjunt) amb IA en general.\n- Pensar que anonimitzar és sempre suficient: cal valorar el risc de reidentificació.\n\n## Normativa i guies de referència\n- Reglament (UE) 2024/1689, d'intel·ligència artificial.\n- RGPD (art. 9, 22) i LO 3/2018.\n- Recomanacions de l'OMS sobre ètica i governança de la IA en salut (2021).",
+ "key_points": [
+  "La IA en salut és un suport al criteri clínic; la responsabilitat final és del professional.",
+  "Els models de llenguatge poden al·lucinar i no han de ser l'única font clínica.",
+  "El biaix algorítmic i la manca d'explicabilitat són riscos principals.",
+  "El Reglament europeu d'IA classifica els sistemes per nivell de risc i els sanitaris solen ser d'alt risc.",
+  "No s'han d'introduir dades identificables de pacients en eines públiques d'IA."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "RGPD, art. 9 i 22",
+   "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32016R0679"
+  },
+  {
+   "kind": "ref",
+   "label": "Reglament (UE) 2024/1689, d'intel·ligència artificial"
+  },
+  {
+   "kind": "ref",
+   "label": "OMS, Ethics and governance of artificial intelligence for health (2021)"
+  }
+ ],
+ "review_flags": [
+  "El calendari d'aplicació del Reglament d'IA és gradual (2025-2027) i pot haver canviat; revisar."
+ ]
+}

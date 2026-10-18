@@ -1,0 +1,1 @@
+ALTER TABLE "notes" ADD COLUMN "review_flags" jsonb DEFAULT '[]'::jsonb NOT NULL;

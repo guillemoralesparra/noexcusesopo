@@ -1,0 +1,61 @@
+{
+ "exam_id": "ics-dui-hgirona-2009",
+ "title": "Convocatòria: H. Girona-DUI-2009 — Categoria: Diplomat/Diplomada sanitari/ària d'infermeria (Subgrup A2) — Primer exercici",
+ "date": "2010-05-29",
+ "instructions": "",
+ "format": {
+  "penalty": null,
+  "time_min": null,
+  "note": "Examen oficial ICS (convocatòria H.Girona-DUI-2009, DOGC núm. 5492, de 27 d'octubre de 2009; Hospital Universitari de Girona Doctor Josep Trueta). Primer exercici, Girona, 29 de maig de 2010, Universitat de Girona – Campus de Montilivi. Plantilla de respostes publicada pel tribunal l'1 de juny de 2010."
+ },
+ "cases": [
+  {
+   "id": "C1",
+   "title": "Supòsit pràctic 1: Preguntes 26, 27 i 28",
+   "text": "Pacient de 52 anys que ingressa a l'hospital diagnosticat de neoplàsia maligna de cec oclusiva amb metàstasis hepàtiques. Es practica ileostomia lateral a fosa ilíaca dreta. En el postoperatori és portador de sonda vesical i sonda nasogàstrica. Ingressa a la unitat d'hospitalització de cirurgia en situació estable.",
+   "question_numbers": [
+    26,
+    27,
+    28
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Pacient de 52 anys que ingressa a l'hospital diagnosticat de neoplàsia maligna de cec oclusiva amb metàstasis hepàtiques. Es practica ileostomia lateral a fosa ilíaca dreta. En el postoperatori és portador de sonda vesical i sonda nasogàstrica. Ingressa a la unitat d'hospitalització de cirurgia en situació estable."
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "title": "Supòsit pràctic 2: preguntes 36, 37 i 38",
+   "text": "En Miquel Regàs de 58 anys és un home que ha treballat els últims 20 anys en una empresa de pintures. Està ingressat a la planta de pneumologia per l'agudització de la seva malaltia obstructiva crònica, se li aplica el tractament farmacològic següent:\n\nOxigenoteràpia al 24%.\nSalbutamol 2 inhalacions c/4 hores.\nBromur d'ipratropi 2 inhalacions c/6hores\nMetilprednisolona 40 mg ev c/8 hores.\nAmoxicil·lina clavulànic 1gr e/v c/ 8 hores.\n\nLa valoració d'infermeria de la necessitat d'oxigenació a l'ingrés és la següent:\nDificultat respiratòria, el malalt demana estar incorporat. Saturació per pulsioximetria del 88%, Tos productiva. Expectoració d'esput espès i purulent. Freqüència respiratòria de 32x'. Refereix estar cansat i tenir dolor costal esquerre que relaciona amb l'esforç de tossir. També s'observa una temperatura corporal de 38ºC.",
+   "question_numbers": [
+    36,
+    37,
+    38
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "En Miquel Regàs de 58 anys és un home que ha treballat els últims 20 anys en una empresa de pintures. Està ingressat a la planta de pneumologia per l'agudització de la seva malaltia obstructiva crònica, se li aplica el tractament farmacològic següent:\n\nOxigenoteràpia al 24%.\nSalbutamol 2 inhalacions c/4 hores.\nBromur d'ipratropi 2 inhalacions c/6hores\nMetilprednisolona 40 mg ev c/8 hores.\nAmoxicil·lina clavulànic 1gr e/v c/ 8 hores.\n\nLa valoració d'infermeria de la necessitat d'oxigenació a l'ingrés és la següent:\nDificultat respiratòria, el malalt demana estar incorporat. Saturació per pulsioximetria del 88%, Tos productiva. Expectoració d'esput espès i purulent. Freqüència respiratòria de 32x'. Refereix estar cansat i tenir dolor costal esquerre que relaciona amb l'esforç de tossir. També s'observa una temperatura corporal de 38ºC."
+    }
+   ]
+  },
+  {
+   "id": "C3",
+   "title": "Supòsit pràctic 3, preguntes 76, 77 i 78",
+   "text": "Nen de tres anys i sis mesos que és portat al servei d'urgències pels seus familiars. Des d'ahir presenta un quadre de febre i diarrea que no cedeix.\nÉs diabètic, fins al moment ha tingut un bon control de la glicèmia que li ha permès portar un ritme de vida normal. Els seus pares, no obstant això, tenen una actitud sobreprotectora amb ell.\nTé una expressió de tristor a la cara, està postrat i crida l'atenció que té els llavis molt ressecs, comenta que té set.\n\nQuan la infermera que l'ha rebut indica a la mare que l'estiri a la llitera, aquest comença a girar la mirada, mostra una rigidesa als braços seguit d'unes sacsejades, en deixar-lo a la llitera hi observem:",
+   "question_numbers": [
+    76,
+    77,
+    78
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Nen de tres anys i sis mesos que és portat al servei d'urgències pels seus familiars. Des d'ahir presenta un quadre de febre i diarrea que no cedeix.\nÉs diabètic, fins al moment ha tingut un bon control de la glicèmia que li ha permès portar un ritme de vida normal. Els seus pares, no obstant això, tenen una actitud sobreprotectora amb ell.\nTé una expressió de tristor a la cara, està postrat i crida l'atenció que té els llavis molt ressecs, comenta que té set.\n\nQuan la infermera que l'ha rebut indica a la mare que l'estiri a la llitera, aquest comença a girar la mirada, mostra una rigidesa als braços seguit d'unes sacsejades, en deixar-lo a la llitera hi observem:"
+    }
+   ]
+  }
+ ]
+}

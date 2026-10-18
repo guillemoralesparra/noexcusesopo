@@ -1,4 +1,6 @@
+import { sql } from "drizzle-orm";
 import {
+  customType,
   primaryKey,
   boolean,
   integer,
@@ -11,7 +13,11 @@ import {
   index,
 } from "drizzle-orm/pg-core";
 
-export type OptionKey = "a" | "b" | "c" | "d";
+const tsvector = customType<{ data: string }>({ dataType: () => "tsvector" });
+
+export type OptionKey = "a" | "b" | "c" | "d" | "e";
+/** official: exàmens ICS 2015-2024 (fixen els pesos) · historical: exàmens ICS anteriors (només pràctica) · generated: pròpies */
+export type QuestionOrigin = "official" | "historical" | "generated";
 export type Confidence = "sure" | "doubt" | "guess";
 export type SessionMode = "topic" | "mistakes" | "exam" | "mixed";
 export type CaseSegment = { from_question: number | "end" | null; text: string };
@@ -79,11 +85,13 @@ export const questions = pgTable(
     section: text("section").$type<"test" | "case">().notNull(),
     caseId: text("case_id"),
     stem: text("stem").notNull(),
-    options: jsonb("options").$type<Record<OptionKey, string>>().notNull(),
+    options: jsonb("options").$type<Partial<Record<OptionKey, string>>>().notNull(),
     /** Respostes acceptades. Buit si està anul·lada. Més d'una si l'enunciat en demana diverses. */
     accepted: jsonb("accepted").$type<OptionKey[]>().notNull(),
     annulled: boolean("annulled").notNull().default(false),
-    origin: text("origin").$type<"official" | "generated">().notNull(),
+    origin: text("origin").$type<QuestionOrigin>().notNull(),
+    /** Etiqueta d'origen llegible (p. ex. "Examen oficial ICS 1994 · Primària") per a preguntes sense examen complet */
+    sourceLabel: text("source_label"),
     epigrafId: text("epigraf_id").notNull(),
     secondaryEpigrafId: text("secondary_epigraf_id"),
     concept: text("concept"),
@@ -156,4 +164,36 @@ export const reviewCards = pgTable(
     updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
   },
   (t) => [primaryKey({ columns: [t.userId, t.questionId] }), index("review_cards_due_idx").on(t.userId, t.due)],
+);
+
+/** Fitxa d'estudi pròpia de cada epígraf (contingut original de la plataforma). */
+export const notes = pgTable("notes", {
+  epigrafId: text("epigraf_id").primaryKey(),
+  /** Markdown en català */
+  body: text("body").notNull(),
+  keyPoints: jsonb("key_points").$type<string[]>().notNull().default([]),
+  sources: jsonb("sources").$type<{ kind: "norma" | "ref"; label: string; url?: string }[]>().notNull().default([]),
+  /** Punts que l'autoria no ha pogut verificar o que poden canviar aviat */
+  reviewFlags: jsonb("review_flags").$type<string[]>().notNull().default([]),
+  updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
+});
+
+/** Índex de cerca per paraules clau (fitxes, preguntes i normativa) amb text complet en català. */
+export const searchDocs = pgTable(
+  "search_docs",
+  {
+    id: text("id").primaryKey(),
+    kind: text("kind").$type<"note" | "question" | "norma">().notNull(),
+    epigrafId: text("epigraf_id"),
+    title: text("title").notNull(),
+    body: text("body").notNull(),
+    url: text("url"),
+    tsv: tsvector("tsv")
+      .notNull()
+      // Català i castellà (la normativa estatal és en castellà)
+      .generatedAlwaysAs(
+        sql`setweight(to_tsvector('catalan', coalesce(title, '')), 'A') || setweight(to_tsvector('catalan', coalesce(body, '')), 'B') || setweight(to_tsvector('spanish', coalesce(title, '') || ' ' || coalesce(body, '')), 'C')`,
+      ),
+  },
+  (t) => [index("search_docs_tsv_idx").using("gin", t.tsv), index("search_docs_kind_idx").on(t.kind)],
 );

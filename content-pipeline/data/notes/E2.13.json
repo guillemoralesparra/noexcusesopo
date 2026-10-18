@@ -1,0 +1,23 @@
+{
+ "epigraf": "E2.13",
+ "body_md": "## En una frase\nEl diagnòstic de salut comunitari identifica necessitats i recursos d'una població i en prioritza els problemes amb mètodes com **Hanlon** i la **matriu de criteris**; és el primer pas dels programes de salut comunitària.\n\n## Conceptes clau\n- **Diagnòstic de salut comunitària**: procés de descripció i anàlisi de l'estat de salut, els seus determinants, les necessitats percebudes i els actius d'una comunitat. Fonts: indicadors demogràfics i epidemiològics, registres, enquestes (ESCA), entrevistes a informants clau, grups focals, mapes d'actius.\n- **Tipus de necessitats** (Bradshaw): normatives, sentides, expressades i comparades.\n- **Fases**: recollida de dades, anàlisi, identificació de problemes, **priorització**, objectius, intervencions i avaluació.\n- **Mètode de Hanlon**: priorització mitjançant la fórmula **(A + B) × C × D**, on **A = magnitud del problema**, **B = gravetat**, **C = eficàcia de la solució** i **D = factibilitat (PEARL)**. La **seguretat de la intervenció no forma part** del mètode (2024).\n- **Altres mètodes**: matriu de criteris (magnitud, gravetat, vulnerabilitat, transcendència), tècnica de grup nominal, Delphi, mètode de Dieze.\n- **Participació comunitària**: la comunitat ha d'intervenir en la priorització.\n- **Components PEARL (factibilitat)**: Propietat, Economia, Acceptabilitat, Recursos, Legalitat.\n\n## Valors, escales i classificacions\n\n| Component Hanlon | Pregunta |\n|---|---|\n| A. Magnitud | Quanta gent afecta? |\n| B. Gravetat | Quina severitat, urgència i cost? |\n| C. Eficàcia | Es pot resoldre? |\n| D. Factibilitat | És viable (PEARL)? |\n\nFórmula: **Puntuació = (A + B) × C × D**; la prioritat és la puntuació més alta.\n\n## Actuació infermera\n- **Valoració**: dades de salut i context (indicadors, entrevistes, observació).\n- **Diagnòstic**: *gestió ineficaç de la salut de la comunitat*, *afrontament comunitari ineficaç*.\n- **Intervencions**: implicar els agents comunitaris, aplicar el mètode de priorització i fixar objectius mesurables.\n- **Avaluació**: indicadors de procés i de resultat.\n\n## Què pregunten als exàmens\n- Components del mètode Hanlon; no n'és la seguretat de la intervenció (2024).\n\n## Trampes freqüents\n- Afegir \"seguretat\", \"cost\" o \"equitat\" com a components del Hanlon.\n- Confondre la priorització amb la identificació del problema.\n- Prioritzar només amb dades epidemiològiques i oblidar la percepció de la comunitat.\n\n## Normativa i guies de referència\n- Pla de salut de Catalunya; Llei 15/1990 (LOSC), participació comunitària.\n- Pineault R., Daveluy C. *La planificació sanitària* (mètode Hanlon adaptat per OPS).",
+ "key_points": [
+  "El mètode de Hanlon prioritza amb magnitud, gravetat, eficàcia de la solució i factibilitat.",
+  "La fórmula de Hanlon és (A + B) × C × D.",
+  "La seguretat de la intervenció no és un component del Hanlon.",
+  "El diagnòstic de salut comunitari integra dades objectives i percepció de la comunitat.",
+  "La priorització és posterior a l'anàlisi de la situació i anterior a la formulació d'objectius."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 15/1990 (LOSC)",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/1990/07/09/15"
+  },
+  {
+   "kind": "ref",
+   "label": "Pineault R., Daveluy C. La planificación sanitaria (mètode Hanlon)"
+  }
+ ],
+ "review_flags": []
+}

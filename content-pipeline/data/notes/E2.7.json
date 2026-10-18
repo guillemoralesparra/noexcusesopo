@@ -1,0 +1,30 @@
+{
+ "epigraf": "E2.7",
+ "body_md": "## En una frase\nEls estils de vida (tabac, alcohol, alimentació, activitat física, pes) són els factors de risc modificables més rellevants; la infermera els valora amb escales validades (Fagerström, UBE, REGICOR, perímetre abdominal) i intervé amb consell breu i el **model transteòric**.\n\n## Conceptes clau\n- **Tabaquisme**: **fumador** és qui ha fumat el darrer mes, fins i tot una cigarreta al dia (2015); **exfumador** és qui porta **un any o més** sense fumar (2016).\n- **Dependència nicotínica**: test de Fagerström; **8-10 punts = dependència alta** (2016). Test de Richmond mesura la motivació per deixar-ho.\n- **Model transteòric de Prochaska i DiClemente** (model teòric del canvi; 2019): precontemplació, contemplació, preparació, acció, manteniment (i recaiguda).\n- **Consell breu antitabac (5A)**: Averiguar, Aconsellar, Avaluar la disposició, Ajudar, Acordar el seguiment.\n- **Alcohol**: unitat de beguda estàndard (**UBE** = 10 g d'alcohol a Espanya). **Consum de risc** a Catalunya: >4 UBE/dia o 28/setmana en homes; >2 UBE/dia o 17/setmana en dones (2024; els llindars s'han revisat). **Consum excessiu episòdic (*binge*)**: ≥6 UBE (home) o ≥5 (dona) en una ocasió; 6 UBE un dissabte suposa **risc alt** (2015).\n- **Alimentació saludable**: dieta mediterrània; guia catalana *Petits canvis per menjar millor* (farinacis integrals **a cada àpat**; 2024). L'oli d'oliva verge aporta les mateixes calories (9 kcal/g) que altres olis (2019).\n- **Activitat física**: adults 150-300 min/setmana moderada o 75-150 vigorosa; infants 60 min/dia.\n- **Obesitat i risc cardiovascular**: **perímetre abdominal** de risc: **>102 cm homes, >88 cm dones** (2019).\n- **Taules REGICOR**: adaptació de Framingham a Catalunya; risc coronari a 10 anys; variables: **edat, sexe, tabac, colesterol total i HDL, pressió arterial i diabetis** (2024).\n- **Hipertensió i estil de vida**: més eficaços: reducció de pes, dieta DASH, restricció de sal, exercici, moderació d'alcohol; **ingesta de sal de 8 g/dia no és eficaç** (objectiu <5 g/dia; 2019).\n\n## Valors, escales i classificacions\n\n| Test de Fagerström | Interpretació |\n|---|---|\n| 0-3 | Dependència baixa |\n| 4-6 | Moderada |\n| 7-10 | Alta |\n\n| Fase transteòrica | Intervenció |\n|---|---|\n| Precontemplació | Informar, generar consciència |\n| Contemplació | Avantatges/inconvenients, ambivalència |\n| Preparació | Pla d'acció, data |\n| Acció | Estratègies, suport, farmacologia |\n| Manteniment | Prevenir recaigudes |\n\n| IMC (OMS) | Categoria |\n|---|---|\n| <18,5 | Baix pes |\n| 18,5-24,9 | Normal |\n| 25-29,9 | Sobrepès |\n| ≥30 | Obesitat |\n\n## Actuació infermera\n- **Valoració**: hàbits tòxics, dieta, activitat, IMC, perímetre, risc cardiovascular.\n- **Diagnòstic**: *conductes de salut proclius al risc*, *sedentarisme*, *desequilibri nutricional*, *disposició per millorar la gestió de la salut*.\n- **Intervencions**: consell breu, entrevista motivacional, teràpia substitutiva de nicotina, derivació a unitat de tabaquisme, prescripció d'exercici.\n- **Educació**: objectius pactats i realistes; seguiment programat.\n- **Avaluació**: abstinència confirmada, canvis de pes, control de factors.\n\n## Què pregunten als exàmens\n- Consum de risc d'alcohol en UBE (2015, 2024).\n- Definició de fumador i d'exfumador (2015, 2016).\n- Puntuació del Fagerström (2016).\n- Model transteòric (2019).\n- Perímetre abdominal de risc (2019).\n- Mesures d'estil de vida en HTA (2019) i recomanacions d'alimentació saludable (2019, 2024).\n- Variables del REGICOR (2024).\n\n## Trampes freqüents\n- Confondre **fumador ocasional** amb exfumador.\n- Pensar que la dependència baixa equival a un Fagerström alt.\n- Confondre els llindars d'UBE de risc per a homes i dones.\n- Atribuir al REGICOR variables que no inclou (obesitat, antecedents familiars).\n- Creure que l'oli d'oliva aporta menys calories.\n\n## Normativa i guies de referència\n- Llei 28/2005 (mesures sanitàries enfront del tabaquisme) i Llei 42/2010; OMS Convenio Marc.\n- Pla de salut de Catalunya; Guia *Petits canvis per menjar millor* (ASPCAT).\n- PAPPS (semFYC) i guies de la SEC sobre prevenció cardiovascular; Guia ESC 2021.",
+ "key_points": [
+  "Fumador és qui ha fumat l'últim mes; exfumador, qui porta un any o més sense fumar.",
+  "Un Fagerström de 7-10 indica dependència nicotínica alta.",
+  "El model transteòric descriu precontemplació, contemplació, preparació, acció i manteniment.",
+  "El perímetre abdominal de risc és >102 cm en homes i >88 cm en dones.",
+  "Les taules REGICOR estimen el risc coronari a 10 anys amb edat, sexe, tabac, colesterol, pressió arterial i diabetis.",
+  "Un consum de risc d'alcohol supera les 4 UBE/dia en homes o 2 UBE/dia en dones (llindars de l'examen 2024)."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "Llei 28/2005, de mesures sanitàries enfront del tabaquisme"
+  },
+  {
+   "kind": "ref",
+   "label": "Prochaska JO, DiClemente CC. Transtheoretical model (1983)"
+  },
+  {
+   "kind": "ref",
+   "label": "ASPCAT. Guia Petits canvis per menjar millor"
+  }
+ ],
+ "review_flags": [
+  "Els llindars UBE de risc s'han revisat (recomanacions recents són més estrictes); l'examen 2024 usava llindars antics.",
+  "Una UBE a Catalunya equival a 10 g, però algunes fonts antigues usen 8 g; verificar."
+ ]
+}

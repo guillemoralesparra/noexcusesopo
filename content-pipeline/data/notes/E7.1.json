@@ -1,0 +1,25 @@
+{
+ "epigraf": "E7.1",
+ "body_md": "## En una frase\nL'assèpsia previn la contaminació microbiana; l'antisèpsia elimina o redueix microorganismes de la pell i teixits vius, la desinfecció ho fa en objectes inanimats i l'esterilització destrueix tota forma de vida microbiana, incloses les espores.\n\n## Conceptes clau\n- **Neteja**: elimina matèria orgànica i brutícia; sempre és el primer pas, abans de desinfectar o esterilitzar.\n- **Antisèpsia**: sobre teixits vius (pell, mucoses). **Desinfecció**: sobre material inert; nivell baix, intermedi o alt. **Esterilització**: destrucció de tots els microorganismes, incloses les espores.\n- **Classificació de Spaulding**: material **crític** (penetra en teixit estèril o sistema vascular: esterilització), **semicrític** (mucoses o pell no intacta: desinfecció d'alt nivell o esterilització) i **no crític** (pell intacta: neteja i desinfecció de nivell baix o intermedi).\n- **Factors d'eficàcia dels desinfectants químics**: neteja prèvia, concentració, temps de contacte, temperatura, pH, matèria orgànica present, i **assecar el material abans de submergir-lo** per no diluir el producte.\n\n## Valors, escales i classificacions\n| Mètode | Condicions i comentaris |\n|---|---|\n| **Vapor (autoclau)** | 121 °C, 15-20 min o 134 °C, 3-5 min; el més usat, barat i segur |\n| Calor seca | 160 °C, 2 h o 170 °C, 1 h |\n| Òxid d'età | Material termosensible; requereix aeració |\n| Plasma de peròxid d'hidrogen | Termosensible, sense residus tòxics |\n| Glutaraldehid 2 %, OPA, àcid peracètic | Desinfecció d'alt nivell (p. ex., endoscopis) |\n| Hipoclorit sòdic (lleixiu) | Desinfecció de superfícies i material no metàl·lic |\n| Alcohol 70 % | Desinfecció de nivell intermedi i antisèpsia ràpida |\n\n| Antisèptic | Ús habitual |\n|---|---|\n| **Clorhexidina alcohòlica 2 %** | Antisèpsia de la pell en adults abans de punció o cirurgia |\n| **Clorhexidina aquosa 2 %** | Pell en infants menors de 30 mesos (segons la guia d'antisèpsia de la pell de l'ICS) |\n| Povidona iodada | Alternativa; cal que s'assequi |\n| Alcohol 70 % | Pell intacta per a injeccions |\n\n**Controls de l'esterilització**: físics (temperatura, pressió, temps), **químics** (indicadors de procés; prova de Bowie-Dick per al buit de l'autoclau) i **biològics** (espores de *Geobacillus stearothermophilus* per a vapor). La **caducitat** del material estèril depèn de l'envàs i de les condicions d'emmagatzematge, més que d'una data fixa.\n\n## Actuació infermera\n- **Diagnòstic**: *Risc d'infecció*.\n- Higiene de mans, camp estèril, guants estèrils per a tècniques invasives, comprovar la integritat i la caducitat de l'envàs i els indicadors.\n- Antisèpsia amb moviment de l'interior a l'exterior (espiral) i **deixar assecar** el producte.\n- Manipulació i emmagatzematge adequats: material estèril en lloc net, sec i protegit de la humitat.\n- **Educació** de l'equip sobre la cadena de processat (neteja, desinfecció, embalatge, esterilització).\n\n## Què pregunten als exàmens\n- Factors que afecten l'eficàcia dels desinfectants: assecar el dispositiu abans de submergir-lo (2019).\n- Antisèptic d'elecció en menors de 30 mesos: clorhexidina aquosa 2 % (2024).\n- Probable: mètodes d'esterilització (vapor, 121/134 °C), controls biològics, Spaulding.\n\n## Trampes freqüents\n- Confondre antisèpsia (teixit viu) amb desinfecció (objectes).\n- Pensar que desinfectar és el mateix que esterilitzar (les espores sobreviuen a la desinfecció de nivell baix).\n- Oblidar la neteja prèvia o la dilució del desinfectant per humitat.\n- Confondre clorhexidina alcohòlica (adults) amb aquosa (lactants petits).\n\n## Normativa i guies de referència\n- Guia d'antisèpsia de la pell de l'Institut Català de la Salut.\n- Normes UNE-EN ISO 17665 (esterilització per vapor) i recomanacions de la CDC (Guideline for Disinfection and Sterilization, 2008).\n",
+ "key_points": [
+  "Antisèpsia: teixits vius; desinfecció: material inert; esterilització: destrueix tots els microorganismes, incloses les espores.",
+  "Spaulding: crític = esterilització; semicrític = desinfecció d'alt nivell; no crític = nivell baix o intermedi.",
+  "L'autoclau de vapor treballa a 121 °C (15-20 min) o 134 °C (3-5 min) i és el mètode d'elecció.",
+  "Cal netejar i assecar el material abans de submergir-lo en un desinfectant químic.",
+  "El control biològic de l'autoclau utilitza espores de Geobacillus stearothermophilus.",
+  "En menors de 30 mesos, antisèptic d'elecció per a hemocultius: clorhexidina aquosa 2 % (guia ICS)."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "Institut Català de la Salut, Guia d'antisèpsia de la pell"
+  },
+  {
+   "kind": "ref",
+   "label": "CDC, Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)"
+  }
+ ],
+ "review_flags": [
+  "Verificar la versión vigente de la Guia d'antisèpsia de la pell (ICS) y las concentraciones en neonatos prematuros."
+ ]
+}

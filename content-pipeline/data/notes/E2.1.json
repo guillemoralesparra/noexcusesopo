@@ -1,0 +1,31 @@
+{
+ "epigraf": "E2.1",
+ "body_md": "## En una frase\nLa promoció de la salut capacita les persones i les comunitats per augmentar el control sobre la seva salut (Carta d'Ottawa); actua sobre els **determinants socials** i es planifica mitjançant programes de salut comunitària amb fases definides.\n\n## Conceptes clau\n- **Salut (OMS)**: estat de complet benestar físic, mental i social, i no només l'absència de malaltia.\n- **Promoció de la salut (Carta d'Ottawa, 1986)**: procés pel qual s'enforteix la capacitat de les persones per controlar i millorar la seva salut. Cinc àmbits: política pública saludable, entorns favorables, reforç de l'acció comunitària, desenvolupament d'habilitats personals i reorientació dels serveis sanitaris.\n- **Determinants de la salut** (Lalonde, Dahlgren-Whitehead): conjunt de factors personals, socials, sanitaris, econòmics i ambientals que condicionen l'estat de salut dels individus i de les poblacions (2024). **Determinants socials** (CSDH-OMS): condicions en què les persones neixen, creixen, treballen i envelleixen. Inclouen nivell d'ingressos, educació, ocupació, habitatge, suport social, gènere, immigració.\n- **Utilització dels serveis sanitaris**: la condicionen factors socials com el nivell d'estudis, la classe social, el suport social i la situació laboral (2015).\n- **Equitat en salut**: absència de diferències injustes i evitables; les desigualtats sociais en salut es redueixen amb intervencions de **universalisme proporcional**.\n- **Atenció primària orientada a la comunitat (APOC)**: integra l'atenció individual i comunitària; coneix la comunitat, detecta necessitats i actius, promou la participació i actua amb altres sectors (2019). L'APOC no consisteix a traslladar a la comunitat les necessitats de l'equip.\n- **Actius per a la salut** i **prescripció social**: recursos comunitaris que milloren el benestar; la infermera els recomana.\n- **Educació per a la salut**: individual (consell, entrevista) i grupal (taller, grup).\n- **Salut Comunitària a Catalunya**: Pla interdepartamental de salut pública (PINSAP), programes com *Salut i Escola*.\n\n## Valors, escales i classificacions\n\n**Fases d'un programa de salut comunitària** (2016): 1) anàlisi de la situació de salut, 2) establiment de prioritats, 3) formulació d'objectius, 4) disseny de les intervencions, 5) posada en marxa/execució i 6) avaluació.\n\n| Nivell de determinants (Dahlgren) | Exemples |\n|---|---|\n| Individuals | Edat, sexe, genètica |\n| Estils de vida | Dieta, tabac, activitat física |\n| Xarxes socials i comunitàries | Suport, cohesió |\n| Condicions de vida i treball | Habitatge, ocupació, educació |\n| Condicions generals | Socioeconòmiques, culturals, ambientals |\n\n## Actuació infermera\n- **Valoració comunitària**: demografia, indicadors, actius, percepció de necessitats; mètodes qualitatius (entrevistes, grups).\n- **Diagnòstic**: *gestió ineficaç de la salut de la comunitat*, *conductes de salut proclius*.\n- **Intervencions**: tallers, grups, coordinació amb escola, ajuntament i entitats; abordatge de col·lectius vulnerables.\n- **Educació**: objectius clars i realistes; metodologia participativa.\n- **Avaluació**: estructura, procés i resultat; indicadors de cobertura i impacte.\n\n## Què pregunten als exàmens\n- Determinants socials associats a la utilització de serveis sanitaris (2015).\n- Fases dels programes de salut comunitària (2016).\n- Programa *Salut i Escola*: destinataris (2016; estava dirigit a alumnes de 3r i 4t d'ESO; cal verificar l'extensió actual).\n- Acció incorrecta en l'APOC (2019).\n- Definició de determinants de salut (2024).\n- Mètode de priorització Hanlon (2024; vegeu E2.13).\n\n## Trampes freqüents\n- Confondre determinants de la salut amb factors de risc individuals.\n- Posar la priorització abans de l'anàlisi de situació.\n- Creure que la promoció de la salut és només educació individual.\n- Pensar que l'APOC és assistència a domicili.\n\n## Normativa i guies de referència\n- Llei 15/1990 (LOSC) i Llei 14/1986 (LGS) com a marc de promoció i prevenció.\n- Carta d'Ottawa (OMS, 1986); Comissió de determinants socials de l'OMS (2008).\n- Pla de salut de Catalunya i Pla interdepartamental de salut pública.",
+ "key_points": [
+  "Els determinants de la salut són factors personals, socials, sanitaris, econòmics i ambientals que condicionen la salut.",
+  "La Carta d'Ottawa defineix la promoció de la salut com a capacitar per controlar i millorar la pròpia salut.",
+  "Les fases d'un programa comunitari són anàlisi, prioritats, objectius, intervencions, execució i avaluació.",
+  "L'APOC integra l'atenció individual amb l'orientació a les necessitats de la comunitat.",
+  "L'equitat requereix actuar sobre les desigualtats evitables en salut.",
+  "El programa Salut i Escola es dirigia a l'ESO; s'ha de verificar l'abast vigent."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 15/1990 (LOSC)",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/1990/07/09/15"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 14/1986, general de sanitat",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499"
+  },
+  {
+   "kind": "ref",
+   "label": "Carta d'Ottawa per a la promoció de la salut (OMS, 1986)"
+  }
+ ],
+ "review_flags": [
+  "El Programa Salut i Escola s'ha ampliat; la resposta històrica (3r i 4t d'ESO) pot estar desfasada."
+ ]
+}

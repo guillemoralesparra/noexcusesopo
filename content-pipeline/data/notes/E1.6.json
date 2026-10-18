@@ -1,0 +1,23 @@
+{
+ "epigraf": "E1.6",
+ "body_md": "## En una frase\nLa comunicació combina el canal verbal i el no verbal (paraules, to, gest, mirada, distància); la infermera l'adapta a limitacions com l'afàsia i la utilitza amb cura per donar males notícies.\n\n## Conceptes clau\n- **Comunicació verbal**: paraules (contingut); **paraverbal**: to, volum, ritme, pauses. **No verbal**: cinèsica (gest, postura, expressió facial), mirada, proxèmia (distàncies) i tacte. El no verbal sol transmetre l'emoció i, en cas de contradicció, té més credibilitat.\n- **Proxèmia (Hall)**: íntima (<45 cm), personal (45-120 cm), social (1,2-3,6 m) i pública (>3,6 m). Les cures s'executen sovint a distància íntima: cal demanar permís i explicar.\n- **Barreres**: idioma, cultura, sordesa, afàsia, dolor, soroll, jerga mèdica, pressa.\n- **Afàsia**: *d'expressió* (Broca; entén però no pot parlar amb fluïdesa) i *de comprensió* (Wernicke; parla fluida però sense sentit). En l'**afàsia d'expressió**, s'ha de **reforçar la comunicació verbal i no verbal**: gests, assenyalar, dibuixar, imatges, preguntes de resposta sí/no (2016).\n- **Comunicar males notícies**: protocol **SPIKES** (Setting, Perception, Invitation, Knowledge, Emotions, Strategy/Summary); alternatives: BREAKS, ABCDE.\n\n## Valors, escales i classificacions\n\n| Pas SPIKES | Contingut |\n|---|---|\n| S – Entorn | Lloc tranquil, intimitat, seure, sense interrupcions |\n| P – Percepció | Què sap i què creu la persona? |\n| I – Invitació | Quanta informació vol? |\n| K – Coneixement | Informar per fragments, llenguatge senzill, \"tir d'advertència\" |\n| E – Emocions | Reconèixer i validar l'emoció amb resposta empàtica |\n| S – Estratègia | Pla, resum i seguiment |\n\n## Actuació infermera\n- **Valoració**: capacitat de comprendre i expressar-se, sentits, idioma, nivell cultural.\n- **Diagnòstic**: *deteriorament de la comunicació verbal*.\n- **Intervencions** amb afàsia: parlar amb frases curtes, deixar temps, no completar frases ni infantilitzar, usar suports visuals i pissarra, derivar a logopèdia.\n- **Males notícies**: no deixar la persona sola, permetre el silenci, no mentir ni donar falses esperances, oferir seguiment.\n- **Educació**: orientar la família sobre com comunicar-se amb la persona afàsica.\n- **Avaluació**: la persona se sent compresa i expressa necessitats.\n\n## Què pregunten als exàmens\n- Afàsia d'expressió: activitat correcta de millora de la comunicació, reforçar verbal i no verbal amb gestos, assenyalar o dibuixar (2016).\n- Comunicació de males notícies no ha aparegut als exàmens 2015-2024; és previsible una pregunta sobre SPIKES o sobre els errors típics.\n\n## Trampes freqüents\n- Confondre afàsia d'expressió (Broca) amb la de comprensió (Wernicke), o amb **disàrtria** (dificultat articulatòria, no del llenguatge).\n- Parlar més fort o infantilitzar amb afàsia.\n- Pensar que en dir males notícies cal fer-ho ràpid i sense preguntar què sap la persona.\n- Creure que el no verbal és menys important que el verbal.\n\n## Normativa i guies de referència\n- Llei 41/2002: dret a la informació i a no ser informat (art. 4-5).\n- Baile WF et al., protocol SPIKES (*Oncologist*, 2000).",
+ "key_points": [
+  "La comunicació té components verbals, paraverbals i no verbals; en conflicte, la persona es fia més del no verbal.",
+  "En l'afàsia d'expressió es reforça la comunicació verbal i no verbal amb gestos, dibuixos i assenyalament.",
+  "SPIKES és el protocol de referència per comunicar males notícies.",
+  "Cal explorar què sap i què vol saber la persona abans d'informar.",
+  "Les cures es fan sovint dins la distància íntima: cal demanar permís i explicar el procediment."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 41/2002, art. 4 i 5",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188"
+  },
+  {
+   "kind": "ref",
+   "label": "Baile WF et al. SPIKES: a six-step protocol for delivering bad news. Oncologist, 2000"
+  }
+ ],
+ "review_flags": []
+}

@@ -1,0 +1,25 @@
+{
+ "epigraf": "E2.5",
+ "body_md": "## En una frase\nLa salut mediambiental estudia com els factors ambientals (aire, aigua, residus, calor, productes químics, canvi climàtic) afecten la salut i quines mesures de prevenció i adaptació han d'adoptar les infermeres.\n\n## Conceptes clau\n- **Determinants ambientals de la salut**: qualitat de l'aire i de l'aigua, soroll, residus, exposició química, habitatge, espais verds.\n- **Contaminació atmosfèrica**: PM2,5, PM10, NO2, O3; relacionada amb malalties respiratòries i cardiovasculars i càncer de pulmó. Recomanacions de l'OMS (2021) més estrictes.\n- **Canvi climàtic**: onades de calor, incendis, mosquits vectors (dengue, West Nile), esdeveniments extrems. Els col·lectius més vulnerables són gent gran, infants, embarassades i persones amb malalties cròniques o pobresa energètica.\n- **Efectes de la calor**: deshidratació, cop de calor (T central >40 °C amb alteració neurològica; emergència), exacerbació de malalties cròniques.\n- **Salut ambiental i sostenibilitat del sistema sanitari**: residus sanitaris, petjada de carboni, ús racional de recursos.\n- **Principi de precaució** i enfocament **One Health** (salut humana, animal i ambiental).\n- **Residus sanitaris**: grup I-II assimilables a urbans, grup III (biosanitaris especials: punxants, cultius), grup IV (citotòxics, químics) segons classificació catalana.\n\n## Valors, escales i classificacions\n\n| Situació | Mesures |\n|---|---|\n| Onada de calor | Hidratació, ombra, roba lleugera, evitar exercici a hores centrals, vigilar fàrmacs (diürètics, antipsicòtics) |\n| Qualitat de l'aire dolenta | Evitar activitat intensa a l'aire lliure en persones vulnerables |\n| Aigua | Potabilitat, cloració, control de legionel·la |\n| Residus | Segregació en origen i contenidors segons el grup |\n\n**Cop de calor**: temperatura corporal >40 °C, pell calenta, alteració del nivell de consciència; refredar ràpidament i activar emergències.\n\n## Actuació infermera\n- **Valoració**: exposicions ambientals, condicions de l'habitatge, vulnerabilitat.\n- **Diagnòstic**: *risc de desequilibri de la temperatura corporal*, *risc de lesió*, *gestió ineficaç de la salut*.\n- **Intervencions**: consells en onades de calor, identificació de persones fràgils, coordinació amb serveis socials, gestió correcta dels residus a la pràctica.\n- **Educació**: aigua segura, ventilació, reducció d'exposicions; promoure el transport actiu.\n- **Avaluació**: absència d'efectes adversos; adherència als consells.\n\n## Què pregunten als exàmens\nNo s'ha preguntat als exàmens oficials 2015-2024. Probables: efectes sanitaris de la calor, classificació de residus sanitaris i prevenció d'infeccions ambientals (legionel·la).\n\n## Trampes freqüents\n- Confondre insolació amb cop de calor (el cop de calor és emergència amb alteració neurològica).\n- Pensar que les persones sanes són les més vulnerables a la calor.\n- Barrejar residus biosanitaris amb urbans.\n\n## Normativa i guies de referència\n- Llei 14/1986, general de sanitat (salut ambiental).\n- Pla de salut de Catalunya (apartats de salut ambiental) i Estratègia europea One Health.\n- OMS, Directrius sobre qualitat de l'aire (2021).",
+ "key_points": [
+  "Els col·lectius més vulnerables a la calor són gent gran, infants, embarassades i malalts crònics.",
+  "El cop de calor és una emergència amb temperatura >40 °C i alteració neurològica.",
+  "Els residus sanitaris es segreguen segons el risc (grups I-IV).",
+  "El principi de precaució i One Health guien la salut ambiental.",
+  "Les infermeres eduquen en aigua segura, ventilació i reducció d'exposicions."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 14/1986, general de sanitat",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499"
+  },
+  {
+   "kind": "ref",
+   "label": "OMS, Directrius mundials de qualitat de l'aire (2021)"
+  }
+ ],
+ "review_flags": [
+  "La classificació de residus sanitaris vigent a Catalunya no s'ha verificat contra la norma; revisar."
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "epigraf": "E6.10",
+ "body_md": "## En una frase\nLa disfàgia orofaríngia és la dificultat per transportar el bolus des de la boca a l'esòfag amb seguretat i eficàcia; el cribratge precoç (EAT-10, MECV-V) i l'adaptació de textures (marc IDDSI) eviten l'aspiració i la desnutrició.\n\n## Conceptes clau\n- **Alteració de la seguretat**: el bolus passa a la via aèria (tos, canvi de veu, desaturació ≥ 3 %). **Alteració de l'eficàcia**: no es pot ingerir tota la quantitat nutritiva o hidratant: **segell labial insuficient, residus orals, deglució fraccionada i residus faringis**.\n- Complicacions: **pneumònia aspirativa** (principal causa de mortalitat), desnutrició, deshidratació, aïllament social.\n- Grups de risc: gent gran, ictus, demència, Parkinson, càncer de cap i coll, malalties neuromusculars.\n\n## Valors, escales i classificacions\n| Eina | Detall |\n|---|---|\n| **EAT-10** | 10 ítems (0-4); **≥ 3 = cribratge positiu** |\n| **MECV-V** | Prova volum-viscositat amb 5, 10 i 20 mL de líquid, nèctar i púding; valora signes de seguretat i eficàcia |\n| Videofluoroscòpia / FEES | Diagnòstic instrumental |\n\n| Textures (marc IDDSI, 2019) | Descripció |\n|---|---|\n| Nivell 0 | Líquid fi |\n| 1 | Molt lleugerament espès |\n| 2 | Lleugerament espès (≈ nèctar) |\n| 3 | Moderadament espès (≈ mel) |\n| 4 | Extremadament espès, triturat uniforme (≈ púding) |\n| 5 | Picat i humit |\n| 6 | Tou i tallat en trossos petits |\n| 7 | Normal / fàcil de mastegar |\n\nTerminologia clàssica (viscositat en mPa·s o cP): **nèctar 51-350**, **mel 351-1750**, **púding > 1750**. Per tant «nèctar = 900 cP» o «espessor extrem» és incorrecte.\n\n## Actuació infermera\n- **Valoració**: antecedents, estat de consciència, higiene bucal, EAT-10, MECV-V, signes d'alarma (tos en menjar, veu humida, febre sense causa).\n- **Diagnòstic**: *Deteriorament de la deglució* (00103), *Risc d'aspiració* (00039), *Desequilibri nutricional*.\n- **Intervencions**: posició asseguda (≥ 45-90°), **flexió anterior del coll** per protegir la via aèria, bolus petits, ritme lent, evitar distraccions, textures homogènies, aigua gelificada, no barrejar textures, higiene bucal després de cada àpat, supervisió, evitar pallisses i líquids fins si no hi ha adaptació; revisar la medicació (no triturar retard); si la via oral no és segura o suficient, valorar nutrició enteral.\n- **Educació** de la família: quantitats, textures, postura, signes d'alarma, actuació davant un atragantament (maniobra de Heimlich).\n- **Avaluació**: pes, hidratació, absència d'infeccions respiratòries.\n\n## Què pregunten als exàmens\n- Cribratge amb EAT-10, flexió anterior del coll i mortalitat per complicacions respiratòries; falsa: nèctar = 900 cP (2016).\n- Signes d'alteració de l'eficàcia: segell labial insuficient, residus orals, deglució fraccionada i residus faringis (2024).\n\n## Trampes freqüents\n- Confondre signes de seguretat (tos, canvi de veu, desaturació) amb els d'eficàcia (segell labial, residus, deglució fraccionada).\n- Confondre la terminologia clàssica (nèctar, mel, púding) amb els nivells IDDSI, que hi equivalen aproximadament (2, 3 i 4).\n- Prescriure líquids fins a persones amb disfàgia sense espessir.\n\n## Normativa i guies de referència\n- IDDSI (International Dysphagia Diet Standardisation Initiative, 2019).\n- Documents de consens sobre disfàgia orofaríngia (Clavé i col·laboradors), base del MECV-V.\n",
+ "key_points": [
+  "L'EAT-10 és un cribratge de 10 ítems; una puntuació ≥ 3 és positiva.",
+  "Els signes d'alteració de l'eficàcia són: segell labial insuficient, residus orals, deglució fraccionada i residus faringis.",
+  "Els signes de seguretat són tos, canvi de veu i desaturació.",
+  "La flexió anterior del coll protegeix la via aèria durant la deglució.",
+  "La viscositat nèctar és de 51-350 mPa·s, mel de 351-1750 i púding > 1750.",
+  "La pneumònia aspirativa és la principal causa de mortalitat en la disfàgia."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "IDDSI (International Dysphagia Diet Standardisation Initiative), 2019"
+  },
+  {
+   "kind": "ref",
+   "label": "Clavé P i col·laboradors, mètode d'exploració clínica volum-viscositat (MECV-V)"
+  }
+ ],
+ "review_flags": [
+  "Las preguntas antiguas usan la terminología néctar/miel/pudin; el marco IDDSI la ha sustituido. Verificar si el examen 2027 usará IDDSI.",
+  "La equivalencia exacta IDDSI-nèctar/mel/púding es aproximada."
+ ]
+}

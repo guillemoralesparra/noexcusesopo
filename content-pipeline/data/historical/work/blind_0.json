@@ -1,0 +1,1731 @@
+[
+{
+"id": "ics-dui-hbcn-2010-1",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-2",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-3",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-4",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-5",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-6",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-7",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-8",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-9",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-10",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-11",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-12",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-13",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-14",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-15",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-16",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-17",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-18",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-19",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-20",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-21",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-22",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-23",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-24",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-25",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-26",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hbcn-2010-27",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-28",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-29",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-30",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-31",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-32",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-33",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-34",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-35",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-36",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hbcn-2010-37",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-38",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-39",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-40",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-41",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-42",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-43",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-44",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-45",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hbcn-2010-46",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-47",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-48",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-49",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-50",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-51",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-52",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-53",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hbcn-2010-54",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-55",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-56",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-57",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-58",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-59",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-60",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-61",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-62",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-63",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-64",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-65",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-66",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-67",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-68",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-69",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-70",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-71",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-72",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-73",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-74",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-76",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hbcn-2010-77",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-78",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-79",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-80",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-81",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-82",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-83",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-84",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-85",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-86",
+"answer": [
+"d"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hbcn-2010-87",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-88",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hbcn-2010-89",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hbcn-2010-90",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-1",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-2",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-3",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-4",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-5",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-6",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hgirona-2009-7",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-8",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-9",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-10",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-11",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-12",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-13",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-14",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-15",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-16",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-17",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-18",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-19",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-20",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-21",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-22",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-23",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-24",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-25",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-26",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-27",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-28",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-29",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-30",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-31",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-32",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-33",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-34",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-35",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-36",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-37",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-38",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hgirona-2009-39",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-40",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-41",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-43",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-44",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-45",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-46",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-47",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-48",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-49",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hgirona-2009-50",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-51",
+"answer": [
+"d"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hgirona-2009-52",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-53",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hgirona-2009-54",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-55",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-56",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-57",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-58",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-59",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hgirona-2009-60",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-61",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-62",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-63",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-64",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-65",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-66",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-67",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hgirona-2009-68",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-69",
+"answer": [
+"d"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hgirona-2009-70",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-71",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-72",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-73",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-74",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-75",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-76",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-77",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-78",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-79",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hgirona-2009-80",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-1",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-2",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-3",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hlleida-2009-4",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-5",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-6",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-7",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-8",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-9",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hlleida-2009-10",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-11",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-12",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hlleida-2009-13",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-14",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-15",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-16",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-17",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-18",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-19",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-20",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-21",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-22",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-23",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-24",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-25",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-26",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-27",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-28",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hlleida-2009-29",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-30",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-31",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-32",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-33",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-34",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-35",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-36",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-37",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hlleida-2009-38",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-39",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-40",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-41",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-42",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-43",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-44",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-45",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-46",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hlleida-2009-47",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-48",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-49",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-50",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-51",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-52",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-53",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-54",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-55",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-56",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-57",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hlleida-2009-58",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-59",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hlleida-2009-60",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-61",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-62",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-63",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hlleida-2009-64",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-65",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-66",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-dui-hlleida-2009-67",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-dui-hlleida-2009-68",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-69",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-70",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-71",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-72",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-73",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-74",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-75",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-76",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-77",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-78",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-dui-hlleida-2009-79",
+"answer": [
+"a"
+],
+"confidence": "low"
+}
+]

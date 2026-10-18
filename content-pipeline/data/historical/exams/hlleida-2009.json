@@ -1,0 +1,99 @@
+{
+ "exam_id": "ics-dui-hlleida-2009",
+ "title": "Convocatòria: H. Lleida-DUI-2009 — Categoria: Diplomat/Diplomada sanitari/ària d'infermeria (Subgrup A2) — Primer exercici",
+ "date": "2010-04-24",
+ "instructions": "",
+ "format": {
+  "penalty": null,
+  "time_min": null,
+  "note": "Examen oficial ICS (convocatòria H.Lleida-DUI-2009; Hospital Universitari Arnau de Vilanova). Primer exercici, 24 d'abril de 2010, Universitat de Lleida – Campus de Cappont. Plantilla oficial \"Plantilla test i supòsit pràctic H.Lleida-DUI-2009\" de 27.04.2010 (escanejada)."
+ },
+ "cases": [
+  {
+   "id": "C1",
+   "title": "CAS CLÍNIC 1",
+   "text": "Pacient de 50 anys d'edat que arriba al servei d'urgències per accident de trànsit. A l'arribada a l'hospital el seu nivell de consciència és orientat. Presenta dificultat respiratòria, dispnea i dolor al pit, no presenta cianosi. A l'arribada a urgències passa a l'àrea de traumatologia es fa la valoració inicial i es transporta al servei de radiologia per comprovar si hi ha alguna fractura. Situació actual:\n\nPacient diagnosticada de fractura de 3 costelles i contusió pulmonar. Traumatisme toràcic amb volet costal.\n\nAquesta situació comporta una gasometria arterial:\n\nPO2 4; PCO2 80; pH 7,24; HCO3 35; Saturació. 78%, compatible amb insuficiència respiratòria que requereix intubació endotraqueal i ingrés a l'UCI.",
+   "question_numbers": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Pacient de 50 anys d'edat que arriba al servei d'urgències per accident de trànsit. A l'arribada a l'hospital el seu nivell de consciència és orientat. Presenta dificultat respiratòria, dispnea i dolor al pit, no presenta cianosi. A l'arribada a urgències passa a l'àrea de traumatologia es fa la valoració inicial i es transporta al servei de radiologia per comprovar si hi ha alguna fractura. Situació actual:\n\nPacient diagnosticada de fractura de 3 costelles i contusió pulmonar. Traumatisme toràcic amb volet costal.\n\nAquesta situació comporta una gasometria arterial:\n\nPO2 4; PCO2 80; pH 7,24; HCO3 35; Saturació. 78%, compatible amb insuficiència respiratòria que requereix intubació endotraqueal i ingrés a l'UCI."
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "title": "CAS CLÍNIC 2",
+   "text": "Home de 56 anys d'edat, fumador de dos paquets de cigarrets al dia hipertens no controlat, dislipèmia controlada amb dieta i hipercolesterolèmia també controlada amb dieta. Des de fa tres mesos refereix dolor retroesternal irradiat a braç esquerre, que s'origina a grans esforços. Aquesta matinada, episodi de dolor retroesternal, en repòs, acompanyat de sudoració profusa, vòmits i mareig. Després de 20 minuts amb aquesta simptomatologia, decideix anar al centre de salut on és rebut per un metge que li realitza un electrocardiograma, que evidencia isquèmia anterior miocàrdica. Se li administra nitroglicerina sublingual i se'l trasllada cap al servei d'urgències de l'hospital.",
+   "question_numbers": [
+    20,
+    21,
+    22,
+    23,
+    24
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Home de 56 anys d'edat, fumador de dos paquets de cigarrets al dia hipertens no controlat, dislipèmia controlada amb dieta i hipercolesterolèmia també controlada amb dieta. Des de fa tres mesos refereix dolor retroesternal irradiat a braç esquerre, que s'origina a grans esforços. Aquesta matinada, episodi de dolor retroesternal, en repòs, acompanyat de sudoració profusa, vòmits i mareig. Després de 20 minuts amb aquesta simptomatologia, decideix anar al centre de salut on és rebut per un metge que li realitza un electrocardiograma, que evidencia isquèmia anterior miocàrdica. Se li administra nitroglicerina sublingual i se'l trasllada cap al servei d'urgències de l'hospital."
+    }
+   ]
+  },
+  {
+   "id": "C3",
+   "title": "CAS CLÍNIC 3",
+   "text": "L' Albert té 8 anys i avui la seva mare l'ha dut al pediatre. Fa diverses setmanes que no es troba bé, presenta anorèxia, enuresi nocturna, astènia i poliúria. Avui a l'hora de llevar-se, s'ha queixat de mal de panxa.\n\nL' Albert presenta un quadre de cetosi amb hiperglucèmia, acidosi metabòlica, cetonèmia i cetonúria amb una pèrdua de pes de tres quilograms.\n\nLa mare li ha explicat que han d'anar a l'hospital , l' Albert té molta por, li han dit que el punxaran i no li agraden gens les injeccions a més juga futbol amb l'equip del seu barri i pensa que ja no hi podrà jugar més.",
+   "question_numbers": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "L' Albert té 8 anys i avui la seva mare l'ha dut al pediatre. Fa diverses setmanes que no es troba bé, presenta anorèxia, enuresi nocturna, astènia i poliúria. Avui a l'hora de llevar-se, s'ha queixat de mal de panxa.\n\nL' Albert presenta un quadre de cetosi amb hiperglucèmia, acidosi metabòlica, cetonèmia i cetonúria amb una pèrdua de pes de tres quilograms.\n\nLa mare li ha explicat que han d'anar a l'hospital , l' Albert té molta por, li han dit que el punxaran i no li agraden gens les injeccions a més juga futbol amb l'equip del seu barri i pensa que ja no hi podrà jugar més."
+    }
+   ]
+  },
+  {
+   "id": "C4",
+   "title": "CAS CLÍNIC 4",
+   "text": "El senyor Miquel és un home de 67 anys, amb antecedents d'hipertensió arterial, fumador d'un paquet de cigarrets al dia, amb antecedents d'arítmia cardíaca per desfibril·lació auricular i amb hepatopatia crònica per virus C. Tractat amb simtrom.\n\nL'altre dia , al mig del carrer, va presentar pèrdua brusca de força en hemicòs esquerre que li impideix continuar amb el seu passeig habitual.\n\nUn vianant avisa el servei d'emergències. L'ambulància arriba al lloc dels fets 20 minuts després de ser avisada.\n\nL'exploració urgent objectiva una TA de 224/1oo mmHg, FC 108 pulsacions x'. El senyor Miquel es troba conscient, disàrtric, amb paràlisi facial esquerra, plègia en extremitat superior esquerra i parèsia en membre inferior esquerre. Es trasllada al servei d'urgències després d'activar el Codi ICTUS.",
+   "question_numbers": [
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "El senyor Miquel és un home de 67 anys, amb antecedents d'hipertensió arterial, fumador d'un paquet de cigarrets al dia, amb antecedents d'arítmia cardíaca per desfibril·lació auricular i amb hepatopatia crònica per virus C. Tractat amb simtrom.\n\nL'altre dia , al mig del carrer, va presentar pèrdua brusca de força en hemicòs esquerre que li impideix continuar amb el seu passeig habitual.\n\nUn vianant avisa el servei d'emergències. L'ambulància arriba al lloc dels fets 20 minuts després de ser avisada.\n\nL'exploració urgent objectiva una TA de 224/1oo mmHg, FC 108 pulsacions x'. El senyor Miquel es troba conscient, disàrtric, amb paràlisi facial esquerra, plègia en extremitat superior esquerra i parèsia en membre inferior esquerre. Es trasllada al servei d'urgències després d'activar el Codi ICTUS."
+    }
+   ]
+  }
+ ]
+}

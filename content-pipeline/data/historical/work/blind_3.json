@@ -1,0 +1,1733 @@
+[
+{
+"id": "ics-hist-253-23",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-253-24",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-253-25",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-26",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-27",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-28",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-29",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-253-31",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-253-32",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-253-33",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-34",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-36",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-37",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-38",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-39",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-253-40",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-41",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-43",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-44",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-45",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-46",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-48",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-253-49",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-50",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-51",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-52",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-53",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-253-54",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-55",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-253-56",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-253-59",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-61",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-253-62",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-63",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-66",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-67",
+"answer": [
+"d"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-253-68",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-69",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-253-70",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-71",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-72",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-83",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-253-85",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-1",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-254-2",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-254-3",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-254-4",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-5",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-6",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-7",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-8",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-9",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-10",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-11",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-12",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-254-13",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-14",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-15",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-16",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-254-17",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-18",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-19",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-20",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-21",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-22",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-254-26",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-27",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-28",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-29",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-30",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-254-31",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-32",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-55",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-56",
+"answer": [
+"a",
+"b",
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-57",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-254-58",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-1",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-2",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-3",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-6",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-7",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-255-8",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-9",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-10",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-13",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-14",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-16",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-17",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-18",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-255-38",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-39",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-255-44",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-1",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-2",
+"answer": [
+"e"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-3",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-4",
+"answer": [
+"e"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-5",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-6",
+"answer": [
+"e"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-7",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-8",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-9",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-10",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-11",
+"answer": [
+"e"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-12",
+"answer": [
+"e"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-13",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-14",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-15",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-16",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-17",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-18",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-19",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-20",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-21",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-22",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-23",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-24",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-26",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-27",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-28",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-29",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-30",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-31",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-32",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-33",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-34",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-35",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-36",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-37",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-38",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-39",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-40",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-41",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-42",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-43",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-44",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-45",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-46",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-47",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-48",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-49",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-50",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-51",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-52",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-54",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-55",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-56",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-57",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-58",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-59",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-60",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-61",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-62",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-63",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-64",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-65",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-66",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-67",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-68",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-69",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-70",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-71",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-72",
+"answer": [
+"d"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-73",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-74",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-75",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-76",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-77",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-78",
+"answer": [
+"d"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-79",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-80",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-81",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-82",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-83",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-84",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-85",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-86",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-87",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-88",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-89",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-90",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-91",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-92",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-93",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-95",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-96",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-97",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-98",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-99",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-100",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-101",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-102",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-103",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-104",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-105",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-106",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-107",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-109",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-120",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-128",
+"answer": [
+"b"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-130",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-134",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-256-135",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-256-136",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-256-141",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-1",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-2",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-3",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-4",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-9",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-10",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-11",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-12",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-13",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-14",
+"answer": [
+"d"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-257-15",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-16",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-17",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-18",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-19",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-20",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-21",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-22",
+"answer": [
+"b"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-257-23",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-24",
+"answer": [
+"a"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-257-25",
+"answer": [
+"d"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-257-26",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-27",
+"answer": [
+"c"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-257-28",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-29",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-30",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-31",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-32",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-257-33",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-34",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-35",
+"answer": [
+"a"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-36",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-37",
+"answer": [
+"c"
+],
+"confidence": "low"
+},
+{
+"id": "ics-hist-257-38",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-257-40",
+"answer": [
+"d"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-258-1",
+"answer": [
+"d"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-258-2",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-258-3",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-258-4",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-258-19",
+"answer": [
+"c"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-258-20",
+"answer": [
+"a"
+],
+"confidence": "medium"
+},
+{
+"id": "ics-hist-258-21",
+"answer": [
+"b"
+],
+"confidence": "high"
+},
+{
+"id": "ics-hist-258-22",
+"answer": [
+"b"
+],
+"confidence": "high"
+}
+]

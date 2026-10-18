@@ -1,0 +1,32 @@
+{
+ "epigraf": "E3.7",
+ "body_md": "## En una frase\nSalut sexual i reproductiva: anticoncepció, infeccions de transmissió sexual (ITS), candidiasi vaginal i balanitis, climateri i cribratge dels càncers ginecològics i de pròstata.\n\n## Conceptes clau\n- **Anticoncepció**: mètodes de barrera (preservatiu, l'únic que prevé també les ITS), hormonals combinats (píndola, anell, pegat) o només amb gestàgens, **LARC** (DIU de coure o hormonal, implant subdèrmic), esterilització (lligadura de trompes, vasectomia) i mètodes naturals. **Anticoncepció d'emergència**: levonorgestrel 1,5 mg fins a 72 h, ulipristal 30 mg fins a 120 h i DIU de coure fins a 5 dies.\n- **ITS**: sífilis (*Treponema pallidum*; xancre indolor), gonocòccia, infecció per clamídia, tricomoniasi, herpes genital, **VPH** i VIH. El VPH es transmet per contacte directe pell amb pell, durant relacions sexuals amb penetració o sense, i és la causa principal del càncer de coll d'úter; hi ha vacuna.\n- **Candidiasi vaginal**: infecció per *Candida*; factors de risc: antibiòtics (com l'amoxicil·lina-clavulànic), diabetis, embaràs. Clínica: cremor o prurit vulvar, **augment del flux vaginal blanquinós o groguenc**, grumollós, sense mala olor.\n- **Vaginosi bacteriana**: flux grisós amb olor de peix (pH > 4,5). **Balanitis**: inflamació del gland, freqüent en infants petits; la **higiene incorrecta** (per defecte o per excés) n'és una causa habitual.\n- **Climateri i menopausa**: la menopausa és l'amenorrea de 12 mesos (edat mitjana ≈ 51 anys); símptomes vasomotors, sequedat vaginal, alteracions de l'humor i risc d'osteoporosi i cardiovascular.\n\n## Valors, escales i classificacions\n- **Cribratge de càncer de coll d'úter (Catalunya):** citologia cada 3 anys a les dones de 25–29 anys; prova de VPH cada 5 anys de 30 a 65 anys.\n- **Cribratge de càncer de mama:** mamografia cada 2 anys entre els 50 i 69 anys.\n- **Càncer de pròstata:** no hi ha cribratge poblacional; el PSA s'ofereix amb decisió compartida.\n- **Vacuna enfront del VPH:** s'administra en el calendari sistemàtic als 12 anys, amb 2 dosis.\n- **Eficàcia anticonceptiva (índex de Pearl):** implant i DIU < 1; píndola combinada 0,3 (ús perfecte) i fins a 9 (ús habitual); preservatiu masculí 2 (perfecte) i 13–18 (habitual).\n- **Candidiasi:** tractament amb antifúngics tòpics (clotrimazol) o orals (fluconazol); **vaginosi:** metronidazol; **sífilis:** penicil·lina G benzatina.\n\n## Actuació infermera\n**Valoració:** història sexual sense judicis, símptomes, pràctiques de risc, antecedents, vacunació, ús d'anticonceptius.\n\n**Diagnòstics (NANDA):** Conductes sexuals de risc; Coneixements deficients; Disfunció sexual; Risc d'infecció; Maneig ineficaç de la salut.\n\n**Intervencions:** consell anticonceptiu, **doble protecció** (preservatiu + un altre mètode), informar sobre l'anticoncepció d'emergència; detecció i derivació d'ITS, estudi i tractament de contactes; educació sobre higiene genital (no dutxes vaginals, roba de cotó); en la balanitis infantil, higiene suau amb aigua i cura de la zona, sense retracció forçada del prepuci; promoure vacunació enfront del VPH i prevenció amb preservatiu; informar del cribratge poblacional.\n\n**Educació:** ús correcte del preservatiu, signes d'alarma d'ITS, adherència anticonceptiva i els efectes adversos de la píndola (trombosi, tabac), símptomes del climateri i mesures (hidratants vaginals, exercici, calci i vitamina D).\n\n**Avaluació:** ús correcte del mètode, ITS tractades i parelles notificades, cribratges al dia.\n\n## Què pregunten als exàmens\n- Signes de candidiasi vaginal després d'antibiòtic: augment de flux blanquinós o groguenc (2015).\n- Prevenció de la balanitis infantil: higiene incorrecta (2015).\n- Sífilis i *Treponema pallidum* (2024); transmissió del VPH (2024).\n\n## Trampes freqüents\n- El preservatiu és l'únic mètode que alhora prevé l'embaràs i les ITS.\n- El VPH no requereix penetració per transmetre's.\n- La candidiasi no té olor «de peix» (és la vaginosi bacteriana).\n- El cribratge de pròstata no és poblacional.\n\n## Normativa i guies de referència\n- Programa de cribratge de càncer de coll d'úter i de mama de Catalunya.\n- Guia d'anticoncepció de la Societat Espanyola de Contracepció; criteris d'elegibilitat de l'OMS.\n- Calendari de vacunacions de Catalunya (VPH).",
+ "key_points": [
+  "El preservatiu és l'únic mètode que prevé alhora l'embaràs i les ITS.",
+  "El VPH es transmet per contacte pell amb pell, amb o sense penetració; s'administra vacuna als 12 anys.",
+  "La candidiasi vaginal després d'antibiòtics cursa amb prurit i flux blanquinós grumollós.",
+  "La sífilis és causada per Treponema pallidum i es tracta amb penicil·lina benzatina.",
+  "La higiene incorrecta és causa freqüent de balanitis infantil.",
+  "Anticoncepció d'emergència: levonorgestrel fins a 72 h, ulipristal fins a 120 h, DIU de coure fins a 5 dies.",
+  "Menopausa: 12 mesos d'amenorrea; risc d'osteoporosi i cardiovascular."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "Programa de cribratge de càncer de coll d'úter de Catalunya"
+  },
+  {
+   "kind": "ref",
+   "label": "Criteris d'elegibilitat de mètodes anticonceptius (OMS)"
+  },
+  {
+   "kind": "ref",
+   "label": "Calendari de vacunacions de Catalunya"
+  }
+ ],
+ "review_flags": [
+  "Pauta de cribado de cáncer de cuello uterino en Cataluña (25-29 citología/3 años; 30-65 VPH/5 años) y vacuna VPH en ambos sexos: confirmar calendario 2026.",
+  "Edad del cribado de mama (50-69 años) puede ampliarse (45-74) según recomendación europea.",
+  "Ventanas de la anticoncepción de emergencia según ficha técnica actual."
+ ]
+}

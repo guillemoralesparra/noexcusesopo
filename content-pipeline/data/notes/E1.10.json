@@ -1,0 +1,31 @@
+{
+ "epigraf": "E1.10",
+ "body_md": "## En una frase\nEls sistemes d'informació sanitaris (història clínica electrònica, HC3, recepta electrònica, telemedicina) permeten compartir dades clíniques de manera segura; la infermera ha de registrar amb qualitat i protegir la confidencialitat.\n\n## Conceptes clau\n- **Història clínica electrònica**: a l'atenció primària de l'ICS, **eCAP**; als hospitals, estacions clíniques pròpies de cada centre.\n- **HC3 (història clínica compartida de Catalunya)**: integra la informació clínica rellevant de tots els centres del sistema sanitari públic, accessible només a professionals que atenen la persona i amb finalitat assistencial.\n- **La Meva Salut**: carpeta personal de salut del ciutadà (accés a informes, cites, vacunes, medicació).\n- **Recepta electrònica**: prescripció i dispensació connectades entre professionals i farmàcies.\n- **Telemedicina i teleassistència**: consulta no presencial, e-consulta, telemonitoratge.\n- **Interoperabilitat**: intercanvi de dades entre sistemes amb estàndards (HL7, FHIR, SNOMED CT, CIM-10).\n- **Seguretat i protecció de dades**: accés per motiu assistencial, traçabilitat dels accessos, secret professional; les dades de salut són una **categoria especial** (RGPD art. 9).\n\n## Valors, escales i classificacions\n\n| Principi RGPD | Contingut |\n|---|---|\n| Licitud, lleialtat i transparència | Base jurídica i informació |\n| Limitació de finalitat | Només per a la finalitat prevista |\n| Minimització | Només les dades necessàries |\n| Exactitud | Dades correctes i actualitzades |\n| Limitació del termini de conservació | No més del necessari |\n| Integritat i confidencialitat | Mesures de seguretat |\n\nLa LO 3/2018 i la Llei 41/2002 (art. 14-19) regulen la història clínica i el dret d'accés; la conservació mínima de documentació clínica és de **cinc anys** des de l'alta (Llei 41/2002, art. 17, amb normatives autonòmiques més amplies).\n\n## Actuació infermera\n- Registrar la valoració, el pla de cures i les activitats de manera clara, completa i en el moment oportú.\n- Accedir només a les històries de les persones que s'atenen; no compartir credencials.\n- Informar la persona sobre l'ús de dades i sobre els seus drets (accés, rectificació, supressió, limitació, oposició).\n- Notificar incidents de seguretat i bretxes.\n- Utilitzar la telemedicina garantint identificació, intimitat i consentiment.\n\n## Què pregunten als exàmens\nNo ha aparegut de manera específica als exàmens oficials 2015-2024 d'aquest epígraf. Més probables: finalitat i accés a la HC3, drets d'accés a la història clínica, secret professional i protecció de dades.\n\n## Trampes freqüents\n- Pensar que la HC3 és accessible a tots els professionals sense relació assistencial.\n- Confondre eCAP (atenció primària) amb HC3 (xarxa pública de Catalunya).\n- Pensar que el consentiment sempre és imprescindible per tractar dades de salut en l'assistència: la base és l'assistència sanitària, però cal informar.\n- Compartir imatges o dades de pacients per canals no autoritzats.\n\n## Normativa i guies de referència\n- Reglament (UE) 2016/679 (RGPD), art. 5, 9 i 12-22.\n- LO 3/2018, de protecció de dades personals i garantia dels drets digitals.\n- Llei 41/2002, art. 14-19 (història clínica).",
+ "key_points": [
+  "L'eCAP és la història clínica de l'atenció primària de l'ICS i la HC3 integra la informació de tota la xarxa pública.",
+  "La HC3 només s'hi accedeix per finalitat assistencial i per professionals que atenen la persona.",
+  "Les dades de salut són una categoria especial de dades protegida pel RGPD.",
+  "La persona té dret d'accés, rectificació, supressió, limitació i oposició sobre les seves dades.",
+  "La infermera ha de registrar de manera clara i completa i mantenir el secret professional."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "RGPD, art. 5 i 9",
+   "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32016R0679"
+  },
+  {
+   "kind": "norma",
+   "label": "LO 3/2018 (LOPDGDD)",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 41/2002, art. 14-19",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188"
+  }
+ ],
+ "review_flags": [
+  "Termini de conservació de la història clínica: Catalunya té normativa pròpia sobre conservació; verificar el termini vigent."
+ ]
+}

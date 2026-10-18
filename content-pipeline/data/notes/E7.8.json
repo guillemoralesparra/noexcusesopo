@@ -1,0 +1,21 @@
+{
+ "epigraf": "E7.8",
+ "body_md": "## En una frase\nLa seguretat quirúrgica es basa en la llista de verificació de l'OMS, la profilaxi de la infecció de la ferida i la prevenció d'errors de lloc, pacient i procediment i de retenció d'objectes.\n\n## Conceptes clau\n- **Llista de verificació quirúrgica de l'OMS** («La cirurgia segura salva vides», 2008), en tres fases:\n  - **Entrada** (*sign in*, abans de la inducció anestèsica): identitat, lloc i procediment, consentiment, marcatge del lloc, pulsioxímetre, al·lèrgies, via aèria difícil, risc d'hemorràgia.\n  - **Pausa quirúrgica** (*time out*, abans de la incisió): presentació de l'equip, confirmació de pacient, procediment i lloc, **profilaxi antibiòtica** administrada, imatges disponibles, esdeveniments crítics previstos.\n  - **Sortida** (*sign out*, abans de sortir del quiròfan): **recompte** d'instrumental, gases i agulles, **etiquetatge de les mostres**, problemes de l'equip, plans postoperatoris.\n- Esdeveniments «mai»: cirurgia en lloc equivocat o pacient equivocat, **objecte oblidat**.\n\n## Valors, escales i classificacions\n| Mesura | Pauta |\n|---|---|\n| Profilaxi antibiòtica | Dins dels 60 min abans de la incisió (120 min vancomicina); redosificar en cirurgies llargues |\n| Eliminació de pèl | Només si és necessari, amb clipper (no a l'afaitat) |\n| Antisèpsia | Clorhexidina alcohòlica |\n| Dejuni | 6 h sòlids, 2 h líquids clars (ERAS) |\n| Normotèrmia, glucèmia < 180 mg/dL, oxigenació | Mesures per a la infecció quirúrgica |\n\n## Actuació infermera\n- **Prequirúrgic**: consentiment informat, dejuni, higiene, retirada de pròtesis i joies, marcatge, informació; **diagnòstic**: *Risc d'infecció*, *Ansietat*, *Risc de lesió perioperatòria*.\n- **Intraoperatori**: verificació, posicionament segur (protegir pell i nervis), recompte, assèpsia.\n- **Postoperatori**: vigilància, dolor, vies aèries, ferida, mobilització precoç.\n- **Educació**: pre i postoperatòria i alta.\n\n## Què pregunten als exàmens\nNo s'ha preguntat en 2015-2024. Probable: fases de la llista de verificació, moment de la profilaxi antibiòtica i recompte.\n\n## Trampes freqüents\n- Afaitar en lloc de tallar amb clipper.\n- Administrar la profilaxi antibiòtica després de la incisió.\n- Fer el recompte només al final sense registrar-lo.\n\n## Normativa i guies de referència\n- OMS, Surgical Safety Checklist (2009).\n- Estratègia de Seguretat del Pacient del SNS i protocols de cirurgia segura de l'ICS.\n",
+ "key_points": [
+  "La llista de verificació de l'OMS té tres fases: entrada, pausa quirúrgica i sortida.",
+  "La profilaxi antibiòtica s'administra en els 60 min previs a la incisió.",
+  "El pèl només es retira si cal i amb clipper, no amb màquina d'afaitar.",
+  "El recompte d'instruments, gases i agulles es fa abans de sortir del quiròfan.",
+  "S'han de confirmar identitat, lloc i procediment abans de la incisió.",
+  "Les mostres s'etiqueten en la fase de sortida."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "OMS, Surgical Safety Checklist (2009)"
+  }
+ ],
+ "review_flags": [
+  "No hay preguntas oficiales; verificar protocolo actual de cirugía segura del ICS."
+ ]
+}

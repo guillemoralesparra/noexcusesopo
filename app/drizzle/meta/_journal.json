@@ -22,6 +22,27 @@
       "when": 1792194154493,
       "tag": "0002_living_nightshade",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792242723959,
+      "tag": "0003_broad_groot",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1792242934351,
+      "tag": "0004_sloppy_shen",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1792311642083,
+      "tag": "0005_good_captain_cross",
+      "breakpoints": true
     }
   ]
 }

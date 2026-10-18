@@ -1,0 +1,20 @@
+{
+ "epigraf": "E2.10",
+ "body_md": "## En una frase\nLa valoració de la salut familiar analitza l'estructura, el cicle vital, la funció i els recursos de la família amb eines com el **genograma, l'ecomapa i el test d'APGAR familiar**.\n\n## Conceptes clau\n- **Família**: sistema obert d'individus units per vincles afectius, legals o de cura. Funcions: afectiva, socialitzadora, de cura, reproductiva, econòmica.\n- **Tipologies**: nuclear, monoparental, extensa, reconstituïda, homoparental, unipersonal.\n- **Cicle vital familiar** (Duvall, Estrada): formació de la parella, expansió (fills petits), consolidació (fills adolescents), obertura (fills marxen), contracció (niu buit) i dissolució.\n- **Crisis normatives** (canvis esperats del cicle) i **no normatives** (pèrdues, malaltia greu, desocupació, divorci).\n- **Família funcional** vs. **disfuncional**: la funcional s'adapta, comunica clarament, manté límits i resol conflictes; la disfuncional és rígida o caòtica, amb comunicació pobra.\n- **Test d'APGAR familiar** (Smilkstein): mesura la **percepció de funcionament familiar** en 5 àrees: **Adaptació, Participació (companyonia), Gradient de creixement, Afecte i Resolució** (AP-GAR); **\"Coneixement\" no n'és una àrea** (2015). És l'escala per valorar la funció familiar (2019).\n- **Genograma**: representació gràfica de l'estructura familiar a tres generacions, amb patrons de malaltia i relacions. **Ecomapa**: relacions de la família amb l'entorn i recursos.\n- **Cuidador principal** i **sobrecàrrega**: Zarit.\n- **Teories**: sistèmica, estructural (Minuchin), vincular.\n\n## Valors, escales i classificacions\n\n| Puntuació APGAR familiar (0-10) | Interpretació |\n|---|---|\n| 7-10 | Família normofuncional |\n| 4-6 | Disfunció moderada |\n| 0-3 | Disfunció greu |\n\nCada ítem puntua 0 (mai), 1 (a vegades) o 2 (sempre).\n\n| Eina | Utilitat |\n|---|---|\n| Genograma | Estructura i antecedents |\n| Ecomapa | Suport i recursos externs |\n| APGAR familiar | Funció familiar percebuda |\n| Escala de Gijón | Risc sociofamiliar en gent gran |\n| Zarit | Sobrecàrrega del cuidador |\n| Cercle familiar / FACES III | Cohesió i adaptabilitat |\n\n## Actuació infermera\n- **Valoració**: estructura, fase del cicle, rols, suport, recursos, crisis; entrevista familiar.\n- **Diagnòstic**: *afrontament familiar compromès/incapacitant*, *processos familiars disfuncionals*, *risc d'afrontament familiar ineficaç*, *cansament del rol del cuidador*, *disposició per millorar els processos familiars*.\n- **Intervencions**: suport emocional, enfortiment dels recursos, entrevista familiar, derivació a treball social, grups de cuidadors.\n- **Educació**: pautes de comunicació i de cures.\n- **Avaluació**: millora de la funció i de la sobrecàrrega.\n\n## Què pregunten als exàmens\n- Àrees de l'APGAR familiar; \"coneixement\" no n'és una (2015).\n- Escala per valorar la funció familiar: APGAR familiar (2019).\n\n## Trampes freqüents\n- Confondre l'APGAR familiar amb l'**APGAR neonatal**.\n- Pensar que una família monoparental és disfuncional per definició.\n- Confondre genograma (estructura) amb ecomapa (entorn).\n- Inventar una àrea com \"Coneixement\" per a l'APGAR.\n\n## Normativa i guies de referència\n- Smilkstein G. (1978), Family APGAR; adaptació espanyola de Bellón i col. (1996).\n- Programa d'atenció a la família del PAPPS i atenció primària.",
+ "key_points": [
+  "L'APGAR familiar valora Adaptació, Participació, Gradient de creixement, Afecte i Resolució.",
+  "\"Coneixement\" no és cap àrea de l'APGAR familiar.",
+  "L'APGAR familiar és l'escala per valorar la funció familiar percebuda.",
+  "El genograma representa l'estructura familiar i l'ecomapa les relacions amb l'entorn.",
+  "El cicle vital familiar inclou etapes normatives de transició; les crisis no normatives són imprevistes."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "Smilkstein G. The Family APGAR (J Fam Pract, 1978); validació de Bellón JA et al. (1996)"
+  }
+ ],
+ "review_flags": [
+  "Les puntuacions de tall de l'APGAR familiar poden variar segons la versió; verificar-les."
+ ]
+}

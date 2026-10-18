@@ -1,0 +1,87 @@
+{
+ "exam_id": "ics-dui-htarragona-2008",
+ "title": "Examen — Model: A — Convocatòria: dui-tato08 — Categoria: DUI/ATS — Data i lloc: 09/05/2009 – Tarragona / Tortosa",
+ "date": "2009-05-09",
+ "instructions": "",
+ "format": {
+  "penalty": null,
+  "time_min": null,
+  "note": "Examen oficial ICS (convocatòria H.Tarragona-H.Tortosa-DUI/ATS-2008, DOGC núm. 5244, de 27 d'octubre de 2008; Hospital Universitari de Tarragona Joan XXIII i Hospital Verge de la Cinta de Tortosa). Primer exercici, model A, 9 de maig de 2009. Clau: plantilla test oficial publicada per diligència del tribunal de 12 de maig de 2009 (la plantilla porta impresa la data 11.05.2008, probablement errata per 11.05.2009)."
+ },
+ "cases": [
+  {
+   "id": "C1",
+   "title": "SUPOSIT PRÀCTIC NÚM. 1",
+   "text": "Home de 75 anys, fumador actiu d'un paquet/dia durant 45 anys, amb tos i expectoració habituals. Ingressa per increment de la tos amb expectoració purulenta, dispnea de petit esforç i febre.",
+   "question_numbers": [
+    59,
+    60
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Home de 75 anys, fumador actiu d'un paquet/dia durant 45 anys, amb tos i expectoració habituals. Ingressa per increment de la tos amb expectoració purulenta, dispnea de petit esforç i febre."
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "title": "SUPÒSIT PRÀCTIC NUM. 2",
+   "text": "El senyor Joan Anglès, de 76 anys, ha treballat tota la vida com a fotògraf en un estudi propi, actualment està jubilat. Casat, viu amb la seva dona.\nAntecedents familiars:\nPare i mare hipertensos. Mare diabètica tipus 2. Sense altres antecedents d'interès.\n\nAntecedents personals de salut:\nMPOC que requereix tractament broncodilatador habitual i corticoides inhalats. Hipertensió tractada amb dieta. Diabetis tipus 2 en tractament amb hipoglucemiants orals i dieta.\n\nProblema de salut actual:\nVa anar a urgències ara fa dos dies per augment de la dispnea habitual, febre alta i esput viscós i purulent. Ingressat des d'ahir a la planta de medicina interna amb diagnòstic d'exacerbació de MPOC.\n\nValoració de les necessitats:\nHàbits i estil de vida:\nFumador d'un paquet i mig diari des dels 15 anys fins els 60 anys, en què ho va deixar.\nTos habitual i expectoració matutina d'esput viscós i groc. Dispnea habitual a esforços moderats.\nRefereix seguir dieta antidiabètica, tot i que –segons diu– de vegades es passa una mica perquè li agrada molt el dolç. No segueix dieta hiposòdica, diu que el menjar sense sal \"no val res\". Beu entre ½ i ¾ de litre d'aigua al dia. No beu vi ni cervesa habitualment. Pren de 2 a 3 tasses de cafè al dia. S'hi posa sucre.\nAbans anava algun dia a buscar el seu nét a l'escola, ara diu que no pot fer-ho perquè es cansa. Si es troba bé, surt cada dia a comprar el diari i si fa bo aprofita per seure en un banc que hi ha a la cantonada de casa i xerrar amb altres jubilats del veïnat.\nDiu que va bé de ventre (1 deposició diària de consistència normal). Refereix orinar poc durant el dia, i de nit diu que s'ha d'aixecar a orinar com a mínim de dues a tres vegades. Al final del dia se li inflen els turmells.\nDorm entre 5 i 6 hores de nit i fa becaines durant el dia. Ha de dormir amb dos coixins.\nViu en un 5è pis amb ascensor. Disposa de dutxa i banyera amb aigua calenta.\nCada any es vacuna de la grip. Sense al·lèrgies conegudes.\n\nTractament i cures prescrites:\nNebulitzacions amb salbutamol i bromur d'ipratropi c/ 6 hores\nControl de constants c/ 6h. Glicèmies a l'esmorzar, dinar, sopar i a les 0h. + pauta d'insulina ràpida\nSedestació matí i tarda. Deambulació segons tolerància.\nFurosemida 40 mg v.o. c/ 24 h.\nDieta tova antidiabètica i cardioprotectora\nGasometria diària a les 6h del matí\nAmoxicil·lina clavulànic 1g e.v. c/ 8h\nMascareta d'oxigen tipus \"Ventury\" al 24 %\nParacetamol 1 g e.v. c/ 8h si febre o dolor\nMetilprednisolona 40 mg ev c/ 8h\n\nValoració a l'ingrés a planta:\nTA: 170/100, FC: 107 bpm (irregular), T: 37.7 º C, FR: 28 rpm, SAO2 90%\nEndormiscat, es desperta fàcilment si se l'estimula. Obeeix ordres i respon amb coherència a les preguntes que se li fan.\nFàcies rubicunda. Llengua i pell seques.\nDiu que no té gana i que no li agrada el menjar de l'hospital. Pes 90 kgs. Alçada: 162 c. Perímetre abdominal: 112 cm.\nRespiracions superficials, lliure de signes de destret respiratori. Si es manté assegut, refereix estar lliure de dispnea. Ajagut, refereix ofec. Tos que mobilitza secrecions sense que les arribi a expulsar. Expectoració ocasional d'esput espès i purulent. Diu sentir-se cansat i refereix dolor a gàbia costal esquerra que ell relaciona amb l'esforç de tossir.\nPendent de fer deposició des de l'ingrés. Abdomen tou. Micció espontània, orina d'aspecte concentrat. Diüresi 900 ml. dia.\nPortador de via perifèrica en dors de mà esquerra amb catèter de n. 18. Permeable.\nPell íntegra. Aspecte net i endreçat. Sensibilitat i mobilitat conservada a les 4 extremitats. Pot mobilitzar-se tot sol al llit.\nEdema amb fòvea als dos mal·lèols.",
+   "question_numbers": [
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "El senyor Joan Anglès, de 76 anys, ha treballat tota la vida com a fotògraf en un estudi propi, actualment està jubilat. Casat, viu amb la seva dona.\nAntecedents familiars:\nPare i mare hipertensos. Mare diabètica tipus 2. Sense altres antecedents d'interès.\n\nAntecedents personals de salut:\nMPOC que requereix tractament broncodilatador habitual i corticoides inhalats. Hipertensió tractada amb dieta. Diabetis tipus 2 en tractament amb hipoglucemiants orals i dieta.\n\nProblema de salut actual:\nVa anar a urgències ara fa dos dies per augment de la dispnea habitual, febre alta i esput viscós i purulent. Ingressat des d'ahir a la planta de medicina interna amb diagnòstic d'exacerbació de MPOC.\n\nValoració de les necessitats:\nHàbits i estil de vida:\nFumador d'un paquet i mig diari des dels 15 anys fins els 60 anys, en què ho va deixar.\nTos habitual i expectoració matutina d'esput viscós i groc. Dispnea habitual a esforços moderats.\nRefereix seguir dieta antidiabètica, tot i que –segons diu– de vegades es passa una mica perquè li agrada molt el dolç. No segueix dieta hiposòdica, diu que el menjar sense sal \"no val res\". Beu entre ½ i ¾ de litre d'aigua al dia. No beu vi ni cervesa habitualment. Pren de 2 a 3 tasses de cafè al dia. S'hi posa sucre.\nAbans anava algun dia a buscar el seu nét a l'escola, ara diu que no pot fer-ho perquè es cansa. Si es troba bé, surt cada dia a comprar el diari i si fa bo aprofita per seure en un banc que hi ha a la cantonada de casa i xerrar amb altres jubilats del veïnat.\nDiu que va bé de ventre (1 deposició diària de consistència normal). Refereix orinar poc durant el dia, i de nit diu que s'ha d'aixecar a orinar com a mínim de dues a tres vegades. Al final del dia se li inflen els turmells.\nDorm entre 5 i 6 hores de nit i fa becaines durant el dia. Ha de dormir amb dos coixins.\nViu en un 5è pis amb ascensor. Disposa de dutxa i banyera amb aigua calenta.\nCada any es vacuna de la grip. Sense al·lèrgies conegudes.\n\nTractament i cures prescrites:\nNebulitzacions amb salbutamol i bromur d'ipratropi c/ 6 hores\nControl de constants c/ 6h. Glicèmies a l'esmorzar, dinar, sopar i a les 0h. + pauta d'insulina ràpida\nSedestació matí i tarda. Deambulació segons tolerància.\nFurosemida 40 mg v.o. c/ 24 h.\nDieta tova antidiabètica i cardioprotectora\nGasometria diària a les 6h del matí\nAmoxicil·lina clavulànic 1g e.v. c/ 8h\nMascareta d'oxigen tipus \"Ventury\" al 24 %\nParacetamol 1 g e.v. c/ 8h si febre o dolor\nMetilprednisolona 40 mg ev c/ 8h\n\nValoració a l'ingrés a planta:\nTA: 170/100, FC: 107 bpm (irregular), T: 37.7 º C, FR: 28 rpm, SAO2 90%\nEndormiscat, es desperta fàcilment si se l'estimula. Obeeix ordres i respon amb coherència a les preguntes que se li fan.\nFàcies rubicunda. Llengua i pell seques.\nDiu que no té gana i que no li agrada el menjar de l'hospital. Pes 90 kgs. Alçada: 162 c. Perímetre abdominal: 112 cm.\nRespiracions superficials, lliure de signes de destret respiratori. Si es manté assegut, refereix estar lliure de dispnea. Ajagut, refereix ofec. Tos que mobilitza secrecions sense que les arribi a expulsar. Expectoració ocasional d'esput espès i purulent. Diu sentir-se cansat i refereix dolor a gàbia costal esquerra que ell relaciona amb l'esforç de tossir.\nPendent de fer deposició des de l'ingrés. Abdomen tou. Micció espontània, orina d'aspecte concentrat. Diüresi 900 ml. dia.\nPortador de via perifèrica en dors de mà esquerra amb catèter de n. 18. Permeable.\nPell íntegra. Aspecte net i endreçat. Sensibilitat i mobilitat conservada a les 4 extremitats. Pot mobilitzar-se tot sol al llit.\nEdema amb fòvea als dos mal·lèols."
+    }
+   ]
+  },
+  {
+   "id": "C3",
+   "title": "SUPÒSIT PRÁCTIC NÚM. 3",
+   "text": "El Dani té quatre anys i sis mesos, i se li ha de fer per segona vegada una intervenció d'hipospàdies. És alegre i comunicatiu. És afectuós però força mogut. Li agrada pintar, anar en bicicleta i jugar amb el seu germà Joan, de 9 anys, malgrat que moltes vegades es barallen perquè en Dani li fa la guitza d'una manera o d'una altra. El Joan és tranquil. Quan és a casa, li agrada llegir i jugar amb l'ordinador.\n\nL'estat de salut del nen és bo, no presenta al·lèrgies conegudes i des que va néixer ha seguit els control mèdics i d'infermeria habituals. Pesa 20 Kg i fa 115 cm d'alçada.\n\nDe manera ambulatòria ha fet tot el preoperatori i els pares han rebut tota la informació necessària referent a la intervenció, l'anestèsia i l'estada a l'hospital.\nSegons ens informa la seva mare, el Dani està molt preocupat perquè pensa que quan l'ingressin a l'hospital, el deixaran \"sin pito\".\n\nLa nit anterior a la intervenció li va costar conciliar el son i es va despertar dues vegades plorant.\n\nIngressa el mateix dia de la intervenció, en dejú per ser operat el mateix matí.\n\nUna vegada explorat per l'anestesista es portat al quiròfan i després de la intervenció quirúrgica i de la permanència a la sala de reanimació, és portat de nou a la unitat, on arriba amb venoclisi de manteniment, sonda vesical, despert i tolerant líquids.",
+   "question_numbers": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "El Dani té quatre anys i sis mesos, i se li ha de fer per segona vegada una intervenció d'hipospàdies. És alegre i comunicatiu. És afectuós però força mogut. Li agrada pintar, anar en bicicleta i jugar amb el seu germà Joan, de 9 anys, malgrat que moltes vegades es barallen perquè en Dani li fa la guitza d'una manera o d'una altra. El Joan és tranquil. Quan és a casa, li agrada llegir i jugar amb l'ordinador.\n\nL'estat de salut del nen és bo, no presenta al·lèrgies conegudes i des que va néixer ha seguit els control mèdics i d'infermeria habituals. Pesa 20 Kg i fa 115 cm d'alçada.\n\nDe manera ambulatòria ha fet tot el preoperatori i els pares han rebut tota la informació necessària referent a la intervenció, l'anestèsia i l'estada a l'hospital.\nSegons ens informa la seva mare, el Dani està molt preocupat perquè pensa que quan l'ingressin a l'hospital, el deixaran \"sin pito\".\n\nLa nit anterior a la intervenció li va costar conciliar el son i es va despertar dues vegades plorant.\n\nIngressa el mateix dia de la intervenció, en dejú per ser operat el mateix matí.\n\nUna vegada explorat per l'anestesista es portat al quiròfan i després de la intervenció quirúrgica i de la permanència a la sala de reanimació, és portat de nou a la unitat, on arriba amb venoclisi de manteniment, sonda vesical, despert i tolerant líquids."
+    }
+   ]
+  },
+  {
+   "id": "C4",
+   "title": "SUPÒSIT PRÀCTIC NÚM. 4",
+   "text": "La Maria és un nadó de 38 setmanes de gestació que ha pesat en néixer 4Kg. Durant l'embaràs la seva mare, adolescent de 17 anys, ha tingut una diabetis gestacional mal controlada.",
+   "question_numbers": [
+    76,
+    77,
+    78,
+    79,
+    80
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "La Maria és un nadó de 38 setmanes de gestació que ha pesat en néixer 4Kg. Durant l'embaràs la seva mare, adolescent de 17 anys, ha tingut una diabetis gestacional mal controlada."
+    }
+   ]
+  }
+ ]
+}

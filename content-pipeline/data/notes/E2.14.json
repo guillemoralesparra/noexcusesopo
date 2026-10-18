@@ -1,0 +1,25 @@
+{
+ "epigraf": "E2.14",
+ "body_md": "## En una frase\nEls problemes de salut prevalents en la infància (bronquiolitis, faringoamigdalitis, otitis, febre, asma, gastroenteritis, càries) exigeixen reconèixer els signes d'alarma i aplicar mesures de suport basades en l'evidència.\n\n## Conceptes clau\n- **Bronquiolitis aguda**: infecció respiratòria viral en lactants <2 anys; **virus respiratori sincicial (VRS)** és el més freqüent (2024). Clínica: rinitis, tos, taquipnea, sibilàncies, crepitants, tiratge. Tractament de suport: **desobstrucció nasal amb sèrum fisiològic**, hidratació, **fraccionar els àpats (petites quantitats i més freqüents; recomanat)**, posició semiincorporada, oxigen si SpO2 <92%. **No es recomanen** broncodilatadors, corticoides, antibiòtics, ni fisioteràpia respiratòria rutinàries (2024). Prevenció: **nirsevimab** o vacuna materna VRS.\n- **Faringoamigdalitis estreptocòccica** (*S. pyogenes*): >3 anys, febre, odinofàgia, exsudat amb adenopaties cervicals dolorosos, petèquies al paladar, rash escarlatiniforme; **la tos i la coriza orienten a causa viral** i no s'associen a l'estreptocòccica (2024). Tractament: penicil·lina V o amoxicil·lina 10 dies; exclusió escolar fins a 24 h de tractament.\n- **Hipertensió intracranial (HIC) en lactants**: fontanel·la tensa o abombada, vòmits, irritabilitat, somnolència, plor agut, \"sol ponent\", diastasi de sutures; **la miosi fixa no n'és un signe** (2024).\n- **Febre en lactants**: ≥38 °C; lactants <3 mesos amb febre requereixen valoració urgent hospitalària. Antitèrmic: paracetamol 15 mg/kg/4-6 h o ibuprofè 10 mg/kg/6-8 h (≥3 mesos). No es recomana alternar-los ni usar mesures físiques de refredament.\n- **Otitis mitjana aguda**: otàlgia, febre; observació vigilada 48-72 h en molts casos.\n- **Gastroenteritis aguda**: rehidratació oral, reintroducció primerenca de l'alimentació.\n- **Asma infantil**: prevenció terciària evitant desencadenants (vegeu E2.2).\n- **Càries i salut bucodental**: vegeu E2.8.\n\n## Valors, escales i classificacions\n\n| Problema | Signe clau | Mesura infermera |\n|---|---|---|\n| Bronquiolitis | Taquipnea, sibilàncies en lactant | Sèrum, aspiració, àpats fraccionats |\n| Faringoamigdalitis estreptocòccica | Exsudat, adenopaties, sense tos | Test ràpid (antigen), penicil·lina 10 dies |\n| HIC lactant | Fontanel·la abombada, vòmits | Derivació urgent |\n| Febre <3 mesos | ≥38 °C | Urgències |\n\n| Edat | Freqüència respiratòria normal |\n|---|---|\n| <2 mesos | <60 rpm |\n| 2-12 mesos | <50 rpm |\n| 1-5 anys | <40 rpm |\n\n**Escala de Centor/McIsaac** per sospitar etiologia estreptocòccica (febre, absència de tos, adenopaties cervicals, exsudat amb o sense edat 3-14).\n\n## Actuació infermera\n- **Valoració**: constants, to, hidratació, esforç respiratori, signes d'alarma.\n- **Diagnòstic**: *patró respiratori ineficaç*, *risc de desequilibri de volum de líquids*, *hipertèrmia*, *dolor agut*, *manca de coneixement dels pares*.\n- **Intervencions**: neteja nasal, hidratació, antitèrmics segons pauta, aïllament de gotes, signes d'alarma per als pares (rebuig d'ingesta, dificultat respiratòria, letargia, cianosi).\n- **Educació**: higiene de mans, evitar el fum del tabac, cartilla vacunal.\n- **Avaluació**: millora respiratòria, ingesta i diüresi.\n\n## Què pregunten als exàmens\n- VRS com a causa de bronquiolitis i el que no es recomana en el tractament (2024).\n- Manifestacions que no s'associen a la faringoamigdalitis estreptocòccica: la tos (2024).\n- Signes d'HIC en lactants: la miosi no n'és (2024).\n\n## Trampes freqüents\n- Donar broncodilatadors o antibiòtics de rutina en bronquiolitis.\n- Pensar que \"espaiar els àpats\" és el que es recomana; es recomana fraccionar (àpats petits i freqüents).\n- Associar tos a l'amigdalitis estreptocòccica.\n- Subestimar la febre en <3 mesos.\n\n## Normativa i guies de referència\n- Guies de pràctica clínica de bronquiolitis (AEP, 2021) i Protocol d'activitats preventives en l'edat pediàtrica.\n- Calendari de vacunacions de Catalunya (nirsevimab/VRS).",
+ "key_points": [
+  "El virus respiratori sincicial és el principal causant de bronquiolitis en menors de 2 anys.",
+  "El tractament de la bronquiolitis és de suport: sèrum nasal, hidratació i àpats fraccionats; no s'indiquen broncodilatadors ni antibiòtics rutinaris.",
+  "La tos no s'associa a la faringoamigdalitis estreptocòccica, que es tracta amb penicil·lina 10 dies.",
+  "La miosi fixa no és un signe d'hipertensió intracranial en lactants; sí ho són la fontanel·la abombada i els vòmits.",
+  "Un lactant de menys de 3 mesos amb febre ≥38 °C requereix valoració urgent."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "AEP. Guia de pràctica clínica sobre bronquiolitis aguda (2021)"
+  },
+  {
+   "kind": "ref",
+   "label": "Protocol d'activitats preventives i de promoció de la salut en l'edat pediàtrica (Departament de Salut)"
+  }
+ ],
+ "review_flags": [
+  "Pautes de nirsevimab i de vacuna materna VRS canvien cada temporada; verificar.",
+  "Les dosis d'antitèrmics i els llindars de saturació s'han de comprovar a les guies vigents."
+ ]
+}

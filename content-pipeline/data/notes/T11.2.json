@@ -1,0 +1,38 @@
+{
+ "epigraf": "T11.2",
+ "body_md": "## En una frase\nL'administració electrònica permet relacionar-se amb les administracions per mitjans digitals mitjançant sistemes d'identificació i signatura electrònica reconeguts (certificat digital, Cl@ve, idCAT Mòbil) i la seu electrònica, on s'accedeix amb plena validesa jurídica als tràmits i serveis.\n\n## Conceptes clau\n- **Marc legal**: Llei 39/2015 (procediment administratiu comú) i Llei 40/2015 (règim jurídic del sector públic), Reglament eIDAS (UE 910/2014, modificat el 2024), Llei 6/2020 de serveis electrònics de confiança i, a Catalunya, la Llei 29/2010 d'ús dels mitjans electrònics al sector públic.\n- **Identificació electrònica**: acredita qui és la persona (certificat electrònic, Cl@ve, idCAT Mòbil, DNI electrònic). **Signatura electrònica**: expressa la voluntat i el consentiment; pot ser **simple**, **avançada** (identifica el signant i detecta alteracions posteriors) o **qualificada** (basada en un certificat qualificat i un dispositiu qualificat; té l'efecte equivalent a la signatura manuscrita).\n- **Certificat electrònic**: document que vincula unes dades de verificació de signatura amb una persona; l'emeten prestadors de serveis de confiança (a Catalunya, CATCert/Consorci AOC; a l'Estat, FNMT).\n- **Seu electrònica**: adreça electrònica a la qual té accés la ciutadania, titularitat d'una administració, amb responsabilitat sobre integritat, veracitat i actualització; hi ha seus electròniques corporatives i la **seu electrònica de la Generalitat**.\n- **Registre electrònic**: permet presentar documents les 24 hores del dia; la data i hora es regeixen per la seu electrònica.\n- **Notificació electrònica**: obligatòria per a determinats col·lectius (persones jurídiques, professionals de col·legiació obligatòria, empleats públics); es considera rebutjada als 10 dies naturals sense accedir-hi.\n- **Dret i obligació de relacionar-se electrònicament** (LPAC, art. 12-14): les persones físiques poden triar el mitjà; ho estan obligades les persones jurídiques, les entitats sense personalitat, els professionals que exigeixen col·legiació obligatòria (com les infermeres) i els empleats públics en els tràmits pel seu càrrec.\n\n## Valors, escales i classificacions\n| Tipus de signatura | Característica |\n|---|---|\n| Simple | Dades electròniques associades; menys garanties |\n| Avançada | Vincula el signant i detecta alteracions |\n| Qualificada | Certificat qualificat; equivalent a la manuscrita |\n\n## Actuació infermera\n- Utilitzar el certificat o l'idCAT per accedir al portal del professional i a la carpeta de salut («La Meva Salut»).\n- Mantenir el certificat vigent i protegit amb PIN; no compartir-lo.\n- Fer els tràmits col·legials i de convocatòries (inscripció, instàncies) per via electrònica.\n- Conèixer que la signatura electrònica qualificada té validesa jurídica de signatura manuscrita.\n\n## Què pregunten als exàmens\nNo ha aparegut als exàmens oficials 2015–2024. Probables: tipus de signatura, qui està obligat a relacionar-se electrònicament i què és la seu electrònica.\n\n## Trampes freqüents\n- Confondre identificació amb signatura: la primera acredita qui ets; la segona expressa voluntat.\n- Pensar que només la signatura manuscrita té validesa plena.\n- Creure que els professionals col·legiats poden triar el mitjà: estan obligats electrònic.\n\n## Normativa i guies de referència\n- Llei 39/2015, art. 9-14, 16, 41 i 43; Llei 40/2015, art. 38 (seu electrònica); Reglament (UE) 910/2014 (eIDAS); Llei 6/2020; Llei 29/2010 (Catalunya).\n",
+ "key_points": [
+  "La identificació acredita qui és la persona; la signatura electrònica expressa voluntat.",
+  "La signatura qualificada té l'efecte jurídic equivalent a la manuscrita.",
+  "La signatura avançada identifica el signant i detecta alteracions posteriors.",
+  "La seu electrònica és titularitat d'una administració i garanteix integritat, veracitat i actualització.",
+  "Els professionals de col·legiació obligatòria (com infermeria) estan obligats a relacionar-se electrònicament amb l'administració.",
+  "Una notificació electrònica es considera rebutjada als 10 dies naturals sense accedir-hi."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "Llei 39/2015, de procediment administratiu comú"
+  },
+  {
+   "kind": "ref",
+   "label": "Llei 40/2015, art. 38"
+  },
+  {
+   "kind": "ref",
+   "label": "Reglament (UE) 910/2014 (eIDAS)"
+  },
+  {
+   "kind": "ref",
+   "label": "Llei 6/2020, de serveis electrònics de confiança"
+  },
+  {
+   "kind": "ref",
+   "label": "Llei 29/2010, d'ús dels mitjans electrònics al sector públic de Catalunya"
+  }
+ ],
+ "review_flags": [
+  "Cap d'aquestes normes és a data/sources; contingut de memòria. Verificar articles (LPAC 9-14, 41, 43; Llei 40/2015 art. 38) i l'organisme emissor idCAT/CATCert/Consorci AOC.",
+  "El Reglament eIDAS ha estat revisat el 2024 (cartera d'identitat digital europea); possible impacte futur."
+ ]
+}

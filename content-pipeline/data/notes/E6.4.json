@@ -1,0 +1,27 @@
+{
+ "epigraf": "E6.4",
+ "body_md": "## En una frase\nAdministrar medicaments amb seguretat exigeix triar la via i la tècnica adequades (angle, lloc, volum), conservar correctament el fàrmac i aplicar les comprovacions (\"dret\") abans, durant i després de la presa.\n\n## Conceptes clau\n- **Cinc correctes** (pacient, medicament, dosi, via, hora) i els **deu correctes** ampliats (+ registre, motiu o indicació, preparació, resposta, dret a rebutjar-lo i educació). Doble verificació d'alt risc.\n- Vies: **enteral** (oral, sublingual, rectal, per sonda), **tòpica**, **inhalada** i **parenteral** (intradèrmica, subcutània, intramuscular, endovenosa).\n- **Conservació**: la majoria de vacunes, insulines no iniciades i alguns col·liris es guarden a la nevera (**2-8 °C**) sense congelar; les insulines en ús es mantenen a temperatura ambient (aprox. 28-30 dies, segons la fitxa). Respectar caducitat i la del vial multidosi un cop obert.\n\n## Valors, escales i classificacions\n| Via | Angle | Lloc / volum màxim | Punts clau |\n|---|---|---|---|\n| **Intradèrmica** | **5-15°**, bisell amunt | Cara anterior de l'avantbraç; **0,1 mL** | Ha de formar una butllofa (pàpula); no s'ha de massatjar. Prova de la tuberculina: 0,1 mL, lectura a les 48-72 h |\n| **Subcutània** | 45° (agulla curta i plec) o 90° | Abdomen, cara externa del braç o de la cuixa; ≤ 1-2 mL | Pessigar el plec |\n| **HBPM / heparina subcutània** | **90° respecte al plec**, plec mantingut durant tota la injecció | Abdomen (≥ 5 cm del melic), alternant costats | No purgar la bombolla d'aire de la xeringa precarregada, no fregar ni massatjar després |\n| **Intramuscular** | **90°** | Ventroglutial, deltoide (≤ 2 mL), vast lateral de la cuixa (lactants i infants) | Tècnica en Z per a fàrmacs irritants; aspirar és opcional segons el lloc |\n| **Endovenosa** | 15-30° (perifèrica) | — | Diluir i administrar al ritme indicat; no administrar KCl sense diluir ni en bolus |\n\n**Per sonda enteral**: no triturar formes retard ni gastroresistents; administrar cada fàrmac per separat, **netejar la sonda amb 20-30 mL d'aigua** abans i després; no barrejar-los amb la fórmula; aturar la nutrició si cal.\n\n**Flushing (rentat)**: injecció manual intermitent de **clorur de sodi 0,9 %** amb tècnica de pressió pulsàtil abans, entre i després de cada administració, per mantenir la permeabilitat i evitar la barreja de fàrmacs incompatibles; en catèters centrals, heparina només si es pauta.\n\n## Actuació infermera\n- **Valoració**: identificar el pacient, al·lèrgies, deglució, estat de consciència, constants vitals.\n- **Diagnòstic**: *Risc de reacció adversa*, *Coneixements deficients*, *Deteriorament de la deglució*.\n- **Intervencions**: higiene de mans, preparació sense interrupcions, comprovar identitat i caducitat, informar el pacient, adaptar tècnica (inhaladors amb càmera, col·liris: 1 gota al sac conjuntival inferior i prémer el canto intern 1 minut), eliminar residus punxants al contenidor, registrar immediatament.\n- **Educació**: pauta, relació amb els àpats, emmagatzematge domiciliari, signes d'alarma; autoinjecció d'insulina o HBPM (rotar punts).\n- **Avaluació**: resposta, reaccions locals i sistèmiques; notificar errors.\n\n## Què pregunten als exàmens\n- Administració de fàrmacs per sonda: netejar amb 20-30 mL d'aigua (2017).\n- Heparina subcutània i HBPM: l'angle del plec amb la xeringa és de 90° (2017, 2019 amb respostes falses de 45° i 60°).\n- Angle de la via intradèrmica: 5-15° (2017).\n- Prova de la tuberculina (0,1 mL, intradèrmica) i vacunació IM al vast lateral en lactants (2019, 2024).\n\n## Trampes freqüents\n- Confondre l'angle de la intradèrmica (5-15°) amb el de la subcutània (45-90°).\n- Dir que l'HBPM s'injecta a 45° o a 60°: el plec i la xeringa formen 90°.\n- Triturar comprimits retard o gastroresistents per sonda.\n- Massatjar el lloc després de la injecció d'heparina.\n\n## Normativa i guies de referència\n- Llei 44/2003 d'ordenació de les professions sanitàries (art. 7).\n- Fitxes tècniques de l'AEMPS (CIMA); protocols institucionals de seguretat en la utilització de medicaments (Institute for Safe Medication Practices).\n",
+ "key_points": [
+  "Els cinc correctes: pacient, medicament, dosi, via i hora; s'amplien amb registre, indicació, educació i dret a rebutjar.",
+  "La via intradèrmica forma un angle de 5-15° i s'injecta 0,1 mL; ha de formar una pàpula.",
+  "Heparina i HBPM subcutànies: 90° respecte al plec, plec mantingut, sense massatge ni purgar la bombolla.",
+  "Per sonda enteral: no triturar formes retard i netejar amb 20-30 mL d'aigua abans i després.",
+  "Les vacunes i insulines no iniciades es conserven entre 2 i 8 °C.",
+  "En lactants, la injecció intramuscular es fa al múscul vast lateral de la cuixa."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 44/2003, art. 7 (ordenació de les professions sanitàries)",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21340"
+  },
+  {
+   "kind": "ref",
+   "label": "Fitxes tècniques AEMPS (CIMA)"
+  }
+ ],
+ "review_flags": [
+  "Angles de la injecció subcutània y volumen máximo varían entre protocolos; el examen usa 90° para HBPM.",
+  "Estabilidad de insulina en uso (28-30 días) depende del producto."
+ ]
+}

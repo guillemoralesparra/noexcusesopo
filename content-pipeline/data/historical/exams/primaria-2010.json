@@ -1,0 +1,249 @@
+{
+ "exam_id": "ics-dui-primaria-2010",
+ "title": "Convocatòria Primària-DUI-2010 — Primer exercici",
+ "date": "2010-12-19",
+ "instructions": "",
+ "format": {
+  "penalty": null,
+  "time_min": null,
+  "note": "Examen oficial ICS (convocatòria Primària-DUI-2010, Diplomat/da sanitari/ària d'infermeria, atenció primària). Primer exercici realitzat el 19.12.2010. Clau: plantilla test oficial del tribunal de 21.12.2010 (cap pregunta anul·lada a la plantilla)."
+ },
+ "cases": [
+  {
+   "id": "C1",
+   "title": "Supòsit 1",
+   "text": "El senyor Josep de 80 anys, té HTA, viu amb una filla que treballa tots els matins fora de casa. Un dia la filla ve a la consulta i ens explica que al seu pare últimament li costa recordar les coses, el veu despistat i està amoïnada perquè pensa que el seu pare es podria estar demenciant.\nFins ara el senyor Josep era independent per a les activitats de la vida diària (AVD) i la filla anava a treballar tranquil·la.",
+   "question_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "El senyor Josep de 80 anys, té HTA, viu amb una filla que treballa tots els matins fora de casa. Un dia la filla ve a la consulta i ens explica que al seu pare últimament li costa recordar les coses, el veu despistat i està amoïnada perquè pensa que el seu pare es podria estar demenciant.\nFins ara el senyor Josep era independent per a les activitats de la vida diària (AVD) i la filla anava a treballar tranquil·la."
+    },
+    {
+     "from_question": 5,
+     "text": "Han passat 6 mesos, el senyor Josep ha estat inclòs en el Programa d'atenció domiciliària. S'ha anat deteriorant: ja no surt de casa, ha perdut mobilitat i menja molt poc."
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "title": "Supòsit 2",
+   "text": "Volem fer un treball de recerca sobre diversos temes per presentar a un congrés. Un dels estudis que volem fer és un estudi transversal per veure el nombre de nens obesos que hi ha a la nostra ABS.",
+   "question_numbers": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Volem fer un treball de recerca sobre diversos temes per presentar a un congrés. Un dels estudis que volem fer és un estudi transversal per veure el nombre de nens obesos que hi ha a la nostra ABS."
+    },
+    {
+     "from_question": 14,
+     "text": "En analitzar les dades, volem saber si l'exercici físic està relacionat amb l'obesitat. Obtenim un \"resultat estadísticament significatiu\"."
+    },
+    {
+     "from_question": 15,
+     "text": "Als nens obesos que vam detectar en fer l'estudi, els vam fer una intervenció educativa. Es va comparar el pes que tenien aquests nens abans de la intervenció educativa i als 6 mesos després."
+    }
+   ]
+  },
+  {
+   "id": "C3",
+   "title": "Supòsit 3",
+   "text": "El senyor Enric de 64 anys ve a la consulta d'infermeria. A la història clínica, hi destaca: diabetis mellitus tipus 2 diagnosticada fa 20 anys, hipertensió arterial, hipercolesterolèmia, malaltia pulmonar obstructiva crònica en estadi I lleu, i exfumador des de fa 7 anys.\nActualment, està en tractament amb metformina, beta-blocadors i simvastatina.\nEls valors de l'HBA1C han passat de 6,8 a 7,6 en els darrers mesos i en la prova analítica que avui ve a recollir el valor és de 7,9. La infermera, en revisar els autocontrols de la glucosa, verifica que els valors han anat pujant els darrers mesos.\nA l'exploració física presenta una PA de 146/82, FC de 78, IMC de 28,2.\nAtès el seu mal control glucèmic, el seu metge pauta una teràpia combinada amb miglitol.\nEn explicar-li la nova medicació, la infermera li informa sobre com solucionar les possibles hipoglucèmies.",
+   "question_numbers": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "El senyor Enric de 64 anys ve a la consulta d'infermeria. A la història clínica, hi destaca: diabetis mellitus tipus 2 diagnosticada fa 20 anys, hipertensió arterial, hipercolesterolèmia, malaltia pulmonar obstructiva crònica en estadi I lleu, i exfumador des de fa 7 anys.\nActualment, està en tractament amb metformina, beta-blocadors i simvastatina.\nEls valors de l'HBA1C han passat de 6,8 a 7,6 en els darrers mesos i en la prova analítica que avui ve a recollir el valor és de 7,9. La infermera, en revisar els autocontrols de la glucosa, verifica que els valors han anat pujant els darrers mesos.\nA l'exploració física presenta una PA de 146/82, FC de 78, IMC de 28,2.\nAtès el seu mal control glucèmic, el seu metge pauta una teràpia combinada amb miglitol.\nEn explicar-li la nova medicació, la infermera li informa sobre com solucionar les possibles hipoglucèmies."
+    },
+    {
+     "from_question": 20,
+     "text": "La infermera, dins les recomanacions d'una dieta mediterrània saludable adaptada a la seva malaltia, li explica la importància del consum de fibra per millorar el control glucèmic i lipídic."
+    },
+    {
+     "from_question": 21,
+     "text": "Durant la visita, el senyor Enric manifesta que no acaba d'entendre perquè els seus controls no són millors, \"no ho entenc, amb tot el que faig i el que prenc i sembla que no serveix per a res\".\nLa infermera diagnostica \"Impotència R/A tractament relacionat amb una malaltia\"."
+    },
+    {
+     "from_question": 23,
+     "text": "La pseudoresistència és una de les causes de baixa resposta al tractament farmacològic de la hipertensió."
+    },
+    {
+     "from_question": 25,
+     "text": "Dins del seguiment de la malaltia pulmonar crònica obstructiva al senyor Enric se li realitza una espirometria amb prova broncodilatadora cada any."
+    },
+    {
+     "from_question": 26,
+     "text": "Una de les formes de classificació de la malaltia pulmonar obstructiva crònica és l'índex de BODE (The body-mass index, airflow obstruction, dyspnea, and exercise capatacity)."
+    }
+   ]
+  },
+  {
+   "id": "C4",
+   "title": "Supòsit 4",
+   "text": "La Laia i els seus pares, el Lluís i la Joana, es visiten regularment en un centre de salut de Catalunya. La mare fa visites de seguiment per la seva obesitat. Fa tres anys que el pare va deixar de fumar amb l'ajuda d'una teràpia grupal que s'organitzà al centre i n'està molt satisfet. Ara es troba molt millor tot i haver augmentat de pes.",
+   "question_numbers": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "La Laia i els seus pares, el Lluís i la Joana, es visiten regularment en un centre de salut de Catalunya. La mare fa visites de seguiment per la seva obesitat. Fa tres anys que el pare va deixar de fumar amb l'ajuda d'una teràpia grupal que s'organitzà al centre i n'està molt satisfet. Ara es troba molt millor tot i haver augmentat de pes."
+    },
+    {
+     "from_question": 32,
+     "text": "El senyor Lluís necessita dades de la seva història clínica per fer-se una assegurança i s'interessa pel document de voluntats anticipades."
+    },
+    {
+     "from_question": 35,
+     "text": "En una visita de seguiment, la senyora Joana ens comenta que ha iniciat un tractament amb orlistat per perdre pes. També ens comenta que no té gaire temps per fer activitat física."
+    },
+    {
+     "from_question": 37,
+     "text": "A mitjan octubre, la Laia que té 25 anys, és mestra d'educació especial i està embarassada de 10 setmanes, ve a consulta i ens comenta que està angoixada."
+    }
+   ]
+  },
+  {
+   "id": "C5",
+   "title": "Supòsit 5",
+   "text": "El Pol és un nadó de 7 dies. Els pares sol·liciten una visita a domicili dintre del Programa d'atenció domiciliària al nadó (ATDOM-NADO).\nEn arribar trobem la mare amb aspecte cansat. A l'informe d'alta de l'hospital ens consten les dades següents: pes 3,350 kg, talla: 50 cm i PC: 33 cm. Apgar 9-10. Alimentació: alletament matern.\nDurant l'entrevista ens comenta que té problemes per dormir, li costa concentrar-se i se sent molt fatigada, diu \"no sé si seré capaç de tirar endavant amb aquesta nova situació\". També explica que el pare vol col·laborar en la cura del nadó, però això no l'ajuda.",
+   "question_numbers": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "El Pol és un nadó de 7 dies. Els pares sol·liciten una visita a domicili dintre del Programa d'atenció domiciliària al nadó (ATDOM-NADO).\nEn arribar trobem la mare amb aspecte cansat. A l'informe d'alta de l'hospital ens consten les dades següents: pes 3,350 kg, talla: 50 cm i PC: 33 cm. Apgar 9-10. Alimentació: alletament matern.\nDurant l'entrevista ens comenta que té problemes per dormir, li costa concentrar-se i se sent molt fatigada, diu \"no sé si seré capaç de tirar endavant amb aquesta nova situació\". També explica que el pare vol col·laborar en la cura del nadó, però això no l'ajuda."
+    },
+    {
+     "from_question": 44,
+     "text": "Ens diu que possiblement haurà de deixar d'alletar perquè ha d'ajudar el seu marit en el negoci familiar. Desconeix les tècniques d'extracció i conservació de la llet materna."
+    },
+    {
+     "from_question": 45,
+     "text": "En finalitzar la visita al domicili, la infermera explica les visites de seguiment dintre del Programa d'activitats preventives i de promoció de la salut a l'edat pediàtrica (PAPPS).\nEl Pol ja té dos mesos i la seva mare el porta a la visita del PAPPS amb la infermera. El diagnòstic infermer que li vam fer a la mare ja està resolt."
+    },
+    {
+     "from_question": 46,
+     "text": "La mare ens explica que havia deixat de fumar durant l'embaràs, però que fa una setmana que ha tornat a fumar, i que el pare no ha deixat de fer-ho mai. Està preocupada per aquest fet i ens demana informació."
+    },
+    {
+     "from_question": 47,
+     "text": "El Pol ve a la visita de seguiment dels 9 mesos.\nEn aquesta visita, li fem la prova per a la detecció de la hipoacúsia."
+    },
+    {
+     "from_question": 49,
+     "text": "Han passat els anys i el Pol ja té 6 anys.\nEn explorar el desenvolupament físic del Pol observem que presenta un sobrepès."
+    },
+    {
+     "from_question": 50,
+     "text": "En aquesta mateixa visita la mare ens pregunta si el Pol ja té edat per fer-li una revisió dental."
+    },
+    {
+     "from_question": 53,
+     "text": "A la consulta oberta de l'institut, ve una amiga del Pol per consultar uns dubtes que té sobre els aliments."
+    }
+   ]
+  },
+  {
+   "id": "C6",
+   "title": "Supòsit 6",
+   "text": "El senyor Genís de 74 anys ha estat donat d'alta hospitalària després d'un ingrés per empitjorament del seu estat general.\nLa seva germana Àngela, cuidadora principal, ve a la consulta i ens comenta que el seu germà es queixa de molt dolor. Segons l'informe d'alta presenta neoplàsia de pròstata amb metàstasis òssies.",
+   "question_numbers": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "El senyor Genís de 74 anys ha estat donat d'alta hospitalària després d'un ingrés per empitjorament del seu estat general.\nLa seva germana Àngela, cuidadora principal, ve a la consulta i ens comenta que el seu germà es queixa de molt dolor. Segons l'informe d'alta presenta neoplàsia de pròstata amb metàstasis òssies."
+    }
+   ]
+  },
+  {
+   "id": "C7",
+   "title": "Supòsit 7",
+   "text": "Avisen al consultori de Sant Fruitós d'un accident laboral en un taller de soldadura. Ens informen que hi ha un treballador que s'ha cremat i està inconscient. La infermera, que aquest dia està sola amb l'administrativa, va a la urgència.\nLa infermera troba el pacient a terra i valora el seu estat de consciència.",
+   "question_numbers": [
+    62,
+    63,
+    64,
+    65
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Avisen al consultori de Sant Fruitós d'un accident laboral en un taller de soldadura. Ens informen que hi ha un treballador que s'ha cremat i està inconscient. La infermera, que aquest dia està sola amb l'administrativa, va a la urgència.\nLa infermera troba el pacient a terra i valora el seu estat de consciència."
+    },
+    {
+     "from_question": 64,
+     "text": "L'home està conscient i presenta una cremada al braç dret."
+    },
+    {
+     "from_question": 65,
+     "text": "Un cop atès el pacient, el company de treball ens refereix que s'ha posat molt nerviós i té mal de cap. Ens comenta que fa dues setmanes que es visita amb la infermera perquè li van detectar una PA elevada i que les proves que li han fet són normals. La infermera pren la PA."
+    }
+   ]
+  }
+ ]
+}

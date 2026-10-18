@@ -1,0 +1,3230 @@
+[
+ {
+  "id": "ics-hist-245-63",
+  "stem": "En la isquèmia miocàrdica és un factor de risc modificable:",
+  "options": {
+   "a": "Antecedents familiars.",
+   "b": "Edat i sexe.",
+   "c": "Tabaquisme.",
+   "d": "Raça."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-64",
+  "stem": "En la valoració d’un pacient amb sospita d’arítmia cardíaca es fonamental realitzar:",
+  "options": {
+   "a": "Prova de taula oscil·lant.",
+   "b": "Col·locació d’un marcapassos.",
+   "c": "Col·locació d’un desfibril·lador cardíac implantable.",
+   "d": "Entrevista clínica i electrocardiograma."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-70",
+  "stem": "A una persona li han practicat un cateterisme coronari a la Unitat d’Hemodinàmica Cardíaca amb la implantació d’un stent a l’artèria descendent anterior. El rebeu a la Unitat de Semicrítics. Què és el primer que fareu?",
+  "options": {
+   "a": "Valoració del nivell d’ansietat.",
+   "b": "Valoració del lloc de punció i si hi ha hematoma.",
+   "c": "Valoració del color i la temperatura de l’extremitat on s’ha fet l’accés vascular.",
+   "d": "Realitzar un ECG."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2008",
+  "year": 2008,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-71",
+  "stem": "A causa d’una insuficiència cardíaca una persona té els turmells inflats. Quina mesura recomanaríeu?",
+  "options": {
+   "a": "Sedestació amb les cames en declivi.",
+   "b": "Dieta hiposòdica.",
+   "c": "Repòs al llit amb els peus lleugerament elevats.",
+   "d": "Les respostes b i c són certes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2008",
+  "year": 2008,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-72",
+  "stem": "Home de 56 anys, fumador de dos paquets de cigarretes al dia, hipertens no controlat, dislipèmia controlada amb dieta i hipercolesterolèmia també controlada amb dieta. Des de fa tres mesos refereix dolor retroesternal irradiat a braç esquerre que s’origina a grans esforços. Aquesta matinada episodi de dolor retroesternal, en repòs, acompanyat de sudoració profusa, vòmits i mareig. Després de 20 minuts amb aquesta simptomatologia, decideix anar al centre de salut on es rebut per un metge que li realitza un electrocardiograma que evidencia isquèmia anterior miocàrdica. Se li administra nitroglicerina sublingual i se’l trasllada cap al servei d’urgències de l’hospital.\nEl pacient arriba a urgències de l’hospital a les 08.30 h del matí (35 minuts després de l’inici del dolor). En la història clínica es detecta que ha patit ulcus pèptic actiu amb sagnat recent (1 setmana). Es diagnostica de síndrome coronària aguda sense elevació del ST. Quin és el tractament d’elecció per a tractar la isquèmia?",
+  "options": {
+   "a": "Fibrinòlisi amb estreptocinasa.",
+   "b": "Tractament simptomàtic.",
+   "c": "Cardioversió i reanimació cardiopulmonar.",
+   "d": "Revascularització coronària percutània."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2009",
+  "year": 2009,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-79",
+  "stem": "Una persona presenta una pressió venosa central de 20 mmHg. Això indica:",
+  "options": {
+   "a": "Augment del volum sanguini, mala funció ventricular dreta o vasodilatació del llit vascular pulmonar.",
+   "b": "Augment del volum sanguini, mala funció ventricular esquerra o vasoconstricció del llit vascular pulmonar.",
+   "c": "Disminució del volum sanguini, mala funció ventricular esquerra o vasoconstricció del llit vascular pulmonar.",
+   "d": "Augment del volum sanguini, mala funció ventricular dreta o vasoconstricció del llit vascular pulmonar."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-86",
+  "stem": "Segons la classificació de la insuficiència cardíaca de la NYHA (New York Heart Association), la limitació intensa de les activitats de la vida diària i el desenvolupament de símptomes en fer mínima activitat física es correspon amb el grau:",
+  "options": {
+   "a": "I.",
+   "b": "II.",
+   "c": "III.",
+   "d": "IV."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-87",
+  "stem": "Quina de les següents manifestacions no sol observar-se en la insuficiència cardíaca congestiva (ICC)?",
+  "options": {
+   "a": "Tercer so cardíac (S3).",
+   "b": "Edema perifèric.",
+   "c": "Dispnea.",
+   "d": "Poliúria."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-88",
+  "stem": "Quin dels següents aspectes sobre la furosemida és cert? (Assenyaleu les 3 respostes correctes)",
+  "options": {
+   "a": "És un diürètic del tipus tiazídic.",
+   "b": "Inhibeix la reabsorció de sodi principalment en la nansa de Henle.",
+   "c": "Pot administrar-se en bolus intravenós lent.",
+   "d": "Pot produir hipopotassèmia."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-89",
+  "stem": "Quines de les següents són manifestacions habituals de la hipopotassèmia?",
+  "options": {
+   "a": "Rampes musculars i disminució de la pressió arterial.",
+   "b": "Rampes musculars i augment de la pressió arterial.",
+   "c": "Rampes muscular i areflèxia.",
+   "d": "Augment del peristaltisme intestinal i tolerància a la glucosa."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-90",
+  "stem": "Sobre l’edema perifèric en els malalts amb insuficiència cardíaca congestiva (ICC), quina de les següents respostes és falsa?",
+  "options": {
+   "a": "S’intensifica amb el declivi de la zona.",
+   "b": "Afecta exclusivament el terç distal de les extremitats inferiors.",
+   "c": "Incrementa el risc de lesions per pressió.",
+   "d": "La determinació de la profunditat de la fòvea ajuda a identificar el grau de l’edema."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-94",
+  "stem": "Assenyaleu quin dels següents aliments està desaconsellat pel seu alt contingut en sodi en una dieta hiposòdica estricta:",
+  "options": {
+   "a": "Xai.",
+   "b": "Formatge.",
+   "c": "Salmó fresc.",
+   "d": "Pastanaga fresca."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-95",
+  "stem": "Assenyaleu quina de les consideracions següents és falsa sobre la pressió arterial en la gent gran:",
+  "options": {
+   "a": "Hi ha un augment de la pressió sistòlica relacionada amb la disminució de l’elasticitat vascular.",
+   "b": "La gent gran pot experimentar un descens de la pressió sistòlica després dels àpats.",
+   "c": "La hipertensió arterial és la primera causa de caigudes en la gent gran.",
+   "d": "Els canvis de posició s’han de fer amb lentitud per evitar la hipotensió postural."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-245-102",
+  "stem": "El senyor Joan és diabètic i presenta també hipertensió arterial (HTA). L’objectiu de control de l’HTA en persones diabètiques és reduir la pressió arterial (PA) a uns valors de:",
+  "options": {
+   "a": "PA sistòlica < 135 mmHg i diastòlica < 85 mmHg.",
+   "b": "PA sistòlica < 130 mmHg i diastòlica < 80 mmHg.",
+   "c": "PA sistòlica < 140 mmHg i diastòlica < 90 mmHg.",
+   "d": "PA sistòlica < 125 mmHg i diastòlica < 75 mmHg."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-1",
+  "stem": "Quina modalitat ventilatòria de tipus assistida necessita obligatòriament una activitat inspiratòria espontània del pacient?",
+  "options": {
+   "a": "La ventilació mecànica assistida (VCA).",
+   "b": "La ventilació mecànica de pressió suport inspiratori (PSI).",
+   "c": "La ventilació mecànica mandatària intermitent (IMV).",
+   "d": "La ventilació espontània amb pressió positiva contínua (CPAP)."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-2",
+  "stem": "Indiqueu quina d’aquestes activitats no és correcta en l’aspiració de secrecions endotraquials en un malalt intubat:",
+  "options": {
+   "a": "Augmentar la concentració d’oxigen al 100 % cinc minuts abans de l’aspiració i mantenir-lo 2 minuts si cal repetir l’aspiració.",
+   "b": "Si en introduir la sonda es nota resistència, forçar per si hi hagués un tap de moc.",
+   "c": "El calibre de la sonda d’aspiració ha de ser d’1/3 inferior al tub endotraquial.",
+   "d": "L’aspiració no ha de superar els 15 segons."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-3",
+  "stem": "Es parla de decorticació en un malalt en coma si:",
+  "options": {
+   "a": "L’EEG mostra inactivitat cerebral.",
+   "b": "La puntuació en l’escala de Glasgow és inferior a 11.",
+   "c": "El malalt respon al dolor en postura flexora.",
+   "d": "El malalt respon al dolor en postura extensora."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-4",
+  "stem": "L’alteració dels signes vitals en un malalt amb hipertensió intracranial pot indicar:",
+  "options": {
+   "a": "Elevació brusca de la pressió intracranial.",
+   "b": "L’afectació del tronc cerebral.",
+   "c": "La compressió del tercer nervi cranial.",
+   "d": "La isquèmia del còrtex cerebral."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-6",
+  "stem": "Quin d’aquests catèters s’utilitzen en la tècnica de la monitorització de la pressió intracranial (PIC) en un malalt amb problemes neurològics?",
+  "options": {
+   "a": "Catèter intraventricular.",
+   "b": "Catèter de contrapulsació.",
+   "c": "Catèter Swan-Ganz.",
+   "d": "Catèter epidural."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-8",
+  "stem": "Dins de les activitats d’infermeria al malalt amb ventilació mecànica, el canvi de filtre del tub endotraquial es realitza cada:",
+  "options": {
+   "a": "Setmana.",
+   "b": "48 hores.",
+   "c": "24 hores o abans si fos necessari.",
+   "d": "12 hores."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-9",
+  "stem": "Per al manteniment del cateterisme venós central amb dispositiu d’accés subcutani si no s’utilitza, cal fer el segellat:",
+  "options": {
+   "a": "Cada 15 – 20 dies.",
+   "b": "Cada 30 – 45 dies.",
+   "c": "Cada 6 mesos.",
+   "d": "No requereix segellat."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-10",
+  "stem": "Quina de les cànules següents permet al pacient traqueostomitzat una veu pulmonar en tapar-se l’orifici extern amb el dit?",
+  "options": {
+   "a": "Cànula de silicona amb globuts inflat.",
+   "b": "Cànula de plata no fenestrada.",
+   "c": "Cànula de plata extrallarga.",
+   "d": "Cànula de plata fenestrada."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-11",
+  "stem": "Segons les últimes recomanacions internacionals, cada quant convé realitzar el canvi de sistemes (equips) d’infusió de tractaments parenterals?",
+  "options": {
+   "a": "Un cop a la setmana.",
+   "b": "Cada 72 hores o menys.",
+   "c": "Cada 5 dies.",
+   "d": "No cal canviar-los per mantenir el sistema tancat."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-12",
+  "stem": "Quina pressió externa obstaculitzarà el flux sanguini capil·lar i provocarà lesions isquèmiques?",
+  "options": {
+   "a": "Entre 6 i 15 mmHg.",
+   "b": "Entre 8 i 22 mmHg.",
+   "c": "Entre 16 i 29 mmHg.",
+   "d": "A partir de 32 o 33 mmHg."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-14",
+  "stem": "Quina de les següents complicacions del pneumotaponament pot aparèixer d’immediat?",
+  "options": {
+   "a": "Necrosi o isquèmia bronquial o traqueal.",
+   "b": "Estenosi traqueal o braquial.",
+   "c": "Broncoaspiracions.",
+   "d": "Sagnat endotraqueal i tos excessiva."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-15",
+  "stem": "Quin dels següents paràmetres no es valora amb el test de Glasgow?",
+  "options": {
+   "a": "Obertura dels ulls.",
+   "b": "Resposta motora.",
+   "c": "Resposta verbal.",
+   "d": "Mida de les pupil·les."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-16",
+  "stem": "El malalts postoperats i els enllitats durant un temps perllongat tenen més risc de TEP. Quina de les següents és una manifestació inicial de TEP?",
+  "options": {
+   "a": "Pols dèbil i filiforme.",
+   "b": "Ansietat o inquietud.",
+   "c": "Esput rosat i escumós",
+   "d": "Elevació de la PVC."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-18",
+  "stem": "La postura de decerebració després d’aplicar un estímul com a resposta motora:",
+  "options": {
+   "a": "Flexió d’un o dos braços sobre el tòrax i extensió de les cames.",
+   "b": "Obertura ocular immediata i extensió dels dos braços.",
+   "c": "Flexió de les extremitats inferiors amb extensió dels dits de les mans.",
+   "d": "Extensió d’un o dos braços de forma rígida igual que de les cames."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-20",
+  "stem": "A l’hora d’administrar a un pacient l’NPT, per què elegirem un accés venós central?",
+  "options": {
+   "a": "Per reduir el risc de trombosi venosa.",
+   "b": "Per administrar glucosa per sobre del 10 %.",
+   "c": "Per reduir el risc de sèpsia.",
+   "d": "Per reduir el risc de pneumotòrax."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-21",
+  "stem": "El signe d’Homans es manifesta per:",
+  "options": {
+   "a": "Dolor a la dorsiflexió passiva del peu en cas de trombosi de les venes de les cames.",
+   "b": "Augment de la irritabilitat mecànica dels nervis sensitius en cas de tetània.",
+   "c": "Flexió passiva de la mà i el canell del costat afectat sense produir flexió de colzes en cas d’hemiplegia.",
+   "d": "Caiguda del cos quan el pacient es posa de peus i tanca els ulls."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-22",
+  "stem": "En un pacient amb una coagulació intravascular disseminada (CID) quina de les transfusions següents estaria indicada?",
+  "options": {
+   "a": "Concentrat d’hematies, plaquetes i albúmina.",
+   "b": "Plasma, crioprecipitats i sang total.",
+   "c": "Plaquetes, plasma fresc congelat i crioprecipitats.",
+   "d": "Plaquetes, plasma i albúmina."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-23",
+  "stem": "Quina de les accions següents millora el retorn venós cerebral i evita l’elevació de la pressió intracranial (PIC)?",
+  "options": {
+   "a": "Pacient col·locat en posició de decúbit supí.",
+   "b": "Canvis posturals graduats.",
+   "c": "Aspiració de secrecions de la via aèria.",
+   "d": "Elevar el capçal del llit 30 – 40 º C, mantenint alineació anatòmica amb la resta del cos."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-27",
+  "stem": "En la ventilació mecànica no invasiva (VMVI) és fals:",
+  "options": {
+   "a": "Redueix el risc d’infeccions nosocomials.",
+   "b": "Sempre precedeix a la ventilació mecànica invasiva (VMI).",
+   "c": "Facilita el treball respiratori i l’intercanvi dels gasos.",
+   "d": "Està contraindicat per a qui ha sofert traumatismes facials."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-28",
+  "stem": "Quina és la base fonamental de les cures d’infermeria en un pacient crític que presenta una insuficiència respiratòria aguda?",
+  "options": {
+   "a": "Optimitzar l’oxigenació i la ventilació.",
+   "b": "La termoregulació del pacient.",
+   "c": "Avaluar la inflamació de les extremitats.",
+   "d": "Que per respirar utilitzi els músculs intercostals."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-29",
+  "stem": "A l’hora de subministrar oxigen a la Unitat de Cures Intensives, ens podem trobar amb la mascareta de pressió positiva contínua a la via aèria (CPAP). Indiqueu quin d’aquests enunciats no és el correcte:",
+  "options": {
+   "a": "Pot provocar lesió per pressió.",
+   "b": "És útil si el pacient està intubat.",
+   "c": "No necessita estar intubat.",
+   "d": "Pot provocar distensió gàstrica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-30",
+  "stem": "En l’atenció a un pacient que presenta edema pulmonar, el professional d’infermeria ha de:",
+  "options": {
+   "a": "Hiperhidratar al malalt.",
+   "b": "Col·locar el pacient de manera que augmenti el retorn venós.",
+   "c": "Col·locar el pacient de manera que disminueixi el retorn venós.",
+   "d": "Aspirar amb freqüència el pacient per eliminar mucositats i afavorir l’oxigenació."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-31",
+  "stem": "Avantatges de la teràpia amb (VMNI) ventilació mecànica no invasiva són.",
+  "options": {
+   "a": "Disminució dels nivells de CO₂ i augment de la tolerància a l’esforç.",
+   "b": "Augment del treball respiratori i augment del nivells de CO₂.",
+   "c": "Augments dels nivells de CO₂ i disminució de la tolerància a l’esforç.",
+   "d": "Disminució del treball respiratori i disminució de la tolerància a l’esforç."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-40",
+  "stem": "Al senyor Joan li han practicat un cateterisme coronari a la Unitat d’Hemodinàmica Cardíaca amb la implantació d’un stent a l’artèria descendent anterior. El rebeu a la unitat de semicrítics. Què és el primer que fareu?",
+  "options": {
+   "a": "Valoració del nivell d’ansietat.",
+   "b": "Valoració del lloc de punció i si hi ha hematoma.",
+   "c": "Valoració del color i la temperatura de l’extremitat on s’ha fet l’accés vascular.",
+   "d": "Realitzar un ECG."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2008",
+  "year": 2008,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-41",
+  "stem": "Pacient de 50 anys d’edat que arriba al servei d’urgències per accident de trànsit. A l’arribada a l’hospital el seu nivell de consciència és orientat. Presenta dificultat respiratòria, dispnea i dolor al pit, no presenta cianosi. A l’arribada a urgències passa a l’àrea de traumatologia es fa la valoració inicial i es transporta al servei de radiologia per comprovar si hi ha cap fractura.\nSituació actual: pacient diagnosticada de 3 fractura de 3 costelles i contusió pulmonar. Traumatisme toràcic amb volet costal. Aquesta situació comporta una gasometria arterial: PO₂ 64, PCO₂ 80, pH 7,24, HCO³¯ 35, Saturació 78 %, compatible amb insuficiència respiratòria que requereix intubació endotraqueal i ingrés a la UCI.\nPer realitzar la tècnica d’intubació endotraqueal quin equip és necessari?",
+  "options": {
+   "a": "Laringoscopi, tub endotraqueal, subjecció per tub endotraqueal, sonda d’aspiració, aspirador i guants no estèrils.",
+   "b": "Laringoscopi, tub endotraqueal de qualsevol mida, gel lubricant, subjecció per tub endotraqueal, xeringa de 10 – 20 ml, guants estèrils, sèrum fisiològic, sonda d’aspiració, aspirador.",
+   "c": "Laringoscopi, tub endotraqueal, aerosol anestèsic, subjecció per tub endotraqueal, pinces de Magill, xeringa de 10 – 20 ml, sèrum fisiològic, bossa de reanimació manual.",
+   "d": "Laringoscopi, tub endotraqueal de 7 – 8 – 9 mm de diàmetre, subjecció per tub endotraqueal, gel lubricant, xeringa de 10 – 20 ml, guants estèrils, aspirador, sonda per aspirar, bossa de reanimació manual amb connexió a oxigen."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2009",
+  "year": 2009,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-48",
+  "stem": "Una de les complicacions potencials que pot tenir una persona que ha patit un ictus és l’augment de la PIC (pressió intracranial). Quines accions cal tenir en compte per evitar-la?",
+  "options": {
+   "a": "Aspirar les secrecions per tal d’evitar el taponament de la via respiratòria.",
+   "b": "Canvis posturals graduals per facilitar la circulació.",
+   "c": "Administració de laxatius per evitar el restrenyiment.",
+   "d": "Pujar el capçal del llit per alinear el cos."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2009",
+  "year": 2009,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-59",
+  "stem": "Quin tractament s’ha de fer per prevenir una trombosi venosa profunda (TVP) en persones intubades amb factors de risc que predisposen a la TVP?",
+  "options": {
+   "a": "Administració d’heparina, immobilització i elevació de l’extrem distal del llit.",
+   "b": "Administració d’àcid acetil salicílic, immobilització i elevació de l’extrem distal del llit.",
+   "c": "Administració d’heparina, mobilització i elevació de l’extrem distal del llit.",
+   "d": "Administració d’heparina, mobilització i posar en declivi l’extrem distal del llit."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-63",
+  "stem": "A una persona que ha patit un accident laboral se li col·loca un sensor de la pressió intracranial (PIC). Després del trasllat del malalt a la Unitat de Cures Intensives, el valor de la PIC és de – 4 mmHg. Senyaleu l’afirmació correcta:",
+  "options": {
+   "a": "És conseqüència del vasoespasme cerebral produït pel traumatisme cranioencefàlic.",
+   "b": "És conseqüència de l’augment del volum cerebral d’oxigen després del traumatisme cranioencefàlic.",
+   "c": "Cal comprovar l’estat del sensor de la PIC i el punt d’inserció del catèter.",
+   "d": "És conseqüència dels fàrmacs utilitzats en la sedació del pacient."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-65",
+  "stem": "Quins dels següents signes i/o símptomes són indicatius d’un augment de la pressió intracranial en una pacient amb accident vascular cerebral isquèmic de l’hemisferi dret?",
+  "options": {
+   "a": "Pressió de pols disminuïda, elevació de la pressió arterial diastòlica i taquicàrdia.",
+   "b": "Pressió de pols augmentada, elevació de la pressió arterial sistòlica i bradicàrdia.",
+   "c": "Pressió de pols normal, disminució de la pressió arterial sistòlica i taquicàrdia.",
+   "d": "Pressió de pols disminuïda, disminució de la pressió arterial sistòlica i taquicàrdia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-66",
+  "stem": "El senyor Pere de 35 anys ha tingut un accident de trànsit. Ingressa en el servei d’urgències amb aixafament toràcic, traumatisme abdominal, probable lesió cerebral i múltiples fractures.\nHa perdut gran quantitat de sang, el senyor Pere pot entrar en estat de xoc. Quins dels següents signes i/o símptomes indiquen l’estat de xoc hipovolèmic?",
+  "options": {
+   "a": "Freqüència cardíaca 152 bpm, pols dèbil i filiforme, tensió arterial 80/50 mmHg, pell pàl·lida i freda, desorientació en temps i espai.",
+   "b": "Tensió arterial 120/80 mmHg, freqüència respiratòria 16 rpm, pols 85 bpm, pell pàl·lida i fredor cutània.",
+   "c": "Freqüència cardíaca 84 bpm, pols irregular, pell calenta i seca, diüresi 50 ml acòlica i obnubilació.",
+   "d": "Tensió arterial 128/90 mmHg, freqüència respiratòria 22 rpm, diaforesi i anúria, desorientació en temps i espai."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-73",
+  "stem": "En relació amb les cures d’infermeria en el pacient amb tub endotraqueal (indica les 3 respostes correctes):",
+  "options": {
+   "a": "La sortida accidental del tub és una complicació potencial en el pacient intubat.",
+   "b": "La pressió alta i mantinguda del globus del pneumotaponament pot causar isquèmia per compressió.",
+   "c": "El tub produeix que el reflex tussigen estigui hiperactiu.",
+   "d": "La pressió baixa del globus de pneumotaponament augmenta el risc de pneumònia per aspiració."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-74",
+  "stem": "Quina de les mesures següents no és una intervenció recomanada en la prevenció de la pneumònia associada a la ventilació mecànica?",
+  "options": {
+   "a": "Mantenir el capçal del llit elevat de 30 º a 45 º excepte si hi ha contraindicació.",
+   "b": "Realitzar la higiene bucal del pacient com a màxim un cop cada 48 hores.",
+   "c": "Rentat i/o higienització de mans de tot el personal.",
+   "d": "Manipular asèpticament les sondes d’aspiració de secrecions del tracte respiratori."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-75",
+  "stem": "En la comunicació amb el malalt intubat amb ventilació mecànica quina de les següents afirmacions és certa?",
+  "options": {
+   "a": "En cap cas és convenient parlar amb un malalt intubat.",
+   "b": "La comunicació s’ha de fer exclusivament a través del familiar o cuidador.",
+   "c": "Cal valorar la resposta ocular o motora a estímuls o ordres verbals.",
+   "d": "És contraproduent utilitzar tècniques de comunicació no verbal."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-246-76",
+  "stem": "Quina de les següents accions no està indicada en la retirada d’un catèter venós central?",
+  "options": {
+   "a": "Informar el pacient de la retirada i el motiu.",
+   "b": "Retirar el catèter estirant enèrgicament.",
+   "c": "Aplicar pressió en el punt d’inserció, un cop retirat.",
+   "d": "Observa si el catèter està intacte un cop retirat."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-1",
+  "stem": "Quina estructura de la pell queda afectada en una cremada de primer grau?",
+  "options": {
+   "a": "Epidermis.",
+   "b": "Plexe subpapil·lar.",
+   "c": "Dermis.",
+   "d": "Hipodermis."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-2",
+  "stem": "Respecte als efectes produïts per una descàrrega elèctrica és fals que:",
+  "options": {
+   "a": "Si són cremades lleus són de primer grau.",
+   "b": "Poden provocar alteracions cardíaques i respiratòries.",
+   "c": "El seu efecte només depèn de la intensitat.",
+   "d": "Són cremades greus si provoquen lesions respiratòries importants."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-3",
+  "stem": "Quina d’aquestes característiques no correspon a una cremada de tercer grau? (originalment resposta D, modificada i inclosa la b per sentència judicial)",
+  "options": {
+   "a": "Coloració blanca, marró o groga.",
+   "b": "Pell seca i curtida.",
+   "c": "Tumefacció.",
+   "d": "Aspecte humit i brillant."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-4",
+  "stem": "Quin d’aquestes tres signes i símptomes pertanyen a una cremada de segon grau superficial?",
+  "options": {
+   "a": "Lesió rosenca, hiperestèsica, exudativa.",
+   "b": "Exudativa, escara, anestèsica.",
+   "c": "Folícul pilosebaci conservat, lesió seca, flictena.",
+   "d": "Escara hiperestèsica, dolor."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-5",
+  "stem": "Si un malalt adult presenta cremades en la zona anterior del tors es diu que pateix una cremada de la superfície corporal de:",
+  "options": {
+   "a": "4,5 %.",
+   "b": "9 %.",
+   "c": "18 %.",
+   "d": "27 %."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-6",
+  "stem": "En la intoxicació per un àlcali es produeixen cremades a l’esòfag, en quina fase hi ha risc de perforació?",
+  "options": {
+   "a": "En la inflamatòria.",
+   "b": "En la necròtica.",
+   "c": "En la de contracció.",
+   "d": "En la de granulació."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-7",
+  "stem": "La valoració de les cremades es realitza determinant:",
+  "options": {
+   "a": "L’extensió, la profunditat, la localització i l’edat.",
+   "b": "L’edema, la profunditat, la localització i la febre.",
+   "c": "La infecció, el temps d’evolució i la febre.",
+   "d": "L’edat, la localització, l’edema i la turgència de la pell."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-8",
+  "stem": "Arriba al servei d’urgències un pacient que presenta cremades de 2n grau a les dues extremitats inferiors, si utilitzem com a sistema de valoració de l’extensió la regla del 9, la proporció de la superfície cremada és de:",
+  "options": {
+   "a": "90 %.",
+   "b": "18 %.",
+   "c": "36 %.",
+   "d": "27 %."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-9",
+  "stem": "Els paràmetres que s’utilitzen per calcular la reposició de líquids en un gran cremat són:",
+  "options": {
+   "a": "Pes corporal i extensió.",
+   "b": "Profunditat i extensió.",
+   "c": "Pes corporal i profunditat.",
+   "d": "Extensió i localització."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-10",
+  "stem": "En la valoració de la pèrdua de líquids en un malalt que ha sofert cremades, quina de les següents afirmacions és correcta?",
+  "options": {
+   "a": "La relació entre la superfície corporal cremada i la pèrdua de líquids és directament inversa.",
+   "b": "La relació entre la superfície corporal cremada i la pèrdua de líquids és directament proporcional.",
+   "c": "La relació entre la superfície corporal cremada i la pèrdua de líquids és directament antagònica.",
+   "d": "No hi ha relació entre superfície corporal cremada i pèrdua de líquids."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-11",
+  "stem": "Les primeres tasques d’infermeria quan es rep un pacient amb una cremada important al servei d’urgències són:",
+  "options": {
+   "a": "Obtenció de mostres per determinacions analítiques.",
+   "b": "Valoració de la via aèria, respiració i circulació.",
+   "c": "Valoració de l’extensió i profunditat de la cremada.",
+   "d": "Registre de constants vitals."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-12",
+  "stem": "Per què està contraindicat col·locar un coixí sota el cap d’un pacient amb cremades de la zona inferior del rostre o anterior del coll?",
+  "options": {
+   "a": "Perquè és la posició més incòmoda per al pacient.",
+   "b": "Per evitar la hiperextensió.",
+   "c": "Perquè afavoreixen el desenvolupament de contractures cervicals en flexió.",
+   "d": "No està contraindicat."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-13",
+  "stem": "Un pacient que arriba a urgències amb les extremitats inferiors cremades, quin tant per cent de superfície corporal cremada té?",
+  "options": {
+   "a": "26 %.",
+   "b": "36 %.",
+   "c": "56 %.",
+   "d": "46 %."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-247-14",
+  "stem": "Al moment d’una lesió per cremada, en l’etapa del xoc, podem trobar el pacient amb:",
+  "options": {
+   "a": "Hemoconcentració.",
+   "b": "Hipernatrèmia.",
+   "c": "Augment de diüresi.",
+   "d": "Alcalosi metabòlica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-1",
+  "stem": "El període d’incubació de l’hepatitis A és de:",
+  "options": {
+   "a": "Aproximadament 30 dies.",
+   "b": "Aproximadament de 30 a 40 dies.",
+   "c": "Aproximadament de 20 a 45 dies.",
+   "d": "Aproximadament de 60 a 70 dies.",
+   "e": "Aproximadament 90 dies."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-2",
+  "stem": "Quin aliment permetríeu sense problemes a un pacient amb patologia biliar?",
+  "options": {
+   "a": "Llet entera.",
+   "b": "Margarina.",
+   "c": "Melmelada.",
+   "d": "Carxofes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-3",
+  "stem": "Quina de les següents manifestacions clíniques no correspon a una colitis ulcerosa?",
+  "options": {
+   "a": "Uveïtis.",
+   "b": "Anorèxia.",
+   "c": "Tenesme intermitent.",
+   "d": "Úlceres bucals."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-4",
+  "stem": "Als malalts sotmesos a una gastrectomia o esofagectomia, se’ls alimentarà generalment mitjançant:",
+  "options": {
+   "a": "Una sona de jejunostomia.",
+   "b": "Una sonda de gastrostomia.",
+   "c": "Una sonda nasogàstrica.",
+   "d": "Nutrició parenteral."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-5",
+  "stem": "Davant d’una hepatitis aguda, quina afirmació és falsa?",
+  "options": {
+   "a": "La causa sempre és una infecció vírica.",
+   "b": "Presenten símptomes d’astènia, nàusees, vòmits, icterícia i colúria.",
+   "c": "La teràpia és fonamentalment simptomàtica.",
+   "d": "Una de les complicacions més temudes és l’hepatitis fulminant."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-6",
+  "stem": "Quins tipus d’hepatitis comparteixen la via de transmissió fecal-oral?",
+  "options": {
+   "a": "A i E.",
+   "b": "B, C i D.",
+   "c": "A i D.",
+   "d": "C i E."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-7",
+  "stem": "Quines d’aquestes intervencions d’infermeria són prioritàries en un malalt diagnosticat de cirrosi hepàtica?",
+  "options": {
+   "a": "Reducció del risc de lesió i millorar de l’estat nutricional.",
+   "b": "Control de dolor i de les hemorràgies.",
+   "c": "Foment de l’activitat i planificació d’exercicis musculars.",
+   "d": "Prevenció de dolor i ajudar per millorar la seva autoestima."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-8",
+  "stem": "En el postoperatori d’un malalt de cirurgia gàstrica la dieta ha de ser:",
+  "options": {
+   "a": "Normal en hidrats de carboni i pobra en proteïnes i greixos.",
+   "b": "Moderada en hidrats de carboni i rica en proteïnes i greixos.",
+   "c": "Rica en residus.",
+   "d": "Exempta de gluten."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-9",
+  "stem": "En la cirrosi hepàtica asimptomàtica el pacient ha de seguir el comportament següent:",
+  "options": {
+   "a": "Una vida pràcticament normal.",
+   "b": "Repòs absolut.",
+   "c": "Dieta amb alt contingut de greixos.",
+   "d": "Restricció de líquids."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-10",
+  "stem": "En l’hepatitis vírica la presència de colúria, acòlia i icterícia caracteritza el període:",
+  "options": {
+   "a": "Prodròmic.",
+   "b": "D’estat.",
+   "c": "D’incubació.",
+   "d": "De convalescència."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-11",
+  "stem": "En el postoperatori dels malalts esplenectomitzats, quina de les següents manifestacions és més específica d’hemorràgia en aquests pacients?",
+  "options": {
+   "a": "Hipotensió arterial.",
+   "b": "Distensió abdominal.",
+   "c": "Augment de la PVC.",
+   "d": "Taquicàrdia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-12",
+  "stem": "Quin tipus d’hepatitis no produeix malaltia crònica?",
+  "options": {
+   "a": "Hepatitis A.",
+   "b": "Hepatitis B.",
+   "c": "Hepatitis C.",
+   "d": "Hepatitis D."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-13",
+  "stem": "Quines mesures recomanaríeu a malalts amb reflux gastroesofàgic?",
+  "options": {
+   "a": "Alçar el capçal de llit 15 º i estirar-se immediatament després de menjar.",
+   "b": "Prendre molts líquids i evitar esforços físics.",
+   "c": "Evitar roba de vestir ajustades i prendre relaxants musculars per controlar l’estrès.",
+   "d": "Fer de 5 a 6 menjades al dia poc voluminoses."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-14",
+  "stem": "Quan un postoperat gàstric (Billroth I o II) inicia tolerància per via oral cal:",
+  "options": {
+   "a": "Doner petites quantitats de menjar de manera freqüent.",
+   "b": "La dieta ha de tenir hidrats de carboni complexos i poques proteïnes.",
+   "c": "La fibra és important per tal d’afavorir el peristaltisme.",
+   "d": "És important que existeix un buida ràpid cap al duodè."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-15",
+  "stem": "En una colostomia permanent:",
+  "options": {
+   "a": "L’estoma es situa generalment en el quadrant abdominal esquerre inferior.",
+   "b": "Les bosses han de ser tancades i es recomana canviar-les diàriament.",
+   "c": "Les irrigacions diàries no són recomanables perquè irriten el budell.",
+   "d": "L’hemorràgia és la complicació més freqüent en el postoperatori immediat."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-16",
+  "stem": "En la pancreatitis aguda:",
+  "options": {
+   "a": "El signe més característic és l’esteatorrea.",
+   "b": "La morfina és el calmant d’elecció.",
+   "c": "La causa més freqüent és l’alcohol i malalties de vies biliars.",
+   "d": "En restaurar l’alimentació cal un aportament calòric important i dieta equilibrada."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-18",
+  "stem": "Quina és la via de transmissió de l’hepatitis A?",
+  "options": {
+   "a": "Via parenteral.",
+   "b": "Via perinatal.",
+   "c": "Via entèrica.",
+   "d": "Via endovenosa."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-19",
+  "stem": "Per un pacient amb hepatitis B que presenta anorèxia, quina és la dieta més adient?",
+  "options": {
+   "a": "Una dieta rica en greixos per augmentar l’aportació calòrica.",
+   "b": "Una dieta rica en carbohidrats i pobra en greixos.",
+   "c": "Una dieta enteral rica en suplements proteics.",
+   "d": "Una dieta hiperproteica, rica en fibra."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-20",
+  "stem": "Al pacient amb càncer d’esòfag, se li ha d’indicar que:",
+  "options": {
+   "a": "Eviti la ingesta d’aliments a temperatura ambient.",
+   "b": "No prengui antiàcids.",
+   "c": "Prengui mig got d’aigua a glopets després de cada àpat per netejar l’estómac.",
+   "d": "Després de menjar es posi al llit al més aviat possible per afavorir la digestió."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-21",
+  "stem": "El símptoma més significatiu de l’úlcera duodenal és:",
+  "options": {
+   "a": "Dolor abdominal d’1 a 2 hores després de menjar.",
+   "b": "Vòmit.",
+   "c": "Hemorràgia.",
+   "d": "Pèrdua de pes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-22",
+  "stem": "Quina afirmació és la correcta respecte a la colonoscòpia?",
+  "options": {
+   "a": "No cal la preparació del pacient, només ha de romandre en dejú des del dia abans.",
+   "b": "Està indicada en cas d’obstrucció intestinal o processos inflamatoris de l’intestí.",
+   "c": "Durant la prova es poden presentar complicacions com arítmies cardíaques, depressió respiratòria secundària als fàrmacs administrats prèviament o a reaccions vasovagals.",
+   "d": "És una prova exploratòria des del còlon sigmoide al cec on no es realitzen biòpsies."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-23",
+  "stem": "Quin és el tractament dietètic d’elecció en les primers hores d’una diarrea aguda?",
+  "options": {
+   "a": "Aigua d’arròs.",
+   "b": "Dejú.",
+   "c": "Suc de llimona.",
+   "d": "Te."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-24",
+  "stem": "En la nutrició parenteral per evitar l’esteatosi hepàtica es pot utilitzar com alternativa a la glucosa:",
+  "options": {
+   "a": "Aminoàcids.",
+   "b": "Vitamina B12.",
+   "c": "Xilitol.",
+   "d": "Magnesi."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-39",
+  "stem": "A una persona que presenta obesitat mòrbida si li ha fet un bypass gàstric mitjançant cirurgia bariàtrica i porta un drenatge amb pressió negativa en cavitat abdominal i mitges de compressió pneumàtica intermitent. Un augment de l’ompliment del drenatge amb contingut hemàtic i la instauració d’un quadre d’anèmia aguda faran sospitar:",
+  "options": {
+   "a": "Fugida anastomòtica.",
+   "b": "Hemorràgia extraluminal.",
+   "c": "Hemorràgia intraluminal.",
+   "d": "Síndrome de dumping."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-43",
+  "stem": "Pacient amb diabetis mellitus, varius esofàgiques, cirrosi hepàtica enòlica i dislipèmia amb descompensació ascítica i encefalopatia hepàtica. Les varius esofàgiques en aquest pacient poden ser provocades per:",
+  "options": {
+   "a": "Ascitis.",
+   "b": "Hipertensió portal.",
+   "c": "Hemorràgia digestiva alta.",
+   "d": "Esplenomegàlia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-248-48",
+  "stem": "Durant un ingrés hospitalari, el sr Lluís ha presentat restrenyiment. Assenyaleu quina de les següents no és una complicació del restrenyiment:",
+  "options": {
+   "a": "Megacòlon.",
+   "b": "Fissures anals.",
+   "c": "Retenció fecal.",
+   "d": "Hipotensió arterial."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-1",
+  "stem": "Entenem com a necessitat sentida:",
+  "options": {
+   "a": "La definida per un expert.",
+   "b": "L’obtinguda a través l’anàlisi de la utilització dels serveis sanitaris.",
+   "c": "La percepció de l’individu o de la població sobre els seus problemes de salut.",
+   "d": "Qualsevol demanda de l’individu.",
+   "e": "La identificada pels professionals."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-2",
+  "stem": "Quin dels següents patrons de resposta humana no pertany als 9 que formen el marc organitzatiu per a la taxonomia diagnòstica d’infermeria?",
+  "options": {
+   "a": "Intercanvi.",
+   "b": "Moviment.",
+   "c": "Coneixement.",
+   "d": "Relacions.",
+   "e": "Motivacions."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-3",
+  "stem": "El concepte de persona com “un tot complex de 14 necessitats bàsiques” pertany al model de la teoritzadora:",
+  "options": {
+   "a": "D. Orem.",
+   "b": "I. King.",
+   "c": "H. Peplau.",
+   "d": "V. Henderson."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-4",
+  "stem": "Respecte als conceptes observacionals és fals que:",
+  "options": {
+   "a": "Estiguin limitats pel temps i l’espai.",
+   "b": "Es distingeixen d’altres conceptes sense cap dubte.",
+   "c": "No siguin indicacions absolutes i fidedignes.",
+   "d": "Necessitin poques característiques identificables."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-5",
+  "stem": "Els modes adaptatius que proposa C. Roy en el seu model són:",
+  "options": {
+   "a": "Necessitats fisiològiques, autoconcepte.",
+   "b": "Desenvolupament del rol, interdependència.",
+   "c": "Contextual, residual, focal.",
+   "d": "a i b són correctes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-6",
+  "stem": "Les fonts de recollida d’informació en l’etapa de valoració del procés d’infermeria són:",
+  "options": {
+   "a": "Les dades objectives i subjectives que s’obtenen del pacient.",
+   "b": "L’observació sistemàtica.",
+   "c": "El pacient, família, registres i història clínica.",
+   "d": "Les dades que s’obtenen de la valoració física cefalocaudal."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-7",
+  "stem": "La formulació dels objectius o resultats del client derivats dels diagnòstics d’infermeria han de:",
+  "options": {
+   "a": "Tenir com a subjecte la infermera.",
+   "b": "Identificar només un comportament per objectiu.",
+   "c": "Ser formulats com a metes a curt termini.",
+   "d": "Identificar característiques definitòries dels diagnòstics d’infermeria."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-8",
+  "stem": "En l’etapa de l’avaluació del procés d’infermeria es pot afirmar que:",
+  "options": {
+   "a": "Els criteris de resultats han de ser congruents amb els objectius marcats.",
+   "b": "Els criteris de resultats han de ser congruents amb les activitats proposades.",
+   "c": "S’avalua només la capacitat del client/família per participar en les cures.",
+   "d": "Només s’avalua l’assoliment d’objectius."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-9",
+  "stem": "La manera comuna de respondre a una situació concreta, decidida per un grup de persones amb criteris unificats d’actuació, a quin terme correspon?",
+  "options": {
+   "a": "Un programa.",
+   "b": "Una planificació.",
+   "c": "Un protocol.",
+   "d": "Un pla de salut."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-10",
+  "stem": "Quina de les següents respostes correspon a un exemple del rol d’infermeria de col·laboració i vigilància dins l’EAP?",
+  "options": {
+   "a": "Planificar conjuntament amb la família un pla de cures.",
+   "b": "Identificar el nivell de dependència del pacient.",
+   "c": "Aplicar els criteris de suplència adequats a la persona.",
+   "d": "Efectuar la prova PPD a individus de risc."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-11",
+  "stem": "Per donar identitat, coherència i contingut a les actuacions d’infermeria, què és imprescindible utilitzar?",
+  "options": {
+   "a": "La metodologia científica.",
+   "b": "Un registre sistematitzat.",
+   "c": "Un model conceptual d’infermeria.",
+   "d": "Plans de cures estandarditzats."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-12",
+  "stem": "En l’etapa de planificació del procés d’infermeria, què es determina?",
+  "options": {
+   "a": "El grau de dependència o independència de cada necessitat.",
+   "b": "Els problemes de salut i les seves causes.",
+   "c": "Els criteris que ens indiquen els nivells d’independència adquirits.",
+   "d": "Els objectius i les activitats adequades."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-14",
+  "stem": "Segons el model de Virginia Henderson quina de les següents respostes té una relació directa amb la planificació de les activitats?",
+  "options": {
+   "a": "El dèficit d’autocura terapèutica i el sistema d’infermeria dissenyat.",
+   "b": "El tipus de suplència que s’ha escollit i la causa de dificultat.",
+   "c": "El comportament inadaptat i els estímuls sobre els que hem d’incidir.",
+   "d": "La necessitat d’ajut i la relació interpersonal terapèutica."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-15",
+  "stem": "En una valoració d’infermeria trobem indicis d’un problema de salut però manquen dades per afirmar-ho o negar-ho. Què podem formular?",
+  "options": {
+   "a": "Un diagnòstic d’infermeria real.",
+   "b": "Un diagnòstic d’infermeria potencial.",
+   "c": "Un diagnòstic d’infermeria possible.",
+   "d": "Un diagnòstic de salut o benestar."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-16",
+  "stem": "Quin model d’infermeria estableix com a causes de dificultat la manca de força, coneixements i/o voluntat?",
+  "options": {
+   "a": "Dorothea Orem.",
+   "b": "HildegardPeplau.",
+   "c": "Callista Roy.",
+   "d": "Virginia Henderson."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-17",
+  "stem": "Quins dels següents factors influeixen en la satisfacció de les 14 necessitats bàsiques segons Virginia Henderson?",
+  "options": {
+   "a": "Factors de dependència i/o factors d’independència.",
+   "b": "Factors de suplència total o parcial.",
+   "c": "Factors biofisiològics, psíquics, socioculturals i espirituals.",
+   "d": "a i b són correctes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-18",
+  "stem": "En relació amb els protocols de procés diagnòstic quina afirmació és correcta?",
+  "options": {
+   "a": "No existeixen a l’atenció primària.",
+   "b": "Inclouen accions a realitzar.",
+   "c": "Fixen pautes terapèutiques.",
+   "d": "Totes les respostes són certes-"
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-19",
+  "stem": "Quin dels aspectes següents està inclòs a la fase de planificació d’un protocol?",
+  "options": {
+   "a": "Selecció del tema.",
+   "b": "Revisió pels experts.",
+   "c": "Construir mesures de monitorització.",
+   "d": "a i b són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-20",
+  "stem": "A quina fase del procés d’infermeria s’ha d’incloure la resposta del pacient a les activitats de la infermera?",
+  "options": {
+   "a": "Planificació",
+   "b": "Avaluació.",
+   "c": "Valoració.",
+   "d": "Execució."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-23",
+  "stem": "Quina teòrica d’infermeria considera que la persona té tres necessitats de salut fonamentals: informació sanitària útil i oportuna, cures per prevenir les malalties i ajut quan les demandes d’autocura no poder ser satisfetes?",
+  "options": {
+   "a": "Orem.",
+   "b": "Roy.",
+   "c": "King.",
+   "d": "Parse."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-24",
+  "stem": "La infermera atén el senyor R. A. que presenta els següents signes i símptomes: és invident. El pacient afirma que cau i es dona cops amb freqüència. També ens indica confusió quan és fora de casa. Mostra un hematoma important a la part dreta de la cara, el pacient afirma que s’ho va fer amb la porta oberta de l’armari. Amb aquestes dades, quina etiqueta diagnòstica identifiquem?",
+  "options": {
+   "a": "Risc de deteriorament de la integritat cutània.",
+   "b": "Deteriorament de la mobilitat física.",
+   "c": "Síndrome de deteriorament en la interpretació de l’entorn.",
+   "d": "Risc de traumatisme."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-25",
+  "stem": "Com s’anomenen les evidències clíniques que descriuen una sèrie de conductes o manifestacions objectives i subjectives que indiquen la presència d’una etiqueta diagnòstica?",
+  "options": {
+   "a": "Factors relacionals.",
+   "b": "Factors de risc.",
+   "c": "Característiques definitòries.",
+   "d": "Problemes interdependents."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-26",
+  "stem": "Quins són els tres nivells de la funció d’infermera que identifica Virginia Henderson?",
+  "options": {
+   "a": "Orientar, identificar i suplir.",
+   "b": "Suplir, ajudar i acompanyar.",
+   "c": "Identificar, prestar cures i ajudar.",
+   "d": "Valorar, planificar i acompanyar."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-27",
+  "stem": "En quina de les diferents etapes del procés d’atenció establirem la interrelació d’unes necessitats amb d’altres segons el model de Virginia Henderson?",
+  "options": {
+   "a": "Execució avaluació.",
+   "b": "Planificació i execució.",
+   "c": "Valoració i diagnòstic.",
+   "d": "En totes les etapes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-28",
+  "stem": "Segons el model de Virginia Henderson quina de les respostes següents determinarà el tipus d’actuació de la infermera en el desenvolupament del rol propi?",
+  "options": {
+   "a": "El nombre de necessitats alterades.",
+   "b": "Els factors que influeixen en la satisfacció de les necessitats.",
+   "c": "Els aspectes socioculturals i de l’entorn físic.",
+   "d": "El grau de dependència identificat."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-29",
+  "stem": "En quina necessitat es valora la capacitat de la persona per prevenir les malalties infeccioses en el model de Virginia Henderson?",
+  "options": {
+   "a": "Aprendre.",
+   "b": "Respirar.",
+   "c": "Evitar perills.",
+   "d": "Higiene i protecció de la pell."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-30",
+  "stem": "Segons el model conceptual de Virginia Henderson en quina necessitat valorarem l’existència de dèficits sensorials?",
+  "options": {
+   "a": "Dormir i descansar.",
+   "b": "Evitar perills.",
+   "c": "Mantenir la temperatura en límits normals.",
+   "d": "Vestir-se i desvestir-se."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-31",
+  "stem": "La senyora C. L. Presenta el diagnòstic d’infermeria següents: risc de deteriorament de la integritat cutània relacionada amb immobilitat. Quina de les evidències següents ens permetrà justificar aquest enunciat?",
+  "options": {
+   "a": "Una nafra per decúbit al taló dret.",
+   "b": "Una nafra varicosa a la cama esquerra.",
+   "c": "Romandre enllitada més de 20 hores al dia.",
+   "d": "Totes les respostes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-32",
+  "stem": "Segons el model conceptual de Dorothea Orem què es pretén aconseguir mitjançant les atencions d’infermeria?",
+  "options": {
+   "a": "Respostes adaptatives que conservin la totalitat.",
+   "b": "Canvis en els patrons sanitaris.",
+   "c": "Respostes adaptatives als estímuls.",
+   "d": "Un nivell òptim d’autocura."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-33",
+  "stem": "A quina fase del procés d’atenció d’infermeria s’ha d’incloure la identificació dels problemes?",
+  "options": {
+   "a": "Valoració.",
+   "b": "Planificació.",
+   "c": "Diagnòstic.",
+   "d": "Avaluació."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-34",
+  "stem": "El model conceptual de Virginia Henderson és aplicable en totes les etapes del procés d’atenció d’infermeria. Quina de les respostes següents es correspon amb les determinacions de l’etapa de valoració/recollida de dades?",
+  "options": {
+   "a": "Les fonts de la dificultat per satisfer les 14 necessitats.",
+   "b": "La formulació d’objectius d’independència basats en les causes de dificultat.",
+   "c": "Determinar quins han de ser els criteris de resultat.",
+   "d": "El grau d’independència/dependència en la satisfacció de les 14 necessitats."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-35",
+  "stem": "Assenyaleu quina de les afirmacions sobre els patrons de resposta humana és certa:",
+  "options": {
+   "a": "Es tracta d’un marc teòric per prioritat els diagnòstics d’infermeria.",
+   "b": "En l’actualitat els patrons acceptats per la NANDA han augmentat fins a 12 per facilitar l’elaboració de nous diagnòstics.",
+   "c": "Són utilitzats com a guia de la valoració.",
+   "d": "Representen les manifestacions de les interaccions de la persona i el seu entorn."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-36",
+  "stem": "Què s’anomena independència segons el model de Virginia Henderson?",
+  "options": {
+   "a": "Nivell òptim de desenvolupament del potencial de la persona per satisfer les necessitats bàsiques, d’acord amb la seva situació de vida.",
+   "b": "Conjunt d’intervencions terapèutiques, reflexionades i deliberades basades en un judici professional raonat, dirigit a satisfer les necessitats bàsiques de la persona.",
+   "c": "Capacitat física i psíquica de la persona que li permet satisfer les necessitats bàsiques mitjançant accions realitzades per ella mateixa.",
+   "d": "Comportaments de la persona que resulten incorrectes, inadequats o insuficients per satisfer les necessitats bàsiques."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-37",
+  "stem": "Què és el procés d’infermeria?",
+  "options": {
+   "a": "Una anàlisi de les dades i la formulació d’una definició o conclusió sobre una situació.",
+   "b": "La identificació dels objectius que s’han d’aconseguir i de les actuacions més oportunes per aconseguir.",
+   "c": "Un mètode sistemàtic de brindar cures humanistes i eficients, centrades a aconseguir els resultats esperats.",
+   "d": "Determinació de l’eficàcia de la intervenció en termes d’aconseguir els objectius."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-38",
+  "stem": "Quin d’aquests components representa un element fonamental del model de Virginia Henderson?",
+  "options": {
+   "a": "Postulats.",
+   "b": "Teories.",
+   "c": "Fonts de dificultat.",
+   "d": "La salut."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-39",
+  "stem": "Què anomenem font de dificultat en el model de Virginia Henderson?",
+  "options": {
+   "a": "La causa de dependència de l’individu.",
+   "b": "El compliment del pla.",
+   "c": "Conservar o recuperar la independència.",
+   "d": "Les intervencions de suplència."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-40",
+  "stem": "Determineu quins dels factors que es citen a continuació són capaços de condicionar la independència en la satisfacció de la necessitat de comunicació:",
+  "options": {
+   "a": "L’estat físic i la situació social.",
+   "b": "L’estat físic i psíquic.",
+   "c": "L’estat físic i psíquic, i la situació social.",
+   "d": "La possibilitat de relacionar-se anant a llocs on vagin altres persones grans."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-41",
+  "stem": "A quin corrent de pensament filosòfic correspon el model conceptual de Virginia Henderson?",
+  "options": {
+   "a": "Categorització.",
+   "b": "Integració.",
+   "c": "Transformació.",
+   "d": "Cures integrals."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-42",
+  "stem": "Els postulats i valors són components de:",
+  "options": {
+   "a": "Un diagnòstic d’infermeria.",
+   "b": "Un pla de cures.",
+   "c": "Un model conceptual.",
+   "d": "Una avaluació del procés de cures."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-43",
+  "stem": "Un model conceptual segons Phaneuf és:",
+  "options": {
+   "a": "Un instrument lògic i sistemàtic.",
+   "b": "Una imatge mental de la realitat.",
+   "c": "Un cos de coneixements.",
+   "d": "Uns nivells d’intervenció."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-44",
+  "stem": "En fer la valoració d’infermeria i segons Virginia Henderson, en quina necessitat reflectiríeu el concepte de salut i malaltia?",
+  "options": {
+   "a": "Valor i creences.",
+   "b": "Comunicació.",
+   "c": "Seguretat.",
+   "d": "Aprendre."
+  },
+  "source_label": "Examen oficial ICS · ATENCIO PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-46",
+  "stem": "El procés d’atenció d’infermeria:",
+  "options": {
+   "a": "És sistemàtic perquè parteix d’un plantejament estructurat.",
+   "b": "S’orienta a les respostes humanes i la seva naturalesa dinàmica afavoreix la retroalimentació.",
+   "c": "Impedeix omissions, repeticions i afavoreix la individualització de les cures d’infermeria.",
+   "d": "Totes les afirmacions són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-47",
+  "stem": "La descripció exacta d’unes activitats específiques, les condicions en què s’executen i els passos que cal seguir és la definició de:",
+  "options": {
+   "a": "Una norma.",
+   "b": "Un criteri.",
+   "c": "Un protocol.",
+   "d": "Un estàndard."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-48",
+  "stem": "Les intervencions de la infermera en els problemes interdependents o de col·laboració són:",
+  "options": {
+   "a": "Identificar i tractar les respostes d’un individu, família o comunitat a problemes de salut reals o potencials.",
+   "b": "Detectar signes i símptomes de complicacions que necessiten intervencions prescrites pel metge i per la infermera.",
+   "c": "Detectar i tractar el problema, iniciar un pla de tractament independent per prevenir, corregir o manejar un problema.",
+   "d": "Col·laborar amb el metge per iniciar un pla de tractament global amb la finalitat de prevenir, corregir o tractar un problema."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-49",
+  "stem": "Quines són les activitats que realitza la infermera en l’etapa de la valoració?",
+  "options": {
+   "a": "Identificar els problemes del pacient.",
+   "b": "Establir els objectius del pacient o criteris de resultat.",
+   "c": "Posar en pràctica el pla de cures.",
+   "d": "Recollir les dades, validar-les i organitzar-les segons la classificació conceptual."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-50",
+  "stem": "El model conceptual de Virginia Henderson és representatiu de l’escola de:",
+  "options": {
+   "a": "Les necessitats.",
+   "b": "La interacció.",
+   "c": "D’objectius.",
+   "d": "Del caring."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-51",
+  "stem": "La valoració que es fa per a reunir informació detallada sobre un problema específic o àrea dubtosa s’anomena valoració:",
+  "options": {
+   "a": "Focalitzada.",
+   "b": "De les dades bàsiques.",
+   "c": "A l’ingrés.",
+   "d": "De les dades de seguiment."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-52",
+  "stem": "Els plans de cures estandarditzats són un protocol:",
+  "options": {
+   "a": "Específic de cures que inclou la valoració detallada de la persona, els problemes, les intervencions d’infermeria i els resultats esperats.",
+   "b": "Específic de cures amb la descripció ordenada de les intervencions d’infermeria que s’han de portar a terme davant d’una situació determinada.",
+   "c": "Específic de cures en què es defineixen les respostes d’una persona o grup davant de problemes habituals predictibles associats a un determinat diagnòstic.",
+   "d": "D’accions prescrites per prevenir, resoldre o controlar un diagnòstic d’infermeria o un problema interdependent o de col·laboració."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-53",
+  "stem": "A quina autora correspon el model d’infermeria basat en la teoria de l’autocura, teoria del dèficit d’autocura i teoria dels sistemes generals?",
+  "options": {
+   "a": "Dorothea Orem.",
+   "b": "Virginia Henderson.",
+   "c": "Callista Roy.",
+   "d": "Martha Rogers."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-54",
+  "stem": "La recollida completa de dades inclou dos tipus de valoració d’infermeria:",
+  "options": {
+   "a": "Valoració de dades bàsiques i valoració focalitzada.",
+   "b": "Valoració inicial i valoració temporal.",
+   "c": "Valoració sistemàtica i completa.",
+   "d": "Valoració inicial i específica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-55",
+  "stem": "Les etapes del procés científic aplicat a les cures d’infermeria són:",
+  "options": {
+   "a": "Recollida de dades, planificació i avaluació.",
+   "b": "Recollida de dades, anàlisi i execució.",
+   "c": "Recollida de dades, anàlisi, planificació, execució i avaluació.",
+   "d": "Recollida de dades, anàlisi, execució i avaluació."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-56",
+  "stem": "El protocol proporciona al infermera:",
+  "options": {
+   "a": "Coneixements i experiència.",
+   "b": "Habilitats i coneixements.",
+   "c": "Seguretat i experiència.",
+   "d": "Coneixements i saber fer."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-57",
+  "stem": "Indiqui els avantatges de fer servir protocols de cures:",
+  "options": {
+   "a": "Millorar l’eficàcia de les cures i contribuir a la qualitat de les cures.",
+   "b": "Estalviar càrregues de treball.",
+   "c": "Millorar el benestar del malalt.",
+   "d": "Estalviar recursos."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-58",
+  "stem": "Segons el model conceptual de Virginia Henderson les fonts de dificultat que troba el client en la satisfacció de les necessitats fonamentals són:",
+  "options": {
+   "a": "Una falta de força i voluntat.",
+   "b": "Una falta de coneixements.",
+   "c": "Una falta de força física, de voluntat i de coneixements.",
+   "d": "Una falta de coneixements i de força."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-59",
+  "stem": "En referència a les teories i models d’infermeria, la teoria de l’autocura a qui pertany?",
+  "options": {
+   "a": "Dorothea E. Orem.",
+   "b": "Martha Rogers.",
+   "c": "Myra E. Levine.",
+   "d": "Virginia Henderson."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALES DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-60",
+  "stem": "Un judici clínic sobre la resposta d’una persona, família o comunitat a processos vitals i/o problemes de salut reals o potencials que proporcionen la base de la teràpia per a la consecució d’objectius responsabilitat de l’infermer/a és?",
+  "options": {
+   "a": "Un problema de salut.",
+   "b": "Un diagnòstic infermer.",
+   "c": "Una activitat infermera.",
+   "d": "Un problema d’autonomia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALES DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-61",
+  "stem": "Quines són les etapes del procés infermer?",
+  "options": {
+   "a": "Valoració, diagnòstic, planificació, execució, avaluació.",
+   "b": "Diagnòstic, valoració, planificació, objectius, resultats.",
+   "c": "Valoració, diagnòstic.",
+   "d": "Valoració, planificació, execució."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALES DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-62",
+  "stem": "Faye G. Abdellah va descriure una llista de problemes d’infermeria o de necessitats de salut del client, quantes eren?",
+  "options": {
+   "a": "14.",
+   "b": "10.",
+   "c": "21.",
+   "d": "9."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALES DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-249-82",
+  "stem": "La infermera ja ha finalitzat la valoració del sr. Joan i tot seguit ha de fixar els objectius, intervencions i activitats que cal dur a terme. En quina fase del procés infermer es fixen els objectius i es determinen les intervencions i activitats?",
+  "options": {
+   "a": "En la fase de planificació.",
+   "b": "En la fase de diagnòstic.",
+   "c": "En la fase de valoració.",
+   "d": "En la fase d’execució."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-1",
+  "stem": "Els factors de risc més reconeguts per patir càncer d’endometri són:",
+  "options": {
+   "a": "Menarquia precoç.",
+   "b": "Contracepció hormonal, tabaquisme i obesitat.",
+   "c": "Dismenorrees i menstruacions abundants.",
+   "d": "Endometriosi i tabaquisme.",
+   "e": "Obesitat, intolerància a la glucosa i ús d’estrògens."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-2",
+  "stem": "Identifiqueu quina és l’afirmació certa en relació amb el càncer de mama:",
+  "options": {
+   "a": "És un tipus de càncer prevenible si s’instauren mesures adequades a nivell de prevenció primària.",
+   "b": "En l’actualitat no existeixen evidències de la utilitat de l’autoexploració mamària com a mètode de detecció.",
+   "c": "La seva incidència es manté constant en els darrers anys a Europa.",
+   "d": "La transcendència del càncer de mama estriba en el nombre de invalideses i seqüeles que genera.",
+   "e": "La mamografia sistemàtica anual en els dones menors de 50 anys redueix la mortalitat per càncer de mama."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-3",
+  "stem": "Senyaleu quina és la primera causa de mortalitat en dones referida als anys de vida perdut:",
+  "options": {
+   "a": "Accidents vasculars.",
+   "b": "Malaltia coronària.",
+   "c": "Causes externes.",
+   "d": "Càncer de mama.",
+   "e": "Càncer de pulmó."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-4",
+  "stem": "Quina és l’activitat preventiva sistemàtica a realitzar a totes les dones a partir dels 50 anys en relació al càncer d’endometri?",
+  "options": {
+   "a": "Interrogatori sobre hemorràgies postmenopàusiques.",
+   "b": "Realització de la prova de Papanicolau.",
+   "c": "Exploració ginecològica periòdica.",
+   "d": "Cribratge mitjançant mostres histològiques d’endometri."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-5",
+  "stem": "Quin efecte secundari és atribuïble a l’anticoncepció hormonal?",
+  "options": {
+   "a": "Oligomenorrea.",
+   "b": "Hipermenorrea.",
+   "c": "Hipomenorrea.",
+   "d": "Disparèunia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-6",
+  "stem": "Respecte al preservatiu femení podem afirmar que:",
+  "options": {
+   "a": "És de difícil adquisició, ja que no es comercialitza al nostre país.",
+   "b": "N’hi ha de diferents mides per adaptar-se a nul·lípares i multípares.",
+   "c": "Només protegeix enfront l’embaràs.",
+   "d": "Dóna protecció davant les malalties de transmissió sexual (MTS)."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-7",
+  "stem": "Quin és el moment idoni per col·locar un dispositiu intrauterí (DIU):",
+  "options": {
+   "a": "Durant la menstruació.",
+   "b": "En els períodes intermenstruals.",
+   "c": "En el postpart immediat.",
+   "d": "En qualsevol moment."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-8",
+  "stem": "La sra. V. D. està embarassada, en interrogar-la sobre el tipus de dieta, ens diu que fa una dieta vegetariana estricta. Quina de les següents recomanacions és la més apropiada?",
+  "options": {
+   "a": "Augmentar la ingesta de llegums.",
+   "b": "Fer una dieta ovolactovegetariàna.",
+   "c": "Continuar amb la mateixa dieta.",
+   "d": "Augmentar la ingesta de fruita fresca, sobretot de cítrics."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-9",
+  "stem": "Efectuem una visita domiciliària a la sra. I. F. que pateix un linfedema postmastectomia. Quina de les següents recomanacions no li farem?",
+  "options": {
+   "a": "Ha de tenir cura amb els ganivets de cuina i les agulles de cosir (utilitzar didals).",
+   "b": "La roba no ha de prémer el pit ni l’espatlla.",
+   "c": "Ha de fer períodes de repòs asseguda amb freqüència.",
+   "d": "Ha d’utilitzar guants de goma a les feines de la llar."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-10",
+  "stem": "C. G. és una dona de 20 anys. A l’actualitat pren contraceptius orals combinats. Per un problema d’acne se li ha prescrit la ingesta perllongada de tetraciclines. Quin consell li donarem?",
+  "options": {
+   "a": "Continuar la pauta establerta com abans.",
+   "b": "Afegir un altre mètode anticonceptiu mentre prengui tetraciclines.",
+   "c": "Afegir un altre mètode anticonceptiu només les 2 primeres setmanes de prendre les tetraciclines.",
+   "d": "Afegir un altre mètode anticonceptiu fins a la propera menstruació."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-11",
+  "stem": "Quin és un efecte secundari no atribuïble als anticonceptius hormonals:",
+  "options": {
+   "a": "Nàusees.",
+   "b": "Hipermenorrea.",
+   "c": "Cefalees.",
+   "d": "Augment de pes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-12",
+  "stem": "La pacient M. A. presenta leucorrea espessa i blanca amb grumolls. Amb quina malaltia està relacionada aquesta simptomatologia?",
+  "options": {
+   "a": "Gonocòccia.",
+   "b": "Tricomoniasi.",
+   "c": "Micosi.",
+   "d": "Infecció per gardnerella."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-13",
+  "stem": "Tots els supòsits excepte un corresponen a la síndrome premenstrual, assenyaleu-lo:",
+  "options": {
+   "a": "Cursa amb retenció de líquids, congestió mamària i hipersensibilitat prèvia a la menstruació.",
+   "b": "La síndrome és produïda per un augment de la progesterona.",
+   "c": "Els símptomes empitjoren durant els cicles ovulatoris.",
+   "d": "Els símptomes desapareixen en iniciar-se l’hemorràgia menstrual."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-14",
+  "stem": "La infermera detecta que la senyora Lluïsa no ha anat mai al ginecòleg. Quina actuació en vers la vigilància del càncer de cèrvix és l’adequada en dones de 65 anys o més?",
+  "options": {
+   "a": "Practicar una citologia cada any fins als 80 anys.",
+   "b": "Practicar dues citologies.",
+   "c": "No és imprescindible practicar citologia.",
+   "d": "Es recomana practicar solament una citologia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-15",
+  "stem": "La Marta té 16 anys i va a la consulta de la infermera per demanar-li la píndola de l’endemà. De les instruccions que li ha de donar la infermera, segons els consell per als pacients en la contracepció d’emergència, quina no és certa?",
+  "options": {
+   "a": "Cal que prengui els 2 comprimits junts abans de les 72 hores després de la relació sexual coital.",
+   "b": "Si vomita abans que hagin passat 3 hores de la presa dels comprimits cal fer tractament per als vòmits i tornar-los a prendre.",
+   "c": "La regla li ha de venir, com a màxim, 6 setmanes després del tractament i, si no és així, s’ha de fer la prova de l’embaràs.",
+   "d": "Recomanarà la utilització del preservatiu en properes relacions ja que evita l’embaràs i les infeccions de transmissió sexual."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-16",
+  "stem": "L’Elena ens consulta sobre sexualitat. Respecte a la contracepció d’emergència és cert que:",
+  "options": {
+   "a": "La menstruació ha de venir com a màxim al cap de 3 setmanes del tractament.",
+   "b": "Prevé l’embaràs durant tot el cicle.",
+   "c": "Només és efectiu dins les 24 hores postcoitals.",
+   "d": "Està contraindicada si està fent tractament amb anticonceptius orals."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-250-17",
+  "stem": "La mastectomia radical modificada consisteix en l’extirpació de:",
+  "options": {
+   "a": "Tumor i ganglis axil·lars.",
+   "b": "Teixit mamari, ganglis limfàtics i pectoral menor.",
+   "c": "Tot el teixit mamari i ganglis axil·lars.",
+   "d": "Tot el teixit mamari."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-1",
+  "stem": "Per prevenir el goll la mesura més estesa en l’actualitat és:",
+  "options": {
+   "a": "Ingesta de substàncies que generen goll.",
+   "b": "Administració d’iode per via parenteral.",
+   "c": "Iodació de la sal de taula.",
+   "d": "Administració d’hormones tiroidees.",
+   "e": "Realitzar activitats de promoció de la salut."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-2",
+  "stem": "L’objectiu fonamental de l’exploració del peu diabètic és:",
+  "options": {
+   "a": "Valorar la coloració per detectar úlceres i alteracions vasculars.",
+   "b": "Avaluació dels polsos pedis i l’oscil·lometria.",
+   "c": "Observació de la higiene del peu, espais interdigitals i la cura de les ungles.",
+   "d": "Detecció de signes de risc sensitiu-motors vasculars.",
+   "e": "Valoració del compliment de les normes d’educació (cures de la pell, ungles, calçat, proteccions, etc)."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-3",
+  "stem": "En un pacient diabètic mal compensat, quin efecte produeix l’exercici físic?",
+  "options": {
+   "a": "Beneficiós ja que disminueix el nivell de glicèmia.",
+   "b": "Beneficiós ja que disminueix el nivell de glicèmia i augmenta el nivell d’àcids grassos lliures.",
+   "c": "Nociu ja que hi ha un augment de cossos cetònics i d’altres hormones contrareguladores.",
+   "d": "Nociu si no s’ha previst adequadament la hipoglicèmia.",
+   "e": "Beneficiós perquè és una mesura de control de la diabetis."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-4",
+  "stem": "Quin símptoma no correspon a una hipoglicèmia?",
+  "options": {
+   "a": "Bradicàrdia.",
+   "b": "Midriasi.",
+   "c": "Areflèxia.",
+   "d": "Cefalea.",
+   "e": "Convulsions."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-5",
+  "stem": "Respecte a un pacient diabètic que realitza exercici físic intens podem afirmar que:",
+  "options": {
+   "a": "Haurà de reduir els hipoglucemiants orals quan augmenti l’exercici físic.",
+   "b": "L’exercici augmenta la resistència a la insulina.",
+   "c": "No és recomanable si l’exercici és de resistència.",
+   "d": "L’exercici augmenta la sensibilitat a la insulina durant diverses hores.",
+   "e": "L’exercici ha de formar part de la rutina diària i no s’augmentarà mai pel risc d’hipoglicèmies."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-6",
+  "stem": "L’objectiu fonamental de l’alimentació en la diabetis mellitus és:",
+  "options": {
+   "a": "Reduir la ingesta d’hidrats de carboni simples.",
+   "b": "Mantenir un equilibri metabòlic normal.",
+   "c": "Mantenir l’aportació proteica d’una dieta equilibrada.",
+   "d": "Augmentar el consum de fibra vegetal per reduir hiperglicèmies postingesta.",
+   "e": "Mantenir una ingesta regular i constant d’hidrats de carboni complexos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-7",
+  "stem": "Un pacient diabètic aporta el següent perfil glicèmic preprandial: 1 – 120 mg/dl; 2 – 130 mg/dl; 3 – 180 mg/dl. Què li diríeu?",
+  "options": {
+   "a": "Que redueixi la ingesta d’hidrats de carboni.",
+   "b": "Que augmenti l’exercici físic a la tarda.",
+   "c": "Que està ben controlat.",
+   "d": "Que prengui un suplement abans d’anar a dormir."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-8",
+  "stem": "20 UI d’insulina 20/80 significa que són:",
+  "options": {
+   "a": "20 UI sobre un total de 80.",
+   "b": "4 UI d’insulina regular i 16 UI d’intermitja.",
+   "c": "4 UI d’insulina ràpida i 16 UI de lenta.",
+   "d": "20 UI d’insulina intermitja."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-9",
+  "stem": "Una ració de glúcids (10 gr) equival a:",
+  "options": {
+   "a": "250 gr de mongetes tendres.",
+   "b": "150 gr de meló.",
+   "c": "30 gr de cigrons secs.",
+   "d": "20 gr de pa blanc."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-10",
+  "stem": "En la dieta d’un nen diabètic haurem de:",
+  "options": {
+   "a": "Restringir els aliments rics en fibra.",
+   "b": "Calcular les necessitats calòriques igual que les d’un nen normal, de la mateixa edat, sexe i activitat.",
+   "c": "Augmentar la quantitat d’hidrats de carboni molt refinat.",
+   "d": "Totes les respostes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-11",
+  "stem": "El nivell crític de glucosa a la sang per sota del qual es produeix el coma hipoglicèmic és al voltant de:",
+  "options": {
+   "a": "40 mg/100 ml sang.",
+   "b": "50 mg/100 ml sang.",
+   "c": "60 mg/100 ml sang.",
+   "d": "80 mg/100 ml sang."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-12",
+  "stem": "Quina de les següents és una complicació crònica de la diabetis mellitus?",
+  "options": {
+   "a": "La cetoacidosi.",
+   "b": "El coma hiperosmolar.",
+   "c": "La hipoglicèmia.",
+   "d": "La neuropatia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-13",
+  "stem": "En l’alimentació de la persona diabètica, quina de les següents afirmacions és certa?",
+  "options": {
+   "a": "Els hidrats de carboni d’absorció ràpida han de constituir el 50 – 60 % de l’aportació calòrica total.",
+   "b": "Les proteïnes han de constituir el 40 % de l’aportació calòrica total.",
+   "c": "Les grasses poliinsaturades s’han de reduir per prevenir la hiperlipèmia.",
+   "d": "Els aliments amb alt contingut de sacarosa s’han de restringir."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-14",
+  "stem": "Per explicar a un diabètic com intercanviar els aliments glucídics en molts casos s’utilitza el concepte de ració. Què és una ració?",
+  "options": {
+   "a": "Quantitat d’aliment que conté 10 grams d’hidrats de carboni.",
+   "b": "Quantitat d’aliment que conté 15 grams de proteïnes.",
+   "c": "Quantitat d’aliment que conté un plat de postres.",
+   "d": "Quantitat d’aliment que conté una tassa de cafè."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-15",
+  "stem": "El sr. M. V. és diabètic i corre una hora diària. Què li recomanaríem per evitar el risc d’hipoglucèmies?",
+  "options": {
+   "a": "Ingerir un suplement proteic immediatament després de l’exercici.",
+   "b": "Ingerir 20 gr d’hidrats de carboni abans de l’exercici.",
+   "c": "Injectar-se la insulina a la cama.",
+   "d": "Reduir la dosi d’insulina abans de l’exercici al menys 10 unitats."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-16",
+  "stem": "Davant d’un pacient diabètic inconscient i amb sospita d’hipoglucèmia quina ha de ser la primera actuació?",
+  "options": {
+   "a": "Donar-li un got de llet ensucrada.",
+   "b": "Administrar-li glucagon.",
+   "c": "Injectar-li insulina ràpida.",
+   "d": "Traslladar-lo a l’hospital més proper."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-17",
+  "stem": "Es considera una ració d’aliments glucídics aquella quantitat d’aliment que conté 10 grams d’hidrats de carboni. Quants grams d’arròs constitueixen una ració?",
+  "options": {
+   "a": "10.",
+   "b": "15.",
+   "c": "20.",
+   "d": "25."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-18",
+  "stem": "Quin dels pacients següents amb diabetis mellitus tenen risc de patir peu diabètic?",
+  "options": {
+   "a": "Persones fumadores.",
+   "b": "Persones amb alteració de l’estàtica del peu.",
+   "c": "Persones que neguen la seva malaltia.",
+   "d": "Totes les anteriors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-19",
+  "stem": "Existeixen diferents mètodes per avaluar el grau de control de la diabetis mellitus. Com s’anomena la prova que reflecteix el control de la glicèmia dels 2 als 4 mesos previs?",
+  "options": {
+   "a": "Glucosúria.",
+   "b": "Fructosamina.",
+   "c": "Hemoglobina glicada.",
+   "d": "Perfil glucèmic."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-20",
+  "stem": "En un pacient de 54 anys diabètic tipus 2 i normopès, quina serà la dosi inicial d’insulina?",
+  "options": {
+   "a": "0,1 U/kg pes/dia.",
+   "b": "0,3 U/kg pes/dia.",
+   "c": "0,5 U/kg pes/dia.",
+   "d": "0,7 U/kg pes/dia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-21",
+  "stem": "L’educació del malalt diabètic ha d’incloure la cura dels peus. Quin dels consells següents és el més adequat?",
+  "options": {
+   "a": "Llimar-se les durícies amb pedra tosca.",
+   "b": "Retallar-se les ungles curtes i arrodonides.",
+   "c": "Eixugar-se entre els dits amb un assecador d’aire calent.",
+   "d": "Rentar-se els peus amb l’aigua a una temperatura entre 40 º i 50 º C."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-22",
+  "stem": "La senyora M. M. ha d’administrar-se una insulina d’acció intermèdia (humulina NPH) dos cops al dia. Quant temps ha d’esperar per menjar després de l’administració de la insulina?",
+  "options": {
+   "a": "Immediatament.",
+   "b": "10 minuts.",
+   "c": "20 minuts.",
+   "d": "30 minuts."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-23",
+  "stem": "El senyor M. R. és un diabètic tipus I que travessa un període d’inapetència i no sap què menjar a l’hora de dinar. Què li recomanarem?",
+  "options": {
+   "a": "Una truita acompanyada de tomàquet amanit.",
+   "b": "Un estofat de carn amb patates.",
+   "c": "Un flam fet a casa amb edulcorant artificial.",
+   "d": "Una rodanxa de peix a la planxa amb enciam."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-24",
+  "stem": "En atenció primària s’utilitza de manera preferent per controlar la diabetis la prova d’hemoglobina glicada. Què mesura aquesta prova?",
+  "options": {
+   "a": "El perfil glucèmic.",
+   "b": "Les hiperglucèmies existents en els 2 – 4 mesos anteriors a la prova.",
+   "c": "Les hiperglucèmies existents en els 6 – 8 mesos anteriors a la prova.",
+   "d": "La tolerància oral a la glucosa."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-25",
+  "stem": "El sr. J. V. és un diabètic tipus II, quan la infermer li parla de la cura dels peus quin dels consells següents és el més adient?",
+  "options": {
+   "a": "Utilitzar pomades callicides.",
+   "b": "Retallar-se les ungles curtes i arrodonides.",
+   "c": "Rentar-se els peus diàriament amb aigua tèbia i sabó neutre.",
+   "d": "Fer-se diàriament una frega amb alcohol."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-26",
+  "stem": "Quin dels següents no és un criteri de bon control de la diabetis mellitus?",
+  "options": {
+   "a": "El cessament del consum del tabac.",
+   "b": "Una HbA1c inferior a 7,5 %.",
+   "c": "Una concentració de triglicèrids inferior a 150 mg/dl.",
+   "d": "Una pressió arterial inferior a 140/90 mmHg."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-27",
+  "stem": "Què és la glucogenòlisi?",
+  "options": {
+   "a": "És la degradació o catabolisme del glucogen amb formació de glucosa.",
+   "b": "Consisteix en la formació de glucosa a partir de molècules de naturalesa no glucídica.",
+   "c": "Els productes finals del catabolisme proteic.",
+   "d": "El nitrogen ingerit a través de l’alimentació."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-28",
+  "stem": "Quants glúcids haurien de contenir la dieta d’un diabètic juvenil en normopès?",
+  "options": {
+   "a": "El 50 – 55 % del total calòric.",
+   "b": "El 30 – 40 % del total calòric.",
+   "c": "El 70 % del total calòric.",
+   "d": "2 grams x kg x dia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-29",
+  "stem": "Des què ha arribat de l’hospital, la senyora Pilar R. no té gana, no fa bé els àpats. La Mary ens diu que li dóna el que a la senyora Pilar li ve de gust: “Ho faig perquè no tingui una baixada de sucre, sobretot li dono fruita”.\nQuina d’aquestes recomanacions és correcta?",
+  "options": {
+   "a": "És aconsellable menjar fruita amb la pela, ja que incrementa l’aportació de fibra.",
+   "b": "És aconsellable prendre un suc de fruita abans d’iniciar l’exercici físic.",
+   "c": "Els glúcids que aporten la fruita i els làctics s’han de limitar a un 30 % del total glucídic de la dieta del diabètic.",
+   "d": "Totes són correctes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-30",
+  "stem": "La Pilar R. presenta un quadre febril alt. Quina de les següents afirmacions no és correcta?",
+  "options": {
+   "a": "Assegurar-li la ingesta de 2 – 3 litres d’aigua en 24 hores (brou vegetal amb sal, sucs, HC).",
+   "b": "Administrar-li la insulina.",
+   "c": "Administrar-li la metformina.",
+   "d": "Fer-li els controls de glucèmia capil·lar i cetonúria abans de cada àpat principal."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-31",
+  "stem": "Tenint en compte el tractament de la senyora Pilar R. i segons la Guia de Pràctica Clínica quina indicació i freqüència d’autoanálisi de glucèmia capil·lar (AGC) li recomanaríeu en situació estable i amb control acceptable?",
+  "options": {
+   "a": "AGC d’1 a 3 controls a la setmana.",
+   "b": "AGC de 6 a 7 controls a la setmana.",
+   "c": "AGC de 8 a 9 controls a la setmana.",
+   "d": "AGC habitualment no indicat."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-32",
+  "stem": "La seva cuidadora ens explica que quan fa la higiene a la Pilar que s’ha trencat el cap del fèmur i ha estat operada no es deixa tocar la cama perquè té por a que s’obrin els punts, sempre diu que els té molt tendres i amb el mitjó que porta té sempre el peu calent i protegit. Quina d’aquestes afirmacions no és certa?",
+  "options": {
+   "a": "Rentar i revisar diàriament els peus per buscar petites ferides.",
+   "b": "Poden aparèixer lesions sense adonar-nos-en.",
+   "c": "Si la pell està seca, utilitzar crema hidratant també entre mig dels dits.",
+   "d": "Tallar les ungles rectes i no excessivament curtes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-33",
+  "stem": "Quina de les següents afirmacions no és certa?",
+  "options": {
+   "a": "El peu diabètic és conseqüència d’una pèrdua de sensibilitat per la neuropatia i la presència de deformitats.",
+   "b": "Els petits traumatismes provoquen lesions tissulars i l’aparició d’úlceres en els peus.",
+   "c": "La inspecció del peu i l’exploració amb el monofilament són mètodes eficients per detectar el risc de lesió.",
+   "d": "La profunditat de la lesió determinar el risc d’amputació."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-34",
+  "stem": "En quina situació és més probable que la Pilar pugui fer una hipoglicèmia?",
+  "options": {
+   "a": "Realitzant un gran esforç físic.",
+   "b": "Durant l’efecte màxim de la dosi d’insulina.",
+   "c": "Just abans de menjar.",
+   "d": "En qualsevol de les anteriors situacions."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-35",
+  "stem": "Quin d’aquests és un criteri de diagnòstic de DM?",
+  "options": {
+   "a": "Símptomes i glucèmia a l’atzar ≥ 200 mg/dl.",
+   "b": "Glucèmia basal de ≥ 125 mg/dl.",
+   "c": "Glucèmia a les 2 hores TTOG ≥ 140 mg/dl.",
+   "d": "a i c són correctes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-36",
+  "stem": "El senyor Pere és diabètic i es pacta fer una dieta per racions. Ell sap que una ració correspon a 10 gr d’hidrats de carboni. Quina de les següents respostes no equival a una ració?",
+  "options": {
+   "a": "200 ml de llet sencera.",
+   "b": "200 ml de llet desnatada.",
+   "c": "30 gr de llenties.",
+   "d": "50 gr de plàtan."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-37",
+  "stem": "En realitzar la cura de una lesió que presenta el sr Pau s’observa la presència d’hiperqueratosi periulceral, atròfia muscular, dits d’urpa, ungles distròfiques i absència de pell i borrissol. Ell explica que nota sensació de suro als peus. No presenta dolor en manipular la lesió. Quin tipus de nafra és més probable que presenti?",
+  "options": {
+   "a": "Venosa.",
+   "b": "Neuropàtica.",
+   "c": "Arterial.",
+   "d": "Arteriovenosa."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-38",
+  "stem": "Quin és el perfil lipídic observat amb major freqüència en el pacient diabètic tipus 2´?",
+  "options": {
+   "a": "Disminució de HDL-colesterol i augment de triglicèrids.",
+   "b": "Disminució de HDL-colesterol i disminució de triglicèrids.",
+   "c": "Augment de HDL-colesterol i augment de triglicèrids.",
+   "d": "Augment de HDL-colesterol i disminució de triglicèrids."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-39",
+  "stem": "Quins són els objectius de control metabòlic òptim?",
+  "options": {
+   "a": "HbA1c < 7,5 %, colesterol total < 200 mg/dl, LDL-colesterol < 100 mg/dl, HDL-colesterol > 40 mg/dl i triglicèrids < 150 mg/dl.",
+   "b": "HbA1c < 7 %, colesterol total < 200 mg/dl, LDL-colesterol < 100 mg/dl, HDL-colesterol > 40 mg/dl i triglicèrids < 150 mg/dl.",
+   "c": "HbA1c < 7 %, colesterol total < 200 mg/dl, LDL-colesterol < 130 mg/dl, HDL-colesterol > 40 mg/dl i triglicèrids < 150 mg/dl.",
+   "d": "HbA1c < 7 %, colesterol total < 200 mg/dl, LDL-colesterol < 100 mg/dl, HDL-colesterol > 40 mg/dl i triglicèrids < 200 mg/dl."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-40",
+  "stem": "Respecte a la insulina glargina és cert que:",
+  "options": {
+   "a": "Abans d’injectar s’ha d’homogeneïtzar.",
+   "b": "S’ha de variar el lloc d’injecció.",
+   "c": "Es pot barrejar amb insulina ràpida.",
+   "d": "Totes són correctes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-41",
+  "stem": "Què hem de contestar si ens pregunta la filla d’una pacient diabètic insulinodependent què ha de fer quan la glicèmia basal sigui més alta de 300 mg/dl?",
+  "options": {
+   "a": "Retardar l’esmorzar.",
+   "b": "Administrar 4 UI més d’insulina.",
+   "c": "Analitzar la cetonúria.",
+   "d": "Menjar menys hidrats de carboni a l’esmorzar."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-42",
+  "stem": "Fa molt temps que els sr. Lluís, diabètic insulinodependent, té una hiperalgèsia als peus amb pèrdua de sensibilitat al monofilament 5.07. A quin tipus de polineuropatia diabètica correspon aquest cas?",
+  "options": {
+   "a": "Clínicament definida.",
+   "b": "Possible.",
+   "c": "Clínica.",
+   "d": "Confirmada."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-43",
+  "stem": "Quina de les actuacions següents és correcta per informar sobre com solucionar possibles hipoglucèmies en un pacient diabètic tipus 2 que pren metformina i miglitol? (Dues respostes vàlides per sentència judicial; l’original era la resposta d)",
+  "options": {
+   "a": "Que prengui 15 g de sacarosa.",
+   "b": "Que prengui 1 got de suc de préssec.",
+   "c": "Aquesta combinació no produeix hipoglucèmies.",
+   "d": "Que prengui 2 comprimits de glucosa pura."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-45",
+  "stem": "La infermera, dins les recomanacions d’una dieta mediterrània saludable adaptada a la seva malaltia de diabetis mellitus, li explica a un pacient la importància del consum de fibra per millorar el control glucèmic i lipídic. Quin d’aquests tipus de fibra és el més indicat per a ell?",
+  "options": {
+   "a": "Lignina.",
+   "b": "Cel·lulosa.",
+   "c": "Pectina.",
+   "d": "Hemicel·luloses."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-46",
+  "stem": "Quina de les següents vies d’administració d’insulina ràpida no és correcta?",
+  "options": {
+   "a": "Intravenosa.",
+   "b": "Intradèrmica.",
+   "c": "Peritoneal.",
+   "d": "Intramuscular."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-47",
+  "stem": "En la diabetis tipus I o insulinodependent quina de les següents afirmacions és incorrecta?",
+  "options": {
+   "a": "Apareix preferentment en persones de més de 40 anys.",
+   "b": "Cal calcular la insulina pel seu tractament.",
+   "c": "Inici brusc de la malaltia.",
+   "d": "Tendència a la cetosi."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-48",
+  "stem": "En l’educació sanitària d’un pacient diabètic, una de les afirmacions següents és incorrecta:",
+  "options": {
+   "a": "És important ensenyar al pacient diabètic conductes sanitàries preventives.",
+   "b": "Practicar exercici físic no està mai contraindicat en els pacients diabètics.",
+   "c": "El pacient ha de conèixer el tractament de les complicacions agudes la DMID.",
+   "d": "És recomanable que el mateix pacient sigui capaç de fer-se els controls de glicèmia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-49",
+  "stem": "Entre les complicacions més freqüents de la diabetis mellitus (DM) trobem el retard en la cicatrització de les ferides que està relacionat amb:",
+  "options": {
+   "a": "La dificultat de controlar la glicèmia al post operatori.",
+   "b": "La deshidratació i el desequilibri electrolític.",
+   "c": "La degradació de les proteïnes i/o circulació compromesa.",
+   "d": "La malaltia neuropàtica esquelètica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-50",
+  "stem": "Els pacients amb diabetis mellitus (DM) tipus 2:",
+  "options": {
+   "a": "Poden necessitar petites dosis d’insulina regular en el post operatori.",
+   "b": "No necessiten mai insulina.",
+   "c": "Necessiten sempre insulina en el post operatori.",
+   "d": "Si reben insulina es tornen insulinodependents."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-51",
+  "stem": "A un pacient diabètic, obès i no insulinodependent, quin tipus de dieta li recomanaríeu?",
+  "options": {
+   "a": "Una dieta hipocalòrica qualitativa.",
+   "b": "Una dieta normoenergètica.",
+   "c": "Una dieta lipoproteica.",
+   "d": "Una dieta lleugera."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-55",
+  "stem": "L’Albert té 8 anys i avui la seva mare l’ha dut al pediatra. Fa diverses setmanes que no es troba bé, presenta anorèxia, enuresi nocturna, astènia i poliúria. Avui a l’hora de llevar-se s’ha queixat de mal de panxa.\nL’Albert presenta un quadre de cetosi amb hiperglucèmia, acidosi metabòlica, cetonèmia i cetonúria amb una pèrdua de pes de tres quilograms.\nLa mare li ha explicat que han d’anar a l’hospital, l’Albert té molta por, li han dit que el punxaran i no li agraden gens les injeccions, a més juga futbol amb l’equip del seu barri i pensa que ja no hi podrà jugar més.\nL’Albert ha estat diagnosticat de diabetis mellitus tipus 1, patologia que es caracteritza:",
+  "options": {
+   "a": "Per ser una malaltia autoimmune amb predisposició genètica.",
+   "b": "Per presentar anticossos antiinsulina, antiillots i altres.",
+   "c": "Per presentar hiperglucèmia i ser insulinodependent.",
+   "d": "Totes són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2009",
+  "year": 2009,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-74",
+  "stem": "La Marta és una senyora de 47 anys, casada i amb dos fills, una nena de 16 anys i un nen de 8 anys. Treballa com a administrativa en una empresa constructora. Als 40 anys va ser diagnosticada de diabetis mellitus 2 i està en tractament amb insulina. Els seus pares viuen prop de casa seva. Al seu pare li han diagnosticat fa un any una neoplàsia de pròstata i en aquest moment està en fase avançada.\nLa Marta ens comenta que practica exercici moderat un cop a la setmana. Quina de les recomanacions següents és correcta?",
+  "options": {
+   "a": "No ha de prendre cap suplement de carbohidrats abans de participar en un exercici moderat.",
+   "b": "Es recomana revisar els peus cada dia després de l’exercici.",
+   "c": "Es recomana fer exercici quan fa calor o fred extrem.",
+   "d": "Es recomana que no participi en un exercici moderat."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-75",
+  "stem": "La Marta està interessada a conèixer quin és el substitutiu edulcorant que pot fer servir per endolcir el cafè de l’esmorzar. Assenyaleu quin dels següents és un edulcorant no nutritiu:",
+  "options": {
+   "a": "Sorbitol.",
+   "b": "Xilito.",
+   "c": "Fructosa.",
+   "d": "Aspartam."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-76",
+  "stem": "Explica a la Marta que, com que és diabètica, ha de tenir molt en compte la cura dels peus. Quina de les recomanacions següents és falsa?",
+  "options": {
+   "a": "Rentar-se els peus amb aigua tèbia, no calenta.",
+   "b": "Mantenir la pell hidratada.",
+   "c": "Anar descalç sempre que es pugui.",
+   "d": "No creuar les cames durant períodes perllongats."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-77",
+  "stem": "Durant l’educació diabetològica a la Marta es qüestiona l’equivalència que té 1 ració d’hidrats de carboni (10 grams). Quin dels següents aliments correspon a 1 equivalència de fècula?",
+  "options": {
+   "a": "10 gr d’arròs.",
+   "b": "50 gr de patates pelades.",
+   "c": "15 gr de biscota.",
+   "d": "10 gr de pasta alimentària."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-78",
+  "stem": "Quins dels antidiabètics orals següents és més habituals que puguin produir molèsties gastrointestinals? (Assenyaleu les tres respostes correctes)",
+  "options": {
+   "a": "Pioglitazona.",
+   "b": "Metformina.",
+   "c": "Acarbosa.",
+   "d": "Repaglinida."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-79",
+  "stem": "Quina de les següents no és una via d’administració del glucagó?",
+  "options": {
+   "a": "Via intramuscular.",
+   "b": "Via intravenosa.",
+   "c": "Via oral.",
+   "d": "Via subcutània."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-80",
+  "stem": "Sobre la hipoglucèmia, quina de les afirmacions següents és falsa?",
+  "options": {
+   "a": "Les manifestacions d’hipoglucèmia poden presentar-se de manera sobtada.",
+   "b": "Les manifestacions d’hipoglucèmia poden variar d’una persona a una altra.",
+   "c": "La sudoració, la taquicàrdia i les palpitacions són manifestacions adrenèrgiques d’hipoglucèmia.",
+   "d": "La cefalea, la confusió i la descoordinació en la parla són manifestacions adrenèrgiques d’hipoglucèmia."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-81",
+  "stem": "La Marta ens consulta sobre la rotació de la zona en l’administració subcutània de la insulina. Quina de les respostes següents és falsa?",
+  "options": {
+   "a": "Es pot aconsellar fer ús de la mateixa regió a la mateixa hora del dia.",
+   "b": "No ha de fer servir el mateix lloc d’una regió més d’un cop en 2 o 3 setmanes.",
+   "c": "La distància entre dos llocs d’administració de la mateixa regió ha d’estar entre 1,5 a 2,5 cm de la prèvia.",
+   "d": "Quan es planteja fer exercici, cal injectar la insulina a l’extremitat sotmesa a aquella activitat."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-251-82",
+  "stem": "Sobre l’administració intravenosa de sèrum glucosat al 50 % en el tractament urgent de la hipoglucèmia, quina de les següents respostes és falsa?",
+  "options": {
+   "a": "És una solució hipertònica.",
+   "b": "És molt irritant per les venes i pot produir dolor a la zona i/o al trajecte d’administració.",
+   "c": "L’efecte esperat sol observar-se a les 2 o 3 hores de l’administració.",
+   "d": "Pot produir necrosi si s’extravasa."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-252-1",
+  "stem": "En el càncer de mama:",
+  "options": {
+   "a": "La majoria de les malalties malignes de mama es produeixen al quadrant inferior intern.",
+   "b": "El factor de pronòstic més important és l’estadi de la malaltia.",
+   "c": "El símptoma de presentació més comú és l’aparició d’una tumoració dolorosa.",
+   "d": "Els factors de risc no estan relacionats amb l’edat d’aparició de la menarquia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-252-2",
+  "stem": "Una pacient a la qual es practica una mastectomia total amb buidament axil·lar. En quina posició se la col·locarà a la mesa de quiròfan?",
+  "options": {
+   "a": "En posició Trendelemburg.",
+   "b": "En posició decúbit dorsal.",
+   "c": "En posició Fowler.",
+   "d": "En posició decúbit lateral."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-252-6",
+  "stem": "Ateneu una dona de 28 anys que refereix sensació de cremor a la vulva. Explica: “M’estic arreglant la boca i fa 6 dies que estic prenent antibiòtic (amoxicil·lina/àcid clavulànic)”. Quin del següents suggereix candidiasi vaginal?",
+  "options": {
+   "a": "Flux vaginal escàs, verdós de textura escumosa.",
+   "b": "Augment del flux vaginal, blanquinós o grogós.",
+   "c": "Pal·lidesa vulvar amb o sense fisures.",
+   "d": "pH vaginal imperceptible."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-252-7",
+  "stem": "Assenyaleu quina de les següents no és una contraindicació dels anticonceptius orals:",
+  "options": {
+   "a": "Accident vascular cerebral.",
+   "b": "Tromboflebitis.",
+   "c": "Antecedents familiars de diabetis.",
+   "d": "Hipertensió arterial."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-2",
+  "stem": "Quin dels següents aliments tenen major contingut en colesterol (mg de colesterol en 100 gr de pes net d’aliment)?",
+  "options": {
+   "a": "Musclos.",
+   "b": "Peus de porc.",
+   "c": "Formatge de Burgos.",
+   "d": "Vedella.",
+   "e": "Olives."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-3",
+  "stem": "Senyaleu l’afirmació correcta respecte a les necessitats energètiques i de nutrients en l’adolescent:",
+  "options": {
+   "a": "El 30 – 35 % de calories han de procedir d’aliments animals.",
+   "b": "Els requeriments en vitamines del complex B són escassos.",
+   "c": "La ingesta de llet no ha de superar els 500 ml/dia.",
+   "d": "El zinc és indispensable pel creixement i maduració sexual.",
+   "e": "La ingesta de greixos ha de ser la mateixa en ambdós sexes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-4",
+  "stem": "La vitamina B12 es troba en:",
+  "options": {
+   "a": "Les verdures.",
+   "b": "Llegums i fruits secs.",
+   "c": "Cereals i pa.",
+   "d": "Carns.",
+   "e": "Fruites i patates."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-5",
+  "stem": "Identifiqueu una afirmació correcta sobre l’exercici físic en relació amb les hiperlipèmies:",
+  "options": {
+   "a": "L’exercici físic sostingut redueix el nivell de HDL-colesterol.",
+   "b": "L’exercici físic es recomana principalment en hipertrigliceridèmies per la seva relació amb l’obesitat.",
+   "c": "L’exercici físic redueix la formació d’ateromes.",
+   "d": "L’exercici físic sostingut redueix el nivell de LDL-colesterol.",
+   "e": "a i c són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-6",
+  "stem": "Sobre el nivell de colesterol sèric en la població general, des del punt de vista epidemiològic podem afirmar que és recomanable:",
+  "options": {
+   "a": "Mantenir xifres < 200 mg/dl.",
+   "b": "Mantenir xifres fins a 240 mg/dl.",
+   "c": "Valorar-lo segons les fraccions de colesterol HDL i LDL.",
+   "d": "Valorar-lo segons la presència de factors de risc cardiovascular.",
+   "e": "Valorar-lo segons l’edat de 220 – 260 mg/dl."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-7",
+  "stem": "Entre els següents vegetals distingiu el que menys quantitat de sodi té per 100 gr d’aliment net:",
+  "options": {
+   "a": "Api.",
+   "b": "Tomàquet.",
+   "c": "Pastanaga.",
+   "d": "Espinac."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-8",
+  "stem": "Entre els següents aliments quin és la principal font de sacarosa?",
+  "options": {
+   "a": "Mel.",
+   "b": "Sucre.",
+   "c": "Llet.",
+   "d": "Raïm."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-11",
+  "stem": "En un pacient dislipèmic què produeix l’exercici físic?",
+  "options": {
+   "a": "Reducció del pes corporal.",
+   "b": "Reducció del nivell de LDL-colesterol.",
+   "c": "Reducció del nivell de HDL-colesterol.",
+   "d": "Totes les anteriors són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-12",
+  "stem": "En les hipertrigliceridèmies quina recomanació dietètica donaríeu principalment?",
+  "options": {
+   "a": "Disminuir els àcids grassos saturats.",
+   "b": "Augmentar el consum de fibra vegetal.",
+   "c": "Suprimir begudes alcohòliques.",
+   "d": "Reduir el consum d’hidrats de carboni."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-13",
+  "stem": "S’entén per obesitat hipertròfica que:",
+  "options": {
+   "a": "L’índex de massa corporal (IMC) és superior al 30 %.",
+   "b": "S’inicia en la infància o adolescència.",
+   "c": "S’inicia en l’edat adulta.",
+   "d": "Hi ha un augment del nombre d’adipòcits."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-14",
+  "stem": "Entre les mesures de prevenció primària de l’obesitat dirigides a la població general, indiqueu-ne una de falsa:",
+  "options": {
+   "a": "Augmentar el consum de fibra vegetal.",
+   "b": "Disminuir el consum de sucres refinats.",
+   "c": "Mesurar el pes a la població cada 4 anys.",
+   "d": "Realitzar campanyes divulgatives sobre hàbits dietètics sans."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-15",
+  "stem": "Quantes Kcal aporta 1 g d’oli de girasol?",
+  "options": {
+   "a": "2 kcal.",
+   "b": "5 kcal.",
+   "c": "9 kcal.",
+   "d": "10 kcal."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-16",
+  "stem": "Segons el seu contingut en nutrients els diferents aliments desenvolupen una funció principal. Quin del següents aliments té una funció protectora?",
+  "options": {
+   "a": "Fruita fresca.",
+   "b": "Cereals.",
+   "c": "Peix.",
+   "d": "Fruits secs."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-17",
+  "stem": "En una alimentació equilibrada es recomana generalment que els hidrats de carboni proporcionin un 50 – 60 % de les calories diàries. Quina és la recomanació més adequada respecte a la ingesta diària de sacarosa?",
+  "options": {
+   "a": "Que no sobrepassi el 10 %.",
+   "b": "Que no sobrepassi el 15 %.",
+   "c": "Que no sobrepassi el 20 %.",
+   "d": "Que no sobrepassi el 25 %."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-18",
+  "stem": "Algunes vitamines es fan malbé quan s’exposen a l’acció d’agents físics i/o químics. Quina de les següents accions no els afecta?",
+  "options": {
+   "a": "La congelació.",
+   "b": "La cocció.",
+   "c": "L’exposició a la llum.",
+   "d": "L’oxigenació."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-19",
+  "stem": "Quin dels següents components de la llet s’elimina durant el procés d’elaboració dels formatges?",
+  "options": {
+   "a": "La lactosa.",
+   "b": "El calci.",
+   "c": "El sodi.",
+   "d": "El ferro."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-20",
+  "stem": "Quins dels següents factors de risc poden influir en el desenvolupament de l’obesitat?",
+  "options": {
+   "a": "Factors constitucionals i hereditaris.",
+   "b": "Factors psicològics i circumstàncies vitals.",
+   "c": "Factors socioeconòmics i culturals.",
+   "d": "Tots els anteriors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-21",
+  "stem": "Per valorar l’índex de massa corporal s’utilitza:",
+  "options": {
+   "a": "L’equació de Cushing.",
+   "b": "La classificació de Garrow.",
+   "c": "La fórmula de Lorentz.",
+   "d": "El nomograma de Thomas."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-22",
+  "stem": "Quin dels aliments següents està contraindicat en nens afectats de malaltia celíaca?",
+  "options": {
+   "a": "Arròs.",
+   "b": "Blat de moro.",
+   "c": "Llenties.",
+   "d": "Blat."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ }
+]

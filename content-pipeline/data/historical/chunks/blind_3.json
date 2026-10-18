@@ -1,0 +1,3230 @@
+[
+ {
+  "id": "ics-hist-253-23",
+  "stem": "En quina de les malalties següents està prohibida la ingesta de fibra vegetal?",
+  "options": {
+   "a": "Ulcus gastroduodenal.",
+   "b": "Diabetis mellitus.",
+   "c": "Hipertensió arterial.",
+   "d": "Hipercolesterolèmia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-24",
+  "stem": "Quina de les afirmacions següents respecte al calci de la dieta és vertadera?",
+  "options": {
+   "a": "La ingesta diària ha de ser la mateixa en homes que en dones.",
+   "b": "El calci dels fruits secs s’absorbeix pitjor que el dels làctics.",
+   "c": "La ingesta durant l’embaràs ha de mantenir-se en 600 mg/dia.",
+   "d": "El nostre cos absorbeix el 80 % del calci que contenen els llegums."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-25",
+  "stem": "Les vitamines hidrosolubles s’eliminen amb facilitat i només hi ha una que crea dipòsits en l’organisme. Quina és aquesta vitamina?",
+  "options": {
+   "a": "B1.",
+   "b": "B12.",
+   "c": "C.",
+   "d": "Àcid fòlic."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-26",
+  "stem": "A quin d’aquests grups d’aliments s’adequa més la composició següent: 65 % de midó, 20 % de proteïnes i quantitat important de calci i ferro?",
+  "options": {
+   "a": "Làctics.",
+   "b": "Carns vermelles.",
+   "c": "Cereals.",
+   "d": "Llegums secs."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-27",
+  "stem": "Les qualitats digestives i organolèptiques de la llet materna es poden afectar per la ingesta d’alguns aliments. Quin dels que s’anomenen a continuació pot produir aquest efecte?",
+  "options": {
+   "a": "Espàrrecs.",
+   "b": "Taronja.",
+   "c": "Iogurt.",
+   "d": "Blat de moro."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-28",
+  "stem": "Què és característic de la dieta aterogènica?",
+  "options": {
+   "a": "El seu alt contingut en fibra vegetal.",
+   "b": "La baixa ingesta de greixos saturats.",
+   "c": "La ingesta de 150 mg de colesterol diaris.",
+   "d": "La baixa proporció de la relació greixos insaturats/saturats."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-29",
+  "stem": "Quin dels següents aliments (100 gr de part comestible) conté la menor quantitat de colesterol?",
+  "options": {
+   "a": "Ronyons.",
+   "b": "Peus de porc.",
+   "c": "Formatge tendre.",
+   "d": "Croissant."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-31",
+  "stem": "Segons el protocols dietètics quina quantitat d’oli està permesa diàriament en una dieta per obesitat de 1500 kcal?",
+  "options": {
+   "a": "15 cc.",
+   "b": "25 cc.",
+   "c": "35 cc.",
+   "d": "45 cc."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-32",
+  "stem": "Quina de les respostes següents és incorrecta si parlem de les necessitats nutricionals de les persones grans?",
+  "options": {
+   "a": "Les necessitats disminueixen un 15 % a partir dels 65 anys.",
+   "b": "Respecte a la ingesta hídrica poden perdre la sensació de set.",
+   "c": "Les proteïnes són necessàries en la mateixa quantitat que a l’adult.",
+   "d": "Les necessitats vitamíniques són superior a les dels adults."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-33",
+  "stem": "Quantes kcal aporta 1 gram d’alcohol etílic?",
+  "options": {
+   "a": "4.",
+   "b": "7.",
+   "c": "9.",
+   "d": "11."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-34",
+  "stem": "De tots els índex que s’utilitzen per valorar l’estat nutricional el de Massa Corporal o de Quetelet és el que millor es correlaciona amb el contingut de greix corporal. Quina de les fórmules següents s’utilitza per calcular-lo?",
+  "options": {
+   "a": "Pes actual/Pes ideal x 100.",
+   "b": "Pes actual/Talla ideal².",
+   "c": "Pes actual/Talla actual².",
+   "d": "Pes en percentil 50/Talla en percentil 50."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-36",
+  "stem": "Quins factors influeixen en la concentració de HDL-colesterol a la sang?",
+  "options": {
+   "a": "L’activitat física.",
+   "b": "El tabac.",
+   "c": "El consum d’alcohol.",
+   "d": "Totes les anteriors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-37",
+  "stem": "Quin dels aliments següents aconsellaríeu consumir per l’efecte detergent sobre les dents?",
+  "options": {
+   "a": "Pomes.",
+   "b": "Avellanes.",
+   "c": "Iogurt.",
+   "d": "Raïm."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-38",
+  "stem": "Entre els objectius generals formulats dins dels apartats corresponents als problemes de salut n’hi ha una bona part que estan relacionats amb els hàbits i els estils de vida saludables. Dintre dels consells dietètics, en quin percentatge cal disminuir l’aportació de greixos saturats en la dieta?",
+  "options": {
+   "a": "10 % del total calòric.",
+   "b": "15 % del total calòric.",
+   "c": "18 % del total calòric.",
+   "d": "22 % del total calòric."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-39",
+  "stem": "Quina necessitat energètica mitjana diària tenen un grup de joves de 18 a 20 anys amb una activitat física moderada?",
+  "options": {
+   "a": "25 – 30 kcal/kg.",
+   "b": "35 – 40 kcal/kg.",
+   "c": "50 – 55 kcal/kg.",
+   "d": "60 – 70 kcal/kg."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-40",
+  "stem": "L’alimentació en persones d’edat avançada ha de ser equilibrada i variada. Quan es presenta inapetència i augmenten les hores d’enllitament és important incrementar l’aportació de proteïnes. Quin dels suplements següents és el que menys aportació de proteïnes dóna a la dieta?",
+  "options": {
+   "a": "Llet en pols descremada",
+   "b": "Clara d’ou cuita.",
+   "c": "Formatge ratllat.",
+   "d": "Farines infantils."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-41",
+  "stem": "En una analítica de control hem detectat a la senyora N. J. una disminució del ferro. Quin d’aquests aliments aconsellarem que introdueixi o augmenti en la seva dieta?",
+  "options": {
+   "a": "Ous i llegums.",
+   "b": "Cereals i fruits secs.",
+   "c": "Margarina i mel.",
+   "d": "Fruites i sucre."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-43",
+  "stem": "Quin dels aliments següents té una quantitat menor de purines?",
+  "options": {
+   "a": "Ronyons.",
+   "b": "Anxoves.",
+   "c": "Ous.",
+   "d": "Llegums."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-44",
+  "stem": "La senyora J. R. pateix una obesitat severa i cal instaurar-li una dieta hipocalòrica. Quina és la primera actuació que s’hauria de fer?",
+  "options": {
+   "a": "Eliminar dolços i begudes ensucrades.",
+   "b": "Efectuar una enquesta alimentària.",
+   "c": "Valorar el nivell socioeconòmic.",
+   "d": "Reduir l’aportació energètica a un 40 %."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-45",
+  "stem": "En el tractament del pacient obès, quin d’aquests consells no és correcte en relació amb el menjar?",
+  "options": {
+   "a": "Utilitzar aliments dietètics comercials.",
+   "b": "Mentre mengi no faci cap altra cosa (llegir, veure la TV).",
+   "c": "Demanar ajut als seus familiars i amics.",
+   "d": "Després de menjar cada porció deixar els coberts damunt la taula."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-46",
+  "stem": "Quina de les següents afirmacions és falsa?",
+  "options": {
+   "a": "Les proteïnes de la llet contenen en bona proporció tots els aminoàcids essencials.",
+   "b": "El valor nutritiu del iogurt i d’altres llets fermentades és semblant al de llet natural.",
+   "c": "És de destacar l’alt contingut de calci, fòsfor i ferro de la llet.",
+   "d": "L’únic carbohidrat que conté la llet és la lactosa."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-48",
+  "stem": "En una dieta hiposòdica estàndard quin aliment desaconsellarem?",
+  "options": {
+   "a": "Llet.",
+   "b": "Aus.",
+   "c": "Fruits secs.",
+   "d": "Sucs de verdures envasats."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-49",
+  "stem": "Quin del següents tractaments tèrmics utilitzats per a la conservació d’aliments destrueix els possibles microorganismes patògens i les seves espores, ocasionant la menor pèrdua nutritiva possible?",
+  "options": {
+   "a": "Uperització.",
+   "b": "Ebullició.",
+   "c": "Esterilització.",
+   "d": "Pasteurització."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-50",
+  "stem": "Quins principis bàsics haurien de tenir en compte els professionals d’atenció primària a l’hora de facilitar consell dietètic a persones grans?",
+  "options": {
+   "a": "Preservar el component proteic.",
+   "b": "És aconsellable fer de 4 a 5 ingestes diàries.",
+   "c": "Educar la gent gran a beure sense set.",
+   "d": "Totes les respostes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-51",
+  "stem": "El calci dels aliments s’absorbeix a la part alta de l’intestí prim (duodè jejú proximal). Quins aliments faciliten l’absorció del calci?",
+  "options": {
+   "a": "La lactosa.",
+   "b": "Les proteïnes.",
+   "c": "La vitamina D.",
+   "d": "Totes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-52",
+  "stem": "Quin d’aquests aliments conté més quantitat de calci (en mg)?",
+  "options": {
+   "a": "La llet sencera.",
+   "b": "El iogurt.",
+   "c": "El formatge.",
+   "d": "La llet desnatada."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-53",
+  "stem": "Quins aliments s’han d’evitar per a l’examen de sang a la femta?",
+  "options": {
+   "a": "Carn de tot tipus.",
+   "b": "Verdura i hortalisses crues.",
+   "c": "Peix.",
+   "d": "Totes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-54",
+  "stem": "La Marta té 6 anys i la mare explica que no beu gaire llet. Cal que la infermera li recomani alternatives a la llet per garantir l’aportació dels nutrients làctics. Quin d’aquests aliments conté una proporció de calci més elevada per cada 100 gr de part comestible?",
+  "options": {
+   "a": "Llet descremada en pols.",
+   "b": "Llet sencera.",
+   "c": "Iogurt.",
+   "d": "Formatge blanc."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-55",
+  "stem": "La presència d’obesitat o sobrepès augmenta el risc cardiovascular i té repercussió sobre el control glicèmic. Com calcularíeu el pes màxim acceptable (PMA) de la senyora Lluïsa?",
+  "options": {
+   "a": "PMA = 23 x (talla en m)².",
+   "b": "PMA = 21 x (talla en m)².",
+   "c": "PMA = 27 x (talla en m)².",
+   "d": "PMA = 25 x (talla en m)²."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-56",
+  "stem": "La infermera rep a la consulta derivat pel metge al senyor Pau de 73 anys. És d’un poble d’Albacete on vivia sol i ara ha vingut a viure amb el seu fill. No anava al metge, ell diu que es troba bé. La infermera inicia la seva atenció amb les activitats preventives i observa que està molt prim. En el cas de presentar xifres de colesterol inferiors a 200 mg/dl. Quina pauta de control s’ha de seguir segons la Guia de Pràctica Clínica?",
+  "options": {
+   "a": "Repetir l’analítica a l’any.",
+   "b": "Repetir l’analítica als 2 anys.",
+   "c": "Repetir l’analítica als 5 anys.",
+   "d": "Repetir l’analítica als 6 mesos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-59",
+  "stem": "La Núria té dos germans: el Nil de 13 i l’Elena de 17 anys. Es diagnostica el Nil d’obesitat. Quina de les següents dades no és un factor afavoridor de l’obesitat?",
+  "options": {
+   "a": "Estímuls a la ingesta.",
+   "b": "Negoci de menjars familiar.",
+   "c": "Mal rendiment escolar.",
+   "d": "Factors genètics."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-61",
+  "stem": "Es donen recomanacions dietètiques per a la dislipèmia. La Guia de Pràctica Clínica de l’ICS per a la hipercolesterolèmia recomana un quocient de racions carn/peix de:",
+  "options": {
+   "a": "1:1.",
+   "b": "1:3.",
+   "c": "2:1.",
+   "d": "0:1."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-62",
+  "stem": "L’índex de massa corporal (IMC) del sr. Marc és de 35. Quant a l’obesitat és cert que:",
+  "options": {
+   "a": "Manté una relació inversa segons el grau d’instrucció.",
+   "b": "Un perímetre abdominal és de risc en homes i en dones si és superior a 88 cm.",
+   "c": "Les estratègies de canvi conductual són les intervencions menys efectives.",
+   "d": "Un augment de l’IMC suposa un augment del colesterol total, HDL i tensió arterial."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-63",
+  "stem": "En una visita de seguiment, la senyora Joana ens comenta que ha iniciat un tractament amb orlistat per perdre pes. També ens comenta que no té gaire temps per fer activitat física. En relació amb el tractament amb orlistat, què se li ha de recomanar?",
+  "options": {
+   "a": "Que faci controls quinzenals de PA.",
+   "b": "Que utilitzi mesures higienicodietètiques per ajudar-la a dormir.",
+   "c": "Que prengui suplements de vitamines liposolubles.",
+   "d": "Que es mesuri la FC un cop al dia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-66",
+  "stem": "Quina és la dieta adient per tractar la hiperuricèmia?",
+  "options": {
+   "a": "Consumir preferentment vísceres i marisc.",
+   "b": "Augmentar el consum d’alcohol.",
+   "c": "Disminuir el consum d’aliments rics en purines.",
+   "d": "Consumir preferentment carn de caça major."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-67",
+  "stem": "Què s’entén per nutrició enteral?",
+  "options": {
+   "a": "L’administració per sonda de nutrients per via digestiva a nivell d’estómac.",
+   "b": "L’aportació de substàncies nutritives en quantitats elevades d’oligoelements.",
+   "c": "És el mètode substitutiu temporal de la via fisiològica de l’alimentació.",
+   "d": "Són correctes les respostes a i c."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-68",
+  "stem": "Quin dels següents aliments és una font important de vitamina A?",
+  "options": {
+   "a": "Llegums i fruites.",
+   "b": "Fetge i verdures verdes.",
+   "c": "Olis vegetals i animals.",
+   "d": "Patates i fruites."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-69",
+  "stem": "Quines de les recomanacions dietètiques següents cal fer a un pacient amb insuficiència renal?",
+  "options": {
+   "a": "Dieta hiperproteica amb proteïnes d’alt valor biològic i suplements de sodi i potassi.",
+   "b": "Dieta hiperproteica amb proteïnes de baix valor biològic i suplements de sodi i potassi.",
+   "c": "Dieta hiperproteica amb proteïnes d’alt valor biològic i suplements de vitamines.",
+   "d": "Dieta hiperproteica amb proteïnes de baix valor biològic i suplements de vitamines."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-70",
+  "stem": "Quin d’aquests aliments conté més fibra?",
+  "options": {
+   "a": "Ous, sucre i llet.",
+   "b": "Cogombre, mantega i condiments.",
+   "c": "Llegums, taronja i bledes.",
+   "d": "Mandarina, raïm i carn."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-71",
+  "stem": "Es reduiran les aportacions de sodi (Na), potassi (K) i fòsfor (P) de la dieta d’un pacient:",
+  "options": {
+   "a": "Amb litiasi renal.",
+   "b": "Amb malaltia celíaca.",
+   "c": "Amb colostomia.",
+   "d": "Amb hemodiàlisi."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-72",
+  "stem": "Els aliments prohibits per a una dieta sense gluten són:",
+  "options": {
+   "a": "Pa, galetes, macarrons i croquetes.",
+   "b": "Llet i derivats làctics, ous i verdures.",
+   "c": "Arròs, llegums, fruites i fruits secs.",
+   "d": "Refrescos de cola, cafè i te, cacau pur i sucs de fruita."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-83",
+  "stem": "A una persona que ha estat hospitalitzada li fem un cribratge de risc nutricional basat en un test. Quin del següents valora aquest risc?",
+  "options": {
+   "a": "Test MNA.",
+   "b": "Escala de Goldberg.",
+   "c": "Test de Tinetti.",
+   "d": "Escala de Barthel."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-253-85",
+  "stem": "En una visita de seguiment a una persona diabètica repassem els punts importants de la seva alimentació. Quins àcids grassos són els que provoquen un increment del colesterol LDL?",
+  "options": {
+   "a": "Àcids grassos poliinsaturats omega 6.",
+   "b": "Àcids grassos saturats.",
+   "c": "Àcids grassos monoinsaturats.",
+   "d": "Fitosterols."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-1",
+  "stem": "Segons els Plans de Salut l’objectiu de prevenir el càncer pot ser aconseguit mitjançant la denominada prevenció:",
+  "options": {
+   "a": "Primària.",
+   "b": "Secundària.",
+   "c": "Terciària.",
+   "d": "a i b són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-2",
+  "stem": "Quina d’entre les següents no és una via de disseminació del càncer?",
+  "options": {
+   "a": "Extensió directa.",
+   "b": "Metàstasi gravitacional.",
+   "c": "Duplicació tumoral.",
+   "d": "Disseminació metastàsica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-3",
+  "stem": "El melanoma maligne el valorarem per:",
+  "options": {
+   "a": "Pruïja i dolor.",
+   "b": "Sensibilitat anormal.",
+   "c": "A-B-C-D de les pigues.",
+   "d": "Totes són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-4",
+  "stem": "A quina temperatura s’han de mantenir les plaquetes per una transfusió?",
+  "options": {
+   "a": "Entre 2 º i 6 º C.",
+   "b": "Entre 7 º i 10 º C.",
+   "c": "Entre 11 º i 15 º C.",
+   "d": "Entre 20 º i 22 º C."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-5",
+  "stem": "La presència de petèquies, equimosi, gingivorràgia i hematúria són signes de:",
+  "options": {
+   "a": "Policitèmia.",
+   "b": "Trombocitopènia.",
+   "c": "Hemofília.",
+   "d": "Neutropènia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-6",
+  "stem": "Quina és l’actuació immediata davant d’una extravasació en l’administració de citostàtics per via intravenosa?",
+  "options": {
+   "a": "Aplicar calor local.",
+   "b": "Aturar l’administració.",
+   "c": "Aplicar fred local.",
+   "d": "Fer infiltracions amb anestèsics locals."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-7",
+  "stem": "Quins dels següents signes no es considera signe guia del càncer?",
+  "options": {
+   "a": "Alteració dels hàbits intestinals.",
+   "b": "Ronquera o tos persistent.",
+   "c": "Indigestió freqüent o dificultat a l’engolir.",
+   "d": "Alteració en el cicle menstrual."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-8",
+  "stem": "Referint-nos a les anèmies podem dir:",
+  "options": {
+   "a": "En l’anèmia d’instauració lenta els mecanismes de compensació poden adaptar-se a la hipoxèmia progressiva.",
+   "b": "Els primers símptomes que apareixen són molt específics.",
+   "c": "L’anèmia d’instauració sobtada va acompanyada de símptomes lleus que permeten fàcilment l’adaptació de l’organisme.",
+   "d": "Per conèixer la causa de l’anèmia és suficient realitzar una analítica sanguínia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-9",
+  "stem": "Entre les complicacions de les transfusions sanguínies s’inclouen les següents:",
+  "options": {
+   "a": "Sobrecàrrega circulatòria, reacció apirògena.",
+   "b": "Reacció apirògena, reacció febril.",
+   "c": "Reacció asèptica, reacció hemolítica.",
+   "d": "Sobrecàrrega circulatòria, reacció hemolítica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-10",
+  "stem": "En el procediment de transfusió de components sanguinis, quina afirmació és incorrecta?",
+  "options": {
+   "a": "És necessari controlar les constants vitals abans, durant i després de la transfusió.",
+   "b": "Els equips de sèrum que s’han d’utilitzar són especials i van proveïts de filtres.",
+   "c": "L’única solució compatible amb la sang és la de glucosa al 5 % per ser isotònica.",
+   "d": "El temps d’administració del preparat no ha de superar les 4 hores per evitar la contaminació."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-11",
+  "stem": "El creixement i la proliferació irrefrenable de cèl·lules sense cap necessitat fisiològica s`anomena:",
+  "options": {
+   "a": "Hiperplàsia.",
+   "b": "Neoplàsia.",
+   "c": "Metaplàsia.",
+   "d": "Anaplàsia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-12",
+  "stem": "Els càncers tenen la capacitat de disseminar cèl·lules d’un òrgan o zona corporal a un altre per:",
+  "options": {
+   "a": "Mitosi.",
+   "b": "Invasió.",
+   "c": "Invasió i metàstasi.",
+   "d": "Metàstasi."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-13",
+  "stem": "Quan parlem de “supervivència perllongada sense eradicar el tumor” l’objectiu d’aquest tractament del càncer és:",
+  "options": {
+   "a": "De pal·liació.",
+   "b": "De curació.",
+   "c": "De control.",
+   "d": "Pal·liació i curació."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-14",
+  "stem": "L’elecció de la via d’administració dels agents quimioterapèutics dependrà de:",
+  "options": {
+   "a": "Tipus de fàrmac.",
+   "b": "Dosi necessària.",
+   "c": "Tipus i extensió del tumor que cal tractar.",
+   "d": "Totes són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-15",
+  "stem": "Què provoca l’extravasació d’algun fàrmac amb efecte vesicant?",
+  "options": {
+   "a": "Lesions tendinoses, nervioses i necrosi.",
+   "b": "No provoca lesions.",
+   "c": "Pot provocar augment de pes.",
+   "d": "Cap de les anteriors són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-16",
+  "stem": "En un malalt que presenta una ferida neoplàsica que desprèn molt mala olor, quin hauria de ser l’objectiu principal de cures per resoldre aquest problema?",
+  "options": {
+   "a": "Aconseguir controlar l’exsudat.",
+   "b": "Disminuir el sagnat.",
+   "c": "Augmentar el nivell de càrrega bacteriana.",
+   "d": "Augmentar les irrigacions i els rentats."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-17",
+  "stem": "Si una persona desenvolupa anticossos antiRh, què hauria d’haver passat?",
+  "options": {
+   "a": "No hauria passat res, l’Rh només té importància si el malalt no té antígens naturals antiRh.",
+   "b": "Una persona no desenvolupa mai anticossos antiRh.",
+   "c": "Hauria d’haver rebut una quantitat de sang Rh contrari a la seva anteriorment.",
+   "d": "Necessitaria rebre tres vegades seguida sang Rh contrària a la seva."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-18",
+  "stem": "La reacció hemolítica aguda apareix si:",
+  "options": {
+   "a": "La sang del donant és incompatible amb la del receptor.",
+   "b": "Hi ha presència de leucòcits en la sang administrada.",
+   "c": "La transfusió va massa ràpidament.",
+   "d": "La transfusió està sotmesa a pressió."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-19",
+  "stem": "Els concentrats d’hematies no poden administrar-se simultàniament per la mateixa via en Y amb:",
+  "options": {
+   "a": "Sèrum glucosat al 5 %.",
+   "b": "Sèrum glucosalí.",
+   "c": "Sèrum glucosat al 10 %.",
+   "d": "Totes són correctes."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-20",
+  "stem": "Les nàusees i vòmits són un dels efectes secundaris més freqüents de la quimioteràpia, quina de les afirmacions següents és correcta?",
+  "options": {
+   "a": "Són difícils d’evitar perquè són d’origen psicològic.",
+   "b": "Es produeixen amb l’administració de qualsevol citostàtic.",
+   "c": "Apareixen únicament si l’administració es realitza després de la ingesta.",
+   "d": "Els aliments freds es toleren millor que els calents."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-21",
+  "stem": "Els pacients sotmesos a radioteràpia externa se’ls ha d’informar que:",
+  "options": {
+   "a": "No son radioactius en cap moment.",
+   "b": "Sentiran molèsties o dolor lleu en el moment de la radiació.",
+   "c": "Han de limitar els contactes íntims per la radiació.",
+   "d": "Abans de les radiacions s’han de posar crema hidratant per tal de protegir la pell."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-22",
+  "stem": "Després de realitzar una punció de medul·la òssia a un pacient cal tenir especial atenció en:",
+  "options": {
+   "a": "Controlar nivell de consciència.",
+   "b": "Controlar la primera micció.",
+   "c": "Control de dolor.",
+   "d": "Control de la cefalea."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-26",
+  "stem": "El càncer testicular és més freqüent en els homes d’edats compreses entre:",
+  "options": {
+   "a": "Els 40 i 50 anys.",
+   "b": "Els 15 a 35 anys.",
+   "c": "Els 50 a 65 anys.",
+   "d": "De més de 65 anys."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-27",
+  "stem": "Les cures d’infermeria postoperatòries en un malalt amb un tumor intracranial inclou:",
+  "options": {
+   "a": "Monitoritzar els signes vitals i l’estat neurològic cada 30 minuts fins a l’estabilització del pacient.",
+   "b": "Mantenir el cap del pacient més baix que la resta del cos.",
+   "c": "Valorar els apòsits cada 8 hores.",
+   "d": "Monitoritzar els nivells de catecolamines."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-28",
+  "stem": "Quina manifestació clínica no apareix en una reacció anafilàctica per una transfusió?",
+  "options": {
+   "a": "Dispnea.",
+   "b": "Tos.",
+   "c": "Hipotensió.",
+   "d": "Bradicàrdia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-29",
+  "stem": "En relació al plasma fresc congelat, quina afirmació no és correcta?",
+  "options": {
+   "a": "S’utilitza per pal·liar un dèficit de factors de coagulació.",
+   "b": "No té plaquetes.",
+   "c": "Es conserva entre – 10 º C i – 5 º C.",
+   "d": "S’administra amb filtre."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-30",
+  "stem": "En la prevenció de les infeccions, en malalts sotmesos a supressió de moll d’ós, quina de les indicacions no és adequada?",
+  "options": {
+   "a": "Evitar llocs molt freqüentats.",
+   "b": "Utilitzar raspall de dents suau i aigua amb sal per netejar la boca.",
+   "c": "Banyar-se i no pas dutxar-se.",
+   "d": "Orinar abans i després de cada coit."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-31",
+  "stem": "Quan parlem d’hemoderivats, quina de les següents afirmacions és incorrecta?",
+  "options": {
+   "a": "És indiferent utilitzar per la seva infusió la via central o la via perifèrica.",
+   "b": "Les agulles petites no provoquen hemòlisi si no s’aplica pressió per augmentar el degoteig.",
+   "c": "El filtre no pot estar més de 4 hores col·locat a la infusió.",
+   "d": "És necessari administrar sempre medicació prèvia per evitar efectes adversos."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-32",
+  "stem": "Quina de les següents afirmacions sobre el sistema immunitari no és correcta?",
+  "options": {
+   "a": "La compatibilitat HLA és un factor que influeix de manera important sobre la supervivència de l’empelt a mig i llarg termini.",
+   "b": "Ha d’existir compatibilitat del grup ABO.",
+   "c": "Les proves creuades han de ser positives (Cross Match).",
+   "d": "En pacients hipersensibilitzats o amb trasplantaments previs, el donant ha de ser d’alta compatibilitat HLA."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-55",
+  "stem": "Sobre el sistema TNM d’estadificació de les malalties oncològiques, quina de les següents afirmacions és certa?",
+  "options": {
+   "a": "És un procediment diagnòstic invasiu.",
+   "b": "S’usa exclusivament en l’estadificació de les neoplàsies hematològiques.",
+   "c": "L’acrònim fa referència al tumor primari, l’afectació ganglionar i la presència de metàstasi.",
+   "d": "És un procediment per classificar les cèl·lules tumorals."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-56",
+  "stem": "Un efecte secundari freqüent dels tractaments amb quimioteràpia antineoplàsica és la mucositis (assenyaleu les tres respostes correctes):",
+  "options": {
+   "a": "Pot afectar la mucosa de tot el tracte digestiu.",
+   "b": "Incrementa el risc d’infecció.",
+   "c": "La higiene bucal no afecta l’evolució de la mucositis.",
+   "d": "Pot cursar amb úlceres a la mucosa."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-57",
+  "stem": "Quina de les següents afirmacions en relació a les nàusees i vòmits associades a rebre quimioteràpia és falsa?",
+  "options": {
+   "a": "És recomanable fraccionar els àpats i adequar-los a la tolerància.",
+   "b": "És recomanable reduir els estímuls de l’entorn que puguin desencadenar-los.",
+   "c": "És recomanable identificar l’etiologia.",
+   "d": "És recomanable incrementar la ingesta."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-254-58",
+  "stem": "En relació a la infecció en el malalt immunodeprimit per rebre quimioteràpia, indiqui la resposta incorrecta:",
+  "options": {
+   "a": "És habitual que les manifestacions d’infecció estiguin minvades.",
+   "b": "És molt important la detecció precoç de la infecció.",
+   "c": "L’inici precoç del tractament pot reduir la morbiditat i la mortalitat.",
+   "d": "La febre serà sempre el primer signe en aparèixer."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-1",
+  "stem": "En l’alimentació enteral per via sonda mitjançant tècnica d’administració discontínua a bolus és fals que:",
+  "options": {
+   "a": "La presa d’aliment s’administrarà de forma lenta (15 – 20 min.).",
+   "b": "La bomba d’infusió ens permetrà regular el flux de la mescla nutritiva.",
+   "c": "El malalt haurà d’estar 1 – 2 hores lleugerament incorporat per evitar el reflux gàstric.",
+   "d": "La temperatura de l’aliment haurà de ser 30 – 38 º C."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-2",
+  "stem": "Quines afirmacions sobre el sondatge urinari són certes?",
+  "options": {
+   "a": "S’esdevé bacteriúria asimptomàtica en gairebé tots els pacients amb sonda permanent.",
+   "b": "La tècnica estèril i els sistemes de drenatge tancat disminueixen les freqüències de bacteriúria.",
+   "c": "El tractament de les bacteriúries asimptomàtiques és poc beneficiós en aquests pacients.",
+   "d": "Totes les respostes anteriors són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-3",
+  "stem": "Quina precaució no forma part del procediment del sondatge nasogàstric?",
+  "options": {
+   "a": "Introduir la sonda amb suavitat.",
+   "b": "Mesurar la longitud de la sonda que s’ha d’introduir.",
+   "c": "Fixar la sona evitant fer massa pressió en el punt de fixació.",
+   "d": "Introduir sèrum fisiològic per comprovar que la col·locació de la sonda és correcta."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-6",
+  "stem": "No és una via d’accés de la sonda de nutrició enteral:",
+  "options": {
+   "a": "Nasogàstrica.",
+   "b": "Nasogastroduodenal.",
+   "c": "Biliar.",
+   "d": "Jejunostomia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-7",
+  "stem": "Un pH urinari de 5 és indicador de:",
+  "options": {
+   "a": "Orina base.",
+   "b": "Orina àcida.",
+   "c": "Orina neutra.",
+   "d": "Orina normal."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-8",
+  "stem": "En un malalt amb catèter venós perifèric, quines són les manifestacions d’infiltració en el teixit?",
+  "options": {
+   "a": "La inflamació del trajecte venós.",
+   "b": "Eritema i inflamació en la zona d’inserció.",
+   "c": "Pal·lidesa i edema de la zona d’inserció.",
+   "d": "Dolor i calor local a la zona d’inserció."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-9",
+  "stem": "En les cures d’infermeria de les sondes vesicals és cert que:",
+  "options": {
+   "a": "Cal netejar la sonda vesical cada dia introduint i traient-la del meato urinari per a una millor higiene.",
+   "b": "Fixar la sonda fortament amb cinta adhesiva per evitar traccions en la cara externa de la cuixa.",
+   "c": "Mantenir estricta asèpsia en la seva manipulació.",
+   "d": "Aplicar locions a prop de la unió de la sonda i el meato urniari."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-10",
+  "stem": "Una de les complicacions més freqüents en un pacient que se li ha realitzat una punció lumbar és:",
+  "options": {
+   "a": "Cefalees.",
+   "b": "Hipotensió.",
+   "c": "Convulsions.",
+   "d": "Hemorràgia."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-13",
+  "stem": "Quina és la primera acció que la infermera ha de realitzar quan detecta el pacient una reacció transfusional?",
+  "options": {
+   "a": "Detenir la transfusió.",
+   "b": "Avisar el metge.",
+   "c": "Contactar amb el banc de sang.",
+   "d": "Prendre constants."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-14",
+  "stem": "La posició de litotomia utilitzada de forma incorrecta durant la cirurgia laparoscòpica pelviana pot provocar:",
+  "options": {
+   "a": "Hipotensió.",
+   "b": "No provoca cap lesió.",
+   "c": "Lesions tissulars.",
+   "d": "Mareig."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-16",
+  "stem": "Els augments de saturació parcial d’oxigen (SpO₂) que s’obtenen mitjançant oximetria del pols són fiables en cas de:",
+  "options": {
+   "a": "Aturada cardíaca.",
+   "b": "Vasoconstricció perifèrica.",
+   "c": "Nivells alts de CO₂.",
+   "d": "Normoperfusió perifèrica."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-17",
+  "stem": "L’aspiració d’una articulació per obtenir líquid sinovial mitjançant una tècnica estèril es diu:",
+  "options": {
+   "a": "Artroscòpia.",
+   "b": "Artrocentesi.",
+   "c": "Artrografia.",
+   "d": "Artripunció."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-18",
+  "stem": "Quina és la finalitat dels drenatges?",
+  "options": {
+   "a": "Control de l’hemorràgia.",
+   "b": "Retardar la cicatrització.",
+   "c": "Detectar les infeccions.",
+   "d": "Evitar les infeccions i afavorir els processos de cicatrització."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-38",
+  "stem": "En l’obtenció d’una mostra d’esput per cultiu, quina de les següents afirmacions és falsa?",
+  "options": {
+   "a": "És preferible obtenir la mostra a primera hora del matí.",
+   "b": "La recollida requereix un recipient estèril.",
+   "c": "L’expectoració és l’únic procediment per obtenir una mostra d’esput.",
+   "d": "Cal informar el pacient abans del procediment."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-39",
+  "stem": "En l’obtenció de sang arterial per punció de l’artèria radial, quina de les següents proves permet avaluar el flux sanguini colateral abans de la punció?",
+  "options": {
+   "a": "Test de Barthel.",
+   "b": "Test d’Allen.",
+   "c": "Test de Fine.",
+   "d": "Test d’Apgar."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-255-44",
+  "stem": "La sra Maria ha patit un ictus i està amb una afàsia d’expressió, parèsia facial dreta, paralització braquial dreta i una parèsia crural dreta, disfàgia total, incontinència urinària.\nLa infermera es disposa a establir el pla de cures estandarditzat de l’ictus. Un dels problemes de risc que conté és el risc de broncoaspiració. Quina de les següents activitats no està inclosa dins de la intervenció infermera “prevenció de la broncoaspiració”?",
+  "options": {
+   "a": "Deglució: valoració.",
+   "b": "Posició: Fowler alta (90 º).",
+   "c": "Textura: líquida.",
+   "d": "Test de la disfàgia: valoració."
+  },
+  "source_label": "Examen oficial ICS · PROMOCIÓ INTERNA 2016",
+  "year": 2016,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-1",
+  "stem": "Què pretenem en aconsellar els pares en matèria de prevenció d’accidents?",
+  "options": {
+   "a": "Garantir un entorn amb els riscos controlats.",
+   "b": "Regular l’activitat motriu del nen.",
+   "c": "Regular l’autonomia del nen.",
+   "d": "Regular el desenvolupament psicomotriu.",
+   "e": "Totes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-2",
+  "stem": "Entre els factors de risc de l’obesitat infantil hi trobem:",
+  "options": {
+   "a": "Mirar la televisió.",
+   "b": "El nivell socioeconòmic.",
+   "c": "Famílies amb un sol progenitor.",
+   "d": "Obesitat familiar.",
+   "e": "Totes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-3",
+  "stem": "Senyaleu la resposta falsa respecte als accidents infantils:",
+  "options": {
+   "a": "Els accidents són la primera causa de mort en països industrialitzats en nens més grans d’un any i en joves.",
+   "b": "Els accidents de trànsit en els nens, per la seva magnitud, és un problema de salut pública no resolt.",
+   "c": "L’increment de la morbimortalitat per accidents en nens està lligat exclusivament a la irrupció a la vida quotidiana de vehicles de motor.",
+   "d": "La prevenció d’accidents es basa en tres punts: mesures tècniques, legislació i educació.",
+   "e": "Les caigudes i cops són la primera causa d’accidents en els nens."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-4",
+  "stem": "En protocolitzar els consells que hem de donar als pares sobre la prevenció d’intoxicacions en el nen cal tenir en compte que:",
+  "options": {
+   "a": "La primera causa d’intoxicació a la infància són els productes d’ús domèstic: detergents, desinfectants, etc.",
+   "b": "Les intoxicacions afecten principalment els nens de 2 a 4 anys.",
+   "c": "Pràcticament tots els medicaments poden produir intoxicacions.",
+   "d": "Hem d’incloure consells sobre picades de determinats animals.",
+   "e": "Totes les respostes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-5",
+  "stem": "Senyaleu l’afirmació correcta respecte als factors que intervenen en el creixement del nen:",
+  "options": {
+   "a": "Els factors genètics influeixen principalment sobre el creixement prenatal.",
+   "b": "La influència de l’herència disminueix si el nen està en un medi desfavorable.",
+   "c": "La taxa de creixement no mostra cap tendència estacional.",
+   "d": "La velocitat de creixement augmenta en el decurs dels processos infecciosos.",
+   "e": "Els estrògens estimulen el creixement."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-6",
+  "stem": "Entre les activitats de prevenció secundària del Programa del Nen Sa hi trobem:",
+  "options": {
+   "a": "Les immunitzacions.",
+   "b": "Els consells sobre alimentació.",
+   "c": "L’assessorament sobre la son.",
+   "d": "La prevenció d’accidents.",
+   "e": "El test de desenvolupament psicomotriu."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-7",
+  "stem": "Quina de les següents afirmacions és falsa respecte a la introducció de l’alimentació complementària en el lactant?",
+  "options": {
+   "a": "Hem d’endarrerir-la fins als 8 mesos en cas de lactància materna.",
+   "b": "Als 6 mesos ha de proporcionar menys del 50 % de calories de la dieta.",
+   "c": "L’administració precoç pot afavorir la sobrealimentació.",
+   "d": "Hem d’endarrerir la introducció d’aliments potencialment al·lergènics com ous i peix.",
+   "e": "Els intervals entre dos nous aliments han de ser superiors a una setmana."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-8",
+  "stem": "Sobre el poder cariogènic dels aliments a base d’hidrats de carboni refinats podem afirmar que:",
+  "options": {
+   "a": "Intervé el temps de contacte amb l’esmalt dental.",
+   "b": "És indiferent si tenen consistència pastosa o líquida.",
+   "c": "En forma concentrada tenen menys poder cariogènic.",
+   "d": "Si s’associen amb la ingesta de calci es neutralitza el seu efecte cariogènic.",
+   "e": "Disminueix si es prenen entre àpats."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-9",
+  "stem": "L’efecte protector del fluor aplicat setmanalment mitjançant glopeigs amb col·lutoris fluorats durant 3 anys s’estima que es perllonga:",
+  "options": {
+   "a": "Durant 3 mesos.",
+   "b": "Durant 6 mesos.",
+   "c": "Durant 2 anys.",
+   "d": "Durant 5 anys.",
+   "e": "Durant 8 anys."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-10",
+  "stem": "Quin dels següents aliments no s’aconsella en nens menors de 6 mesos?",
+  "options": {
+   "a": "Taronja.",
+   "b": "Pastanaga.",
+   "c": "Blat de moro.",
+   "d": "Blat.",
+   "e": "Patata."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-11",
+  "stem": "Quin d’aquests paràmetres no es mesura en el test d’APGAR?",
+  "options": {
+   "a": "Freqüència cardíaca.",
+   "b": "To muscular.",
+   "c": "Color.",
+   "d": "Freqüència respiratòria.",
+   "e": "Hidratació."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-12",
+  "stem": "Entre les necessitats d’higiene en el lactant hi trobem:",
+  "options": {
+   "a": "El bany.",
+   "b": "La higiene perianal.",
+   "c": "Tallar les ungles.",
+   "d": "Prendre el sol.",
+   "e": "Totes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-13",
+  "stem": "A partir de quina edat es considera un signe d’alerta l’absència de desplaçament autònom segons la taula de desenvolupament psicomotriu basada en “L’estudi Llevant”?",
+  "options": {
+   "a": "8 mesos.",
+   "b": "9 mesos.",
+   "c": "10 mesos.",
+   "d": "12 mesos.",
+   "e": "13 mesos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-14",
+  "stem": "Quina de les següents afirmacions respecte de la taula de desenvolupament psicomotriu basada en “L’estudi Llevant” és la correcta?",
+  "options": {
+   "a": "Proporciona un diagnòstic sindròmic.",
+   "b": "Permet fer un seguiment del desenvolupament psicomotriu del nen només fins als 2 anys de vida.",
+   "c": "Està constituïda per elements del desenvolupament normal del nen i signes d’alerta.",
+   "d": "Dóna més importància al desenvolupament del llenguatge.",
+   "e": "L’aplicació es realitza només en tres àrees: llenguatge, manipulació i postural."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-15",
+  "stem": "No es considera una contraindicació de la lactància materna:",
+  "options": {
+   "a": "La carència de reflex de succió en el nen.",
+   "b": "La incorporació de la mare al treball.",
+   "c": "La neurosi greu.",
+   "d": "La negativa de la mare a lactar.",
+   "e": "La psicosi puerperal."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-16",
+  "stem": "Atenent criteris clínics es considera com a nens d’alt risc de càries aquells que:",
+  "options": {
+   "a": "Tenen tres o més dents cariades, obturades o absents per càries.",
+   "b": "Tenen cinc o més dents cariades, obturades o absents per càries.",
+   "c": "Tenen tres o més càries a dents permanents.",
+   "d": "Tenen cinc o més càries a dents permanents."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-17",
+  "stem": "Quina afirmació és certa respecte a l’etiopatogènia de la càries dental?",
+  "options": {
+   "a": "Els efectes sistèmics i nutricionals de la dieta són els més importants.",
+   "b": "Els efectes locals de la dieta sobre el metabolisme de la placa bacteriana el pH són molts importants.",
+   "c": "El dèficit de vitamina A que afecta l’estructura de l’esmalt és un factor decisiu.",
+   "d": "La malnutrició proteicocalòrica determina un esmalt dental poc resistent als àcids."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-18",
+  "stem": "Digueu quina de les següents recomanacions per millorar la salut dental no faríem als pares d’un nen de 2 anys:",
+  "options": {
+   "a": "Introduir la utilització del raspall.",
+   "b": "Limitar o evitar la utilització de biberó i xumet.",
+   "c": "Introduir el fluor mitjançant glopeigs.",
+   "d": "Evitar la ingesta de dolços entre àpats."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-19",
+  "stem": "La causa del retard del creixement d’origen endocrí més freqüent en el nen és:",
+  "options": {
+   "a": "Dèficit d’hormona de creixement.",
+   "b": "Hipotiroïdisme.",
+   "c": "Síndrome de Turner.",
+   "d": "Talla baixa familiar."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-20",
+  "stem": "Detectem un estancament en la talla d’una nena de 3 mesos d’edat. Quina de les següents actuacions consideraríem més adient?",
+  "options": {
+   "a": "Informar els pares que cal derivar-la a un servei d’endocrinologia infantil immediatament.",
+   "b": "Comentar amb la pediatra per detectar qualsevol causa orgànica o infecciosa i tornar a controlar la talla al cap d’un mes.",
+   "c": "Tranquil·litzar els pares i recomanar un proper control al cap d’un mes.",
+   "d": "Augmentar la ingesta i tornar a controlar la tall al cap de dos mesos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-21",
+  "stem": "En la valoració postural d’un nen de 15 mesos entendrem que es posa dret sense recolzar-se quan:",
+  "options": {
+   "a": "Està de genolls, s’aixeca i es posa dret.",
+   "b": "El nen està assegut als genolls de la mare i de cara a l’examinador, se li estimula a aixecar-se i ho fa sense cap ajut.",
+   "c": "Està en decúbit o assegut i passa a la posició erecta sense necessitat de cap altre suport que el terra.",
+   "d": "El nen està de boca terrosa, se li crida l’atenció i reacciona estirant els braços i les cames sense cap ajut."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-22",
+  "stem": "Considerarem que un nen de 5 mesos realitza la persecució òptica horitzontal de 180 graus quan:",
+  "options": {
+   "a": "Quan està assegut sobre la mare i se li estimula amb un objecte cridaner i el nen desplaça el cap primer al costat dret i després al costat esquerre de la mare.",
+   "b": "Quan està en decúbit supí o assegut, segueix un objecte cridaner davant seu– a 30 cm. – amb el cap i els ulls, durant tot l’arc de desplaçament des d’un costat fins a l’altre.",
+   "c": "Quan el nen segueix un objecte cridaner situat davant seu – a 30 cm. – amb els ulls, durant tot l’arc de desplaçament.",
+   "d": "Quan està en decúbit supí enfront l’examinador, se li crida l’atenció amb un sonall i el segueix amb els ulls 180 graus en el pla horitzontal."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-23",
+  "stem": "Considerarem una situació “d’infant de risc” segons la taula de desenvolupament psicomotor si:",
+  "options": {
+   "a": "El valor resultant dels ítems fallats en les àrees de manipulació, llenguatge i sociabilitat és superior a 3 estrelles.",
+   "b": "El valor resultant dels ítems fallats d’una àrea és igual o superior a 2 estrelles.",
+   "c": "El valor resultant dels ítems fallats de les 4 àrees és superior a 5 estrelles.",
+   "d": "Si el valor resultant dels ítems fallats de les 4 àrees és igual o superior a 4 estrelles."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-24",
+  "stem": "Quant a l’alimentació d’un nen de 6 anys és fals que:",
+  "options": {
+   "a": "La seva dieta està influenciada pels hàbits alimentaris de la família i la comunitat.",
+   "b": "L’esmorzar ha d’estar compost exclusivament per cereals i làctics.",
+   "c": "L’aportament calòric ha d’adaptar-se al desgast energètic per activitat física.",
+   "d": "En molts casos caldrà modificar els hàbits familiars no saludables."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-26",
+  "stem": "Referint-nos al risc d’accidents en el nen, assenyaleu quina de les següents afirmacions és falsa:",
+  "options": {
+   "a": "El desenvolupament de la capacitat de pessigar i agafar en els nens augmenta el risc d’aspiració d’objectes estranys.",
+   "b": "El risc de caigudes en el primer any de deambulació és independent del grau d’activitat del nen.",
+   "c": "La superprotecció del nen per part dels pares en l’edat escolar pot induir el nen a mantenir una conducta perillosa.",
+   "d": "El perill de lesions greus en els nens entre 2 i 6 anys pot disminuir si li proporcionem un ambient segur i el vigilem amb atenció quan juga."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-27",
+  "stem": "A partir de quina edat és possible la determinació de l’agudesa visual per mètodes subjectius:",
+  "options": {
+   "a": "2 anys.",
+   "b": "3 anys.",
+   "c": "5 anys.",
+   "d": "6 anys."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-28",
+  "stem": "L’aprenentatge del llenguatge es fonamenta sobre:",
+  "options": {
+   "a": "Les ganes de comunicar-se.",
+   "b": "L’amplitud del vocabulari i la seva riquesa.",
+   "c": "La capacitat neurològica i l’estimulació precoç.",
+   "d": "El llenguatge i la motivació dels pares."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-29",
+  "stem": "Entre els consells que donarem a una mare per superar una crisi transitòria de secreció làctica hi trobem:",
+  "options": {
+   "a": "Espaiar les mamades i mantenir-les amb horari rígid.",
+   "b": "Oferir alternativament una sola mama a cada presa.",
+   "c": "Augmentar l’aportament de líquids i disminuir el d’aliments en la dieta diària de la mare.",
+   "d": "Augmentar l’aportament d’aliments i líquids en la seva dieta i el descans."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-30",
+  "stem": "Entre els avantatges que la lactància materna produeix a la mare i al nen hi trobem:",
+  "options": {
+   "a": "La disminució de la incidència de processos al·lèrgics en els nens amamantats.",
+   "b": "La disminució del risc de càncer de mama.",
+   "c": "L’augment de la sensació de benestar i seguretat del nen.",
+   "d": "Totes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-31",
+  "stem": "Segons la taula de desenvolupament psicomotriu de l’estudi Llevant, quina de les següents troballes es considera com un signe d’alerta a qualsevol edat?",
+  "options": {
+   "a": "El dit polze adduït.",
+   "b": "El sobresalt exagerat.",
+   "c": "La hipertonia d’adductors.",
+   "d": "Els moviments oculars anormals."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-32",
+  "stem": "Una de les alteracions més freqüents de la son durant la lactància i la infància és el plor nocturn condicionat. Quina de les següents activitats pel tractament de les alteracions de la son és la menys indicada per solucionar aquesta situació?",
+  "options": {
+   "a": "Allitar el nen quan està despert.",
+   "b": "Quan el nen plori acudir a intervals cada cop més llargs en nits successives.",
+   "c": "Utilitzar un sistema de recompenses amb el nen.",
+   "d": "Separar el seu dormitori del de la resta dels membres de la família."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-33",
+  "stem": "Quina és la zona d’elecció per administrar vacunes intramusculars a nens menors de 2 anys?",
+  "options": {
+   "a": "Gluti lateral.",
+   "b": "Vast extern.",
+   "c": "Deltoides.",
+   "d": "Dorso-glútia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-34",
+  "stem": "La taula de desenvolupament psicomotor de l’estudi Llevant és constituïda, entre d’altres, pels ítems del desenvolupament normal de l’infant. Quina funció tenen les estrelles (*) que s’assenyalen en cada ítem?",
+  "options": {
+   "a": "Indicar l’ordre d’aparició dels ítems en cada edat.",
+   "b": "Donar la valoració corresponent a la importància de l’alteració detectada.",
+   "c": "Classificar les troballes segons el nombre d’estrelles per la seva explotació estadística.",
+   "d": "Facilitar l’exploració, ja que ens permet saber si hem de preguntar als pares o fer realitzar l’ítem al nen."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-35",
+  "stem": "La mare de la Glòria, lactant de 21 dies d’edat, pateix una crisi transitòria de lactància. Quin dels següents consells li donarem per superar-la?",
+  "options": {
+   "a": "Donar suplements de biberó.",
+   "b": "Espaiar les preses de pit.",
+   "c": "Fer períodes de repòs terapèutic.",
+   "d": "Reduir la ingesta energètica."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-36",
+  "stem": "Les necessitats nutricionals de la mare lactant són diferents a les normals en altres etapes. Quina de les següents recomanacions alimentàries és la més encertada per aquestes mares?",
+  "options": {
+   "a": "Mantenir la ingesta de líquids com en l’embaràs.",
+   "b": "Augmentar la ingesta d’aliments rics en calci.",
+   "c": "Mantenir la ingesta de glúcids com en el primer trimestre de gestació.",
+   "d": "Augmentar la ingesta de lípids per sobre de 120 grams/dia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-37",
+  "stem": "Detectem una alteració de la nutrició per excés en un nen de 5 anys. Quina de les següents activitats és més recomanable per ajudar a solucionar-la?",
+  "options": {
+   "a": "Utilitzar aliments com a premi o càstig.",
+   "b": "Aconsellar la ingesta de llet descremada.",
+   "c": "Aconsellar que la ingesta d’hidrats de carboni representi el 40 % de la ingesta diària de calories.",
+   "d": "Fer jugar més el nen i animar-lo a explorar el seu entorn i a caminar."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-38",
+  "stem": "Un nen de 9 anys a l’escola del qual no es practica el programa de glopeigs amb fluor se li recomana la realització diària a casa de glopeigs. Quina concentració de fluorur de sodi tindrà el col·lutori indicat en aquest cas?",
+  "options": {
+   "a": "0’005 %",
+   "b": "0’2 %",
+   "c": "0’5 %",
+   "d": "2 %"
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-39",
+  "stem": "Quina és la tendència de prevalença de la càries a Catalunya en els últims 15 anys?",
+  "options": {
+   "a": "De disminució.",
+   "b": "D’augment.",
+   "c": "D’estancament.",
+   "d": "No disposem d’estudis en aquest període."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-40",
+  "stem": "Els jocs i joguines tenen molta importància en el procés de desenvolupament i creixement del nen, però de vegades poden produir lesions. Quin dels següents consells per evitar-les donarem als pares d’un nen de 9 anys?",
+  "options": {
+   "a": "Comprar joguines voluminoses.",
+   "b": "Jugar sota vigilància.",
+   "c": "No comprar joguines sonores amb més de 100 decibelis.",
+   "d": "Els cordills de les joguines han de tenir més de 60 cm per evitar estrangulacions."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-41",
+  "stem": "Atenem un nen de 8 anys amb sospita d’enverinament accidental. Quina de les següents dades generals valorarem com a prioritària?",
+  "options": {
+   "a": "Edat",
+   "b": "Antecedents d’ingesta accidental coneguda en el darrer any.",
+   "c": "Grau d’ansietat dels pares.",
+   "d": "Inici solapat."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-42",
+  "stem": "Raül és un nen de 9 anys que ve a la consulta, durant la visita ens diu que se’n va de vacances i que vol anar “tot el dia en bicicleta”. Els pares ens demanen consell per prevenir possibles accidents. Quin dels següents consells és el més adequat?",
+  "options": {
+   "a": "Permetre’n l’ús només a partir dels 10 anys.",
+   "b": "Que la utilitzi només al pati de casa.",
+   "c": "Ensenyar-li normes de circulació i com respectar-la.",
+   "d": "Si va en bicicleta pel parc pot anar sense casc."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-43",
+  "stem": "En la visita de salut d’una nena de 7 anys observem l’aparició dels primers caràcters sexuals i una acceleració del creixement estatural. Quina de les següents explicacions és la més probable davant les troballes efectuades?",
+  "options": {
+   "a": "Pubertat avançada.",
+   "b": "Síndrome de Turner.",
+   "c": "Pubertat precoç.",
+   "d": "Telàrquia prematura."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-44",
+  "stem": "Des de l’any 1982 es desenvolupa a Catalunya el Pla de Detecció Precoç Neonatal. Quina de les malalties següents permet detectar l’esmentat pla?",
+  "options": {
+   "a": "Hipertiroïdisme.",
+   "b": "Toxoplasmosi.",
+   "c": "Fenilcetonúria.",
+   "d": "Síndrome de Turner."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-45",
+  "stem": "Hi ha vacunes antigripals elaborades amb virus inactivats complets i altres amb virus fraccionats. A quin dels grups de població següents administrarem només la vacuna de virus fraccionats?",
+  "options": {
+   "a": "Adults san majors de 65 anys.",
+   "b": "Nens menors de 12 anys amb malalties cròniques pulmonars.",
+   "c": "Personal sanitari en contacte amb malalts d’alt risc.",
+   "d": "Residents en centres de crònics menors de 65 anys."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-46",
+  "stem": "Quina és la causa principal de mortalitat en nens d’1 a 15 anys en el nostre entorn?",
+  "options": {
+   "a": "Les infeccions meningocòcciques.",
+   "b": "Les leucèmies.",
+   "c": "Els accidents.",
+   "d": "Les invaginacions intestinals."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-47",
+  "stem": "Segons la taula de desenvolupament psicomotor inspirada en l’estudi Llevant, a partir de quina edat l’estancament del perímetre cefàlic es considera un signe d’alerta?",
+  "options": {
+   "a": "2 mesos.",
+   "b": "3 mesos.",
+   "c": "6 mesos.",
+   "d": "A qualsevol edat."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-48",
+  "stem": "Quina de les actuacions següents serà més adequada per prevenir la ingesta de líquids tòxics en un nen de 14 mesos d’edat?",
+  "options": {
+   "a": "Raonar amb el nen perquè no toqui el tòxic.",
+   "b": "Reprendre verbalment al nen amb energia.",
+   "c": "Col·locar els productes tòxics fora del seu abast.",
+   "d": "Col·locar el producte tòxic en un envàs que no cridi l’atenció del nen."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-49",
+  "stem": "A quina edat es considera que el nen ha de tenir la dentició temporal completa i en cas contrari s’hauria de derivar a l’especialista?",
+  "options": {
+   "a": "15 mesos.",
+   "b": "18 mesos.",
+   "c": "2 anys.",
+   "d": "3 anys."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-50",
+  "stem": "A quina edat es recomana ensenyar als nens la tècnica correcta del raspallat de dents?",
+  "options": {
+   "a": "1 anys.",
+   "b": "2-3 anys.",
+   "c": "6-7 anys.",
+   "d": "9-10 anys."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-51",
+  "stem": "Quina de les respostes següents correspon amb una activitat de cribratge del Programa d’Atenció al Nen Sa?",
+  "options": {
+   "a": "Vacunació.",
+   "b": "Medició de la talla.",
+   "c": "Informar sobre l’ús nociu de les drogues.",
+   "d": "Retirar l’ús del xumet."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-52",
+  "stem": "L’asfíxia per aspiració de cossos estranys és una de les causes principals de lesions mortals en els nens menors d’1 any d’edat. Quina de les respostes següents és la més adequada per prevenir-la?",
+  "options": {
+   "a": "No hem de donar fruits secs a nens d’aquesta edat.",
+   "b": "Cal inspeccionar les joguines i si tenen peces petites desmuntables, refusar-les.",
+   "c": "Mantenir els botons i monedes fora de l’abast del nen.",
+   "d": "Realitzar totes les activitats anteriors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-54",
+  "stem": "La taula de desenvolupament psicomotor de l’estudi Llevant és constituïda, entre d’altres, per elements (ítems) del desenvolupament normal de l’infant. Quina funció tenen les estrelles (*) que s’assenyalen per a cada ítem?",
+  "options": {
+   "a": "Indicar l’ordre d’aparició dels ítems en cada edat.",
+   "b": "Donar la valoració corresponent a la importància de l’altercació detectada.",
+   "c": "Classificar les troballes segons el nombre d’estrelles per la seva explotació estadística.",
+   "d": "Facilitar l’exploració, ja que ens permet saber si hem de preguntar als pares o fer realitzar l´ítem al nen."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-55",
+  "stem": "Els dolors abdominals tipus còlic són causa freqüent de consulta durant els 3 o 4 primers mesos de vida. Quina de les recomanacions següents donarem als pares d’aquests nens per ajudar-los a minimitzar el problema?",
+  "options": {
+   "a": "Evitar els massatges a la panxa.",
+   "b": "No agafar el nen del bressol encara que plori.",
+   "c": "Revisar la posició i manera en què mama o pren el biberó el nen.",
+   "d": "Aplicar supositoris de glicerina."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-56",
+  "stem": "Raquel és una nena de 2 anys i mig d’edat, sense antecedents patològics d’interès, que porten a la consulta per a una visita de seguiment del nen sa. Quin dels següents consells de salut sobre alimentació s’adaptarà més a l’edat de la nena?",
+  "options": {
+   "a": "Cal deixar la llet de continuació i iniciar la introducció de llet de vaca.",
+   "b": "Cal recomanar als pares que no la forcin a menjar.",
+   "c": "No hem d’endolcir-li el xumet.",
+   "d": "Es pot iniciar la ingesta de la clara d’ou."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-57",
+  "stem": "Lluïsa és una nena de 10 anys d’edat que ve a la consulta, durant la visita ens diu que se’n va de vacances i “vol anar tot el dia en bicicleta”. Els pares ens demanen consells per evitar possibles accidents. Quins dels consells següents és el més adequat?",
+  "options": {
+   "a": "Si va en bicicleta pel parc pot anar sense casc.",
+   "b": "Permetre’n l’ús només a partir dels 11 anys.",
+   "c": "Que la utilitzi només al pati de casa.",
+   "d": "Ensenyar-li les normes de circulació i com respectar-les."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-58",
+  "stem": "Quina de les mesures següents és adequada per garantir una correcta utilització del fluor en la prevenció de la càries dental en nens?",
+  "options": {
+   "a": "Fluorar les aigües que continguin menys de 2 mg/l de fluor.",
+   "b": "No utilitzar molta pasta dental fluorada, n’hi ha prou amb l’equivalent a la mida d’un pèsol.",
+   "c": "Recomanar l’ús de fluor sistèmic a partir del naixement a dosis de 2 mg/dia.",
+   "d": "Iniciar l’aplicació tòpica de fluor després del rentat a partir dels 3 anys."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-59",
+  "stem": "David és un lactant de 3 mesos que presenta una obstrucció nasal dintre d’un quadre de refredat comú. Quin consell donarem als pares per realitzar correctament el rentat nasal?",
+  "options": {
+   "a": "Col·locar el nen assegut i administrar els sèrum en ambdues fosses nasals.",
+   "b": "Pautar els rentats a hores fixes per garantir la seva utilitat.",
+   "c": "Administrar el sèrum sense violència per no lesionar les trompes d’Eustaqui.",
+   "d": "Combinar sèrum fisiològic amb descongestionants farmacològics per augmentar-ne l’eficàcia."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-60",
+  "stem": "Per prevenir lesions en un nen de 9 anys, quin dels elements següents cal valorar?",
+  "options": {
+   "a": "La mida de les joguines.",
+   "b": "Les conductes que té en els desplaçaments.",
+   "c": "El grau de coneixements que té sobre com es diu i el telèfon familiar.",
+   "d": "Si els productes de neteja estan al seu abast."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-61",
+  "stem": "Quina manifestació del desenvolupament associat a l’alimentació esperarem que aparegui en un nen de 24 mesos?",
+  "options": {
+   "a": "Prefereix utilitzar la forquilla abans que la cullera.",
+   "b": "Beu bé amb tassa però li cau en acabar.",
+   "c": "Distingeix entre aliments per menjar amb els dits i amb la cullera.",
+   "d": "Utilitzar la forquilla amb fluïdesa."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-62",
+  "stem": "Quin dels paràmetres següents es pauta de l’1 a 5 en els estadis de desenvolupament puberal proposats per Tanner?",
+  "options": {
+   "a": "Presència de borrissol axil·lar.",
+   "b": "Aspecte de l’escrot.",
+   "c": "Presència de canvis en el to de veu del noi.",
+   "d": "Índex de Quetelet."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-63",
+  "stem": "En Pere, que té 12 anys, ve amb la seva mare a una visita del Programa de Seguiment del Nen Sa. Quins dels consells següents els hauríem de donar sobre les característiques que ha de tenir l’alimentació del noi?",
+  "options": {
+   "a": "Mantenir la ingesta de làctics entre 400 – 500 ml diaris.",
+   "b": "Restringir la ingesta d’ous a un màxim de tres per setmana.",
+   "c": "Procurar que els àpats no siguin molt voluminosos.",
+   "d": "Restringir l’ús de verdures crues per facilitar l’aprofitament dels altres nutrients."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-64",
+  "stem": "La prova de Hirschberg es realitza als nens en el primer any de vida per poder detectar anomalies oculars. Quina resposta considerarem normal en realitzar la prova?",
+  "options": {
+   "a": "En destapar l’ull s’observa que no hi ha moviment de fixació en ambdós ulls.",
+   "b": "Els reflexos de la llum es veuen centrats simètricament en ambdues còrnies.",
+   "c": "No hi ha opacitat en ambdues pupil·les.",
+   "d": "El nen diferencia correctament les figures del panell."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-65",
+  "stem": "Quina de les mesures següents s’ha d’incloure en la dieta d’una mare puèrpera per garantir una lactància materna adequada?",
+  "options": {
+   "a": "Augmentar la ingesta de glúcids respecte al segon trimestre d’embaràs.",
+   "b": "Augmentar la ingesta de greixos respecte al tercer trimestre d’embaràs.",
+   "c": "Mantenir la ingesta de proteïnes igual que en l’embaràs.",
+   "d": "Augmentar 500 kcal/dia suplementàries a la dieta normal."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-66",
+  "stem": "Per garantir un grau de confort i satisfacció adequats en la mare i el nadó amb lactància materna cal assegurar-nos que aquesta es realitzi correctament. Quina de les mesures següents recomanarem per aconseguir-ho?",
+  "options": {
+   "a": "Limitar la durada de les preses a 10 minuts entre els dos pits.",
+   "b": "Evitar l’extracció manual o mecànica de la llet si la producció és excessiva, ja que es podria produir hipogalàctia.",
+   "c": "Les genives del nen s’han d’aplicar sobre el mugró per facilitar l’extracció de la llet.",
+   "d": "A l’hora de retirar el nen del pit la mare introduirà el dit en la comissura bucal del nen per separar les genives i evitar lesions al mugró."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-67",
+  "stem": "Segons la taula de desenvolupament psicomotor (Llevant) quina resposta donarem com a correcta en explorar si un nen es manté assegut establement?",
+  "options": {
+   "a": "Es manté assegut a les cames dels pares sense subjectar-se.",
+   "b": "Es manté assegut més d’un minut abans de caure.",
+   "c": "Es manté assegut sense perdre l’equilibri en agafar un objecte.",
+   "d": "Cap de les anteriors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-68",
+  "stem": "A partir de quina edat caldrà derivar un nen que presenta hiperextensió cefàlica segons la taula de desenvolupament psicomotor (Llevant)?",
+  "options": {
+   "a": "4 mesos de vida.",
+   "b": "6 mesos de vida.",
+   "c": "10 mesos de vida.",
+   "d": "A qualsevol edat."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-69",
+  "stem": "L’aplicació de la taula de desenvolupament psicomotor en l’Estudi Llevant és un instrument que:",
+  "options": {
+   "a": "Permet detectar una possible desviació en el desenvolupament psicomotor de l’infant menor de quatre anys.",
+   "b": "Permet definir, en el cas que aparegui, el grau de retard en les àrees de sociabilitat, llenguatge, manipulació i postural en un infant menor de 4 anys.",
+   "c": "Proporcionar un diagnòstic funcional i/o etiològic del paràmetre alterat.",
+   "d": "b i c són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-70",
+  "stem": "Segons la taula de desenvolupament psicomotor de l’estudi Llevant a quina edat té capacitat l’infant per passar-se un objecte d’una mà a l’altra?",
+  "options": {
+   "a": "A partir dels 4 mesos.",
+   "b": "De 6 a 8 mesos.",
+   "c": "De 8 a 10 mesos.",
+   "d": "De 9 a 11 mesos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-71",
+  "stem": "Quin consell donaríem als pares per tal d’ajudar el seu fill a diferenciar el dia de la nit?",
+  "options": {
+   "a": "Dormir de dia amb una mica de llum.",
+   "b": "Mantenir les activitats diürnes malgrat que es faci soroll.",
+   "c": "Promoure el bany al vespre.",
+   "d": "Totes les respostes són adequades."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-72",
+  "stem": "Segons el protocol del Programa de Seguiment del Nen Sa, a quina edat es passa el Test d’Hirschberg?",
+  "options": {
+   "a": "Als 7 mesos.",
+   "b": "Als 12 mesos.",
+   "c": "Als 5 mesos.",
+   "d": "Als 9 mesos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-73",
+  "stem": "La Marta és un nadó de 14 dies. Avui té programada la primera visita amb la infermera de l’EAP per a la revisió. [...]\nSegons el diagnòstic “dèficit de coneixements”, quin objectiu es plantejarà la infermera prioritàriament?",
+  "options": {
+   "a": "Evitar el risc d’interrupció de la lactància materna.",
+   "b": "Assegurar l’augment ponderal adequat.",
+   "c": "Els pares adquiriran els coneixements i les habilitats necessàries per tenir cura de la nena.",
+   "d": "Ajudar els pares a identificar les seves dificultats per tenir cura de la seva filla."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-74",
+  "stem": "Quina d’aquestes recomanacions és falsa respecte a la tècnica de l’alletament matern?",
+  "options": {
+   "a": "El nadó ha de tenir el coll girat cap a la mare durant la lactància.",
+   "b": "És recomanable que el nadó agafi la major part possible de pit amb la boca.",
+   "c": "Es recomana disposar d’un seient amb respatller ampli.",
+   "d": "S’ha de donar els dos pits començant pel darrer que ha pres en la mamada anterior."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-75",
+  "stem": "Quin consell li donarem a la mare per evitar l’aparició de les clivelles en realitzar la lactància?",
+  "options": {
+   "a": "Rentar-se els pits abans d’alletar.",
+   "b": "No retirar la llet sobrera dels mugrons ja que actua com a hidratant de l’arèola.",
+   "c": "No utilitzar sostenidors de lactància.",
+   "d": "Humidificar l’arèola abans d’alletar per millorar l’elasticitat de la pell."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-76",
+  "stem": "Segons el Programa d’Activitats Preventives i de Promoció de la Salut (PAPPS), quina recomanació cal donar respecte a la introducció de nous aliments quan un nadó s’alimenta exclusivament de llet materna durant els primers 6 mesos de vida?",
+  "options": {
+   "a": "Introduir cereals amb llet de continuació.",
+   "b": "Retardar la introducció dels cereals i començar per la fruita.",
+   "c": "Seguir exclusivament amb alletament matern fins als 7 mesos.",
+   "d": "Retardar introducció de la fruita."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-77",
+  "stem": "Quins factors afavoreixen l’aparició d’una otitis mitjana en la infància?",
+  "options": {
+   "a": "Assistència a guarderies.",
+   "b": "Ús del xumet.",
+   "c": "Lactància artificial.",
+   "d": "Totes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-78",
+  "stem": "Segons la Taula de Desenvolupament Psicomotor Llevant a partir de quina franja d’edat els infants tenen la capacitat de “baixar graons tots sols”?",
+  "options": {
+   "a": "12 – 16 mesos.",
+   "b": "14 – 18 mesos.",
+   "c": "16 – 22 mesos.",
+   "d": "18 – 24 mesos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-79",
+  "stem": "En el cas de la maduració sexual del nens (gènere masculí) el primer signe clínic que anuncia la pubertat és:",
+  "options": {
+   "a": "Creixement del borrissol del pubis.",
+   "b": "Creixement del penis.",
+   "c": "Canvia la veu.",
+   "d": "Creixement dels testicles i l’escrot."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-80",
+  "stem": "Què valora el test d’Apgar en el nounat?",
+  "options": {
+   "a": "Resposta al reflex de Babinsky.",
+   "b": "Desenvolupament comportamental.",
+   "c": "Perímetre cefàlic, fontanel·les, solapament de sutures cranials.",
+   "d": "L’estat vital."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-81",
+  "stem": "Si a l’exploració física del nounat s’observa la fontanel·la enfonsada aquest signe indica:",
+  "options": {
+   "a": "Hipertensió intracranial.",
+   "b": "Infecció.",
+   "c": "Traumatisme intrapart.",
+   "d": "Deshidratació."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-82",
+  "stem": "A l’exploració del reflex de Moro de l’Andreu que té 10 dies de vida apareix una resposta asimètrica. Això indica:",
+  "options": {
+   "a": "Trastorn greu del sistema nerviós central.",
+   "b": "Fractura de clavícula.",
+   "c": "Displàsia de maluc.",
+   "d": "És normal en aquesta edat."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-83",
+  "stem": "La Llúcia, que alleta l’Andreu, comenta molèsties al pit i a l’exploració es detecta ingurgitació mamària. Quina és la recomanació adequada?",
+  "options": {
+   "a": "Regular la freqüència i duració de les preses.",
+   "b": "Que el nounat prengui llet dels dos pits en cada presa.",
+   "c": "Corregir males posicions si la tècnica d’alletament és correcta.",
+   "d": "Extreure la llet manualment abans de cada presa."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-84",
+  "stem": "La definició de l’etiqueta diagnòstica “Alletament matern ineficaç” és:",
+  "options": {
+   "a": "Deteriorament de l’habilitat per succionar.",
+   "b": "Manca d’habilitat per coordinar succió-deglució.",
+   "c": "Interrupció del procés d’alletament.",
+   "d": "Insatisfacció o dificultat en el procés d’alletament."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-85",
+  "stem": "Respecte a la lactància materna quina afirmació és incorrecta?",
+  "options": {
+   "a": "Millora la immunitat digestiva i respiratòria del nadó.",
+   "b": "És més efectiva començant a partir de les tres hores del part.",
+   "c": "Afavoreix la involució uterina de la mare.",
+   "d": "Fins al quinzè dia conté major quantitat de lactosa i greixos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-86",
+  "stem": "Segons el calendari de vacunació del Departament de Salut de la Generalitat de Catalunya, quan l’Andreu tingui 5 mesos haurà de tenir administrades les següents vacunes: (actualitzada a octubre de 2017)",
+  "options": {
+   "a": "Dues dosis de diftèria, tètanus, tos ferina, poliomielitis, haemophilus B i hepatitis B + una dosi de malaltia meningocòccica C + dues dosis de malaltia pneumocòccica.",
+   "b": "Dues dosis de diftèria, tètanus, tos ferina, poliomielitis, haemophilus B , hepatitis B i malaltia meningocòccica C.",
+   "c": "Tres dosis de diftèria, tètanus, tos ferina, poliomielitis, haemophilus B i hepatitis B + una dosi de malaltia meningocòccica C + una dosi de malaltia penumocòccica.",
+   "d": "Dues dosis de diftèria, tètanus, tos ferina, poliomielitis, haemophilus B i hepatitis B + dues dosis de malaltia meningocòccica C."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-87",
+  "stem": "Segons la Taula de Llevant és signe d’alarma en el desenvolupament psicomotor:",
+  "options": {
+   "a": "Reflex de Moro persistent als 3 mesos.",
+   "b": "Polze adduït als 2 mesos.",
+   "c": "Absència de desplaçament autònom als 10 mesos.",
+   "d": "Incapacitat per fer joc simbòlic als 18 mesos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-88",
+  "stem": "Segons la Taula de Llevant un nen de nou mesos ha de ser capaç de:",
+  "options": {
+   "a": "Fer una torre de quatre cubs i tenir una sedestació estable.",
+   "b": "Assenyalar amb l’índex i utilitzar la paraula “no”.",
+   "c": "Jugar a l’amagatall i realitzar pinça inferior.",
+   "d": "Fer cinc passos i imitar gestos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-89",
+  "stem": "A la Blanca, que farà 3 anys dins de 10 mesos, se li fa una revisió. A la seva constitueix un criteri d’alerta en salut bucodental:",
+  "options": {
+   "a": "L’absència d’hàbits de raspallat.",
+   "b": "Dentició temporal incompleta per l’edat (24 dents).",
+   "c": "Presència de males oclusions.",
+   "d": "Dentició temporal incompleta per l’edat (20 dents)."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-90",
+  "stem": "La Blanca presenta febre, malestar i erupció pruriginosa que s’inicia com a màcula i que es converteix en pàpula, vesícula i crosta. Aquesta simptomatologia quina malaltia suggereix?",
+  "options": {
+   "a": "Xarampió.",
+   "b": "Rubèola.",
+   "c": "Varicel·la.",
+   "d": "Escarlatina."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-91",
+  "stem": "Respecte als maltractaments, un nen amb poca higiene, desnodrit, amb accidents repetitius i temes sanitaris no resolts, és víctima de maltractament:",
+  "options": {
+   "a": "Físic.",
+   "b": "Psicològic.",
+   "c": "Per negligència.",
+   "d": "Institucional."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-92",
+  "stem": "La síndrome de Münchhausen per poders s’inclou en el tipus de maltractament:",
+  "options": {
+   "a": "Sexual.",
+   "b": "Físic.",
+   "c": "Psicològic.",
+   "d": "Intrafamiliar."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-93",
+  "stem": "La Núria té 10 anys. La seva mare la porta a la consulta infermera perquè li preocupa “que ha començat a fer el canvi”. Són signes d’alarma en el desenvolupament puberal:",
+  "options": {
+   "a": "Botó mamari als 7 anys en nenes i augment del volum testicular als 8 anys en nens.",
+   "b": "Borrissol pubià als 10 anys en nenes i augment de la longitud del penis als 11 anys en nens.",
+   "c": "Absència de caràcters sexuals secundaris als 12 anys per ambdós sexes.",
+   "d": "Absència de caràcters sexuals secundaris als 12 anys en nenes i als 13 anys en nens."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-95",
+  "stem": "L’Elena ha perdut pes sense causa orgànica en els últims 6 mesos, ha augmentat l’exercici físic, recull dietes i receptes i restringeix aliments. Es descarta trastorn del comportament alimentari si:",
+  "options": {
+   "a": "Analítica normal i bon rendiment social i acadèmic.",
+   "b": "Cicles menstruals, IMC = 18, queixes somàtiques (epigastràlgies).",
+   "c": "Exploració física normal, negació del desig de perdre pes.",
+   "d": "En cap del casos."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-96",
+  "stem": "Segons el test de valoració de Brunet-Lezine un lactant al cinquè mes de vida:",
+  "options": {
+   "a": "Vocalitza algunes síl·labes clarament.",
+   "b": "Roman assegut amb un lleuger sosteniment.",
+   "c": "Queda assegut sense cap tipus d’ajuda.",
+   "d": "Es fica els peus a la boca."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-97",
+  "stem": "En un nounat amb fototeràpia què no s’ha de fer?",
+  "options": {
+   "a": "Exposar a la llum la màxima superfície corporal.",
+   "b": "Efectuar canvis posturals.",
+   "c": "Hidratar-li la pell.",
+   "d": "Protegir-li els ulls."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-98",
+  "stem": "Senyaleu el germen que provoca amb més freqüència la bronquiolitis del lactant:",
+  "options": {
+   "a": "Pneumococ.",
+   "b": "Virus respiratori sincitial.",
+   "c": "Adenovirus.",
+   "d": "Meningococ."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-99",
+  "stem": "En un nen amb dermis irritativa del bolquer l’activitat d’infermeria ha de ser:",
+  "options": {
+   "a": "Rentar la zona amb sabó freqüentment.",
+   "b": "Controlar la descamació de la zona.",
+   "c": "Evitar la humitat de la zona.",
+   "d": "Aplicar pomada per als fongs."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-100",
+  "stem": "La trisomia del cromosoma 18 és la síndrome de:",
+  "options": {
+   "a": "Down.",
+   "b": "Patau.",
+   "c": "Edwards.",
+   "d": "Klinefelter."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2004",
+  "year": 2004,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-101",
+  "stem": "Respecte a la lactància materna és fals que:",
+  "options": {
+   "a": "Aporta l’equilibri nutritiu ideal per a la ració que requereix el nadó.",
+   "b": "Té conegudes accions antiinfeccioses.",
+   "c": "Conté proteïnes que poden ser al·lèrgiques.",
+   "d": "Reforça els llaços efectius entre la mare i el nen."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-102",
+  "stem": "Les convulsions febrils són comunes en la infància però cal tenir en compte que es presenten:",
+  "options": {
+   "a": "Després dels 2 anys.",
+   "b": "Fins als 14 anys.",
+   "c": "Abans dels 24 mesos i després dels 9 anys.",
+   "d": "Després dels 3 mesos i abans dels 6 anys."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-103",
+  "stem": "En un nen que presenta vòmits hem de:",
+  "options": {
+   "a": "Administrar begudes amb gas de forma fraccionada i en petits volums.",
+   "b": "La dieta ha d’incloure hidrats de carboni i cítrics i reduir líquids.",
+   "c": "Col·locar el nen amb el capçal elevat per evitar aspiracions.",
+   "d": "Els làctics són millor tolerats que altres aliments."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL ARNAU DE VILANOVA 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-104",
+  "stem": "Quins paràmetres avalua el test d’Apgar?",
+  "options": {
+   "a": "Batec cardíac, respiració i to muscular.",
+   "b": "Batec cardíac, respiració, to muscular i color.",
+   "c": "Batec cardíac, respiració, to muscular, color i resposta a estímuls.",
+   "d": "Batec cardíac, respiració, to muscular i resposta a estímuls."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-105",
+  "stem": "Quina d’aquestes variables és la més significativa en la valoració del dolor en un nadó?",
+  "options": {
+   "a": "Disminució de pressió intracranial.",
+   "b": "Augment de la freqüència cardíaca.",
+   "c": "Disminució de la pressió arterial.",
+   "d": "Disminució de la freqüència cardíaca."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-106",
+  "stem": "Quines maniobres s’utilitzen per saber si un nen té luxació congènita de maluc?",
+  "options": {
+   "a": "Maniobra de Brunet.",
+   "b": "Maniobra d’Ortolani i Barlow.",
+   "c": "Maniobra de Lezine.",
+   "d": "Manibora de Barré."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-107",
+  "stem": "Un mètode per determinar el grau de maduració òssia en un nen és fer una Rx de:",
+  "options": {
+   "a": "Turmell.",
+   "b": "Pelvis.",
+   "c": "Canell.",
+   "d": "Crani."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-109",
+  "stem": "El Dani és un nen de 4 anys que ingressa el mateix de la intervenció d’hipospàdies. Dels factors següents quin influeix més per disminuir la por a l’hospitalització del Dani?",
+  "options": {
+   "a": "Absència de tècniques doloroses.",
+   "b": "La presència de la mare o del pare.",
+   "c": "Que el personal d’infermeria jugui amb el nen.",
+   "d": "Tenir experiències prèvies."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE TARRAGONA/TORTOSA 2008",
+  "year": 2008,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-120",
+  "stem": "La infermera rep un nen de tres anys i sis mesos a urgències i li indica a la mare que l’estiri a la llitera, aquest comença a girar la mirada, mostra una rigidesa als braços seguit d’unes sacsejades en deixar-lo a la llitera. Hi observem que el nen presenta:",
+  "options": {
+   "a": "Crisis tòniques.",
+   "b": "Crisis clòniques.",
+   "c": "Crisis tòniques i clòniques.",
+   "d": "Crisis de pànic."
+  },
+  "source_label": "Examen oficial ICS · HOSPITAL TRUETA 2009",
+  "year": 2009,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-128",
+  "stem": "El test d’hiperòxia en el nounat permet:",
+  "options": {
+   "a": "Mesurar la concentració d’oxigen d’un nen afectat d’una cardiopatia que cursa amb cianosi.",
+   "b": "Mesurar la saturació d’oxigen d’un nen amb tractament d’oxigen amb FiO₂ al 100%.",
+   "c": "Mesurar l’hemoglobina d’un nen amb tractament d’oxigen al FiO₂ al 100 %.",
+   "d": "Contrastar el resultat d’una espirometria."
+  },
+  "source_label": "Examen oficial ICS · HOSPITALS DE BARCELONA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-130",
+  "stem": "El Pol és un nadó de 7 dies. La mare comenta que té problemes per dormir, li costa concentrar-se i se sent molt fatigada, diu “no sé si seré capaç de tirar endavant amb aquesta nova situació”. En relació amb les manifestacions de la mare del pol, quina etiqueta diagnòstica formularíeu?",
+  "options": {
+   "a": "Impotència.",
+   "b": "Ansietat.",
+   "c": "Desesperança.",
+   "d": "Afrontament inefectiu."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-134",
+  "stem": "El Pol ja té dos mesos i la seva mare el porta a la visita del Programa d’Activitats Preventives i de Promoció de la Salut (PAPPS) a l’edat pediàtrica amb la infermera. A l’exploració del desenvolupament psicomotor, la infermera detecta un signe d’alerta. Segons la taula de desenvolupament psicomotor Llevant, quin dels següents signes és un signe d’alerta?",
+  "options": {
+   "a": "Sobresalt exagerat.",
+   "b": "Reflex de Moro persistent.",
+   "c": "Asimetria d’activitats amb les mans.",
+   "d": "Hipertonia d’adductors."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-135",
+  "stem": "El Pol ve a la visita de seguiment dels 9 mesos. En aquesta visita, li fem la prova per a la detecció de la hipoacúsia. Segons el PAPPS a l’edat pediàtrica, quina és la prova indicada?",
+  "options": {
+   "a": "Test d’Sneller.",
+   "b": "Test d’Ewing.",
+   "c": "Test de Teller.",
+   "d": "Test d’Allen."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-136",
+  "stem": "Han passat els anys i el Pol ja en té 6. En explorar el desenvolupament físic del Pol observem que presenta un sobrepès. Quina de les afirmacions següents és la que ens indica que hi ha sobrepès?",
+  "options": {
+   "a": "El pes sobrepassa 2 SDS (desviacions estàndards) de l’IMC per l’edat.",
+   "b": "El pes sobrepassa 1 SDS (desviacions estàndards) de l’IMC per l’edat.",
+   "c": "L’IMC és > 30.",
+   "d": "Totes les respostes són certes."
+  },
+  "source_label": "Examen oficial ICS · PRIMÀRIA 2010",
+  "year": 2010,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-256-141",
+  "stem": "Quin dels següents aliments està indicat en un infant amb celiaquia?",
+  "options": {
+   "a": "Ordi.",
+   "b": "Civada.",
+   "c": "Arròs.",
+   "d": "Blat."
+  },
+  "source_label": "Examen oficial ICS · ICS 2015",
+  "year": 2015,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-1",
+  "stem": "Si volem educar al pacient en el procés de la seva malaltia, quina activitat NO seria adequada?",
+  "options": {
+   "a": "Transmetre promeses tranquil·litzadores sense continguts",
+   "b": "Descriure el procés de la malaltia",
+   "c": "Avaluar el nivell de coneixements del pacient",
+   "d": "Ensenyar al pacient mesures per controlar i minimitzar els símptomes"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Barcelona, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-2",
+  "stem": "El parafraseig és un recurs utilitzat en l’escolta activa, ¿en què consisteix?",
+  "options": {
+   "a": "En repetir amb les nostres paraules allò que hem captat del missatge",
+   "b": "En expressar les emocions que percebem de l’altra persona",
+   "c": "En repetir textualment les idees que intenta transmetre’ns l’altra persona",
+   "d": "En invitar l’altra persona a que escolti més i parli menys"
+  },
+  "source_label": "Examen oficial ICS",
+  "year": null,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-3",
+  "stem": "Respecte a la comunicació assenyali la resposta incorrecta:",
+  "options": {
+   "a": "La comunicació és un procés circular, configurat per l’element de retroalimentació",
+   "b": "La comunicació és un procés circular i discontinu",
+   "c": "La comunicació és irreversible",
+   "d": "En el procés de comunicació l’emissor i el receptor s’intercanvien els papers constantment"
+  },
+  "source_label": "Examen oficial ICS",
+  "year": null,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-4",
+  "stem": "Assenyali quines de les tècniques següents que fa servir un entrevistador facilitarà que un pacient s’expressi amb llibertat durant una entrevista:",
+  "options": {
+   "a": "Baixa reactivitat",
+   "b": "Evitar silencis funcionals",
+   "c": "Preguntes concretes i tancades",
+   "d": "Actitud antagònica"
+  },
+  "source_label": "Examen oficial ICS",
+  "year": null,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-9",
+  "stem": "Les fases del procés d’educació sanitària són:",
+  "options": {
+   "a": "Valoració inicial, diagnòstic, planificació, execució i evolució",
+   "b": "Objectius, estratègia i complimentació",
+   "c": "Planificació segons: estat del pacient, pronòstic i previsió d’alta",
+   "d": "Anamnesi, pla de cures i educació"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Barcelona, 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-10",
+  "stem": "Per valorar la disposició del malalt a l’aprenentatge haurem de tenir en compte:",
+  "options": {
+   "a": "Capacitat física, disposició emocional i capacitat d’aprenentatge",
+   "b": "Nivell intel·lectual i cultural",
+   "c": "Possibilitats d’autocura",
+   "d": "Coneixement de la seva malaltia"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Barcelona, 2003",
+  "year": 2003,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-11",
+  "stem": "L’objectiu final de l’educació per a la salut és:",
+  "options": {
+   "a": "Canviar actituds",
+   "b": "Modificar valors",
+   "c": "Canviar comportaments",
+   "d": "Augmentar la informació"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Girona, 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-12",
+  "stem": "Parlem d’educació per a la salut informal si la infermera:",
+  "options": {
+   "a": "Ofereix un programa adreçat a tota la població",
+   "b": "Fa educació mentre realitza altres intervencions o procediments",
+   "c": "Es limita a respondre les preguntes de l’usuari",
+   "d": "Utilitza tècniques de demostració per l’educació per a la salut"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Girona, 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-13",
+  "stem": "La cultura d’un malalt o de la seva família pot influir en:",
+  "options": {
+   "a": "La resposta a la malaltia",
+   "b": "La tolerància al dolor",
+   "c": "El procés d’adaptació",
+   "d": "Totes les respostes anteriors són correctes"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Girona, 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-14",
+  "stem": "Qui NO seria un agent comunitari de salut?",
+  "options": {
+   "a": "La persona que treballa de mediadora cultural",
+   "b": "La mare que té cura dels fills",
+   "c": "Els fills que tenen cura dels avis",
+   "d": "b i c són correctes"
+  },
+  "source_label": "Examen oficial ICS · Primària ICS",
+  "year": null,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-15",
+  "stem": "Quina formació NO és pròpia de l’educació sanitària de supervivència del malalt diabètic?",
+  "options": {
+   "a": "Coneixement de la malaltia",
+   "b": "Els tipus de tractaments",
+   "c": "Complicacions agudes",
+   "d": "Complicacions tardanes"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Girona, 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-16",
+  "stem": "Un dels errors més freqüents en l’educació per a la salut és:",
+  "options": {
+   "a": "Conèixer què necessita l’usuari",
+   "b": "Deixar a l’usuari que parli al seu ritme",
+   "c": "Jutjar l’usuari",
+   "d": "Prendre decisions conjuntament"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Girona, 2002",
+  "year": 2002,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-17",
+  "stem": "El missatge educatiu ha de ser:",
+  "options": {
+   "a": "Ser breu i orientat a un objectiu",
+   "b": "Contenir la màxima informació possible",
+   "c": "Evitar les repeticions",
+   "d": "Sortir espontàniament de la discussió del tema"
+  },
+  "source_label": "Examen oficial ICS · Primària, 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-18",
+  "stem": "Quins dels següents mètodes d’educació sanitària és directe?",
+  "options": {
+   "a": "Premsa",
+   "b": "Diàleg",
+   "c": "Ràdio",
+   "d": "Internet"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Tarragona, 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-19",
+  "stem": "Quins són els objectius principals de l’educació sanitària?",
+  "options": {
+   "a": "Modificar els hàbits i les conductes insanes",
+   "b": "Promoure les conductes positives de salut",
+   "c": "Solucionar problemes de salut",
+   "d": "a i b són correctes"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Tarragona, 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-20",
+  "stem": "Les infermeres que fan xerrades amb demostracions pràctiques amb grups de malalts estan fent:",
+  "options": {
+   "a": "Counselling",
+   "b": "Educació sanitària",
+   "c": "Informació",
+   "d": "Comunicació"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Lleida, 2006",
+  "year": 2006,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-21",
+  "stem": "Assenyaleu l’afirmació correcta respecte a la definició de programa de salut:",
+  "options": {
+   "a": "Priorització dels problemes de salut més importants d’una comunitat determinada",
+   "b": "Distribució ordenada de activitats i recursos d’acord amb uns objectius de salut establerts i en un temps determinat",
+   "c": "Determinació dels objectius que es duran a terme en una comunitat en un període de temps determinat",
+   "d": "Sistema per esbrinar els principals factors de risc d’una comunitat"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1992",
+  "year": 1992,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-22",
+  "stem": "Quina acció educativa és fonamental tant per al prevenció de problemes de salut prevalents com per a la promoció de la salut actual i futura?",
+  "options": {
+   "a": "Incidència sobre la mare per inculcar-li coneixements i actituds de salut",
+   "b": "Accions educatives sobre el nen en escoles integrades en la resta de l’ensenyament",
+   "c": "Vigilar les condiciones de seguretat i higiene a l’escola",
+   "d": "Destacar els hàbits higiènics del mestre"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1992",
+  "year": 1992,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-23",
+  "stem": "Volem fer un programa de salut sobre prevenció primària de càries dental. Les parts d’aquest programa han de ser:",
+  "options": {
+   "a": "Objectius, activitats i avaluació",
+   "b": "Magnitud, trascendència i vulnerabilitat",
+   "c": "Documentació clínica, col·lutoris i material didàctic",
+   "d": "Indicadors de cost i eficàcia"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1992",
+  "year": 1992,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-24",
+  "stem": "El personal que imparteix educació sanitària ha de tenir en compte tots els elements següents. Assenyaleu quin és el més important:",
+  "options": {
+   "a": "Evitar la classe magistral",
+   "b": "Seguir un guió establert",
+   "c": "Utilitzar mètodes audio-visuals",
+   "d": "Proporcionar fullets il·lustratius"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1992",
+  "year": 1992,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-25",
+  "stem": "Quina d’aquestes activitats és la menys prioritària en l’educació en les institucions de gent gran:",
+  "options": {
+   "a": "Activitat física",
+   "b": "Alimentació i nutrició",
+   "c": "Prevenció d’accidents",
+   "d": "Vacunes"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1993",
+  "year": 1993,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-26",
+  "stem": "Si desitgem modificar una actitud quin mètode pedagògic seria més útil:",
+  "options": {
+   "a": "Veure un vídeo",
+   "b": "Mantenir una entrevista",
+   "c": "Donar una classe magistral",
+   "d": "Fer una discussió en grup",
+   "e": "Donar una classe pràctica"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-27",
+  "stem": "La por és un recurs adequat per l’educació sanitària?",
+  "options": {
+   "a": "Sí, perquè fa més fàcil que les persones modifiquin els seus hàbits",
+   "b": "Sí, perquè la por és un tipus de persuasió",
+   "c": "No, perquè la por crea una actitud depressiva que rebutja el missatge",
+   "d": "Tan sols quan ens trobem amb malalts que no compleixen les nostres indicacions",
+   "e": "No, perquè la por produeix actituds passives en l’individu"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1994",
+  "year": 1994,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-28",
+  "stem": "En l’emissió de missatges informatius el concepte vocabulari neutre significa:",
+  "options": {
+   "a": "Dicció clara",
+   "b": "Entonació adequada",
+   "c": "Utilitzar paraules de baix contingut emocional",
+   "d": "Utilitzar frases amb poc significat"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-29",
+  "stem": "En educació per a la salut quines són les professions que per les seves característiques i activitats tenen més oportunitats, coneixements i facilitats per transmetre missatges de salut?",
+  "options": {
+   "a": "Professionals sanitaris",
+   "b": "Professionals d’infermeria",
+   "c": "Professionals sanitaris, d’ensenyament i dels mitjans de comunicació",
+   "d": "Tots els professionals dels centres sanitaris"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-30",
+  "stem": "Destaqueu quin és el mètode directe més important d’educació sanitària:",
+  "options": {
+   "a": "Televisió",
+   "b": "Xerrades grupals",
+   "c": "Classes magistrals",
+   "d": "Diàleg educatiu"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1995",
+  "year": 1995,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-31",
+  "stem": "Quina de les següents respostes correspon a un objectiu final de l’educació sanitària?",
+  "options": {
+   "a": "Donar informació i coneixements a les cures de salut i al tractament",
+   "b": "Respectar el ritme d’aprenentatge de la persona i/o família",
+   "c": "Fixar prioritats i mètodes adequats a les capacitats i interessos del pacient",
+   "d": "Modificar les conductes negatives relacionades amb la promoció i restauració de la salut"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-32",
+  "stem": "Com s’anomena la capacitat d’una entrevistadora per demostrar al pacient que es preocupa pel seu problema, preservant la seva forma de pensar i els seus valors ideològics i ètics?",
+  "options": {
+   "a": "Concreció",
+   "b": "Calidesa",
+   "c": "Empatia",
+   "d": "Respecte"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-33",
+  "stem": "La senyora M.R. fa més d’un any que no acudeix a controlar-se la seva HTA. La infermera la truca i li dona nova visita. La pacient reconeix no haver-se visitat “perquè és incapaç de menjar sense sal”. La infermera li ofereix diverses alternatives i finalment opten per una dieta hiposòdica a la que s’afegeixen sals de clorur potàsic. Quina estratègia ha emprat la professional?",
+  "options": {
+   "a": "Complaença",
+   "b": "Negociació",
+   "c": "Persuasió",
+   "d": "Cessió"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-34",
+  "stem": "Què tindrem en compte quan efectuem activitats d’educació sanitària a una persona d’edat avançada?",
+  "options": {
+   "a": "Existeix una dificultat d’adaptació a situacions noves",
+   "b": "La persona gran es motiva amb més facilitat que els joves",
+   "c": "Les habilitats en vocabulari i comprensió disminueixen",
+   "d": "Existeix un deteriorament de la memòria retrògrada"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-35",
+  "stem": "Quina de les respostes següents correspon a una MANCA d’assertivitat per part de l’entrevistadora?",
+  "options": {
+   "a": "Transmet poca convicció i seguretat",
+   "b": "Repeteix paraules tècniques",
+   "c": "Expressa judicis de valor",
+   "d": "Contesta amb temes abstractes i generals"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1997",
+  "year": 1997,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-36",
+  "stem": "Com s’anomena el model d’educació sanitària on es pretén la participació activa i responsables dels usuaris en tots els nivells de decisió?",
+  "options": {
+   "a": "Biomèdic",
+   "b": "Preventiu",
+   "c": "Comunitari",
+   "d": "Sociofamiliar"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1996",
+  "year": 1996,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-37",
+  "stem": "Entrevistem a la consulta una noia de 17 anys i la seva mare ens interromp contínuament. Si deixem que la mare expressi els seus punts de vista i les seves preocupacions, quina d’aquestes tècniques utilitzem?",
+  "options": {
+   "a": "Buidatge de la informació",
+   "b": "Tècnica de filtre",
+   "c": "Buidatge de la interferència",
+   "d": "Visita múltiple"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-38",
+  "stem": "Ens proposem impartir un programa d’educació sanitària per una comunitat gambiana que viu de manera estable dins de la nostra àrea bàsica de salut. Quin dels aspectes següents NO considerem prioritària?",
+  "options": {
+   "a": "Hàbits sexuals i reproductius",
+   "b": "Hàbits dietètics i alimentaris",
+   "c": "Aspectes relatius a la salubritat de l’aigua",
+   "d": "Prevenció de les malalties transmissibles"
+  },
+  "source_label": "Examen oficial ICS · Primària, 1999",
+  "year": 1999,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-257-40",
+  "stem": "Un dels diagnòstics del senyor Pere és “maneig inefectiu del règim terapèutic” R/A falta de motivació o comprometre’s a integrar canvis en el seu estil de vida MP verbalització de la dificultat per deixar el tabac. Quin del següents objectius és l’adequat pel senyor Pere?",
+  "options": {
+   "a": "Planificarà la forma de reduir els factors que afavoreixen la dificultat per abandonar l’hàbit",
+   "b": "Reconeixerà els factors causals del seu hàbit",
+   "c": "Descriurà de manera realista les conseqüències de seguir amb l’hàbit tabàquic",
+   "d": "Totes són certes"
+  },
+  "source_label": "Examen oficial ICS · Primària, 2005",
+  "year": 2005,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-1",
+  "stem": "En la millora de l’adherència al tractament del pacient, quin diagnòstic d’infermeria NO cal formular?",
+  "options": {
+   "a": "Dèficit de coneixements",
+   "b": "Risc del maneig inefectiu del règim terapèutic",
+   "c": "Risc d’intoxicació",
+   "d": "Trastorn de la imatge corporal"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Barcelona, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-2",
+  "stem": "Si comparem l’heparina de baix pes molecular respecte a l’heparina no fraccionada, quina afirmació NO és correcta?",
+  "options": {
+   "a": "Disminueix el risc de trombopènia",
+   "b": "Vida mitjana més curta",
+   "c": "Disminueix el risc de sagnat",
+   "d": "Millor biodisponibilitat per la via subcutània"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Barcelona, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-3",
+  "stem": "Respecte als antibiòtics del grup de les quinolones és cert que:",
+  "options": {
+   "a": "La via d’elecció per al tractament és l’endovenosa",
+   "b": "La principal reacció adversa són les molèsties gastrointestinals",
+   "c": "Es poden prendre en l’etapa de creixement i embaràs",
+   "d": "S’han de substituir els antiàcids per cimetidina per evitar interaccions"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Barcelona, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-4",
+  "stem": "En l’administració de fenitoïna és incorrecta:",
+  "options": {
+   "a": "Per via oral presenta absorció irregular",
+   "b": "S’ha de dissoldre amb sèrum glucosat 5%",
+   "c": "S’evitarà l’administració IM",
+   "d": "S’ha de dissoldre amb sèrum fisiològic"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Barcelona, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-19",
+  "stem": "Quan apliquem a un malalt el tractament amb fentanil transdèrmic, segons l’escala analgèsica de l’OMS, estem utilitzant un fàrmac del:",
+  "options": {
+   "a": "1r graó del tractament analgèsic",
+   "b": "2n graó del tractament analgèsic",
+   "c": "3r graó del tractament analgèsic",
+   "d": "No està dins l’escala analgèsica del tractament del dolor"
+  },
+  "source_label": "Examen oficial ICS · Hospitals de Girona, 2009",
+  "year": 2009,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-20",
+  "stem": "Quin consell li donaríeu a una mare amb asma greu en tractament amb corticoides orals a dosi de 50 mg/dia, que lacta el seu fill d’1 mes de vida?",
+  "options": {
+   "a": "Que no es preocupi, que l’excreció del medicament per la llet materna és insignificant",
+   "b": "Que deixi la lactància materna pels problemes de creixement del nen",
+   "c": "Que la mare deixi el tractament amb corticoides orals i passi a corticoides inhalats",
+   "d": "Que el nen faci lactància mixta"
+  },
+  "source_label": "Examen oficial ICS · ICS, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-21",
+  "stem": "En referència a la reanimació cardiopulmonar avançada, quin fàrmac NO utilitzaries a través del tub endotraqueal?",
+  "options": {
+   "a": "Atropina",
+   "b": "Bicarbonat sòdic",
+   "c": "Adrenalina",
+   "d": "Lidocaïna"
+  },
+  "source_label": "Examen oficial ICS · ICS, 2007",
+  "year": 2007,
+  "case_text": null
+ },
+ {
+  "id": "ics-hist-258-22",
+  "stem": "Els fàrmacs següents poden induir un lupus sistèmic, EXCEPTE:",
+  "options": {
+   "a": "Sulfamides",
+   "b": "Azitromicina",
+   "c": "Hidantoïna",
+   "d": "Isoniacida"
+  },
+  "source_label": "Examen oficial ICS · ICS, 2007",
+  "year": 2007,
+  "case_text": null
+ }
+]

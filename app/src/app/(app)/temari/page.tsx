@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowLeft, ChevronRight, Play } from "lucide-react";
+import { ArrowLeft, ChevronRight, Play, Search } from "lucide-react";
 import { Tile } from "@/components/Tile";
 import { requireUser } from "@/lib/auth";
 import { getDict, getLang } from "@/lib/lang";
@@ -7,8 +7,8 @@ import { topicStats, type TopicStat } from "@/lib/progress";
 import { startPractice } from "../actions";
 
 const L = {
-  ca: { title: "Temari", sub: "Tria un tema per veure els seus epígrafs. L'ordre suggerit és el que més cau a l'examen, però pots anar on vulguis.", official: (n: number) => (n === 1 ? "1 pregunta oficial" : `${n} preguntes oficials`), practiceAll: "Practicar tot el tema", practice: "Practicar", nothing: "Encara no hi ha preguntes d'aquest epígraf.", pick: "Tria un tema de la llista.", back: "Tots els temes", qs: (c: number, a: number) => `${c} de ${a} dominades` },
-  es: { title: "Temario", sub: "Elige un tema para ver sus epígrafes. El orden sugerido es el que más cae en el examen, pero puedes ir donde quieras.", official: (n: number) => (n === 1 ? "1 pregunta oficial" : `${n} preguntas oficiales`), practiceAll: "Practicar todo el tema", practice: "Practicar", nothing: "Todavía no hay preguntas de este epígrafe.", pick: "Elige un tema de la lista.", back: "Todos los temas", qs: (c: number, a: number) => `${c} de ${a} dominadas` },
+  ca: { title: "Temari", sub: "Tria un tema per veure els seus epígrafs. L'ordre suggerit és el que més cau a l'examen, però pots anar on vulguis.", official: (n: number) => (n === 1 ? "1 pregunta oficial" : `${n} preguntes oficials`), practiceAll: "Practicar tot el tema", practice: "Practicar", nothing: "Encara no hi ha preguntes d'aquest epígraf.", pick: "Tria un tema de la llista.", back: "Tots els temes", qs: (c: number, a: number) => `${c} de ${a} dominades`, search: "Cerca al temari per paraules clau…" },
+  es: { title: "Temario", sub: "Elige un tema para ver sus epígrafes. El orden sugerido es el que más cae en el examen, pero puedes ir donde quieras.", official: (n: number) => (n === 1 ? "1 pregunta oficial" : `${n} preguntas oficiales`), practiceAll: "Practicar todo el tema", practice: "Practicar", nothing: "Todavía no hay preguntas de este epígrafe.", pick: "Elige un tema de la lista.", back: "Todos los temas", qs: (c: number, a: number) => `${c} de ${a} dominadas`, search: "Buscar en el temario por palabras clave…" },
 };
 
 function TemaBar({ eps }: { eps: TopicStat[] }) {
@@ -37,6 +37,10 @@ export default async function TemariPage({ searchParams }: { searchParams: Promi
       <div className={sel ? "hidden lg:block" : ""}>
         <h1 className="text-[28px] font-extrabold tracking-[-0.03em] sm:text-[36px]">{l.title}</h1>
         <p className="mt-1 max-w-[62ch] text-lg text-ink-2">{l.sub}</p>
+        <form action="/cerca" role="search" className="relative mt-4 max-w-xl">
+          <Search className="pointer-events-none absolute left-3 top-1/2 size-5 -translate-y-1/2 text-ink-3" aria-hidden />
+          <input name="q" placeholder={l.search} className="field pl-10" aria-label={l.search} />
+        </form>
       </div>
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-[360px_minmax(0,1fr)] lg:gap-8">
@@ -101,9 +105,9 @@ export default async function TemariPage({ searchParams }: { searchParams: Promi
                         <Tile state={e.mastery} />
                       </span>
                       <span className="min-w-0 flex-1">
-                        <span className="block font-bold leading-tight">
+                        <Link href={`/temari/${e.id}`} className="block font-bold leading-tight hover:text-glaze hover:underline">
                           <span className="text-ink-3">{e.id}</span> {e.title}
-                        </span>
+                        </Link>
                         <span className="text-[14px] text-ink-2">
                           {t.mastery[e.mastery]} · {e.available ? l.qs(e.correctNow, e.available) : l.nothing} · {l.official(e.officialWeight)}
                         </span>

@@ -1,0 +1,21 @@
+{
+ "epigraf": "E7.9",
+ "body_md": "## En una frase\nLa conciliació de la medicació és el procés formal de comparar la medicació habitual del pacient amb la prescrita en cada transició assistencial (ingrés, trasllat, alta) per detectar i resoldre discrepàncies.\n\n## Conceptes clau\n- Objectiu: evitar errors de medicació en els canvis d'àmbit assistencial.\n- **Etapes** (segons la pregunta d'examen): **detecció, aclariment i resolució**. En el procés complet: obtenir la llista de medicació prèvia (almenys dues fonts: pacient, receptes, farmacèutic, història clínica), comparar-la amb la prescripció actual, identificar discrepàncies, aclarir-les amb el prescriptor i documentar.\n- **Pacients prioritaris**: majors de 65 anys, polimedicats (≥ 5 fàrmacs), medicaments d'alt risc, malaltia crònica complexa.\n- Es fa a l'ingrés (idealment en les primeres 24 h), en trasllats interns i a l'alta (amb l'informe d'alta actualitzat).\n\n## Valors, escales i classificacions\n| Discrepància | Exemple |\n|---|---|\n| **Omissió** | No es prescriu un medicament que prenia |\n| Diferent dosi, via o freqüència | Dosi canviada sense motiu |\n| Comissió | Medicament afegit sense indicació |\n| Duplicitat | Dos fàrmacs del mateix grup |\n| Interacció | Combinació amb risc |\n| **Justificada** (decisió mèdica) / **no justificada** | Només les no justificades són errors de conciliació si no es corregeixen |\n\n## Actuació infermera\n- Recollir la història farmacoterapèutica amb el pacient i la família, incloent-hi plantes, medicació sense recepta i adherència.\n- Comunicar discrepàncies al metge i registrar-ne la resolució.\n- A l'alta, revisar amb el pacient la llista actualitzada i educar.\n- **Diagnòstic**: *Risc d'efectes adversos farmacològics*, *Gestió ineficaç de la salut*.\n\n## Què pregunten als exàmens\n- Etapes de la conciliació: detecció, aclariment i resolució (2017); tipus de discrepància: omissió (2019).\n\n## Trampes freqüents\n- Confondre la conciliació amb la revisió sistemàtica de la medicació o amb la desprescripció.\n- Considerar totes les discrepàncies com a errors (les justificades no ho són).\n\n## Normativa i guies de referència\n- OMS, High 5s: Assuring Medication Accuracy at Transitions in Care.\n- Estratègia de Seguretat del Pacient del SNS i protocols de conciliació de la medicació de l'ICS.\n",
+ "key_points": [
+  "La conciliació compara la medicació habitual amb la prescrita en les transicions assistencials.",
+  "Les etapes són detecció, aclariment i resolució de les discrepàncies.",
+  "Una omissió és una discrepància: no es prescriu un fàrmac que la persona prenia.",
+  "Les discrepàncies poden ser justificades (decisió clínica) o no justificades (error).",
+  "Són pacients prioritaris els majors de 65 anys i polimedicats.",
+  "Cal usar almenys dues fonts d'informació per obtenir la medicació prèvia."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "OMS, High 5s Project: Medication Reconciliation (2014)"
+  }
+ ],
+ "review_flags": [
+  "Las etapas del proceso de conciliación varían según el protocolo (3 o 4 etapas); el examen 2017 da detección, aclaración y resolución."
+ ]
+}

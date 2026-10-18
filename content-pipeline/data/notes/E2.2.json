@@ -1,0 +1,27 @@
+{
+ "epigraf": "E2.2",
+ "body_md": "## En una frase\nLa prevenció s'organitza en nivells (primària, secundària, terciària i quaternària) i els cribratges poblacionals detecten malaltia en fase asimptomàtica seguint criteris de Wilson i les recomanacions del PAPPS.\n\n## Conceptes clau\n- **Prevenció primària**: evita l'aparició de la malaltia (vacunes, educació sanitària, consell antitabac, alimentació saludable).\n- **Prevenció secundària**: detecció precoç i tractament en fase asimptomàtica (**cribratges**: càncer de colon, mama, coll uterí) (2024).\n- **Prevenció terciària**: limita la progressió, les complicacions i les seqüeles i en facilita la rehabilitació; en l'asma infantil és prevenir exacerbacions evitant desencadenants **una vegada ja instaurada la malaltia** (2019).\n- **Prevenció quaternària**: intervencions per evitar o atenuar els riscos de **iatrogènia i activitat sanitària innecessària** (sobrediagnòstic, sobretractament) (2016).\n- **Cribratge**: aplicació de proves a persones sense símptomes per identificar les amb alta probabilitat de malaltia. Criteris de **Wilson-Jungner**: problema de salut important, història natural coneguda, fase preclínica detectable, prova acceptable, sensible i específica, tractament eficaç disponible, cost-benefici favorable.\n- **PAPPS** (Programa d'activitats preventives i de promoció de la salut, semFYC): recomanacions de cribratge i consell.\n- **Cribratges poblacionals a Catalunya**: càncer de mama (dones 50-69 anys, mamografia cada 2 anys), càncer de colon i recte (50-69, FIT en femta cada 2 anys), coll uterí (citologia / VPH segons edat). Cribratge neonatal metabòlic (taló) i d'hipoacúsia.\n\n## Valors, escales i classificacions\n\n| Cribratge | Recomanació orientativa |\n|---|---|\n| Hipertensió arterial | Adults ≥18 anys: com a mínim cada 4-5 anys; cada 2 anys en 40-69 sense factors de risc segons PAPPS 2018 (a l'examen del 2019: 52 anys sense factors de risc, cada 2 anys) |\n| Dislipèmia | Home <40 / dona <45 amb factors de risc o antecedents; població general 40-75 cada 5 anys (la resposta \"cada 2 anys\" és incorrecta; 2024) |\n| Diabetis (ADA) | A partir de 35 anys en adults, cada 3 anys si és normal; abans si sobrepès amb factors de risc |\n| Colon i recte | 50-69 anys, FIT bianual |\n| Mama | 50-69 anys, mamografia bianual |\n| Coll uterí | Dones de 25 a 65 anys; <30 citologia cada 3 anys; ≥30 VPH cada 5 (segons protocol vigent) |\n| Hipoacúsia en adults | Veu xiuxiuejada (test del xiuxiueig) |\n\n**Sensibilitat i especificitat**: sensibilitat = detecta malalts; especificitat = descarta sans; un cribratge ha de ser molt sensible.\n\n## Actuació infermera\n- **Valoració**: antecedents, factors de risc, edat i risc cardiovascular.\n- **Diagnòstic**: *gestió ineficaç de la salut*, *disposició per millorar la gestió de la salut*.\n- **Intervencions**: oferir els cribratges indicats, explicar-ne la finalitat, limitacions i falsos positius; gestionar els resultats i el seguiment.\n- **Educació**: consell breu estructurat, fomentar la participació informada.\n- **Avaluació**: cobertura del cribratge i adherència.\n- Exploració de l'audició: **veu xiuxiuejada** a 60 cm de l'orella, tapant l'altra (2015).\n\n## Què pregunten als exàmens\n- Cribratge d'hipoacúsia amb veu xiuxiuejada (2015).\n- Definició de prevenció quaternària (2016).\n- Periodicitat del cribratge d'HTA en persones de 52 anys sense risc (2019; resposta \"cada 2 anys\"; pot haver canviat).\n- Prevenció terciària de l'asma infantil (2019).\n- Cribratge de càncer de colon com a prevenció secundària (2024).\n- Cribratge de dislipèmia segons PAPPS (2024).\n\n## Trampes freqüents\n- Classificar una vacuna com a prevenció secundària: és primària.\n- Confondre prevenció terciària (evitar complicacions amb malaltia establerta) amb la secundària (detecció precoç).\n- Confondre prevenció quaternària amb \"tractament intensiu\".\n- Oblidar que un cribratge amb molts falsos positius pot fer més mal que bé.\n\n## Normativa i guies de referència\n- Llei 14/1986, general de sanitat (art. 18) i Llei 15/1990.\n- PAPPS (semFYC), actualització 2022-2024; Programa de detecció precoç de càncer de Catalunya.\n- Criteris de Wilson i Jungner (OMS, 1968).",
+ "key_points": [
+  "La prevenció primària evita la malaltia, la secundària la detecta precoçment, la terciària evita complicacions i la quaternària evita la iatrogènia.",
+  "Un cribratge poblacional de càncer de colon és prevenció secundària.",
+  "El test de la veu xiuxiuejada és una prova simple de cribratge de la hipoacúsia.",
+  "Els criteris de Wilson-Jungner defineixen quan un cribratge és adequat.",
+  "El cribratge de càncer de mama (50-69 anys) i de colon (50-69 anys) a Catalunya és bianual.",
+  "La periodicitat del cribratge d'HTA a un adult sense factors de risc de 52 anys és cada 2 anys segons l'examen del 2019, però ha estat revisada."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 14/1986, general de sanitat",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499"
+  },
+  {
+   "kind": "ref",
+   "label": "PAPPS-semFYC, recomanacions de prevenció cardiovascular i càncer (actualització 2022-2024)"
+  }
+ ],
+ "review_flags": [
+  "Periodicitat del cribratge d'HTA i les edats de cribratge de colon/coll uterí poden haver canviat; verificar-ho amb el PAPPS i el programa català vigents.",
+  "Les edats de cribratge de colon (50-69) i la forma de cribratge del coll uterí a Catalunya s'han ampliat recentment; confirmar."
+ ]
+}

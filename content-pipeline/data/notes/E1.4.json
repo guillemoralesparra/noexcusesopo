@@ -1,0 +1,27 @@
+{
+ "epigraf": "E1.4",
+ "body_md": "## En una frase\nEls llenguatges infermers normalitzats (**NANDA-I, NOC, NIC**) i la terminologia pròpia de l'ICS (**ATIC**) permeten descriure diagnòstics, resultats i intervencions de manera comuna i registrar-los a la història clínica (eCAP, HC3).\n\n## Conceptes clau\n- **Terminologia**: conjunt de conceptes representats per etiquetes que pertanyen a un llenguatge específic i integren els àmbits de coneixement de la disciplina (2024).\n- **Taxonomies**: NANDA-I (diagnòstics), NOC (resultats), NIC (intervencions). La unió es coneix com a **NNN**; el vincle NANDA–NOC–NIC permet construir plans de cures.\n- **NANDA-I**: taxonomia organitzada en **dominis i classes**, amb diagnòstics centrats en el problema, de risc, de promoció de la salut i de síndrome. Components: etiqueta, definició, característiques definidores, factors relacionats o de risc.\n- **NOC (Nursing Outcomes Classification)**: resultats amb indicadors i escala Likert de 5 punts.\n- **NIC (Nursing Interventions Classification)**: intervencions amb activitats.\n- **ATIC**: terminologia d'interfície pròpia de l'ICS i de Catalunya, adaptada a la pràctica, amb diagnòstics infermers, intervencions i resultats; s'integra en els **plans de cures estandarditzats** dels hospitals de l'ICS. En aquests plans **no s'utilitzen els llenguatges NANDA, NIC i NOC** (2015: afirmació falsa).\n- **Plans de cures estandarditzats (PCE)**: conjunt de diagnòstics, resultats i intervencions per a una situació (p. ex. sedentarisme infantil, limfoma mediastínic). S'han d'individualitzar.\n\n## Valors, escales i classificacions\n\n| Sistema | Què classifica | Estructura |\n|---|---|---|\n| NANDA-I | Diagnòstics | Dominis i classes |\n| NOC | Resultats | Escales 1-5 per indicador |\n| NIC | Intervencions | Camps, classes i activitats |\n| ATIC | Diagnòstics, intervencions i resultats propis | Termes en català |\n| CIPE/ICNP | Terminologia internacional del CIE | Eixos |\n| CIM-10 / SNOMED CT | Diagnòstics mèdics / terminologia clínica | Codificació |\n\n**Registre**: història clínica (eCAP a atenció primària, estació clínica a hospitals) i història clínica compartida de Catalunya (HC3).\n\n## Actuació infermera\n- **Valoració** amb marc estructurat i registre per dominis o patrons.\n- **Diagnòstic** amb etiqueta ATIC (o NANDA-I), factors relacionats i manifestacions.\n- **Planificació**: seleccionar resultats i intervencions del pla estandarditzat i **individualitzar-lo** (població diana, riscos propis).\n- **Execució i registre** de les activitats.\n- **Avaluació** amb indicadors de resultat.\n- Exemples ATIC: *Risc d'afrontament familiar ineficaç* per a una filla cuidadora principal en possible vulnerabilitat (2024); *Risc de deteriorament de l'adaptació al nou estat de salut* quan es descriu capacitat adaptativa, afrontament i gestió de l'estrès (2024).\n\n## Què pregunten als exàmens\n- Característiques dels PCE de l'ICS i llenguatges que fan servir (2015, 2016).\n- Concepte de terminologia (2024).\n- Diagnòstics ATIC concrets en casos: afrontament familiar (2024), adaptació a l'estat de salut (2024).\n- Població diana del PCE de sedentarisme infantil: 5-15 anys amb menys d'una hora d'activitat diària i/o comportament sedentari elevat (2024).\n- Diagnòstics inclosos o no en el PCE del limfoma mediastínic (2024).\n\n## Trampes freqüents\n- Dir que els PCE de l'ICS usen NANDA, NIC i NOC: usen ATIC.\n- Confondre la taxonomia de diagnòstics (NANDA) amb la d'intervencions (NIC) o de resultats (NOC).\n- Escollir \"deteriorament\" quan només hi ha factors de risc: cal el diagnòstic de **risc**.\n- Pensar que un PCE no s'ha d'adaptar a la persona.\n- Confondre afrontament individual i afrontament familiar.\n\n## Normativa i guies de referència\n- Terminologia ATIC i plans de cures estandarditzats de l'Institut Català de la Salut.\n- NANDA-I, *Diagnòstics infermers: definicions i classificació* (edició vigent); NIC; NOC.\n- Llei 41/2002: documentació clínica.",
+ "key_points": [
+  "NANDA-I classifica diagnòstics, NOC resultats i NIC intervencions.",
+  "L'ATIC és la terminologia pròpia de l'ICS i dels seus plans de cures estandarditzats; no empra NANDA, NIC i NOC.",
+  "Una terminologia és un conjunt de conceptes representats per etiquetes d'un llenguatge específic.",
+  "Els plans de cures estandarditzats s'han d'individualitzar a cada persona.",
+  "Un diagnòstic de risc no té manifestacions, només factors de risc.",
+  "Els registres infermers es fan a la història clínica (eCAP) i la HC3 comparteix la informació a Catalunya."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 41/2002 (documentació clínica)",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188"
+  },
+  {
+   "kind": "ref",
+   "label": "NANDA International, Nursing Diagnoses: Definitions and Classification 2024-2026"
+  }
+ ],
+ "review_flags": [
+  "No he pogut verificar el text exacte dels diagnòstics ATIC dels PCE (limfoma mediastínic, sedentarisme): revisar el catàleg ATIC vigent.",
+  "L'edició exacta de NANDA-I vigent el 2026 s'ha de confirmar."
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "epigraf": "E7.6",
+ "body_md": "## En una frase\nLa prevenció de caigudes combina la valoració sistemàtica del risc (factors predictius i escales) amb intervencions multifactorials sobre la persona i l'entorn; les contencions no són una mesura preventiva sinó l'últim recurs.\n\n## Conceptes clau\n- **Caiguda**: esdeveniment involuntari que fa perdre l'equilibri i col·loca la persona a terra o a un nivell inferior. Complicacions: fractura de maluc, traumatisme cranial, immobilitat, por a caure, ingrés.\n- **Factors intrínsecs**: edat avançada, història de caigudes, estat cognitiu alterat, malaltia neurològica o mobilitat alterada, problemes de continència (urgència), alteracions visuals, hipotensió ortostàtica, debilitat, malnutrició.\n- **Factors extrínsecs**: llit alt, terra relliscós, mala il·luminació, calçat inadequat, manca de timbre, cadires o barreres, **medicació de risc** (psicofàrmacs, hipnòtics, antihipertensius, diürètics, opioides, polifarmàcia).\n- Els **cinc factors amb més capacitat predictiva** a l'hospital d'aguts i centres d'atenció intermèdia són: **història de caigudes, estat cognitiu alterat, malaltia neurològica o mobilitat alterada, problemes de continència i medicació de risc**.\n\n## Valors, escales i classificacions\n| Escala | Interpretació |\n|---|---|\n| **Downton** | ≥ 3 punts: alt risc |\n| **Morse** | 0-24 baix; 25-44 moderat; ≥ 45 alt |\n| **Tinetti** (equilibri i marxa, 28 punts) | < 19 alt risc; 19-23 risc moderat |\n| **Timed Up and Go** | > 12-14 s: risc |\n| **STRATIFY** | ≥ 2: risc |\n\n## Actuació infermera\n- **Valoració** en l'ingrés, en canvis de condició i després d'una caiguda; revisió de la medicació; pressió arterial ortostàtica.\n- **Diagnòstic**: *Risc de caigudes* (00155), *Deteriorament de la mobilitat*.\n- **Intervencions** (estratègia multifactorial): **mantenir el llit en la posició més baixa possible** i frenat, timbre i objectes personals a l'abast, il·luminació, terra sec, calçat tancat i antilliscant, acompanyament en la deambulació i en el bany, ajuts tècnics (bastó, caminador), programa de toilettes, exercici (Otago), vitamina D i calci si cal, revisió farmacològica; barres laterals només si són necessàries i amb protocol.\n- **Contencions**: només si hi ha risc greu, com a mesura temporal, amb prescripció, consentiment i vigilància; augmenten les lesions.\n- **Després d'una caiguda**: valorar lesions, no mobilitzar si se sospita fractura, avisar el metge, registrar i notificar l'incident.\n- **Educació** a pacient i família: entorn segur, aixecar-se lentament, calçat.\n- **Avaluació**: reavaluació del risc i incidència de caigudes.\n- **Cribratge a l'atenció primària**: en persones de 65 anys o més es pregunta per caigudes en l'últim any i, si n'hi ha, s'avalua la marxa i l'equilibri (Timed Up and Go) i es deriva a un programa d'exercici.\n- **Lesions per contenció**: les contencions mecàniques poden provocar úlceres, estrangulació i caigudes més greus; s'han de registrar i revisar cada torn.\n\n## Què pregunten als exàmens\n- Prevenció de caigudes en gent gran: llit en la posició més baixa possible (2016).\n- Factors de risc que no es consideren: mobilitat conservada (2017).\n- Cinc factors predictius de caigudes (2024).\n\n## Trampes freqüents\n- Pensar que les barres del llit o les contencions prevenen les caigudes.\n- Incloure factors protectors (mobilitat conservada) com a risc.\n- Confondre les puntuacions de Downton, Morse i Tinetti (Tinetti: més puntuació, menys risc).\n\n## Normativa i guies de referència\n- Guies de la RNAO (Prevención de caídas y lesiones derivadas de las caídas) i de la NICE.\n- Recomanacions de seguretat del pacient del Departament de Salut de Catalunya.\n",
+ "key_points": [
+  "El llit s'ha de mantenir en la posició més baixa possible i frenat.",
+  "Els cinc factors predictius: història de caigudes, estat cognitiu alterat, malaltia neurològica o mobilitat alterada, problemes de continència i medicació de risc.",
+  "La mobilitat conservada no és un factor de risc.",
+  "Downton ≥ 3 indica alt risc; Morse ≥ 45 alt risc; Tinetti < 19 alt risc.",
+  "Les contencions són l'últim recurs i augmenten les lesions.",
+  "Després d'una caiguda s'ha de valorar, notificar i reavaluar el risc."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "RNAO, Prevención de caídas y reducción de lesiones derivadas de las caídas (2017)"
+  },
+  {
+   "kind": "ref",
+   "label": "NICE, Falls in older people: assessing risk and prevention (CG161)"
+  }
+ ],
+ "review_flags": [
+  "Los puntos de corte de escalas varían entre versiones; verificar contra la guía ICS vigente."
+ ]
+}

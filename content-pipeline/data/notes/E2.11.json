@@ -1,0 +1,29 @@
+{
+ "epigraf": "E2.11",
+ "body_md": "## En una frase\nL'atenció infermera respectuosa amb la diversitat afectiva, sexual i de gènere (LGTBI) i amb les persones en vulnerabilitat social es basa en la no-discriminació, la competència cultural i la perspectiva interseccional.\n\n## Conceptes clau\n- **Sexe**, **identitat de gènere** (vivència interna), **expressió de gènere**, **orientació sexual**: dimensions diferents. **Persona trans**: identitat de gènere diferent del sexe assignat; **cisgènere**: coincident; **persona no binària**; **intersexualitat** (variacions de les característiques sexuals).\n- **Orientació sexual**: heterosexual, homosexual, bisexual, asexual, etc.\n- **Despatologització**: la CIM-11 (OMS, 2019) va treure la transexualitat dels trastorns mentals i la va incloure com a \"incongruència de gènere\" dins les condicions relacionades amb la salut sexual.\n- **Estrès de minories**: estigma i discriminació augmenten ansietat, depressió, consum de substàncies i risc de suïcidi.\n- **Llei 11/2014 (Catalunya)** per garantir els drets de lesbianes, gais, bisexuals, transgèneres i intersexuals i per eradicar l'homofòbia, la bifòbia i la transfòbia: garanteix l'atenció sanitària sense discriminació i el dret a l'autodeterminació del gènere. **Llei 4/2023 estatal** per a la igualtat real i efectiva de les persones trans i per a la garantia dels drets LGTBI.\n- **Vulnerabilitat social**: pobresa, sensellarisme, migració, precarietat laboral, racisme, discapacitat, soledat no desitjada. **Interseccionalitat**: múltiples eixos de desigualtat que s'acumulen.\n- **Competència cultural**: respectar creences i valors; ús d'intèrprets i mediadors.\n\n## Valors, escales i classificacions\n\n| Concepte | Definició |\n|---|---|\n| Identitat de gènere | Vivència interna del gènere |\n| Expressió de gènere | Manera de manifestar-lo |\n| Orientació sexual | Atracció afectiva i sexual |\n| Sexe assignat | Naixement, segons característiques físiques |\n\nAtenció sanitària a persones trans: unitats de referència (p. ex. Trànsit); acompanyament sense patologitzar; els tractaments hormonals els indica l'equip mèdic.\n\n## Actuació infermera\n- **Valoració**: preguntar el nom i els pronoms preferits; no assumir orientació ni gènere; història sexual sense judicis.\n- **Diagnòstic**: *risc de soledat*, *afrontament ineficaç*, *aïllament social*, *conductes de salut proclius al risc*.\n- **Intervencions**: entorn acollidor, confidencialitat, registre del nom sentit, prevenció d'ITS, vacunes (VPH, VHB), salut mental, derivació a recursos comunitaris.\n- **Educació**: sexualitat saludable, riscos, drets.\n- **Avaluació**: sentiment d'acollida, accés i continuïtat de cures.\n\n## Què pregunten als exàmens\nNo s'ha preguntat als exàmens oficials 2015-2024. Probable: conceptes de gènere i orientació, llei catalana LGTBI, i vulnerabilitat social.\n\n## Trampes freqüents\n- Confondre orientació sexual amb identitat de gènere.\n- Considerar la transexualitat un trastorn mental.\n- Assumir que tota persona és heterosexual i cisgènere.\n- Revelar la identitat de gènere o l'orientació a la família sense consentiment.\n\n## Normativa i guies de referència\n- Llei 11/2014, del 10 d'octubre, de Catalunya (LGTBI).\n- Llei 4/2023, de 28 de febrer, per a la igualtat real i efectiva de les persones trans i per a la garantia dels drets LGTBI.\n- Llei 17/2015, d'igualtat efectiva de dones i homes (Catalunya).",
+ "key_points": [
+  "Orientació sexual, identitat de gènere, expressió de gènere i sexe assignat són dimensions diferents.",
+  "La transexualitat ja no es considera un trastorn mental (CIM-11: incongruència de gènere).",
+  "La Llei 11/2014 de Catalunya garanteix l'atenció sanitària sense discriminació de les persones LGTBI.",
+  "La interseccionalitat descriu l'acumulació de desigualtats (gènere, classe, origen, orientació).",
+  "S'ha de respectar el nom i els pronoms de la persona i mantenir la confidencialitat."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 17/2015, d'igualtat efectiva de dones i homes",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/2015/07/21/17"
+  },
+  {
+   "kind": "ref",
+   "label": "Llei 11/2014, del 10 d'octubre (LGTBI de Catalunya)"
+  },
+  {
+   "kind": "ref",
+   "label": "Llei 4/2023, de 28 de febrer (persones trans i LGTBI)"
+  }
+ ],
+ "review_flags": [
+  "Les lleis 11/2014 i 4/2023 s'han de comprovar al text consolidat; no són a les fonts del projecte."
+ ]
+}

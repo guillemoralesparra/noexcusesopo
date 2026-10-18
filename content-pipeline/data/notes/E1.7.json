@@ -1,0 +1,21 @@
+{
+ "epigraf": "E1.7",
+ "body_md": "## En una frase\nDavant d'una persona agitada, agressiva o en crisi, la infermera prioritza la **seguretat**, manté una comunicació calmada, empàtica i assertiva i intenta la **desescalada verbal** abans de recórrer a la contenció.\n\n## Conceptes clau\n- **Crisi**: desbordament dels mecanismes d'afrontament per un esdeveniment estressant; és limitada en el temps i és una oportunitat d'ajuda (intervenció en crisi: suport, no profunditat terapèutica).\n- **Conducta agressiva**: pot ser verbal o física; sol ser precedida de senyals d'alerta (inquietud, veu alta, mirada fixa, puny tancat, invasió de l'espai).\n- **Estil agressiu**: veu alta, parla ràpid, sense pauses, contacte ocular directe i conducta amenaçadora; no confondre'l amb l'assertiu (2015).\n- **Desescalada verbal**: tècniques per reduir l'agitació sense contenció.\n- **Contenció mecànica**: **últim recurs**, amb ordre mèdica, motivació registrada, informació a la persona i a la família, vigilància contínua i reavaluació periòdica.\n- **Violència en el lloc de treball**: protocol d'agressions als professionals; notificació d'incident i suport al professional.\n\n## Valors, escales i classificacions\n\n| Fase | Actuació |\n|---|---|\n| Prevenció | Detectar factors de risc (consum, delírium, psicosi, dolor), entorn tranquil |\n| Desescalada | Veu baixa i calmada, distància de seguretat, escolta, validar emocions, oferir opcions |\n| Contenció farmacològica | Només amb pauta mèdica, després d'intentar el verbal |\n| Contenció mecànica | Últim recurs, mínim temps, monitoratge |\n| Posterior | Debriefing, registre, notificació |\n\n**Escales útils**: Brøset Violence Checklist (predicció a curt termini), Escala d'agitació de Richmond (RASS) i OAS (Overt Aggression Scale).\n\n## Actuació infermera\n- **Valoració**: risc propi i aliè, causes orgàniques reversibles (hipoglucèmia, hipòxia, intoxicació, abstinència, dolor, delírium).\n- **Diagnòstic**: *risc de violència dirigida a altres*, *risc de comportament suïcida*, *ansietat*, *afrontament ineficaç*.\n- **Intervencions**: ubicar-se a prop de la sortida, no donar l'esquena, no confrontar, parlar poc i clar, no prometre el que no es pot complir, **reconèixer un error si s'ha produït** (no negar-lo), avisar l'equip i seguretat.\n- **Educació**: família, pautes per prevenir recaigudes.\n- **Avaluació**: reducció de l'agitació, absència de lesions, registre.\n\n## Què pregunten als exàmens\n- Estratègies d'abordatge de la persona agressiva; és falsa \"no reconèixer un error si s'ha produït\" (2015).\n- Estil de comunicació agressiu (2015).\n\n## Trampes freqüents\n- Confondre assertiu amb agressiu; l'agressiu té veu alta, mirada fixa i invasió d'espai.\n- Respondre a l'agressivitat amb confrontació o amb amenaces.\n- Pensar que la contenció és la primera opció.\n- Oblidar les causes orgàniques.\n\n## Normativa i guies de referència\n- Llei 41/2002: consentiment i respecte a l'autonomia; Llei 44/2003 (professions sanitàries).\n- Protocols institucionals de prevenció de l'agressivitat i de contencions de l'ICS.",
+ "key_points": [
+  "Davant de la conducta agressiva s'ha de prioritzar la seguretat i intentar la desescalada verbal.",
+  "Reconèixer un error si s'ha produït és una estratègia correcta d'abordatge.",
+  "L'estil agressiu es caracteritza per veu alta, parla ràpid, mirada fixa i conducta invasiva.",
+  "La contenció mecànica és l'últim recurs, amb ordre mèdica i registre.",
+  "Cal descartar causes orgàniques reversibles abans d'atribuir l'agitació a un trastorn psiquiàtric."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 41/2002 (autonomia del pacient)",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188"
+  }
+ ],
+ "review_flags": [
+  "Els protocols concrets d'agressions i contencions de l'ICS han de comprovar-se a la versió vigent."
+ ]
+}

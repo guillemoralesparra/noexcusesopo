@@ -1,0 +1,32 @@
+{
+ "epigraf": "E3.2",
+ "body_md": "## En una frase\nSeguiment de l'embaràs a l'atenció primària: controls i cribratges, vacunació, profilaxi anti-D, preeclàmpsia, embaràs ectòpic i educació maternal.\n\n## Conceptes clau\n- **Embaràs de baix risc**: seguiment per llevadora i infermera d'atenció primària, amb visites periòdiques, analítiques i ecografies segons el protocol de Catalunya.\n- **Preeclàmpsia**: hipertensió (≥ 140/90 mmHg) després de la setmana 20 amb **proteïnúria** (≥ 300 mg/24 h) o disfunció d'òrgan. Signes d'alarma: cefalea, escotomes, dolor epigàstric, hiperreflèxia, edemes bruscos. **L'eclàmpsia** són convulsions; es tracta amb sulfat de magnesi (toxicitat: abolició del reflex rotulià, FR < 12, diüresi < 30 ml/h; antídot: gluconat de calci).\n- **Embaràs ectòpic**: implantació fora de la cavitat uterina (trompa). Clínica: amenorrea, sagnat escàs i **dolor abdominal baix, sovint còlic, que pot irradiar-se a l'espatlla** (irritació diafragmàtica per hemoperitoni); és una urgència.\n- **Isoimmunització Rh**: una mare Rh (D) negatiu pot formar anticossos davant d'un fetus Rh positiu. La **immunoglobulina anti-D** ho previn.\n- **Educació maternal**: preparació al part, lactància, cures del nounat, hàbits saludables.\n\n## Valors, escales i classificacions\n- **Data probable del part**: regla de Naegele (primer dia de la darrera regla + 7 dies – 3 mesos); embaràs a terme 37–41+6 setmanes.\n- **Controls:** primer trimestre (ecografia setmanes 11–14 amb cribratge combinat de cromosomopaties), ecografia morfològica a les setmanes 18–20, **cribratge de diabetis gestacional** (O'Sullivan, setmanes 24–28), cultiu vaginorectal d'estreptococ del grup B a les setmanes 35–37. Altura uterina, FCF 110–160 bpm i PA a cada visita; pes, orina.\n- **Vacunes:** **dTpa sistemàtica en cada embaràs entre les setmanes 27 i 36** (protegeix el nounat de la tos ferina); **grip** estacional a qualsevol trimestre; COVID segons calendari; VRS en la setmana 32–36 en campanya. Vacunes de virus vius (triple vírica, varicel·la) contraindicades.\n- **Immunoglobulina anti-D (300 µg):** a dones Rh negatiu amb Coombs indirecte negatiu, **sistemàtica a la setmana 28**, dins de les 72 h postpart si el nadó és Rh positiu i després d'esdeveniments sensibilitzants (avortament, ectòpic, sagnat, amniocentesi, traumatisme). **No està indicada abans de les 26 setmanes** si no hi ha cap esdeveniment sensibilitzant.\n- **Suplements:** àcid fòlic 0,4 mg/dia des d'un mes abans de la concepció fins a la setmana 12 (4–5 mg en risc de defecte del tub neural), iode, ferro si cal; evitar alcohol, tabac, llistèria i toxoplasmosi.\n\n## Actuació infermera\n**Valoració:** antecedents obstètrics, PA, pes, altura uterina, FCF, edemes, proteïnúria, moviments fetals, factors de risc, estat emocional.\n\n**Diagnòstics (NANDA):** Risc d'alteració de la parella mare-fetus; Coneixements deficients; Risc de dèficit de volum de líquids; Estrenyiment; Ansietat.\n\n**Intervencions:** controlar la PA i la proteïnúria; derivar si hi ha signes de preeclàmpsia; administrar o programar vacunes i immunoglobulina anti-D; educar sobre nutrició, exercici moderat, higiene, viatges, relacions sexuals, signes d'alarma (sagnat, pèrdua de líquid, disminució de moviments fetals, cefalea intensa, febre); fomentar la lactància i l'educació maternal.\n\n**Avaluació:** assistència als controls, PA normal, vacunes al dia, coneixement dels signes d'alarma.\n\n## Què pregunten als exàmens\n- Proteïnúria com a signe de preeclàmpsia (2015).\n- Vacunació dTpa entre les setmanes 27 i 36 (2019).\n- Profilaxi anti-D: no s'indica abans de les 26 setmanes (2024).\n- Dolor de l'embaràs ectòpic, còlic amb irradiació a l'espatlla (2024).\n\n## Trampes freqüents\n- La dTpa es posa en **cada** embaràs, en les setmanes 27–36.\n- Anti-D sistemàtica a la setmana 28, no abans de les 26 sense esdeveniment.\n- Preeclàmpsia = hipertensió + proteïnúria després de la setmana 20.\n- Ectòpic: dolor en espatlla = irritació diafragmàtica.\n- Les vacunes vives estan contraindicades.\n\n## Normativa i guies de referència\n- Protocol de seguiment de l'embaràs a Catalunya (Departament de Salut).\n- Calendari de vacunacions de Catalunya (dTpa, grip, VRS).\n- Guia de la ACOG/NICE sobre els trastorns hipertensius de l'embaràs.",
+ "key_points": [
+  "Preeclàmpsia: hipertensió ≥ 140/90 després de la setmana 20 amb proteïnúria.",
+  "La dTpa s'administra en cada embaràs entre les setmanes 27 i 36.",
+  "La immunoglobulina anti-D es dóna sistemàticament a la setmana 28 en dones Rh negatiu, i després d'esdeveniments sensibilitzants.",
+  "L'embaràs ectòpic cursa amb dolor abdominal còlic que pot irradiar-se a l'espatlla.",
+  "El cribratge de diabetis gestacional (O'Sullivan) es fa entre les setmanes 24 i 28.",
+  "Àcid fòlic des d'un mes abans de la concepció fins a la setmana 12.",
+  "La grip s'ha de vacunar en qualsevol trimestre; les vacunes vives estan contraindicades."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "Protocol de seguiment de l'embaràs a Catalunya"
+  },
+  {
+   "kind": "ref",
+   "label": "Calendari de vacunacions de Catalunya"
+  },
+  {
+   "kind": "ref",
+   "label": "NICE, Hypertension in pregnancy"
+  }
+ ],
+ "review_flags": [
+  "Calendario de vacunación en el embarazo (VRS, COVID) cambia cada campaña; verificar 2026-27.",
+  "Dosis y momento de anti-D (28 semanas) según protocolo catalán vigente.",
+  "El protocolo de seguimiento del embarazo de Cataluña puede haberse actualizado (cribado combinado, test prenatal no invasivo)."
+ ]
+}

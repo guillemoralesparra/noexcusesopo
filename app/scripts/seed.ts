@@ -5,7 +5,7 @@
  * Ús: pnpm db:seed
  */
 import { randomBytes } from "node:crypto";
-import { readFileSync, readdirSync } from "node:fs";
+import { existsSync, readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 import * as s from "../src/db/schema";
 import { migrateDb } from "./migrate";
@@ -22,7 +22,7 @@ type ExamJson = {
   date: string;
   instructions: string;
   format: { penalty: number | null; time_min: number | null; note: string };
-  cases: { id: string; title: string; text: string; segments: s.CaseSegment[] }[];
+  cases: { id: string; title: string; text: string; segments?: s.CaseSegment[] }[];
 };
 type BankItem = {
   id: string;
@@ -44,6 +44,26 @@ type VerifiedItem = {
   status: s.Explanation["status"];
   notes: string[];
 };
+type HistoricalItem = {
+  id: string;
+  exam_id: string | null;
+  source_label: string;
+  n: number | null;
+  section?: "test" | "case";
+  case_id?: string | null;
+  stem: string;
+  options: Partial<Record<s.OptionKey, string>>;
+  accepted: s.OptionKey[];
+  annulled?: boolean;
+  epigraf: string;
+  secondary: string | null;
+  concept: string | null;
+  currency: "ok" | "check";
+  currency_reason: string | null;
+  explanation?: s.Explanation | null;
+};
+type NoteJson = { epigraf: string; body_md: string; key_points?: string[]; sources?: s.Explanation["sources"]; review_flags?: string[] };
+type NormaJson = { short: string; url: string; chunks: { id: string; unit: string; heading?: string; text: string }[] };
 type ClassItem = {
   id: string;
   epigraf: string;
@@ -80,7 +100,7 @@ async function main() {
     const row = { id: ex.exam_id, title: ex.title, date: ex.date, instructions: ex.instructions, format: ex.format };
     await db.insert(s.exams).values(row).onConflictDoUpdate({ target: s.exams.id, set: row });
     for (const c of ex.cases) {
-      const crow = { id: `${ex.exam_id}-${c.id}`, examId: ex.exam_id, label: c.id, title: c.title, text: c.text, segments: c.segments };
+      const crow = { id: `${ex.exam_id}-${c.id}`, examId: ex.exam_id, label: c.id, title: c.title, text: c.text, segments: c.segments ?? [] };
       await db.insert(s.cases).values(crow).onConflictDoUpdate({ target: s.cases.id, set: crow });
     }
   }
@@ -116,6 +136,77 @@ async function main() {
     await db.insert(s.questions).values(row).onConflictDoUpdate({ target: s.questions.id, set: row });
   }
 
+  // Exàmens oficials històrics de l'ICS (anteriors al 2015): només pràctica, no fixen pesos
+  const histDir = path.join(DATA, "historical");
+  let histCount = 0;
+  if (existsSync(path.join(histDir, "questions.json"))) {
+    for (const f of existsSync(path.join(histDir, "exams")) ? readdirSync(path.join(histDir, "exams")) : []) {
+      const ex = read<ExamJson>(path.join("historical", "exams", f));
+      const row = { id: ex.exam_id, title: ex.title, date: ex.date, instructions: ex.instructions, format: ex.format };
+      await db.insert(s.exams).values(row).onConflictDoUpdate({ target: s.exams.id, set: row });
+      for (const c of ex.cases ?? []) {
+        const crow = { id: `${ex.exam_id}-${c.id}`, examId: ex.exam_id, label: c.id, title: c.title, text: c.text, segments: c.segments ?? [{ from_question: null, text: c.text }] };
+        await db.insert(s.cases).values(crow).onConflictDoUpdate({ target: s.cases.id, set: crow });
+      }
+    }
+    const hist = read<HistoricalItem[]>(path.join("historical", "questions.json"));
+    for (const q of hist) {
+      const row: typeof s.questions.$inferInsert = {
+        id: q.id,
+        examId: q.exam_id,
+        number: q.n,
+        section: q.section ?? "test",
+        caseId: q.case_id ? `${q.exam_id}-${q.case_id}` : null,
+        stem: q.stem,
+        options: q.options,
+        accepted: q.accepted,
+        annulled: q.annulled ?? false,
+        origin: "historical",
+        sourceLabel: q.source_label,
+        epigrafId: q.epigraf,
+        secondaryEpigrafId: q.secondary,
+        concept: q.concept,
+        currency: q.currency,
+        currencyReason: q.currency_reason,
+        explanation: q.explanation ?? null,
+      };
+      await db.insert(s.questions).values(row).onConflictDoUpdate({ target: s.questions.id, set: row });
+    }
+    histCount = hist.length;
+  }
+
+  // Fitxes pròpies del temari
+  const notesDir = path.join(DATA, "notes");
+  const noteFiles = existsSync(notesDir) ? readdirSync(notesDir).filter((f) => f.endsWith(".json")) : [];
+  for (const f of noteFiles) {
+    const n = read<NoteJson>(path.join("notes", f));
+    const row = { epigrafId: n.epigraf, body: n.body_md, keyPoints: n.key_points ?? [], sources: n.sources ?? [], reviewFlags: n.review_flags ?? [], updatedAt: new Date() };
+    await db.insert(s.notes).values(row).onConflictDoUpdate({ target: s.notes.epigrafId, set: row });
+  }
+
+  // Índex de cerca: es reconstrueix sencer
+  await db.delete(s.searchDocs);
+  const docs: (typeof s.searchDocs.$inferInsert)[] = [];
+  const epTitle = new Map(topicRows.map((t) => [t.id, t.title]));
+  for (const f of noteFiles) {
+    const n = read<NoteJson>(path.join("notes", f));
+    docs.push({ id: `note:${n.epigraf}`, kind: "note", epigrafId: n.epigraf, title: `${n.epigraf} ${epTitle.get(n.epigraf) ?? ""}`, body: [n.body_md, ...(n.key_points ?? [])].join(" ") });
+  }
+  const allQ = await db.select().from(s.questions);
+  for (const q of allQ) {
+    if (q.annulled || q.status !== "active") continue;
+    docs.push({ id: `q:${q.id}`, kind: "question", epigrafId: q.epigrafId, title: q.stem.slice(0, 160), body: [q.stem, ...Object.values(q.options), q.explanation?.summary ?? ""].join(" ") });
+  }
+  const srcDir = path.join(DATA, "sources");
+  for (const f of existsSync(srcDir) ? readdirSync(srcDir).filter((x) => x.endsWith(".json") && x !== "index.json") : []) {
+    const norm = read<NormaJson>(path.join("sources", f));
+    for (const c of norm.chunks) {
+      if (!c.text?.trim()) continue;
+      docs.push({ id: `norma:${c.id}`, kind: "norma", epigrafId: null, title: `${norm.short}, ${c.unit}${c.heading ? ` · ${c.heading}` : ""}`, body: c.text.slice(0, 20000), url: norm.url });
+    }
+  }
+  for (let i = 0; i < docs.length; i += 200) await db.insert(s.searchDocs).values(docs.slice(i, i + 200));
+
   // Codi d'invitació inicial per a la primera administradora
   if ((await db.$count(s.users)) === 0) {
     const code = process.env.ADMIN_INVITE ?? randomBytes(4).toString("hex");
@@ -123,7 +214,7 @@ async function main() {
     console.log(`Codi d'invitació d'administració: ${code}`);
   }
 
-  console.log(`Temari: ${topicRows.length} nodes · Exàmens: ${examFiles.length} · Preguntes: ${bank.length} · Explicacions: ${expl.size}`);
+  console.log(`Temari: ${topicRows.length} nodes · Exàmens: ${examFiles.length} · Preguntes oficials: ${bank.length} · Històriques: ${histCount} · Explicacions: ${expl.size} · Fitxes: ${noteFiles.length} · Índex de cerca: ${docs.length}`);
   process.exit(0);
 }
 

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { LogOut } from "lucide-react";
+import { LogOut, Search } from "lucide-react";
 import { RailNav, TabBar } from "@/components/AppNav";
 import { requireUser } from "@/lib/auth";
 import { getDict } from "@/lib/lang";
@@ -16,6 +16,14 @@ export default async function AppLayout({ children }: { children: React.ReactNod
         <Link href="/" className="mb-8 px-3 text-[22px] font-extrabold tracking-[-0.02em]">
           NoExcusesOpo
         </Link>
+        <form action="/cerca" role="search" className="mb-4 px-1">
+          <input
+            name="q"
+            placeholder={t.lang === "Castellano" ? "Cerca al temari…" : "Buscar en el temario…"}
+            aria-label={t.lang === "Castellano" ? "Cerca al temari" : "Buscar en el temario"}
+            className="min-h-11 w-full rounded-xl border-2 border-glaze-deep bg-glaze-deep px-3 text-[15px] text-on-glaze placeholder:text-on-glaze-2 outline-none focus:border-on-glaze-2"
+          />
+        </form>
         <RailNav admin={user.role === "admin"} />
         <div className="mt-auto space-y-3 px-3 text-sm text-on-glaze-2">
           <p className="font-semibold text-on-glaze">{user.displayName}</p>
@@ -36,7 +44,10 @@ export default async function AppLayout({ children }: { children: React.ReactNod
         <Link href="/" className="text-lg font-extrabold tracking-[-0.02em]">
           NoExcusesOpo
         </Link>
-        <form action={setLangAction} className="ml-auto">
+        <Link href="/cerca" className="ml-auto grid size-11 place-items-center text-on-glaze-2" aria-label={t.lang === "Castellano" ? "Cerca al temari" : "Buscar en el temario"}>
+          <Search className="size-5" aria-hidden />
+        </Link>
+        <form action={setLangAction}>
           <input type="hidden" name="lang" value={otherLang} />
           <button className="min-h-11 px-2 text-sm font-semibold text-on-glaze-2">{t.lang}</button>
         </form>

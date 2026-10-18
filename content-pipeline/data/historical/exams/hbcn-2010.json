@@ -1,0 +1,233 @@
+{
+ "exam_id": "ics-dui-hbcn-2010",
+ "title": "Convocatòria H. Barcelona-DUI-2010 — Primer exercici",
+ "date": "2010-10-24",
+ "instructions": "",
+ "format": {
+  "penalty": null,
+  "time_min": null,
+  "note": "Examen oficial ICS (convocatòria H.Barcelona-DUI-2010, Diplomat/da sanitari/ària d'infermeria, subgrup A2; Hospital Universitari Vall d'Hebron, H.U. de Bellvitge, H.U. Germans Trias i Pujol de Badalona i Hospital de Viladecans; DOGC núm. 5586, de 12.03.2010). Primer exercici realitzat el 24.10.2010 a la Universitat de Barcelona. Clau: plantilla test oficial del tribunal de 26.10.2010; pregunta 75 anul·lada per diligència del tribunal."
+ },
+ "cases": [
+  {
+   "id": "C1",
+   "title": "Supòsit 1",
+   "text": "Malalta de 90 anys que ve a urgències amb dolor abdominal en fossa ilíaca dreta, sota sospita d'apendicitis. És intervinguda quirúrgicament. S'observa una massa d'aspecte neoplàsic adherida a la paret abdominal i abscés intra abdominal amb diagnòstic de neoplàsia de còlon, amb colostomia permanent. Ingressa al servei de malalt crític procedent de quiròfan.\nAntecedents:\nNo al·lèrgies, no hipertensió arterial, no dislipèmies.\nValoració:\nConstants vitals: Tª axil·lar 35,9ºC; Fc 86 batecs per minut; TA 160/80 mmHg; FR 16 rpm; sat O2(basal) 99%\nIntubada\nCatèter venós central\nSonda nasogàstrica i sonda vesical\nColostomia i ferida quirúrgica",
+   "question_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Malalta de 90 anys que ve a urgències amb dolor abdominal en fossa ilíaca dreta, sota sospita d'apendicitis. És intervinguda quirúrgicament. S'observa una massa d'aspecte neoplàsic adherida a la paret abdominal i abscés intra abdominal amb diagnòstic de neoplàsia de còlon, amb colostomia permanent. Ingressa al servei de malalt crític procedent de quiròfan.\nAntecedents:\nNo al·lèrgies, no hipertensió arterial, no dislipèmies.\nValoració:\nConstants vitals: Tª axil·lar 35,9ºC; Fc 86 batecs per minut; TA 160/80 mmHg; FR 16 rpm; sat O2(basal) 99%\nIntubada\nCatèter venós central\nSonda nasogàstrica i sonda vesical\nColostomia i ferida quirúrgica"
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "title": "Supòsit 2",
+   "text": "Dona de 36 anys que presenta obesitat mòrbida. Ingressa a la unitat de reanimació postquirúrgica procedent de quiròfan després de realitzar un bypass gàstric mitjançant cirurgia bariàtrica.\nIMC 40 sense comorbiditats majors.\nHemodinàmia estable. TA 120/70 mmHg; FC 86 batecs per minut; Tª axil·lar 36,8ºC; Sat O2 98%\nPortadora de catèter venós perifèric, mascareta d'O2, sonda vesical, drenatge amb pressió negativa en cavitat abdominal i mitges de compressió pneumàtica intermitent.\nDolor controlat mitjançant bomba de PCA amb solució de morfina.",
+   "question_numbers": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Dona de 36 anys que presenta obesitat mòrbida. Ingressa a la unitat de reanimació postquirúrgica procedent de quiròfan després de realitzar un bypass gàstric mitjançant cirurgia bariàtrica.\nIMC 40 sense comorbiditats majors.\nHemodinàmia estable. TA 120/70 mmHg; FC 86 batecs per minut; Tª axil·lar 36,8ºC; Sat O2 98%\nPortadora de catèter venós perifèric, mascareta d'O2, sonda vesical, drenatge amb pressió negativa en cavitat abdominal i mitges de compressió pneumàtica intermitent.\nDolor controlat mitjançant bomba de PCA amb solució de morfina."
+    }
+   ]
+  },
+  {
+   "id": "C3",
+   "title": "Supòsit 3",
+   "text": "Dona de 64 anys que ve a la consulta del metge perquè presenta fatiga progressiva de 5 mesos d'evolució, acompanyada d'infeccions repetides en els darrers 2 mesos, pèrdua de pes important i ocasionalment pics febrils.\nExploració física: pal·lidesa de pell i mucoses, pell lleugerament deshidratada. No s'observen cadenes ganglionars perifèriques.\nA l'analítica realitzada, s'observa un recompte de leucòcits elevats, amb presència d'un 20% de blastes en sang perifèrica, anèmia significativa i trombocitopènia. Desequilibris electrolítics de hipokalièmia i hipofosfatèmia. També presenta lleugera hipoglucèmia.\nÉs remesa al Servei d'Oncohematologia per a estudi i posterior tractament.\nDesprés de fer els estudis pertinents la pacient és diagnosticada de leucèmia mieloide aguda amb mutació del gen FLT3.",
+   "question_numbers": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Dona de 64 anys que ve a la consulta del metge perquè presenta fatiga progressiva de 5 mesos d'evolució, acompanyada d'infeccions repetides en els darrers 2 mesos, pèrdua de pes important i ocasionalment pics febrils.\nExploració física: pal·lidesa de pell i mucoses, pell lleugerament deshidratada. No s'observen cadenes ganglionars perifèriques.\nA l'analítica realitzada, s'observa un recompte de leucòcits elevats, amb presència d'un 20% de blastes en sang perifèrica, anèmia significativa i trombocitopènia. Desequilibris electrolítics de hipokalièmia i hipofosfatèmia. També presenta lleugera hipoglucèmia.\nÉs remesa al Servei d'Oncohematologia per a estudi i posterior tractament.\nDesprés de fer els estudis pertinents la pacient és diagnosticada de leucèmia mieloide aguda amb mutació del gen FLT3."
+    }
+   ]
+  },
+  {
+   "id": "C4",
+   "title": "Supòsit 4",
+   "text": "Pacient de 33 anys, home, heterosexual. Amb parella estable des de fa 1 any.\nAntecedents patològics:\nVIH des de fa 3 anys. Diagnosticat de SIDA des de fa 1 any. L'any 2007 es va trobar serologia positiva per hepatitis C.\nSense al·lèrgies conegudes\nMotiu de consulta\nHipertèrmia acompanyada de tos i expectoració mucopurulenta.\nMalaltia actual\nFa un mes que presenta astènia, anorèxia i malestar general i ocasionalment febrícula de 37,3º C.\nDes de fa 48 hores presenta febre alta i expectoració sanguinolenta, motiu pel qual va a urgències i es decideix fer l'ingrés a medicina interna amb aïllament respiratori.\nExamen físic\nPacient conscient i orientat. Febril amb 38º C. Mal estat nutricional, taquipnea de 30 rpm i hepatomegàlia dolorosa.\nProves complementàries\nRx tòrax: infiltrats pulmonars bilaterals. Esput + para BAAR. Cultiu esput identifica M. Tuberculosi.",
+   "question_numbers": [
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Pacient de 33 anys, home, heterosexual. Amb parella estable des de fa 1 any.\nAntecedents patològics:\nVIH des de fa 3 anys. Diagnosticat de SIDA des de fa 1 any. L'any 2007 es va trobar serologia positiva per hepatitis C.\nSense al·lèrgies conegudes\nMotiu de consulta\nHipertèrmia acompanyada de tos i expectoració mucopurulenta.\nMalaltia actual\nFa un mes que presenta astènia, anorèxia i malestar general i ocasionalment febrícula de 37,3º C.\nDes de fa 48 hores presenta febre alta i expectoració sanguinolenta, motiu pel qual va a urgències i es decideix fer l'ingrés a medicina interna amb aïllament respiratori.\nExamen físic\nPacient conscient i orientat. Febril amb 38º C. Mal estat nutricional, taquipnea de 30 rpm i hepatomegàlia dolorosa.\nProves complementàries\nRx tòrax: infiltrats pulmonars bilaterals. Esput + para BAAR. Cultiu esput identifica M. Tuberculosi."
+    }
+   ]
+  },
+  {
+   "id": "C5",
+   "title": "Supòsit 5",
+   "text": "Ingressa al servei d'urgències un home de 36 anys que ha patit un accident laboral. El pacient presenta un nivell de consciència de 5 (segons Escala Glasgow), inestabilitat hemodinàmica, midriasi areactiva dreta, traumatisme cranioencefàlic, traumatisme toràcic, fractura bimaleolar del turmell esquerre i una cremada elèctrica.",
+   "question_numbers": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Ingressa al servei d'urgències un home de 36 anys que ha patit un accident laboral. El pacient presenta un nivell de consciència de 5 (segons Escala Glasgow), inestabilitat hemodinàmica, midriasi areactiva dreta, traumatisme cranioencefàlic, traumatisme toràcic, fractura bimaleolar del turmell esquerre i una cremada elèctrica."
+    }
+   ]
+  },
+  {
+   "id": "C6",
+   "title": "Supòsit 6",
+   "text": "Pacient de 76 anys amb al·lèrgia a penicil·lines, que consulta per quadre febril d'uns dies d'evolució, tos i expectoració, acompanyat de cefalees i dispnea a petits esforços des de fa 24h.\nAntecedents patològics d'interès: malaltia pulmonar obstructiva crònica, dislipèmia, hipertensió arterial, diabetis mellitus, insuficiència cardíaca, fumador d'un paquet al dia, enolisme moderat.\nEs realitzen proves complementàries i es diagnostica pneumònia bilobar dreta amb insuficiència respiratòria secundària.\nTA: 126/68mmHg; FC:133 batecs per minut; Tª axil·lar 39ºC; SatO2: basal 85%; glicèmia capil·lar: 235mg/dl.",
+   "question_numbers": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Pacient de 76 anys amb al·lèrgia a penicil·lines, que consulta per quadre febril d'uns dies d'evolució, tos i expectoració, acompanyat de cefalees i dispnea a petits esforços des de fa 24h.\nAntecedents patològics d'interès: malaltia pulmonar obstructiva crònica, dislipèmia, hipertensió arterial, diabetis mellitus, insuficiència cardíaca, fumador d'un paquet al dia, enolisme moderat.\nEs realitzen proves complementàries i es diagnostica pneumònia bilobar dreta amb insuficiència respiratòria secundària.\nTA: 126/68mmHg; FC:133 batecs per minut; Tª axil·lar 39ºC; SatO2: basal 85%; glicèmia capil·lar: 235mg/dl."
+    }
+   ]
+  },
+  {
+   "id": "C7",
+   "title": "Supòsit 7",
+   "text": "Dona de 66 anys que ve al servei d'urgències per hemiparèsia a l'hemicòs esquerre, desviació de la comissura labial i debilitat a la marxa, sense hàbits tòxics ni al·lèrgies medicamentoses conegudes.\nAntecedents patològics: hipertensió arterial, diabetis mellitus amb tractament amb insulina, marcapassos cardíac per arítmia. Independent per les activitats de la vida diària.\nEs realitzen proves complementàries i ingressa per accident vascular cerebral isquèmic.\nTA 180/80 mmHg; FC 65 batecs per minut; Tª axil·lar 35.6ºC; Glicèmia capil·lar: 116mg/dl",
+   "question_numbers": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Dona de 66 anys que ve al servei d'urgències per hemiparèsia a l'hemicòs esquerre, desviació de la comissura labial i debilitat a la marxa, sense hàbits tòxics ni al·lèrgies medicamentoses conegudes.\nAntecedents patològics: hipertensió arterial, diabetis mellitus amb tractament amb insulina, marcapassos cardíac per arítmia. Independent per les activitats de la vida diària.\nEs realitzen proves complementàries i ingressa per accident vascular cerebral isquèmic.\nTA 180/80 mmHg; FC 65 batecs per minut; Tª axil·lar 35.6ºC; Glicèmia capil·lar: 116mg/dl"
+    }
+   ]
+  },
+  {
+   "id": "C8",
+   "title": "Supòsit 8",
+   "text": "Senyor de 60 anys que ve a urgències per dolor abdominal i febre de 37.5ºC. A l'exploració està somnolent i la família refereix quadre de desorientació els últims dies. Antecedents patològics de diabetis mellitus, varius esofàgiques, cirrosi hepàtica enòlica i dislipèmia. Es diagnostica descompensació ascítica amb encefalopatia hepàtica.\nTA 90/50mmHg; FC 68 batecs per minut; Sat. O2 96%; Tª axil·lar 37.5ºC; glicèmia capil·lar: 65mg/dl.",
+   "question_numbers": [
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "Senyor de 60 anys que ve a urgències per dolor abdominal i febre de 37.5ºC. A l'exploració està somnolent i la família refereix quadre de desorientació els últims dies. Antecedents patològics de diabetis mellitus, varius esofàgiques, cirrosi hepàtica enòlica i dislipèmia. Es diagnostica descompensació ascítica amb encefalopatia hepàtica.\nTA 90/50mmHg; FC 68 batecs per minut; Sat. O2 96%; Tª axil·lar 37.5ºC; glicèmia capil·lar: 65mg/dl."
+    }
+   ]
+  },
+  {
+   "id": "C9",
+   "title": "Supòsit 9",
+   "text": "L'Anna té sis mesos i ingressa a l'hospital per fer-li una correcció quirúrgica d'una tetralogia de Fallot que va ser diagnosticada en néixer.\nEn el postoperatori immediat:\nExtubada a les 6h post intervenció.\nHemodinàmicament sense suport inotròpic, drenatges permeables amb dèbit hemàtic, diüresi mantinguda amb furosemida e.v., ferida quirúrgica sense evidència de sagnat.\nSituació actual:\nBon estat general, activa i reactiva.\nTaquicàrdia sinusal. Mínim vessament pleural esquerre amb petita atelectàsia LII.\nAfebril; SatHb > 95% sense suport respiratori; pressió arterial 75/50mmHg; freqüència cardíaca 130 batecs per minut. Bona tolerància a l'alimentació enteral. No portadora de vies ni drenatges. Cicatriu amb bon aspecte. Buf II-III/IV.\nTractament: furosemida 1,2 mg/Kg/dia. Via oral.",
+   "question_numbers": [
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "L'Anna té sis mesos i ingressa a l'hospital per fer-li una correcció quirúrgica d'una tetralogia de Fallot que va ser diagnosticada en néixer.\nEn el postoperatori immediat:\nExtubada a les 6h post intervenció.\nHemodinàmicament sense suport inotròpic, drenatges permeables amb dèbit hemàtic, diüresi mantinguda amb furosemida e.v., ferida quirúrgica sense evidència de sagnat.\nSituació actual:\nBon estat general, activa i reactiva.\nTaquicàrdia sinusal. Mínim vessament pleural esquerre amb petita atelectàsia LII.\nAfebril; SatHb > 95% sense suport respiratori; pressió arterial 75/50mmHg; freqüència cardíaca 130 batecs per minut. Bona tolerància a l'alimentació enteral. No portadora de vies ni drenatges. Cicatriu amb bon aspecte. Buf II-III/IV.\nTractament: furosemida 1,2 mg/Kg/dia. Via oral."
+    }
+   ]
+  },
+  {
+   "id": "C10",
+   "title": "Supòsit 10",
+   "text": "El senyor Pere de 35 anys ha tingut un accident de trànsit. Ingressa en el servei d'urgències amb aixafament toràcic, traumatisme abdominal, probable lesió cerebral i múltiples fractures.",
+   "question_numbers": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+   ],
+   "segments": [
+    {
+     "from_question": null,
+     "text": "El senyor Pere de 35 anys ha tingut un accident de trànsit. Ingressa en el servei d'urgències amb aixafament toràcic, traumatisme abdominal, probable lesió cerebral i múltiples fractures."
+    }
+   ]
+  }
+ ]
+}

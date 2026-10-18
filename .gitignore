@@ -16,3 +16,7 @@ app/.impeccable/review/
 app/.impeccable/mocks/
 __pycache__/
 .vercel/
+
+# Material de FUDEN: amb drets d'autor, només per a referència privada (mai al repositori)
+content-pipeline/raw/fuden/
+content-pipeline/data/fuden/

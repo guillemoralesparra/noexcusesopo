@@ -1,0 +1,26 @@
+{
+ "epigraf": "E6.5",
+ "body_md": "## En una frase\nEl càlcul de dosis i de velocitat de perfusió es resol amb regles de tres i factors de conversió; la clau és treballar amb unitats consistents (mg, µg, mL, h, min) i comprovar que el resultat és clínicament plausible.\n\n## Conceptes clau\n- **Equivalències**: 1 g = 1000 mg; 1 mg = 1000 µg; 1 L = 1000 mL; 1 h = 60 min; insulina U-100: 1 mL = 100 UI; una solució al X % conté X g per 100 mL (glucosat 5 % = 5 g/100 mL = 50 mg/mL).\n- **Equips de perfusió**: macrogoteig (20 gotes = 1 mL; en alguns equips 15 gotes/mL, cal llegir la caixa), microgoteig (60 microgotes = 1 mL) i equip de transfusió (20 gotes/mL).\n- **Bombes** (mL/h) vs. **sistemes de gravetat** (gotes/min).\n\n## Valors, escales i classificacions\n| Càlcul | Fórmula |\n|---|---|\n| Velocitat (mL/h) | volum (mL) ÷ temps (h) |\n| Gotes/min (macro, 20 gotes/mL) | volum (mL) × 20 ÷ temps (min) = mL/h ÷ 3 |\n| Microgotes/min | = mL/h (perquè 60 microgotes/mL i 60 min/h) |\n| Dosi per pes | dosi (mg/kg) × pes (kg) |\n| Volum a administrar | dosi prescrita ÷ concentració (mg/mL) |\n| Velocitat de la perfusió de fàrmac | dosi per minut × 60 ÷ concentració |\n\n## Actuació infermera\n**Exemples resolts**\n1. **Sèrum fisiològic**: 500 mL en 4 h → 500 ÷ 4 = **125 mL/h**. En microgoteig, **125 microgotes/min**. En macrogoteig: 500 × 20 ÷ 240 = 41,7 ≈ **42 gotes/min**.\n2. **Alteplasa** 0,9 mg/kg (màx. 90 mg), 10 % en bolus en 1-2 min i la resta en 60 min. Pacient de 68 kg: dosi total 0,9 × 68 = 61,2 mg; **bolus** = 6,12 mg; resta = 55,08 mg durant 60 min, és a dir, **55,08 mg/h**.\n3. **Comprimits**: prescrit 750 mg i comprimits de 250 mg → 750 ÷ 250 = **3 comprimits**.\n4. **Solució oral**: 125 mg/5 mL; prescrit 300 mg → 300 × 5 ÷ 125 = **12 mL**.\n5. **Pediatria**: paracetamol 15 mg/kg a un infant de 12 kg → 180 mg; amb solució de 100 mg/mL → **1,8 mL**.\n6. **Heparina sòdica** 5 % (5000 UI/mL): prescrit 7500 UI → **1,5 mL**.\n7. **Perfusió de fàrmac**: heparina 25.000 UI en 500 mL (50 UI/mL), pauta 1000 UI/h → 1000 ÷ 50 = **20 mL/h**.\n8. **Dopamina**: 5 µg/kg/min en 70 kg → 350 µg/min = 21 mg/h; concentració 400 mg en 250 mL (1,6 mg/mL) → 21 ÷ 1,6 = **13,1 mL/h**.\n9. **Concentrat d'hematies** de 300 mL en 2 h: 150 mL/h → equip de transfusió: 150 × 20 ÷ 60 = **50 gotes/min**.\n10. **Insulina**: 12 UI amb U-100 → 0,12 mL (usar sempre xeringa d'insulina o ploma).\n\n**Passos**: identificar la dada demanada, convertir unitats, plantejar la regla de tres, calcular, **arrodonir segons la precisió del dispositiu**, comprovar el sentit clínic i fer doble verificació en fàrmacs d'alt risc (heparina, insulina, potassi, opioides, quimioteràpia).\n\n## Què pregunten als exàmens\n- Velocitat de perfusió de 500 mL de sèrum en 4 h: 125 mL/h o 125 microgotes/min (2016).\n- Dosi en bolus d'alteplasa per a 68 kg: 6,12 mg (2024).\n- Probable: gotes/min, mL/h, mg/mL, dilucions i dosi per pes.\n\n## Trampes freqüents\n- Confondre microgotes/min amb gotes/min: en microgoteig coincideixen amb mL/h; en macrogoteig es divideix entre 3.\n- Aplicar el 10 % al total equivocat: el bolus és el 10 % de la dosi total, no de la resta.\n- Oblidar la dosi màxima (90 mg d'alteplasa) o confondre mg amb µg.\n- Calcular amb minuts en lloc d'hores.\n\n## Normativa i guies de referència\n- Fitxes tècniques de l'AEMPS per a concentracions i dosis màximes; protocols de seguretat en medicaments d'alt risc (ISMP).\n",
+ "key_points": [
+  "Velocitat de perfusió (mL/h) = volum ÷ temps en hores.",
+  "Macrogoteig: gotes/min = mL/h ÷ 3 (equip de 20 gotes/mL); microgoteig: microgotes/min = mL/h.",
+  "500 mL en 4 h són 125 mL/h, 125 microgotes/min o uns 42 gotes/min.",
+  "La dosi per pes es calcula amb mg/kg × kg i es respecta la dosi màxima (alteplasa: 90 mg).",
+  "El bolus d'alteplasa és el 10 % de la dosi total (68 kg: 6,12 mg).",
+  "Un % en una solució equival a g per 100 mL; cal convertir mg i µg abans de calcular."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "Fitxes tècniques AEMPS (CIMA)"
+  },
+  {
+   "kind": "ref",
+   "label": "ISMP, medicaments d'alt risc"
+  }
+ ],
+ "review_flags": [
+  "Los factores de goteo (15 o 20 gotas/mL) dependen del equipo; revisar siempre el envase.",
+  "Pauta de alteplasa del ictus y del IAM puede diferir; usar la indicada en el enunciado."
+ ]
+}

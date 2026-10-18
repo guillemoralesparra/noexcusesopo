@@ -1,0 +1,28 @@
+{
+ "epigraf": "T11.1",
+ "body_md": "## En una frase\nL'ofimàtica i les eines de xarxa (processador de textos, full de càlcul, presentacions, Intranet, Internet i correu electrònic) són l'entorn digital quotidià del lloc de treball sanitari i s'han d'usar amb eficàcia, seguretat i respecte a la confidencialitat de les dades.\n\n## Conceptes clau\n- **Ofimàtica**: conjunt d'aplicacions d'oficina. **Processador de textos** (documents, formats, estils, taules, combinació de correspondència), **full de càlcul** (cel·les, fórmules i funcions com SUMA, MITJANA, SI, BUSCARV; gràfics, taules dinàmiques, filtres i ordenació), **presentacions** (diapositives) i **bases de dades** (taules, consultes, formularis).\n- **Dreceres habituals**: Ctrl+C copiar, Ctrl+X retallar, Ctrl+V enganxar, Ctrl+Z desfer, Ctrl+Y refer, Ctrl+P imprimir.\n- **Intranet**: xarxa interna de l'organització, accessible només al personal, amb documents, protocols i aplicacions corporatives. **Internet**: xarxa pública global; **navegador**, **cercador**, **URL**, **protocol HTTPS** (connexió xifada).\n- **Correu electrònic**: camps *Per a* (destinataris), *CC* (còpia visible) i *CCO* (còpia oculta); adjunts; signatura; normes de cortesia. Per enviar a molts destinataris sense revelar les adreces s'utilitza **CCO**.\n- **Seguretat**: contrasenyes robustes i no compartides, bloqueig de la sessió, còpies de seguretat, antivirus, actualitzacions, **autenticació en dos passos**. El ***phishing*** és el frau per correu o missatge que suplanta una entitat per robar credencials; no s'han d'obrir enllaços ni adjunts sospitosos.\n- **Protecció de dades**: no enviar dades de salut per canals no autoritzats ni a comptes personals; accedir als sistemes només amb finalitat assistencial (LO 3/2018, RGPD).\n\n## Valors, escales i classificacions\n| Extensió | Tipus |\n|---|---|\n| .docx | Document de text |\n| .xlsx | Full de càlcul |\n| .pptx | Presentació |\n| .pdf | Document de format fix |\n| .zip | Fitxer comprimit |\n\n## Actuació infermera\n- Utilitzar només equips i correu corporatius per a dades de pacients.\n- Tancar sessió en abandonar un ordinador compartit; no compartir credencials.\n- Identificar correus fraudulents i comunicar-los al servei informàtic.\n- Usar la intranet per consultar protocols i procediments vigents.\n\n## Què pregunten als exàmens\nNo ha aparegut als exàmens oficials 2015–2024. Si es pregunta, serà sobre funcions bàsiques d'ofimàtica, correu i seguretat.\n\n## Trampes freqüents\n- Confondre CC amb CCO.\n- Pensar que la Intranet és accessible des de qualsevol lloc sense autenticació.\n- Confondre HTTP amb HTTPS.\n\n## Normativa i guies de referència\n- LO 3/2018 (art. 5, deure de confidencialitat) i RGPD (art. 5 i 32, seguretat del tractament).\n- Política de seguretat de la informació de l'ICS (document intern).\n",
+ "key_points": [
+  "Una funció de full de càlcul sempre comença amb = i opera sobre cel·les o intervals.",
+  "El camp CCO envia còpies sense revelar les adreces als altres destinataris.",
+  "La Intranet és la xarxa interna de l'organització; Internet és la xarxa pública.",
+  "HTTPS xifra la connexió entre navegador i servidor.",
+  "El phishing és un frau que suplanta una entitat per robar credencials.",
+  "Les dades de salut només s'han de tractar en sistemes corporatius i amb finalitat assistencial."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "LO 3/2018, art. 5",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
+  },
+  {
+   "kind": "norma",
+   "label": "RGPD, art. 5 i 32",
+   "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32016R0679"
+  }
+ ],
+ "review_flags": [
+  "El material de referència d'ofimàtica és de 2015-2016 i està desfasat; contingut escrit de manera general i independent de la versió de programari. L'entorn concret de l'ICS (Microsoft 365, Intranet) no s'ha pogut verificar.",
+  "El temari oficial concret d'ofimàtica de la convocatòria no especifica versions; revisar."
+ ]
+}
