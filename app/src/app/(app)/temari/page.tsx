@@ -98,7 +98,6 @@ export default async function TemariPage({ searchParams }: { searchParams: Promi
               </div>
               <ul className="space-y-2">
                 {epsOf(sel.id)
-                  .sort((a, b) => b.officialWeight - a.officialWeight)
                   .map((e) => (
                     <li key={e.id} id={e.id} className="flex scroll-mt-24 items-center gap-4 rounded-2xl bg-surface p-4">
                       <span className="size-12 shrink-0">
