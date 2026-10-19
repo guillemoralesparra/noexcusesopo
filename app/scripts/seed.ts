@@ -175,6 +175,44 @@ async function main() {
     histCount = hist.length;
   }
 
+  // Preguntes de FUDEN (només a la màquina local; a l'app, només per a qui té accés FUDEN). No fixen pesos.
+  const fqDir = path.join(DATA, "fuden", "questions");
+  let fudenQCount = 0;
+  for (const f of existsSync(fqDir) ? readdirSync(fqDir).filter((x) => x.endsWith(".json") && !x.startsWith("_")) : []) {
+    const set = read<FudenQuestionSet>(path.join("fuden", "questions", f));
+    const examId = set.kind === "simulacre" ? `fuden-${set.slug}` : null;
+    if (examId) {
+      const row = { id: examId, title: set.title, date: set.date ?? "2025-01-01", instructions: "", format: { penalty: null, time_min: 120, note: "Simulacre de FUDEN amb la seva clau" } };
+      await db.insert(s.exams).values(row).onConflictDoUpdate({ target: s.exams.id, set: row });
+      for (const c of set.cases ?? []) {
+        const crow = { id: `${examId}-${c.id}`, examId, label: c.id, title: c.title, text: c.text, segments: [{ from_question: null, text: c.text }] };
+        await db.insert(s.cases).values(crow).onConflictDoUpdate({ target: s.cases.id, set: crow });
+      }
+    }
+    for (const q of set.questions) {
+      const row: typeof s.questions.$inferInsert = {
+        id: `fuden-${set.slug}-${q.n}`,
+        examId,
+        number: q.n,
+        section: q.section ?? "test",
+        caseId: examId && q.case_id ? `${examId}-${q.case_id}` : null,
+        stem: q.stem,
+        options: q.options,
+        accepted: q.accepted,
+        // sense clau no es pot corregir: queda fora de la pràctica
+        annulled: (q.annulled ?? false) || q.accepted.length === 0,
+        origin: "fuden",
+        sourceLabel: `${set.label} · pregunta ${q.n}`,
+        epigrafId: q.epigraf,
+        currency: q.currency ?? "ok",
+        currencyReason: q.currency_reason ?? null,
+        explanation: null,
+      };
+      await db.insert(s.questions).values(row).onConflictDoUpdate({ target: s.questions.id, set: row });
+      fudenQCount++;
+    }
+  }
+
   // Fitxes pròpies del temari
   const notesDir = path.join(DATA, "notes");
   const noteFiles = existsSync(notesDir) ? readdirSync(notesDir).filter((f) => f.endsWith(".json")) : [];
@@ -182,6 +220,48 @@ async function main() {
     const n = read<NoteJson>(path.join("notes", f));
     const row = { epigrafId: n.epigraf, body: n.body_md, keyPoints: n.key_points ?? [], sources: n.sources ?? [], reviewFlags: n.review_flags ?? [], updatedAt: new Date() };
     await db.insert(s.notes).values(row).onConflictDoUpdate({ target: s.notes.epigrafId, set: row });
+  }
+
+  // Material de FUDEN: només si és a la màquina local (no és al repositori: còpia privada amb drets d'autor)
+  const fudenDir = path.join(DATA, "fuden");
+  const fudenPages: { docId: number; page: number; text: string }[] = [];
+  const fudenDocs: (typeof s.fudenDocs.$inferInsert)[] = [];
+  if (existsSync(path.join(fudenDir, "coverage.json"))) {
+    const coverage = read<{ documents: FudenCoverageDoc[] }>("fuden/coverage.json");
+    const catalog = new Map(read<FudenCatalogDoc[]>("fuden/catalog.json").map((d) => [d.id, d]));
+    const moodle = new Map<string, string>();
+    const map = JSON.parse(readFileSync(path.join(DATA, "..", "raw", "fuden", "map.json"), "utf-8")) as FudenMap;
+    // Clau: apartat + activitat (els fitxers dins de carpetes comparteixen l'enllaç de la carpeta)
+    const secName = (t: string) => t.replace(/^Mosaico:\s*/, "").split(" | ")[0].trim();
+    for (const sec of map.sections)
+      for (const a of sec.activities) {
+        moodle.set(`${secName(sec.title)}|${a.name}`, a.url);
+        if (!moodle.has(a.name)) moodle.set(a.name, a.url);
+      }
+    for (const d of coverage.documents) {
+      const cat = catalog.get(d.id);
+      const txtFile = path.join(fudenDir, "text", `${d.id}.txt`);
+      const pages = existsSync(txtFile) ? readFileSync(txtFile, "utf-8").split("\f") : [];
+      pages.forEach((raw, i) => {
+        const text = cleanFuden(raw);
+        if (text) fudenPages.push({ docId: d.id, page: i + 1, text });
+      });
+      fudenDocs.push({
+        id: d.id,
+        title: d.title,
+        kind: d.kind,
+        section: d.section,
+        moodleUrl: (cat && (moodle.get(`${cat.section}|${cat.activity}`) ?? moodle.get(cat.activity))) ?? null,
+        pages: pages.length,
+        epigrafs: d.epigrafs ?? [],
+        summary: d.summary ?? null,
+        sections: d.sections ?? [],
+      });
+    }
+    await db.delete(s.fudenDocs);
+    await db.delete(s.fudenPages);
+    for (let i = 0; i < fudenDocs.length; i += 200) await db.insert(s.fudenDocs).values(fudenDocs.slice(i, i + 200));
+    for (let i = 0; i < fudenPages.length; i += 200) await db.insert(s.fudenPages).values(fudenPages.slice(i, i + 200));
   }
 
   // Índex de cerca: es reconstrueix sencer
@@ -195,7 +275,7 @@ async function main() {
   const allQ = await db.select().from(s.questions);
   for (const q of allQ) {
     if (q.annulled || q.status !== "active") continue;
-    docs.push({ id: `q:${q.id}`, kind: "question", epigrafId: q.epigrafId, title: q.stem.slice(0, 160), body: [q.stem, ...Object.values(q.options), q.explanation?.summary ?? ""].join(" ") });
+    docs.push({ id: `q:${q.id}`, kind: "question", restricted: q.origin === "fuden", epigrafId: q.epigrafId, title: q.stem.slice(0, 160), body: [q.stem, ...Object.values(q.options), q.explanation?.summary ?? ""].join(" ") });
   }
   const srcDir = path.join(DATA, "sources");
   for (const f of existsSync(srcDir) ? readdirSync(srcDir).filter((x) => x.endsWith(".json") && x !== "index.json") : []) {
@@ -204,6 +284,14 @@ async function main() {
       if (!c.text?.trim()) continue;
       docs.push({ id: `norma:${c.id}`, kind: "norma", epigrafId: null, title: `${norm.short}, ${c.unit}${c.heading ? ` · ${c.heading}` : ""}`, body: c.text.slice(0, 20000), url: norm.url });
     }
+  }
+  const fudenById = new Map(fudenDocs.map((d) => [d.id as number, d]));
+  for (const p of fudenPages) {
+    const d = fudenById.get(p.docId)!;
+    if (p.text.length < 80) continue;
+    const sec = d.sections?.find((x) => inRange(p.page, x.pages));
+    const epigrafId = sec?.epigrafs[0] ?? (d.epigrafs?.length === 1 ? d.epigrafs[0] : null);
+    docs.push({ id: `fuden:${p.docId}:${p.page}`, kind: "fuden", restricted: true, epigrafId: epigrafId && epTitle.has(epigrafId) ? epigrafId : null, title: `${d.title} · p. ${p.page}`, body: p.text.slice(0, 20000), url: `/fuden/${p.docId}?p=${p.page}` });
   }
   for (let i = 0; i < docs.length; i += 200) await db.insert(s.searchDocs).values(docs.slice(i, i + 200));
 
@@ -214,8 +302,42 @@ async function main() {
     console.log(`Codi d'invitació d'administració: ${code}`);
   }
 
-  console.log(`Temari: ${topicRows.length} nodes · Exàmens: ${examFiles.length} · Preguntes oficials: ${bank.length} · Històriques: ${histCount} · Explicacions: ${expl.size} · Fitxes: ${noteFiles.length} · Índex de cerca: ${docs.length}`);
+  console.log(`Temari: ${topicRows.length} nodes · Exàmens: ${examFiles.length} · Preguntes oficials: ${bank.length} · Històriques: ${histCount} · Explicacions: ${expl.size} · Fitxes: ${noteFiles.length} · Índex de cerca: ${docs.length} · FUDEN: ${fudenDocs.length} documents, ${fudenPages.length} pàgines, ${fudenQCount} preguntes`);
   process.exit(0);
+}
+
+type FudenCoverageDoc = { id: number; title: string; section: string; kind: NonNullable<(typeof s.fudenDocs.$inferInsert)["kind"]>; epigrafs?: string[]; summary?: string; sections?: { label: string; pages: string; epigrafs: string[] }[] };
+type FudenQuestionSet = {
+  slug: string;
+  label: string;
+  kind: "simulacre" | "test";
+  title: string;
+  date: string | null;
+  cases?: { id: string; title: string; text: string }[];
+  questions: { n: number; section?: "test" | "case"; case_id?: string | null; stem: string; options: Partial<Record<s.OptionKey, string>>; accepted: s.OptionKey[]; annulled?: boolean; epigraf: string; currency?: "ok" | "check"; currency_reason?: string }[];
+};
+type FudenCatalogDoc = { id: number; section: string; activity: string };
+type FudenMap = { sections: { title: string; activities: { name: string; url: string }[] }[] };
+
+/** Treu la marca d'aigua amb el compte de descàrrega i les línies buides de sobres. */
+function cleanFuden(t: string): string {
+  return t
+    .replace(/Descarga autorizada a[\s\S]{0,120}?desde(\s*oposiciones\.f[a-z.]*)?/g, "")
+    .replace(/^.*(JDLHH|138173|Descarga autorizada|desde oposiciones\.f).*$/gm, "")
+    .replace(/Scanned by CamScanner/g, "")
+    .replace(/\u0000/g, "")
+    .replace(/0000/g, "")
+    .replace(/0000/g, "")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+/** "4-5", "9" o "4-5, 8" */
+function inRange(page: number, ranges: string): boolean {
+  return ranges.split(",").some((r) => {
+    const [a, b] = r.split("-").map((x) => Number(x.trim()));
+    return Number.isFinite(a) && page >= a && page <= (Number.isFinite(b) ? b : a);
+  });
 }
 
 main().catch((e) => {

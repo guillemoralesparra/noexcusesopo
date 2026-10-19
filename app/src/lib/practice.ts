@@ -9,6 +9,7 @@ import {
   questions,
   reviewCards,
   topics,
+  users,
   type CaseSegment,
   type Explanation,
   type Confidence,
@@ -16,13 +17,20 @@ import {
   type SessionMode,
 } from "@/db/schema";
 import { Card } from "ts-fsrs";
-import { examLabel } from "./exam-label";
+import { examLabel, isFudenExam } from "./exam-label";
 import { gradeFor, nextCard, parseCard, retrievability, serializeCard } from "./srs";
 import { outcomeOf, scoreExercise, type AnswerOutcome } from "./scoring";
 
 type QuestionRow = typeof questions.$inferSelect;
 
 const usable = (q: QuestionRow) => !q.annulled && q.status === "active";
+
+/** Les preguntes de FUDEN només són per a qui hi tingui accés (material amb drets d'autor). */
+async function fudenAllowed(userId: number): Promise<boolean> {
+  const db = await getDb();
+  const [u] = await db.select({ f: users.fudenAccess }).from(users).where(eq(users.id, userId));
+  return !!u?.f;
+}
 
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr];
@@ -86,7 +94,8 @@ function compose(pool: QuestionRow[], all: QuestionRow[], cards: Map<string, Car
   for (const q of all) if (q.origin === "official") weight.set(q.epigrafId, (weight.get(q.epigrafId) ?? 0) + 1);
   const j = () => (jitter ? 0.85 + Math.random() * 0.3 : 1);
   // Les preguntes oficials recents primer; les històriques i les possiblement desactualitzades, menys
-  const trust = (q: QuestionRow) => (q.origin === "official" ? 1 : q.origin === "historical" ? 0.55 : 0.7) * (q.currency === "check" ? 0.6 : 1);
+  const trust = (q: QuestionRow) =>
+    ({ official: 1, historical: 0.55, generated: 0.7, fuden: 0.6 })[q.origin] * (q.currency === "check" ? 0.6 : 1);
   const due: { q: QuestionRow; p: number }[] = [];
   const fresh: { q: QuestionRow; p: number }[] = [];
   const extra: { q: QuestionRow; p: number }[] = [];
@@ -122,7 +131,8 @@ export type SuggestionPreview = {
 /** Què contindria la sessió suggerida per a cada durada (sense crear-la). */
 export async function suggestionPreview(userId: number, counts: number[]): Promise<SuggestionPreview[]> {
   const db = await getDb();
-  const all = (await db.select().from(questions)).filter(usable);
+  const fuden = await fudenAllowed(userId);
+  const all = (await db.select().from(questions)).filter((q) => usable(q) && (fuden || q.origin !== "fuden"));
   const cards = await loadCards(userId);
   const now = new Date();
   const titles = new Map((await db.select({ id: topics.id, title: topics.title }).from(topics)).map((t) => [t.id, t.title]));
@@ -149,7 +159,8 @@ export type NewSessionInput =
 
 export async function createSession(userId: number, input: NewSessionInput): Promise<string> {
   const db = await getDb();
-  const all = (await db.select().from(questions)).filter(usable);
+  const fuden = await fudenAllowed(userId);
+  const all = (await db.select().from(questions)).filter((q) => usable(q) && (fuden || q.origin !== "fuden"));
   let chosen: QuestionRow[] = [];
   let title = "";
   let immediateFeedback = true;
@@ -159,7 +170,7 @@ export async function createSession(userId: number, input: NewSessionInput): Pro
 
   if (input.mode === "exam") {
     const [exam] = await db.select().from(exams).where(eq(exams.id, input.examId));
-    if (!exam) throw new Error("Examen inexistent");
+    if (!exam || (isFudenExam(exam.id) && !fuden)) throw new Error("Examen inexistent");
     const examQs = (await db.select().from(questions).where(eq(questions.examId, exam.id)).orderBy(asc(questions.number)))
       // en simulacre es mantenen les anul·lades fora, igual que el tribunal
       .filter(usable);
@@ -167,7 +178,7 @@ export async function createSession(userId: number, input: NewSessionInput): Pro
     const alternative = exam.format?.note?.includes("s'escull un");
     const chosenCase = `${exam.id}-${input.caseLabel ?? "C1"}`;
     chosen = examQs.filter((q) => q.section === "test" || !alternative || q.caseId === chosenCase);
-    title = `Simulacre · ${examLabel(exam.id, exam.date)}`;
+    title = isFudenExam(exam.id) ? examLabel(exam.id, exam.date) : `Simulacre · ${examLabel(exam.id, exam.date)}`;
     immediateFeedback = false;
     penalty = input.penalty;
     timeLimitS = input.timed ? (exam.format?.time_min ?? 120) * 60 : null;

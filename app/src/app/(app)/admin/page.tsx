@@ -2,7 +2,7 @@ import { desc, eq } from "drizzle-orm";
 import { getDb } from "@/db";
 import { invites, questions, reports, users } from "@/db/schema";
 import { requireAdmin } from "@/lib/auth";
-import { createInviteAction, resolveReportAction, setQuestionStatusAction } from "../actions";
+import { createInviteAction, resolveReportAction, setFudenAccessAction, setQuestionStatusAction } from "../actions";
 
 export default async function AdminPage() {
   await requireAdmin();
@@ -16,7 +16,7 @@ export default async function AdminPage() {
       .innerJoin(users, eq(users.id, reports.userId))
       .where(eq(reports.status, "open"))
       .orderBy(desc(reports.createdAt)),
-    db.select({ id: users.id, name: users.displayName, username: users.username, role: users.role }).from(users),
+    db.select({ id: users.id, name: users.displayName, username: users.username, role: users.role, fuden: users.fudenAccess }).from(users),
     db.select({ id: questions.id, stem: questions.stem }).from(questions).where(eq(questions.status, "suspended")),
   ]);
 
@@ -80,11 +80,21 @@ export default async function AdminPage() {
       </section>
 
       <section className="panel p-5">
-        <h2 className="mb-2 font-semibold">Usuàries ({userRows.length})</h2>
-        <ul className="text-sm">
+        <h2 className="mb-1 font-semibold">Usuàries ({userRows.length})</h2>
+        <p className="mb-3 text-sm text-ink-3">Accés FUDEN: només per a qui sigui alumna de FUDEN (material amb drets d&apos;autor, còpia privada).</p>
+        <ul className="space-y-2 text-sm">
           {userRows.map((u) => (
-            <li key={u.id}>
-              {u.name} <span className="text-ink-3">@{u.username}</span> {u.role === "admin" && "· admin"}
+            <li key={u.id} className="flex flex-wrap items-center gap-3">
+              <span className="min-w-0 flex-1">
+                {u.name} <span className="text-ink-3">@{u.username}</span> {u.role === "admin" && "· admin"}
+              </span>
+              <form action={setFudenAccessAction}>
+                <input type="hidden" name="userId" value={u.id} />
+                <input type="hidden" name="value" value={u.fuden ? "0" : "1"} />
+                <button className={u.fuden ? "btn-glaze min-h-10 px-3 text-sm" : "btn-quiet min-h-10 px-3 text-sm"}>
+                  {u.fuden ? "Accés FUDEN: sí" : "Accés FUDEN: no"}
+                </button>
+              </form>
             </li>
           ))}
         </ul>

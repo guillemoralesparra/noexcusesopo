@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { BookOpen, HelpCircle, Scale, Search } from "lucide-react";
+import { BookOpen, FileText, HelpCircle, Scale, Search } from "lucide-react";
 import { requireUser } from "@/lib/auth";
 import { getLang } from "@/lib/lang";
 import { safeSnippet, search, type SearchHit } from "@/lib/search";
@@ -9,8 +9,9 @@ const L = {
     title: "Cerca al temari",
     ph: "Paraules clau: p. ex. úlceres pressió Braden, insulina, consentiment informat…",
     hint: "Busca a les fitxes del temari, a les preguntes i a la normativa. Admet \"frase exacta\" i -paraula per excloure.",
+    hintFuden: "També busca al text dels PDFs de FUDEN (temari, presentacions, guies).",
     none: (q: string) => `Cap resultat per a «${q}». Prova amb menys paraules o sinònims.`,
-    kinds: { note: "Temari", question: "Preguntes", norma: "Normativa" },
+    kinds: { note: "Temari", fuden: "FUDEN", question: "Preguntes", norma: "Normativa" },
     all: "Tot",
     go: "Cercar",
   },
@@ -18,28 +19,31 @@ const L = {
     title: "Buscar en el temario",
     ph: "Palabras clave: p. ej. úlceras presión Braden, insulina, consentimiento informado…",
     hint: "Busca en las fichas del temario, en las preguntas y en la normativa (contenido en catalán). Admite \"frase exacta\" y -palabra para excluir.",
+    hintFuden: "También busca en el texto de los PDFs de FUDEN (temario, presentaciones, guías).",
     none: (q: string) => `Ningún resultado para «${q}». Prueba con menos palabras o sinónimos (en catalán).`,
-    kinds: { note: "Temario", question: "Preguntas", norma: "Normativa" },
+    kinds: { note: "Temario", fuden: "FUDEN", question: "Preguntas", norma: "Normativa" },
     all: "Todo",
     go: "Buscar",
   },
 };
 
-const ICON = { note: BookOpen, question: HelpCircle, norma: Scale } as const;
+const ICON = { note: BookOpen, fuden: FileText, question: HelpCircle, norma: Scale } as const;
 
-function hrefFor(h: SearchHit) {
+function hrefFor(h: SearchHit, q: string) {
   if (h.kind === "note" && h.epigrafId) return `/temari/${h.epigrafId}`;
+  if (h.kind === "fuden" && h.url) return `${h.url}&q=${encodeURIComponent(q)}`;
   if (h.kind === "norma" && h.url) return h.url;
   if (h.epigrafId) return `/temari/${h.epigrafId}`;
   return "/temari";
 }
 
 export default async function SearchPage({ searchParams }: { searchParams: Promise<{ q?: string; k?: string }> }) {
-  await requireUser();
+  const user = await requireUser();
   const [{ q = "", k }, lang] = await Promise.all([searchParams, getLang()]);
   const l = L[lang];
-  const kind = k === "note" || k === "question" || k === "norma" ? k : undefined;
-  const hits = q ? await search(q, kind) : [];
+  const kinds: SearchHit["kind"][] = user.fudenAccess ? ["note", "fuden", "question", "norma"] : ["note", "question", "norma"];
+  const kind = kinds.find((kk) => kk === k);
+  const hits = q ? await search(q, kind, user.fudenAccess) : [];
   const qs = (kk?: string) => `/cerca?q=${encodeURIComponent(q)}${kk ? `&k=${kk}` : ""}`;
 
   return (
@@ -54,18 +58,20 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
         {kind && <input type="hidden" name="k" value={kind} />}
         <button className="btn-glaze">{l.go}</button>
       </form>
-      <p className="text-[15px] text-ink-3">{l.hint}</p>
+      <p className="text-[15px] text-ink-3">
+        {l.hint} {user.fudenAccess && l.hintFuden}
+      </p>
 
       {q && (
         <nav className="flex flex-wrap gap-2" aria-label="Filtre">
-          {[undefined, "note", "question", "norma"].map((kk) => (
+          {[undefined, ...kinds].map((kk) => (
             <Link
               key={kk ?? "all"}
               href={qs(kk)}
               aria-current={kind === kk ? "page" : undefined}
               className={`inline-flex min-h-10 items-center rounded-full px-4 text-[15px] font-semibold ${kind === kk ? "bg-glaze text-on-glaze" : "bg-surface-2 text-ink-2"}`}
             >
-              {kk ? l.kinds[kk as SearchHit["kind"]] : l.all}
+              {kk ? l.kinds[kk] : l.all}
             </Link>
           ))}
         </nav>
@@ -75,7 +81,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
       <ul className="space-y-2">
         {hits.map((h) => {
           const Icon = ICON[h.kind];
-          const href = hrefFor(h);
+          const href = hrefFor(h, q);
           const external = href.startsWith("http");
           return (
             <li key={h.id}>

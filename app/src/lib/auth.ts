@@ -19,7 +19,7 @@ function secret() {
   return new TextEncoder().encode(s);
 }
 
-export type SessionUser = { id: number; username: string; displayName: string; role: "admin" | "student" };
+export type SessionUser = { id: number; username: string; displayName: string; role: "admin" | "student"; fudenAccess: boolean };
 
 export const hashPassword = (pw: string) => bcrypt.hash(pw, 10);
 export const verifyPassword = (pw: string, hash: string) => bcrypt.compare(pw, hash);
@@ -50,7 +50,7 @@ export async function getUser(): Promise<SessionUser | null> {
     const { payload } = await jwtVerify(token, secret());
     const db = await getDb();
     const [u] = await db.select().from(users).where(eq(users.id, Number(payload.uid)));
-    return u ? { id: u.id, username: u.username, displayName: u.displayName, role: u.role } : null;
+    return u ? { id: u.id, username: u.username, displayName: u.displayName, role: u.role, fudenAccess: u.fudenAccess } : null;
   } catch {
     return null;
   }

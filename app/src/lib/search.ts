@@ -4,7 +4,7 @@ import { getDb } from "@/db";
 
 export type SearchHit = {
   id: string;
-  kind: "note" | "question" | "norma";
+  kind: "note" | "question" | "norma" | "fuden";
   epigrafId: string | null;
   title: string;
   url: string | null;
@@ -18,7 +18,7 @@ export type SearchHit = {
  * Fa servir el diccionari català de Postgres: troba "úlcera" en buscar "ulceres" i a l'inrevés.
  * Accepta sintaxi de cercador: "frase exacta", -excloure, OR.
  */
-export async function search(q: string, kind?: SearchHit["kind"], limit = 30): Promise<SearchHit[]> {
+export async function search(q: string, kind: SearchHit["kind"] | undefined, canSeeFuden: boolean, limit = 30): Promise<SearchHit[]> {
   const query = q.trim().slice(0, 200);
   if (query.length < 2) return [];
   const db = await getDb();
@@ -30,7 +30,8 @@ export async function search(q: string, kind?: SearchHit["kind"], limit = 30): P
     from search_docs
     where tsv @@ (websearch_to_tsquery('catalan', ${query}) || websearch_to_tsquery('spanish', ${query}))
       ${kind ? sql`and kind = ${kind}` : sql``}
-    order by (case kind when 'note' then 0 when 'norma' then 1 else 2 end), rank desc
+      ${canSeeFuden ? sql`` : sql`and not restricted`}
+    order by (case kind when 'note' then 0 when 'fuden' then 1 when 'norma' then 2 else 3 end), rank desc
     limit ${limit}
   `);
   const r = res as unknown as { rows?: SearchHit[] } & SearchHit[];

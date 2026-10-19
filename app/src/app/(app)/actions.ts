@@ -7,7 +7,7 @@ import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
 import { z } from "zod";
 import { getDb } from "@/db";
-import { invites, questions, reports, type Confidence, type OptionKey } from "@/db/schema";
+import { invites, questions, reports, users, type Confidence, type OptionKey } from "@/db/schema";
 import { requireAdmin, requireUser } from "@/lib/auth";
 import { createSession, finishSession, saveAnswer, type NewSessionInput } from "@/lib/practice";
 import { MINUTES_TO_COUNT } from "@/lib/session-sizes";
@@ -108,5 +108,15 @@ export async function setQuestionStatusAction(form: FormData) {
   const db = await getDb();
   const status = form.get("status") === "active" ? "active" : "suspended";
   await db.update(questions).set({ status }).where(eq(questions.id, String(form.get("questionId"))));
+  revalidatePath("/admin");
+}
+
+export async function setFudenAccessAction(form: FormData) {
+  await requireAdmin();
+  const db = await getDb();
+  await db
+    .update(users)
+    .set({ fudenAccess: form.get("value") === "1" })
+    .where(eq(users.id, Number(form.get("userId"))));
   revalidatePath("/admin");
 }

@@ -1,9 +1,9 @@
 import "server-only";
 import { desc, eq } from "drizzle-orm";
 import { getDb } from "@/db";
-import { attempts, exams, practiceSessions, questions, reviewCards, topics } from "@/db/schema";
+import { attempts, exams, practiceSessions, questions, reviewCards, topics, users } from "@/db/schema";
 import { parseCard, retrievability } from "./srs";
-import { examLabel } from "./exam-label";
+import { examLabel, isFudenExam } from "./exam-label";
 import { masteryOf, type MasteryState } from "./mastery";
 
 export type TopicStat = {
@@ -35,7 +35,9 @@ export async function topicStats(userId: number, before?: Date): Promise<TopicSt
       .where(eq(attempts.userId, userId))
       .orderBy(desc(attempts.createdAt)),
   ]);
-  return computeStats(topicRows, qs, before ? at.filter((a) => a.createdAt < before) : at);
+  const [u] = await db.select({ f: users.fudenAccess }).from(users).where(eq(users.id, userId));
+  const visible = u?.f ? qs : qs.filter((q) => q.origin !== "fuden");
+  return computeStats(topicRows, visible, before ? at.filter((a) => a.createdAt < before) : at);
 }
 
 function computeStats(
@@ -117,7 +119,7 @@ export async function overview(userId: number) {
   // El títol dels simulacres es calcula en mostrar-lo (les sessions antigues guardaven el títol imprès sencer)
   const sessions = (
     await db.select().from(practiceSessions).where(eq(practiceSessions.userId, userId)).orderBy(desc(practiceSessions.startedAt)).limit(20)
-  ).map((s) => (s.examId && examDate.has(s.examId) ? { ...s, title: `Simulacre · ${examLabel(s.examId, examDate.get(s.examId)!)}` } : s));
+  ).map((s) => (s.examId && examDate.has(s.examId) ? { ...s, title: `${isFudenExam(s.examId) ? "" : "Simulacre · "}${examLabel(s.examId, examDate.get(s.examId)!)}` } : s));
 
   // Constància: dies actius de les últimes 8 setmanes (sense ratxes)
   const days = new Map<string, number>();

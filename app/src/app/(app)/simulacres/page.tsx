@@ -4,7 +4,7 @@ import { getDb } from "@/db";
 import { cases, exams, questions } from "@/db/schema";
 import { requireUser } from "@/lib/auth";
 import { getLang } from "@/lib/lang";
-import { examLabel } from "@/lib/exam-label";
+import { examLabel, isFudenExam } from "@/lib/exam-label";
 import { startPractice } from "../actions";
 
 const L = {
@@ -19,6 +19,9 @@ const L = {
     start: "Començar simulacre",
     note: "Els criteris de la convocatòria 2025 encara no s'han publicat: pots provar també amb −1/4 o −1/3.",
     qs: (n: number) => `${n} preguntes`,
+    official: "Exàmens oficials de l'ICS",
+    fuden: "Simulacres de FUDEN",
+    fudenSub: "Simulacres de l'acadèmia amb la seva clau. No compten per decidir què és prioritari: això només ho marquen els exàmens oficials.",
   },
   es: {
     title: "Simulacros",
@@ -31,11 +34,14 @@ const L = {
     start: "Empezar simulacro",
     note: "Los criterios de la convocatoria 2025 aún no se han publicado: puedes probar también con −1/4 o −1/3.",
     qs: (n: number) => `${n} preguntas`,
+    official: "Exámenes oficiales del ICS",
+    fuden: "Simulacros de FUDEN",
+    fudenSub: "Simulacros de la academia con su clave. No cuentan para decidir qué es prioritario: eso solo lo marcan los exámenes oficiales.",
   },
 };
 
 export default async function SimulacresPage() {
-  await requireUser();
+  const user = await requireUser();
   const l = L[await getLang()];
   const db = await getDb();
   const [examRows, caseRows, qRows] = await Promise.all([
@@ -57,11 +63,21 @@ export default async function SimulacresPage() {
         <p className="mt-1 max-w-[62ch] text-lg text-ink-2">{l.sub}</p>
         <p className="mt-3 max-w-[62ch] rounded-xl bg-ochre-soft px-4 py-3 text-[15px]">{l.note}</p>
       </div>
+      {(
+        [
+          [l.official, null, examRows.filter((e) => !isFudenExam(e.id)).reverse()],
+          [l.fuden, l.fudenSub, user.fudenAccess ? examRows.filter((e) => isFudenExam(e.id)) : []],
+        ] as const
+      ).map(([heading, sub, rows]) => rows.length > 0 && (
+      <section key={heading} className="space-y-3">
+        <h2 className="text-xl font-extrabold tracking-[-0.01em]">{heading}</h2>
+        {sub && <p className="max-w-[62ch] text-[15px] text-ink-2">{sub}</p>}
       <div className="grid gap-4 md:grid-cols-2">
-        {[...examRows].reverse().map((e) => {
+        {rows.map((e) => {
           const examCases = caseRows.filter((c) => c.examId === e.id);
           const alternative = e.format?.note?.includes("s'escull un");
-          const year = e.date.slice(0, 4);
+          const sim = e.id.match(/^fuden-sim-(\d+)$/)?.[1];
+          const year = sim ? `S${Number(sim)}` : e.date.slice(0, 4);
           return (
             <form key={e.id} action={startPractice} className="flex flex-col gap-4 rounded-2xl bg-surface p-5">
               <input type="hidden" name="mode" value="exam" />
@@ -115,6 +131,8 @@ export default async function SimulacresPage() {
           );
         })}
       </div>
+      </section>
+      ))}
     </div>
   );
 }

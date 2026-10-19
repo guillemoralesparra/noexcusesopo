@@ -17,7 +17,7 @@ const tsvector = customType<{ data: string }>({ dataType: () => "tsvector" });
 
 export type OptionKey = "a" | "b" | "c" | "d" | "e";
 /** official: exàmens ICS 2015-2024 (fixen els pesos) · historical: exàmens ICS anteriors (només pràctica) · generated: pròpies */
-export type QuestionOrigin = "official" | "historical" | "generated";
+export type QuestionOrigin = "official" | "historical" | "generated" | "fuden";
 export type Confidence = "sure" | "doubt" | "guess";
 export type SessionMode = "topic" | "mistakes" | "exam" | "mixed";
 export type CaseSegment = { from_question: number | "end" | null; text: string };
@@ -37,6 +37,8 @@ export const users = pgTable("users", {
   displayName: text("display_name").notNull(),
   passwordHash: text("password_hash").notNull(),
   role: text("role").$type<"admin" | "student">().notNull().default("student"),
+  /** Alumna de FUDEN: pot veure el material propi de l'acadèmia (còpia privada) */
+  fudenAccess: boolean("fuden_access").notNull().default(false),
   createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
 });
 
@@ -183,7 +185,9 @@ export const searchDocs = pgTable(
   "search_docs",
   {
     id: text("id").primaryKey(),
-    kind: text("kind").$type<"note" | "question" | "norma">().notNull(),
+    kind: text("kind").$type<"note" | "question" | "norma" | "fuden">().notNull(),
+    /** Només visible per a comptes amb accés FUDEN */
+    restricted: boolean("restricted").notNull().default(false),
     epigrafId: text("epigraf_id"),
     title: text("title").notNull(),
     body: text("body").notNull(),
@@ -196,4 +200,29 @@ export const searchDocs = pgTable(
       ),
   },
   (t) => [index("search_docs_tsv_idx").using("gin", t.tsv), index("search_docs_kind_idx").on(t.kind)],
+);
+
+/** Documents del material de FUDEN (referència privada; només comptes amb accés). */
+export const fudenDocs = pgTable("fuden_docs", {
+  id: integer("id").primaryKey(),
+  title: text("title").notNull(),
+  kind: text("kind").$type<"temari" | "presentacio" | "guia_clinica" | "normativa" | "test" | "simulacre" | "altres">().notNull(),
+  section: text("section").notNull(),
+  /** Enllaç a l'original al campus de FUDEN (requereix la sessió de FUDEN) */
+  moodleUrl: text("moodle_url"),
+  pages: integer("pages").notNull().default(0),
+  epigrafs: jsonb("epigrafs").$type<string[]>().notNull().default([]),
+  summary: text("summary"),
+  /** Apartats del document amb les pàgines i els epígrafs que cobreixen */
+  sections: jsonb("sections").$type<{ label: string; pages: string; epigrafs: string[] }[]>().notNull().default([]),
+});
+
+export const fudenPages = pgTable(
+  "fuden_pages",
+  {
+    docId: integer("doc_id").notNull(),
+    page: integer("page").notNull(),
+    text: text("text").notNull(),
+  },
+  (t) => [primaryKey({ columns: [t.docId, t.page] })],
 );

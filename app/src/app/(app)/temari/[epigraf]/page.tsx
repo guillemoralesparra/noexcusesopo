@@ -2,18 +2,19 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { eq } from "drizzle-orm";
 import { marked } from "marked";
-import { ArrowLeft, BookMarked, Play, Scale } from "lucide-react";
+import { ArrowLeft, BookMarked, FileText, Play, Scale } from "lucide-react";
 import { Tile } from "@/components/Tile";
 import { getDb } from "@/db";
 import { notes } from "@/db/schema";
 import { requireUser } from "@/lib/auth";
+import { FUDEN_KIND, fudenRefsFor } from "@/lib/fuden";
 import { getDict, getLang } from "@/lib/lang";
 import { topicStats } from "@/lib/progress";
 import { startPractice } from "../../actions";
 
 const L = {
-  ca: { back: "Temari", keys: "Per recordar", sources: "Fonts", practice: "Practicar aquest epígraf", none: "La fitxa d'aquest epígraf encara s'està preparant.", official: (n: number) => (n === 1 ? "1 pregunta oficial" : `${n} preguntes oficials`), own: "Fitxa redactada per la plataforma a partir de fonts públiques i dels exàmens oficials; no revisada per una infermera.", lang: "", flags: (n: number) => (n === 1 ? "1 punt pendent de verificar" : `${n} punts pendents de verificar`) },
-  es: { back: "Temario", keys: "Para recordar", sources: "Fuentes", practice: "Practicar este epígrafe", none: "La ficha de este epígrafe aún se está preparando.", official: (n: number) => (n === 1 ? "1 pregunta oficial" : `${n} preguntas oficiales`), own: "Ficha redactada por la plataforma a partir de fuentes públicas y de los exámenes oficiales; no revisada por una enfermera.", lang: "Contenido en catalán, el idioma del examen.", flags: (n: number) => (n === 1 ? "1 punto pendiente de verificar" : `${n} puntos pendientes de verificar`) },
+  ca: { back: "Temari", keys: "Per recordar", sources: "Fonts", practice: "Practicar aquest epígraf", none: "La fitxa d'aquest epígraf encara s'està preparant.", official: (n: number) => (n === 1 ? "1 pregunta oficial" : `${n} preguntes oficials`), own: "Fitxa redactada per la plataforma a partir de fonts públiques i dels exàmens oficials; no revisada per una infermera.", lang: "", deeper: "Per aprofundir (FUDEN)", flags: (n: number) => (n === 1 ? "1 punt pendent de verificar" : `${n} punts pendents de verificar`) },
+  es: { back: "Temario", keys: "Para recordar", sources: "Fuentes", practice: "Practicar este epígrafe", none: "La ficha de este epígrafe aún se está preparando.", official: (n: number) => (n === 1 ? "1 pregunta oficial" : `${n} preguntas oficiales`), own: "Ficha redactada por la plataforma a partir de fuentes públicas y de los exámenes oficiales; no revisada por una enfermera.", lang: "Contenido en catalán, el idioma del examen.", deeper: "Para profundizar (FUDEN)", flags: (n: number) => (n === 1 ? "1 punto pendiente de verificar" : `${n} puntos pendientes de verificar`) },
 };
 
 export default async function NotePage({ params }: { params: Promise<{ epigraf: string }> }) {
@@ -24,7 +25,10 @@ export default async function NotePage({ params }: { params: Promise<{ epigraf: 
   if (!ep) notFound();
   const tema = stats.find((s) => s.id === ep.parentId)!;
   const db = await getDb();
-  const [note] = await db.select().from(notes).where(eq(notes.epigrafId, epigraf));
+  const [[note], fuden] = await Promise.all([
+    db.select().from(notes).where(eq(notes.epigrafId, epigraf)),
+    user.fudenAccess ? fudenRefsFor(epigraf) : Promise.resolve([]),
+  ]);
   const l = L[lang];
   const html = note ? await marked.parse(note.body, { gfm: true }) : "";
 
@@ -90,6 +94,27 @@ export default async function NotePage({ params }: { params: Promise<{ epigraf: 
             <ul className="space-y-2 text-[15px] font-semibold">
               {note.keyPoints.map((k) => (
                 <li key={k}>{k}</li>
+              ))}
+            </ul>
+          </section>
+        )}
+        {fuden.length > 0 && (
+          <section className="rounded-2xl bg-surface p-5">
+            <h2 className="mb-2 font-bold">{l.deeper}</h2>
+            <ul className="space-y-1 text-[14px]">
+              {fuden.map((r) => (
+                <li key={`${r.docId}-${r.pages}-${r.label}`}>
+                  <Link href={`/fuden/${r.docId}?p=${r.firstPage}`} className="flex gap-2 rounded-lg px-1 py-1 hover:bg-glaze-soft">
+                    <FileText className="mt-0.5 size-4 shrink-0 text-ink-3" aria-hidden />
+                    <span className="min-w-0 flex-1">
+                      <span className="font-semibold">{r.title}</span>
+                      {r.label && <span className="text-ink-2"> · {r.label}</span>}
+                      <span className="block text-ink-3">
+                        {FUDEN_KIND[lang][r.kind as keyof (typeof FUDEN_KIND)["ca"]]} · p. {r.pages}
+                      </span>
+                    </span>
+                  </Link>
+                </li>
               ))}
             </ul>
           </section>
