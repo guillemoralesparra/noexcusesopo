@@ -7,6 +7,7 @@
 import { randomBytes } from "node:crypto";
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
+import { getTableColumns, sql } from "drizzle-orm";
 import * as s from "../src/db/schema";
 import { migrateDb } from "./migrate";
 
@@ -105,6 +106,9 @@ async function main() {
     }
   }
 
+  // Les preguntes s'acumulen i es desen per lots (una a una és massa lent contra una base remota)
+  const questionRows: (typeof s.questions.$inferInsert)[] = [];
+
   // Preguntes oficials + classificació
   const bank = read<BankItem[]>("official_bank.json");
   const cls = new Map(read<ClassItem[]>("classification/classification.json").map((c) => [c.id, c]));
@@ -133,7 +137,7 @@ async function main() {
         : null,
     };
     // 'status' no es toca: es gestiona des de l'app (suspensions).
-    await db.insert(s.questions).values(row).onConflictDoUpdate({ target: s.questions.id, set: row });
+    questionRows.push(row);
   }
 
   // Exàmens oficials històrics de l'ICS (anteriors al 2015): només pràctica, no fixen pesos
@@ -170,7 +174,7 @@ async function main() {
         currencyReason: q.currency_reason,
         explanation: q.explanation ?? null,
       };
-      await db.insert(s.questions).values(row).onConflictDoUpdate({ target: s.questions.id, set: row });
+      questionRows.push(row);
     }
     histCount = hist.length;
   }
@@ -208,9 +212,22 @@ async function main() {
         currencyReason: q.currency_reason ?? null,
         explanation: null,
       };
-      await db.insert(s.questions).values(row).onConflictDoUpdate({ target: s.questions.id, set: row });
+      questionRows.push(row);
       fudenQCount++;
     }
+  }
+
+  // 'status' no es toca: es gestiona des de l'app (suspensions)
+  const qCols = [...new Set(questionRows.flatMap((r) => Object.keys(r)))].filter((k) => k !== "id" && k !== "status");
+  const colName = getTableColumns(s.questions);
+  for (let i = 0; i < questionRows.length; i += 300) {
+    await db
+      .insert(s.questions)
+      .values(questionRows.slice(i, i + 300))
+      .onConflictDoUpdate({
+        target: s.questions.id,
+        set: Object.fromEntries(qCols.map((k) => [k, sql.raw(`excluded."${colName[k as keyof typeof colName].name}"`)])),
+      });
   }
 
   // Fitxes pròpies del temari
