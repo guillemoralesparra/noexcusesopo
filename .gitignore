@@ -17,6 +17,6 @@ app/.impeccable/mocks/
 __pycache__/
 .vercel/
 
-# Material de FUDEN: amb drets d'autor, només per a referència privada (mai al repositori)
+# Material del curs de FUDEN: no es versiona (es carrega a la BD amb el seed des de la còpia local; vegeu docs/temari-v2.md)
 content-pipeline/raw/fuden/
 content-pipeline/data/fuden/

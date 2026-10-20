@@ -1,49 +1,49 @@
 import Link from "next/link";
-import { BookOpen, FileText, HelpCircle, Scale, Search } from "lucide-react";
+import { BookOpen, HelpCircle, Search } from "lucide-react";
 import { requireUser } from "@/lib/auth";
 import { getLang } from "@/lib/lang";
-import { safeSnippet, search, type SearchHit } from "@/lib/search";
+import { safeSnippet, search, type SearchHit, type SearchKind } from "@/lib/search";
 
 const L = {
   ca: {
     title: "Cerca al temari",
     ph: "Paraules clau: p. ex. úlceres pressió Braden, insulina, consentiment informat…",
-    hint: "Busca a les fitxes del temari, a les preguntes i a la normativa. Admet \"frase exacta\" i -paraula per excloure.",
-    hintFuden: "També busca al text dels PDFs de FUDEN (temari, presentacions, guies).",
+    hint: "Busca a tot el text del temari i a les preguntes; el temari surt primer. Admet \"frase exacta\" i -paraula per excloure.",
     none: (q: string) => `Cap resultat per a «${q}». Prova amb menys paraules o sinònims.`,
-    kinds: { note: "Temari", fuden: "FUDEN", question: "Preguntes", norma: "Normativa" },
+    kinds: { temari: "Temari", question: "Preguntes" },
     all: "Tot",
     go: "Cercar",
+    more: (n: number) => `Es mostren els més rellevants de ${n}. Afina la cerca o filtra per tipus per veure'n d'altres.`,
   },
   es: {
     title: "Buscar en el temario",
     ph: "Palabras clave: p. ej. úlceras presión Braden, insulina, consentimiento informado…",
-    hint: "Busca en las fichas del temario, en las preguntas y en la normativa (contenido en catalán). Admite \"frase exacta\" y -palabra para excluir.",
-    hintFuden: "También busca en el texto de los PDFs de FUDEN (temario, presentaciones, guías).",
-    none: (q: string) => `Ningún resultado para «${q}». Prueba con menos palabras o sinónimos (en catalán).`,
-    kinds: { note: "Temario", fuden: "FUDEN", question: "Preguntas", norma: "Normativa" },
+    hint: "Busca en todo el texto del temario y en las preguntas; el temario sale primero. Admite \"frase exacta\" y -palabra para excluir.",
+    none: (q: string) => `Ningún resultado para «${q}». Prueba con menos palabras o sinónimos.`,
+    kinds: { temari: "Temario", question: "Preguntas" },
     all: "Todo",
     go: "Buscar",
+    more: (n: number) => `Se muestran los más relevantes de ${n}. Afina la búsqueda o filtra por tipo para ver otros.`,
   },
 };
 
-const ICON = { note: BookOpen, fuden: FileText, question: HelpCircle, norma: Scale } as const;
+const ICON = { temari: BookOpen, question: HelpCircle } as const;
+const KINDS: SearchKind[] = ["temari", "question"];
 
+/** Enllaç al resultat; als blocs del temari salta a la primera paraula buscada (fragment de text del navegador). */
 function hrefFor(h: SearchHit, q: string) {
-  if (h.kind === "note" && h.epigrafId) return `/temari/${h.epigrafId}`;
-  if (h.kind === "fuden" && h.url) return `${h.url}&q=${encodeURIComponent(q)}`;
-  if (h.kind === "norma" && h.url) return h.url;
-  if (h.epigrafId) return `/temari/${h.epigrafId}`;
-  return "/temari";
+  const word = q.replace(/["()]/g, " ").split(/\s+/).find((w) => w.length >= 3 && !w.startsWith("-"));
+  if (h.kind === "temari" && h.url) return word ? `${h.url}#:~:text=${encodeURIComponent(word)}` : h.url;
+  return h.epigrafId ? `/temari/${h.epigrafId}` : "/temari";
 }
 
 export default async function SearchPage({ searchParams }: { searchParams: Promise<{ q?: string; k?: string }> }) {
-  const user = await requireUser();
+  await requireUser();
   const [{ q = "", k }, lang] = await Promise.all([searchParams, getLang()]);
   const l = L[lang];
-  const kinds: SearchHit["kind"][] = user.fudenAccess ? ["note", "fuden", "question", "norma"] : ["note", "question", "norma"];
-  const kind = kinds.find((kk) => kk === k);
-  const hits = q ? await search(q, kind, user.fudenAccess) : [];
+  const kind = KINDS.find((kk) => kk === k);
+  const { hits, counts } = q ? await search(q, kind) : { hits: [], counts: { temari: 0, question: 0 } };
+  const total = kind ? counts[kind] : counts.temari + counts.question;
   const qs = (kk?: string) => `/cerca?q=${encodeURIComponent(q)}${kk ? `&k=${kk}` : ""}`;
 
   return (
@@ -58,20 +58,18 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
         {kind && <input type="hidden" name="k" value={kind} />}
         <button className="btn-glaze">{l.go}</button>
       </form>
-      <p className="text-[15px] text-ink-3">
-        {l.hint} {user.fudenAccess && l.hintFuden}
-      </p>
+      <p className="text-[15px] text-ink-3">{l.hint}</p>
 
       {q && (
         <nav className="flex flex-wrap gap-2" aria-label="Filtre">
-          {[undefined, ...kinds].map((kk) => (
+          {[undefined, ...KINDS].map((kk) => (
             <Link
               key={kk ?? "all"}
               href={qs(kk)}
               aria-current={kind === kk ? "page" : undefined}
               className={`inline-flex min-h-10 items-center rounded-full px-4 text-[15px] font-semibold ${kind === kk ? "bg-glaze text-on-glaze" : "bg-surface-2 text-ink-2"}`}
             >
-              {kk ? l.kinds[kk] : l.all}
+              {kk ? `${l.kinds[kk]} · ${counts[kk]}` : `${l.all} · ${counts.temari + counts.question}`}
             </Link>
           ))}
         </nav>
@@ -81,15 +79,9 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
       <ul className="space-y-2">
         {hits.map((h) => {
           const Icon = ICON[h.kind];
-          const href = hrefFor(h, q);
-          const external = href.startsWith("http");
           return (
             <li key={h.id}>
-              <Link
-                href={href}
-                {...(external ? { target: "_blank", rel: "noreferrer" } : {})}
-                className="block rounded-2xl bg-surface p-4 transition-colors hover:bg-glaze-soft"
-              >
+              <Link href={hrefFor(h, q)} className="block rounded-2xl bg-surface p-4 transition-colors hover:bg-glaze-soft">
                 <p className="flex items-center gap-2 text-sm font-semibold text-ink-3">
                   <Icon className="size-4" aria-hidden /> {l.kinds[h.kind]}
                   {h.epigrafId && <span>· {h.epigrafId}</span>}
@@ -104,6 +96,7 @@ export default async function SearchPage({ searchParams }: { searchParams: Promi
           );
         })}
       </ul>
+      {hits.length > 0 && total > hits.length && <p className="text-[15px] text-ink-3">{l.more(total)}</p>}
     </div>
   );
 }

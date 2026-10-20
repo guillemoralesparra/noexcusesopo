@@ -50,6 +50,20 @@
       "when": 1792426255997,
       "tag": "0006_lively_tenebrous",
       "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1792447927526,
+      "tag": "0007_temari_v2_blocs",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1792447985379,
+      "tag": "0008_sense_fuden_privat",
+      "breakpoints": true
     }
   ]
 }

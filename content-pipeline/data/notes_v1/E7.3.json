@@ -1,0 +1,31 @@
+{
+ "epigraf": "E7.3",
+ "body_md": "## En una frase\nLes precaucions estàndard s'apliquen a tots els pacients; les precaucions basades en la via de transmissió (contacte, gotes, aèria) s'hi afegeixen davant d'agents concrets, i la gestió correcta dels residus sanitaris completa el control de la infecció.\n\n## Conceptes clau\n- **Precaucions estàndard**: higiene de mans, guants, mascareta i protecció ocular, bata, **higiene respiratòria i etiqueta de la tos**, maneig segur de material punxant, neteja i desinfecció ambiental, gestió de residus i de roba bruta. S'apliquen amb tot contacte amb **sang, fluids corporals, secrecions, pell no intacta i mucoses**.\n- **Aïllament de contacte**: bata i guants (habitació individual preferible); SARM, *C. difficile*, enterobacteris multiresistents, escabiosi.\n- **Aïllament per gotes** (partícules > 5 µm, fins a ~1-2 m): **mascareta quirúrgica**; meningitis per meningococ o *Haemophilus influenzae* (fins a 24 h de tractament antibiòtic efectiu), grip, tos ferina, parotiditis, rubèola.\n- **Aïllament aeri** (partícules < 5 µm, llargues distàncies): **habitació de pressió negativa** i mascareta **FFP2/N95**; tuberculosi pulmonar, xarampió, varicel·la i zòster disseminat (aquests dos, a més, contacte).\n- **Aïllament protector** (invers): pacients immunodeprimits o neutropènics.\n\n## Valors, escales i classificacions\n| Agent / malaltia | Precaució addicional |\n|---|---|\n| VHC, VHB, VIH | **Estàndard** (no cal mascareta per visitar un pacient amb VHC) |\n| Meningitis per *H. influenzae* | **Gotes** |\n| Tuberculosi, xarampió | **Aèria** |\n| SARM, *C. difficile* | **Contacte** (aigua i sabó) |\n\n**Residus sanitaris a Catalunya** (Decret 27/1999): **Grup I** assimilables a urbans (cartró, matèria orgànica, restes de menjar); **Grup II** sanitaris no específics assimilables a urbans (bosses buides d'orina, apòsits i guants no contaminats, material d'un sol ús sense risc); **Grup III** sanitaris específics o de risc (agulles i objectes **punxants**, sang, cultius, residus biològics) en contenidors rígids i estancs; **Grup IV** tipificats en normatives singulars (citostàtics, radioactius, restes anatòmiques, químics).\n\n**Ordre dels EPI**: posar: higiene de mans, bata, mascareta, protecció ocular, guants; treure: guants, protecció ocular i bata, higiene de mans, mascareta (fora de l'habitació en aïllament aeri).\n\n## Actuació infermera\n- **Valoració** del risc de transmissió i identificació de l'agent.\n- **Diagnòstic**: *Risc d'infecció*, *Aïllament social* (relacionat).\n- **Intervencions**: cartell a la porta, habitació individual (pressió negativa si cal), material d'ús exclusiu, restringir visites i trasllats, EPI adequat, retirar-lo abans de sortir, neteja amb desinfectant, separar els residus en origen, no reencapsular agulles, notificar accident per punxada.\n- **Educació** a pacient, família i visites.\n- **Avaluació**: ruptura de la cadena de transmissió i compliment.\n- **Accident amb material punxant o exposició mucosa**: rentar amb aigua i sabó (no esprémer), desinfectar, informar el servei de prevenció de riscos laborals i valorar la profilaxi postexposició (hepatitis B, VIH) en les primeres hores; no reencapsular agulles i llençar els punxants al contenidor immediatament.\n- **Habitació d'aïllament aeri**: pressió negativa, porta tancada, renovacions d'aire elevades; el pacient porta mascareta quirúrgica en els trasllats.\n\n## Què pregunten als exàmens\n- Àmbit de les precaucions estàndard (2016); no necessites mascareta per al pacient amb VHC (2016).\n- Aïllament per gotes en meningitis per *H. influenzae* (2017); les precaucions estàndard inclouen la higiene respiratòria (2019).\n- Classificació de residus: bosses buides d'orina, grup II (2019).\n\n## Trampes freqüents\n- Posar mascareta o aïllament aeri per al VHC, VHB o VIH.\n- Confondre gotes (mascareta quirúrgica) amb aèria (FFP2, pressió negativa).\n- Classificar els punxants com a grup II (són grup III).\n- Retirar-se la mascareta dins l'habitació d'aïllament aeri.\n\n## Normativa i guies de referència\n- Decret 27/1999, de 9 de febrer, de gestió dels residus sanitaris (Catalunya).\n- CDC/HICPAC, Guideline for Isolation Precautions (2007, actualitzacions 2019).\n- Llei 31/1995 i RD 664/1997 sobre agents biològics.\n",
+ "key_points": [
+  "Les precaucions estàndard s'apliquen a tots els pacients i inclouen la higiene respiratòria.",
+  "Davant VHC, VHB i VIH n'hi ha prou amb precaucions estàndard; no cal mascareta.",
+  "Meningitis per H. influenzae i meningococ: precaucions per gotes (mascareta quirúrgica) fins a 24 h de tractament.",
+  "Tuberculosi i xarampió: aïllament aeri amb pressió negativa i mascareta FFP2.",
+  "SARM i C. difficile: aïllament de contacte (bata i guants; aigua i sabó per al C. difficile).",
+  "Residus: grup I (urbans), grup II (sanitaris assimilables, p. ex. bosses buides d'orina), grup III (risc: punxants, biològics)."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 31/1995 de prevenció de riscos laborals",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+  },
+  {
+   "kind": "ref",
+   "label": "Decret 27/1999 de gestió de residus sanitaris (Catalunya)"
+  },
+  {
+   "kind": "ref",
+   "label": "CDC/HICPAC, Guideline for Isolation Precautions (2007)"
+  }
+ ],
+ "review_flags": [
+  "Comprobar si el Decret 27/1999 sigue vigente o ha sido sustituido por una norma más reciente en Cataluña.",
+  "Pasos exactos para quitarse los EPI varían entre guías."
+ ]
+}

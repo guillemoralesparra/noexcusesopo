@@ -1,21 +1,23 @@
 [
  {
   "id": "ics-dsi-2015-A-1",
-  "epigraf": "E5.4",
-  "secondary": "E4.7",
+  "epigraf": "E5.11",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Riesgo de shock hipovolémico en HDA"
+  "concept": "Riesgo de shock hipovolémico en HDA",
+  "epigraf_v1": "E5.4"
  },
  {
   "id": "ics-dsi-2015-A-10",
-  "epigraf": "E6.7",
-  "secondary": "E4.3",
+  "epigraf": "E6.9",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Dieta en hiperuricemia"
+  "concept": "Dieta en hiperuricemia",
+  "epigraf_v1": "E6.7"
  },
  {
   "id": "ics-dsi-2015-A-100",
@@ -24,268 +26,298 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Determinantes de utilización de servicios sanitarios"
+  "concept": "Determinantes de utilización de servicios sanitarios",
+  "epigraf_v1": "E2.1"
  },
  {
   "id": "ics-dsi-2015-A-11",
-  "epigraf": "E3.7",
+  "epigraf": "E3.19",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Signos de candidiasis vaginal"
+  "concept": "Signos de candidiasis vaginal",
+  "epigraf_v1": "E3.7"
  },
  {
   "id": "ics-dsi-2015-A-12",
-  "epigraf": "E4.2",
+  "epigraf": "E4.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Ejercicio físico en diabetes tipo 2"
+  "concept": "Ejercicio físico en diabetes tipo 2",
+  "epigraf_v1": "E4.2"
  },
  {
   "id": "ics-dsi-2015-A-13",
-  "epigraf": "E5.5",
+  "epigraf": "E5.13",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Rasgos del trastorno límite de personalidad"
+  "concept": "Rasgos del trastorno límite de personalidad",
+  "epigraf_v1": "E5.5"
  },
  {
   "id": "ics-dsi-2015-A-14",
+  "epigraf": "E3.16",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Peritonitis en diálisis peritoneal",
+  "epigraf_v1": "E3.6"
+ },
+ {
+  "id": "ics-dsi-2015-A-15",
+  "epigraf": "E6.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Alimentos permitidos en celiaquía",
+  "epigraf_v1": "E6.7"
+ },
+ {
+  "id": "ics-dsi-2015-A-16",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Clasificación espirométrica GOLD de la EPOC",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2015-A-17",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Infecciones e hiperglucemia en diabetes",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2015-A-18",
+  "epigraf": "E1.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Métodos de investigación cualitativa",
+  "epigraf_v1": "E1.9"
+ },
+ {
+  "id": "ics-dsi-2015-A-19",
+  "epigraf": "E4.1",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Balance nitrogenado",
+  "epigraf_v1": "E4.1"
+ },
+ {
+  "id": "ics-dsi-2015-A-2",
+  "epigraf": "E7.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Reacción transfusional: actuación inicial",
+  "epigraf_v1": "E7.7"
+ },
+ {
+  "id": "ics-dsi-2015-A-20",
+  "epigraf": "E6.10",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "check",
+  "currency_reason": "La medición rutinaria del volumen gástrico residual está cuestionada por guías ASPEN/ESPEN recientes",
+  "concept": "Prevención de broncoaspiración en nutrición enteral",
+  "epigraf_v1": "E6.8"
+ },
+ {
+  "id": "ics-dsi-2015-A-21",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Manifestaciones clínicas de la diabetes tipo 1",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2015-A-22",
+  "epigraf": "E3.2",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Parámetros del soporte vital básico adulto",
+  "epigraf_v1": "E3.1"
+ },
+ {
+  "id": "ics-dsi-2015-A-23",
+  "epigraf": "E4.14",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados de la ileostomía",
+  "epigraf_v1": "E4.7"
+ },
+ {
+  "id": "ics-dsi-2015-A-24",
+  "epigraf": "E1.7",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Características de la escucha activa",
+  "epigraf_v1": "E1.5"
+ },
+ {
+  "id": "ics-dsi-2015-A-25",
+  "epigraf": "T3.3",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Intimidad: decisión del paciente sobre acompañante",
+  "epigraf_v1": "T3.2"
+ },
+ {
+  "id": "ics-dsi-2015-A-26",
+  "epigraf": "E6.7",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cálculo de velocidad de perfusión",
+  "epigraf_v1": "E6.5"
+ },
+ {
+  "id": "ics-dsi-2015-A-27",
+  "epigraf": "E7.7",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Prevención de caídas en personas mayores",
+  "epigraf_v1": "E7.6"
+ },
+ {
+  "id": "ics-dsi-2015-A-28",
+  "epigraf": "E5.8",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Quemadura química ocular: primera actuación",
+  "epigraf_v1": "E5.3"
+ },
+ {
+  "id": "ics-dsi-2015-A-29",
+  "epigraf": "E4.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Colitis ulcerosa: evitar AINE",
+  "epigraf_v1": "E4.7"
+ },
+ {
+  "id": "ics-dsi-2015-A-3",
   "epigraf": "E3.6",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Peritonitis en diálisis peritoneal"
- },
- {
-  "id": "ics-dsi-2015-A-15",
-  "epigraf": "E6.7",
-  "secondary": "E4.7",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Alimentos permitidos en celiaquía"
- },
- {
-  "id": "ics-dsi-2015-A-16",
-  "epigraf": "E3.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Clasificación espirométrica GOLD de la EPOC"
- },
- {
-  "id": "ics-dsi-2015-A-17",
-  "epigraf": "E4.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Infecciones e hiperglucemia en diabetes"
- },
- {
-  "id": "ics-dsi-2015-A-18",
-  "epigraf": "E1.9",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Métodos de investigación cualitativa"
- },
- {
-  "id": "ics-dsi-2015-A-19",
-  "epigraf": "E4.1",
-  "secondary": "E6.8",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Balance nitrogenado"
- },
- {
-  "id": "ics-dsi-2015-A-2",
-  "epigraf": "E7.7",
-  "secondary": "E5.2",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Reacción transfusional: actuación inicial"
- },
- {
-  "id": "ics-dsi-2015-A-20",
-  "epigraf": "E6.8",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "check",
-  "currency_reason": "La medición rutinaria del volumen gástrico residual está cuestionada por guías ASPEN/ESPEN recientes",
-  "concept": "Prevención de broncoaspiración en nutrición enteral"
- },
- {
-  "id": "ics-dsi-2015-A-21",
-  "epigraf": "E4.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Manifestaciones clínicas de la diabetes tipo 1"
- },
- {
-  "id": "ics-dsi-2015-A-22",
-  "epigraf": "E3.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Parámetros del soporte vital básico adulto"
- },
- {
-  "id": "ics-dsi-2015-A-23",
-  "epigraf": "E4.7",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cuidados de la ileostomía"
- },
- {
-  "id": "ics-dsi-2015-A-24",
-  "epigraf": "E1.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Características de la escucha activa"
- },
- {
-  "id": "ics-dsi-2015-A-25",
-  "epigraf": "T3.2",
-  "secondary": "E1.5",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Intimidad: decisión del paciente sobre acompañante"
- },
- {
-  "id": "ics-dsi-2015-A-26",
-  "epigraf": "E6.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cálculo de velocidad de perfusión"
- },
- {
-  "id": "ics-dsi-2015-A-27",
-  "epigraf": "E7.6",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Prevención de caídas en personas mayores"
- },
- {
-  "id": "ics-dsi-2015-A-28",
-  "epigraf": "E5.3",
-  "secondary": "E3.1",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Quemadura química ocular: primera actuación"
- },
- {
-  "id": "ics-dsi-2015-A-29",
-  "epigraf": "E4.7",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Colitis ulcerosa: evitar AINE"
- },
- {
-  "id": "ics-dsi-2015-A-3",
-  "epigraf": "E3.3",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Control vesical en puerperio inmediato"
+  "concept": "Control vesical en puerperio inmediato",
+  "epigraf_v1": "E3.3"
  },
  {
   "id": "ics-dsi-2015-A-30",
-  "epigraf": "E4.2",
-  "secondary": "E6.7",
+  "epigraf": "E4.3",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Restricción de hidratos y cetoacidosis"
+  "concept": "Restricción de hidratos y cetoacidosis",
+  "epigraf_v1": "E4.2"
  },
  {
   "id": "ics-dsi-2015-A-31",
-  "epigraf": "E1.5",
-  "secondary": "E1.7",
+  "epigraf": "E1.7",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Estilos de comunicación: agresivo"
+  "concept": "Estilos de comunicación: agresivo",
+  "epigraf_v1": "E1.5"
  },
  {
   "id": "ics-dsi-2015-A-32",
-  "epigraf": "E6.7",
-  "secondary": "E5.2",
+  "epigraf": "E6.9",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Alimentos ricos en hierro"
+  "concept": "Alimentos ricos en hierro",
+  "epigraf_v1": "E6.7"
  },
  {
   "id": "ics-dsi-2015-A-33",
-  "epigraf": "E5.8",
-  "secondary": "E5.1",
+  "epigraf": "E5.1",
+  "secondary": null,
   "confidence": "low",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Dermatitis de contacto irritativa"
+  "concept": "Dermatitis de contacto irritativa",
+  "epigraf_v1": "E5.8"
  },
  {
   "id": "ics-dsi-2015-A-34",
-  "epigraf": "E5.3",
-  "secondary": "E2.2",
+  "epigraf": "E5.9",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cribado de hipoacusia: voz susurrada"
+  "concept": "Cribado de hipoacusia: voz susurrada",
+  "epigraf_v1": "E5.3"
  },
  {
   "id": "ics-dsi-2015-A-35",
-  "epigraf": "E7.3",
+  "epigraf": "E7.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Ámbito de las precauciones estándar"
+  "concept": "Ámbito de las precauciones estándar",
+  "epigraf_v1": "E7.3"
  },
  {
   "id": "ics-dsi-2015-A-36",
-  "epigraf": "E2.10",
+  "epigraf": "E2.12",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Test APGAR familiar"
+  "concept": "Test APGAR familiar",
+  "epigraf_v1": "E2.10"
  },
  {
   "id": "ics-dsi-2015-A-37",
-  "epigraf": "E5.1",
+  "epigraf": "E5.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Lesión por presión de categoría III"
+  "concept": "Lesión por presión de categoría III",
+  "epigraf_v1": "E5.1"
  },
  {
   "id": "ics-dsi-2015-A-38",
@@ -294,34 +326,38 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Catastrofismo como estilo de afrontamiento"
+  "concept": "Catastrofismo como estilo de afrontamiento",
+  "epigraf_v1": "E8.1"
  },
  {
   "id": "ics-dsi-2015-A-39",
-  "epigraf": "E4.4",
+  "epigraf": "E5.12",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Valores normales de presión intracraneal"
+  "concept": "Valores normales de presión intracraneal",
+  "epigraf_v1": "E4.4"
  },
  {
   "id": "ics-dsi-2015-A-4",
-  "epigraf": "E5.7",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Escalera analgésica de la OMS"
- },
- {
-  "id": "ics-dsi-2015-A-40",
-  "epigraf": "E2.8",
+  "epigraf": "E5.18",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Signos de alarma del desarrollo a los 8 meses"
+  "concept": "Escalera analgésica de la OMS",
+  "epigraf_v1": "E5.7"
+ },
+ {
+  "id": "ics-dsi-2015-A-40",
+  "epigraf": "E2.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Signos de alarma del desarrollo a los 8 meses",
+  "epigraf_v1": "E2.8"
  },
  {
   "id": "ics-dsi-2015-A-41",
@@ -330,7 +366,8 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Finalidades de la Ley 17/2015 de igualdad"
+  "concept": "Finalidades de la Ley 17/2015 de igualdad",
+  "epigraf_v1": "T8.1"
  },
  {
   "id": "ics-dsi-2015-A-42",
@@ -339,43 +376,48 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Test de Morisky-Green de adherencia"
+  "concept": "Test de Morisky-Green de adherencia",
+  "epigraf_v1": "E6.1"
  },
  {
   "id": "ics-dsi-2015-A-43",
-  "epigraf": "E5.6",
-  "secondary": "E1.5",
+  "epigraf": "E5.15",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Comunicación con personas drogodependientes"
+  "concept": "Comunicación con personas drogodependientes",
+  "epigraf_v1": "E5.6"
  },
  {
   "id": "ics-dsi-2015-A-44",
-  "epigraf": "T3.4",
-  "secondary": "T3.3",
+  "epigraf": "T3.2",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Carta de derechos: autonomía y menores"
+  "concept": "Carta de derechos: autonomía y menores",
+  "epigraf_v1": "T3.4"
  },
  {
   "id": "ics-dsi-2015-A-45",
-  "epigraf": "T3.4",
-  "secondary": "T3.2",
+  "epigraf": "T3.3",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Carta de derechos: confidencialidad no absoluta"
+  "concept": "Carta de derechos: confidencialidad no absoluta",
+  "epigraf_v1": "T3.4"
  },
  {
   "id": "ics-dsi-2015-A-46",
-  "epigraf": "E2.9",
-  "secondary": "T8.2",
+  "epigraf": "E5.16",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Maltrato en personas mayores"
+  "concept": "Maltrato en personas mayores",
+  "epigraf_v1": "E2.9"
  },
  {
   "id": "ics-dsi-2015-A-47",
@@ -384,106 +426,118 @@
   "confidence": "high",
   "currency": "check",
   "currency_reason": "El protocolo de acoso sexual del ICS se ha actualizado desde 2015 (procedimiento y órganos)",
-  "concept": "Solicitud de intervención por acoso sexual"
+  "concept": "Solicitud de intervención por acoso sexual",
+  "epigraf_v1": "T7.4"
  },
  {
   "id": "ics-dsi-2015-A-48",
-  "epigraf": "E1.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Patricia Benner: de novata a experta"
- },
- {
-  "id": "ics-dsi-2015-A-49",
-  "epigraf": "E1.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Modelo de promoción de la salud de Pender"
- },
- {
-  "id": "ics-dsi-2015-A-5",
-  "epigraf": "E5.8",
-  "secondary": "E5.1",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Complicaciones de la necrólisis epidérmica tóxica"
- },
- {
-  "id": "ics-dsi-2015-A-50",
-  "epigraf": "E4.4",
-  "secondary": "E3.1",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cálculo de la escala de Glasgow"
- },
- {
-  "id": "ics-dsi-2015-A-51",
-  "epigraf": "E7.7",
-  "secondary": "E5.2",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Sobrecarga circulatoria asociada a transfusión"
- },
- {
-  "id": "ics-dsi-2015-A-52",
-  "epigraf": "E5.1",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Sulfadiazina argéntica en quemaduras"
- },
- {
-  "id": "ics-dsi-2015-A-53",
   "epigraf": "E1.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Planes de cuidados estandarizados ICS (ATIC)"
+  "concept": "Patricia Benner: de novata a experta",
+  "epigraf_v1": "E1.2"
  },
  {
-  "id": "ics-dsi-2015-A-54",
-  "epigraf": "E3.8",
-  "secondary": "E3.1",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Complicaciones del golpe de calor"
- },
- {
-  "id": "ics-dsi-2015-A-55",
-  "epigraf": "E6.9",
-  "secondary": "E3.5",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Aspiración de secreciones por traqueostomía"
- },
- {
-  "id": "ics-dsi-2015-A-56",
-  "epigraf": "E6.3",
+  "id": "ics-dsi-2015-A-49",
+  "epigraf": "E1.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Latencia de acción de la lactulosa"
+  "concept": "Modelo de promoción de la salud de Pender",
+  "epigraf_v1": "E1.2"
+ },
+ {
+  "id": "ics-dsi-2015-A-5",
+  "epigraf": "E5.1",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Complicaciones de la necrólisis epidérmica tóxica",
+  "epigraf_v1": "E5.8"
+ },
+ {
+  "id": "ics-dsi-2015-A-50",
+  "epigraf": "E4.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cálculo de la escala de Glasgow",
+  "epigraf_v1": "E4.4"
+ },
+ {
+  "id": "ics-dsi-2015-A-51",
+  "epigraf": "E7.9",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Sobrecarga circulatoria asociada a transfusión",
+  "epigraf_v1": "E7.7"
+ },
+ {
+  "id": "ics-dsi-2015-A-52",
+  "epigraf": "E5.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Sulfadiazina argéntica en quemaduras",
+  "epigraf_v1": "E5.1"
+ },
+ {
+  "id": "ics-dsi-2015-A-53",
+  "epigraf": "E1.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Planes de cuidados estandarizados ICS (ATIC)",
+  "epigraf_v1": "E1.4"
+ },
+ {
+  "id": "ics-dsi-2015-A-54",
+  "epigraf": "E3.3",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Complicaciones del golpe de calor",
+  "epigraf_v1": "E3.8"
+ },
+ {
+  "id": "ics-dsi-2015-A-55",
+  "epigraf": "E3.13",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Aspiración de secreciones por traqueostomía",
+  "epigraf_v1": "E6.9"
+ },
+ {
+  "id": "ics-dsi-2015-A-56",
+  "epigraf": "E6.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Latencia de acción de la lactulosa",
+  "epigraf_v1": "E6.3"
  },
  {
   "id": "ics-dsi-2015-A-57",
-  "epigraf": "E4.6",
+  "epigraf": "E4.11",
   "secondary": null,
   "confidence": "high",
   "currency": "check",
   "currency_reason": "Pautas de quimioprofilaxis/tratamiento de infección tuberculosa latente actualizadas (pautas cortas, IGRA)",
-  "concept": "Quimioprofilaxis en contactos de tuberculosis"
+  "concept": "Quimioprofilaxis en contactos de tuberculosis",
+  "epigraf_v1": "E4.6"
  },
  {
   "id": "ics-dsi-2015-A-58",
@@ -492,79 +546,88 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Onda P del electrocardiograma"
+  "concept": "Onda P del electrocardiograma",
+  "epigraf_v1": "E3.4"
  },
  {
   "id": "ics-dsi-2015-A-59",
-  "epigraf": "E7.2",
+  "epigraf": "E7.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Técnica de higiene de manos con solución alcohólica"
+  "concept": "Técnica de higiene de manos con solución alcohólica",
+  "epigraf_v1": "E7.2"
  },
  {
   "id": "ics-dsi-2015-A-6",
-  "epigraf": "E2.8",
-  "secondary": "E3.7",
+  "epigraf": "E2.9",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Prevención de la balanitis infantil"
+  "concept": "Prevención de la balanitis infantil",
+  "epigraf_v1": "E2.8"
  },
  {
   "id": "ics-dsi-2015-A-60",
-  "epigraf": "E5.6",
-  "secondary": "E2.7",
+  "epigraf": "E5.15",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Consumo de riesgo de alcohol en UBE"
+  "concept": "Consumo de riesgo de alcohol en UBE",
+  "epigraf_v1": "E5.6"
  },
  {
   "id": "ics-dsi-2015-A-61",
-  "epigraf": "E4.4",
-  "secondary": "E3.1",
+  "epigraf": "E4.7",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Posición ante crisis convulsiva"
+  "concept": "Posición ante crisis convulsiva",
+  "epigraf_v1": "E4.4"
  },
  {
   "id": "ics-dsi-2015-A-62",
-  "epigraf": "E2.9",
+  "epigraf": "E2.11",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cambios fisiológicos del envejecimiento"
+  "concept": "Cambios fisiológicos del envejecimiento",
+  "epigraf_v1": "E2.9"
  },
  {
   "id": "ics-dsi-2015-A-63",
-  "epigraf": "E3.5",
+  "epigraf": "E3.11",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Volumen corriente pulmonar"
+  "concept": "Volumen corriente pulmonar",
+  "epigraf_v1": "E3.5"
  },
  {
   "id": "ics-dsi-2015-A-64",
-  "epigraf": "E5.1",
+  "epigraf": "E5.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cuidados de la piel: no masajear zonas enrojecidas"
+  "concept": "Cuidados de la piel: no masajear zonas enrojecidas",
+  "epigraf_v1": "E5.1"
  },
  {
   "id": "ics-dsi-2015-A-65",
-  "epigraf": "E2.4",
+  "epigraf": "E2.5",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Índice de Barthel"
+  "concept": "Índice de Barthel",
+  "epigraf_v1": "E2.4"
  },
  {
   "id": "ics-dsi-2015-A-66",
@@ -573,79 +636,88 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Respuesta fisiológica al estrés"
+  "concept": "Respuesta fisiológica al estrés",
+  "epigraf_v1": "E8.1"
  },
  {
   "id": "ics-dsi-2015-A-67",
-  "epigraf": "E3.5",
+  "epigraf": "E3.13",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Oxigenoterapia en EPOC: riesgo de hipercapnia"
+  "concept": "Oxigenoterapia en EPOC: riesgo de hipercapnia",
+  "epigraf_v1": "E3.5"
  },
  {
   "id": "ics-dsi-2015-A-68",
-  "epigraf": "E4.3",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Coma mixedematoso e hipotiroidismo"
- },
- {
-  "id": "ics-dsi-2015-A-69",
-  "epigraf": "E2.7",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Definición de fumador"
- },
- {
-  "id": "ics-dsi-2015-A-7",
-  "epigraf": "E8.1",
-  "secondary": "E6.2",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Técnica de relajación muscular progresiva"
- },
- {
-  "id": "ics-dsi-2015-A-70",
-  "epigraf": "E6.3",
-  "secondary": "E3.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Tos seca por IECA (enalapril)"
- },
- {
-  "id": "ics-dsi-2015-A-71",
   "epigraf": "E4.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Disreflexia autonómica en lesión medular"
+  "concept": "Coma mixedematoso e hipotiroidismo",
+  "epigraf_v1": "E4.3"
+ },
+ {
+  "id": "ics-dsi-2015-A-69",
+  "epigraf": "E2.8",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Definición de fumador",
+  "epigraf_v1": "E2.7"
+ },
+ {
+  "id": "ics-dsi-2015-A-7",
+  "epigraf": "E8.1",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Técnica de relajación muscular progresiva",
+  "epigraf_v1": "E8.1"
+ },
+ {
+  "id": "ics-dsi-2015-A-70",
+  "epigraf": "E6.4",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Tos seca por IECA (enalapril)",
+  "epigraf_v1": "E6.3"
+ },
+ {
+  "id": "ics-dsi-2015-A-71",
+  "epigraf": "E4.7",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Disreflexia autonómica en lesión medular",
+  "epigraf_v1": "E4.4"
  },
  {
   "id": "ics-dsi-2015-A-72",
-  "epigraf": "E1.1",
+  "epigraf": "E1.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Valores del Código de ética de enfermeras de Cataluña"
+  "concept": "Valores del Código de ética de enfermeras de Cataluña",
+  "epigraf_v1": "E1.1"
  },
  {
   "id": "ics-dsi-2015-A-73",
-  "epigraf": "E7.2",
+  "epigraf": "E7.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Higiene de manos como prevención de IRAS"
+  "concept": "Higiene de manos como prevención de IRAS",
+  "epigraf_v1": "E7.2"
  },
  {
   "id": "ics-dsi-2015-A-74",
@@ -654,97 +726,108 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Intervenciones en el proceso de duelo"
+  "concept": "Intervenciones en el proceso de duelo",
+  "epigraf_v1": "E8.4"
  },
  {
   "id": "ics-dsi-2015-A-75",
-  "epigraf": "E3.6",
+  "epigraf": "E3.15",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Ejercicios de Kegel en incontinencia"
+  "concept": "Ejercicios de Kegel en incontinencia",
+  "epigraf_v1": "E3.6"
  },
  {
   "id": "ics-dsi-2015-A-76",
-  "epigraf": "E3.4",
+  "epigraf": "E3.8",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Signos del edema agudo de pulmón"
+  "concept": "Signos del edema agudo de pulmón",
+  "epigraf_v1": "E3.4"
  },
  {
   "id": "ics-dsi-2015-A-77",
-  "epigraf": "E5.5",
+  "epigraf": "E5.14",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Factores de riesgo de suicidio"
+  "concept": "Factores de riesgo de suicidio",
+  "epigraf_v1": "E5.5"
  },
  {
   "id": "ics-dsi-2015-A-78",
-  "epigraf": "E4.5",
+  "epigraf": "E4.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Control neurovascular en tracción cutánea"
+  "concept": "Control neurovascular en tracción cutánea",
+  "epigraf_v1": "E4.5"
  },
  {
   "id": "ics-dsi-2015-A-79",
-  "epigraf": "E4.8",
+  "epigraf": "E4.13",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Complicaciones de la CPRE"
+  "concept": "Complicaciones de la CPRE",
+  "epigraf_v1": "E4.8"
  },
  {
   "id": "ics-dsi-2015-A-8",
-  "epigraf": "E3.6",
+  "epigraf": "E3.15",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Incontinencia urinaria de esfuerzo"
+  "concept": "Incontinencia urinaria de esfuerzo",
+  "epigraf_v1": "E3.6"
  },
  {
   "id": "ics-dsi-2015-A-80",
-  "epigraf": "E1.7",
+  "epigraf": "E1.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Abordaje de la conducta agresiva"
+  "concept": "Abordaje de la conducta agresiva",
+  "epigraf_v1": "E1.7"
  },
  {
   "id": "ics-dsi-2015-A-81",
-  "epigraf": "E4.7",
+  "epigraf": "E4.12",
   "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Absorción intestinal de agua"
+  "concept": "Absorción intestinal de agua",
+  "epigraf_v1": "E4.7"
  },
  {
   "id": "ics-dsi-2015-A-82",
-  "epigraf": "E7.3",
-  "secondary": "E4.6",
+  "epigraf": "E7.4",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Precauciones ante paciente con hepatitis C"
+  "concept": "Precauciones ante paciente con hepatitis C",
+  "epigraf_v1": "E7.3"
  },
  {
   "id": "ics-dsi-2015-A-83",
-  "epigraf": "E6.3",
-  "secondary": "E3.4",
+  "epigraf": "E6.4",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Betabloqueantes y frecuencia cardíaca"
+  "concept": "Betabloqueantes y frecuencia cardíaca",
+  "epigraf_v1": "E6.3"
  },
  {
   "id": "ics-dsi-2015-A-84",
@@ -753,844 +836,938 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Estrategias de afrontamiento no adaptativas"
+  "concept": "Estrategias de afrontamiento no adaptativas",
+  "epigraf_v1": "E8.1"
  },
  {
   "id": "ics-dsi-2015-A-85",
-  "epigraf": "E4.9",
-  "secondary": "E4.3",
+  "epigraf": "E4.2",
+  "secondary": null,
   "confidence": "low",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Hiponatremia grave y edema cerebral"
+  "concept": "Hiponatremia grave y edema cerebral",
+  "epigraf_v1": "E4.9"
  },
  {
   "id": "ics-dsi-2015-A-86",
   "epigraf": "E6.2",
-  "secondary": "E2.8",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Formulación de objetivos en educación sanitaria"
- },
- {
-  "id": "ics-dsi-2015-A-87",
-  "epigraf": "E5.7",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Manifestaciones de la agonía"
+  "concept": "Formulación de objetivos en educación sanitaria",
+  "epigraf_v1": "E6.2"
+ },
+ {
+  "id": "ics-dsi-2015-A-87",
+  "epigraf": "E5.19",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Manifestaciones de la agonía",
+  "epigraf_v1": "E5.7"
  },
  {
   "id": "ics-dsi-2015-A-88",
+  "epigraf": "E3.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Proteinuria como signo de preeclampsia",
+  "epigraf_v1": "E3.2"
+ },
+ {
+  "id": "ics-dsi-2015-A-89",
+  "epigraf": "E3.13",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Técnica del inhalador presurizado",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2015-A-9",
   "epigraf": "E3.2",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Proteinuria como signo de preeclampsia"
- },
- {
-  "id": "ics-dsi-2015-A-89",
-  "epigraf": "E3.5",
-  "secondary": "E6.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Técnica del inhalador presurizado"
- },
- {
-  "id": "ics-dsi-2015-A-9",
-  "epigraf": "E3.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Signos de obstrucción de vía aérea por cuerpo extraño"
+  "concept": "Signos de obstrucción de vía aérea por cuerpo extraño",
+  "epigraf_v1": "E3.1"
  },
  {
   "id": "ics-dsi-2015-A-90",
-  "epigraf": "E2.12",
-  "secondary": "E2.8",
+  "epigraf": "E2.14",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Ansiedad de separación infantil"
+  "concept": "Ansiedad de separación infantil",
+  "epigraf_v1": "E2.12"
  },
  {
   "id": "ics-dsi-2015-A-91",
-  "epigraf": "E4.4",
-  "secondary": "E3.1",
+  "epigraf": "E5.12",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Signo de Battle en fractura de base de cráneo"
+  "concept": "Signo de Battle en fractura de base de cráneo",
+  "epigraf_v1": "E4.4"
  },
  {
   "id": "ics-dsi-2015-A-92",
-  "epigraf": "E4.5",
+  "epigraf": "E4.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Embolia grasa tras fractura"
+  "concept": "Embolia grasa tras fractura",
+  "epigraf_v1": "E4.5"
  },
  {
   "id": "ics-dsi-2015-A-93",
-  "epigraf": "E6.10",
-  "secondary": "E6.7",
+  "epigraf": "E4.12",
+  "secondary": null,
   "confidence": "medium",
   "currency": "check",
   "currency_reason": "La terminología de texturas (néctar, miel, pudin) ha sido sustituida por el marco IDDSI",
-  "concept": "Disfagia: cribado EAT-10 y texturas"
+  "concept": "Disfagia: cribado EAT-10 y texturas",
+  "epigraf_v1": "E6.10"
  },
  {
   "id": "ics-dsi-2015-A-94",
-  "epigraf": "E5.4",
+  "epigraf": "E5.7",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Complicaciones de la neutropenia febril"
+  "concept": "Complicaciones de la neutropenia febril",
+  "epigraf_v1": "E5.4"
  },
  {
   "id": "ics-dsi-2015-A-95",
-  "epigraf": "E3.4",
-  "secondary": "E6.9",
+  "epigraf": "E3.7",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cálculo de la presión arterial media"
+  "concept": "Cálculo de la presión arterial media",
+  "epigraf_v1": "E3.4"
  },
  {
   "id": "ics-dsi-2015-A-96",
+  "epigraf": "E4.11",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Clínica de la mononucleosis infecciosa",
+  "epigraf_v1": "E4.6"
+ },
+ {
+  "id": "ics-dsi-2015-A-97",
+  "epigraf": "E3.13",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Decanulación accidental de traqueostomía",
+  "epigraf_v1": "E6.9"
+ },
+ {
+  "id": "ics-dsi-2015-A-98",
+  "epigraf": "E3.3",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Antídoto en intoxicación por paracetamol",
+  "epigraf_v1": "E3.8"
+ },
+ {
+  "id": "ics-dsi-2015-A-99",
+  "epigraf": "E1.10",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Diseño de estudio transversal de prevalencia",
+  "epigraf_v1": "E1.8"
+ },
+ {
+  "id": "ics-dsi-2016PI-1",
+  "epigraf": "E5.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Estadio III de úlcera por presión",
+  "epigraf_v1": "E5.1"
+ },
+ {
+  "id": "ics-dsi-2016PI-10",
+  "epigraf": "E1.4",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Metaparadigma enfermero",
+  "epigraf_v1": "E1.2"
+ },
+ {
+  "id": "ics-dsi-2016PI-101",
   "epigraf": "E4.6",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Clínica de la mononucleosis infecciosa"
- },
- {
-  "id": "ics-dsi-2015-A-97",
-  "epigraf": "E6.9",
-  "secondary": "E5.3",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Decanulación accidental de traqueostomía"
- },
- {
-  "id": "ics-dsi-2015-A-98",
-  "epigraf": "E3.8",
-  "secondary": "E6.3",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Antídoto en intoxicación por paracetamol"
- },
- {
-  "id": "ics-dsi-2015-A-99",
-  "epigraf": "E1.8",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Diseño de estudio transversal de prevalencia"
- },
- {
-  "id": "ics-dsi-2016PI-1",
-  "epigraf": "E5.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Estadio III de úlcera por presión"
- },
- {
-  "id": "ics-dsi-2016PI-10",
-  "epigraf": "E1.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Metaparadigma enfermero"
- },
- {
-  "id": "ics-dsi-2016PI-101",
-  "epigraf": "E4.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Escala NIHSS de gravedad del ictus"
+  "concept": "Escala NIHSS de gravedad del ictus",
+  "epigraf_v1": "E4.4"
  },
  {
   "id": "ics-dsi-2016PI-102",
-  "epigraf": "E4.4",
+  "epigraf": "E4.6",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Clasificación etiológica del ictus"
+  "concept": "Clasificación etiológica del ictus",
+  "epigraf_v1": "E4.4"
  },
  {
   "id": "ics-dsi-2016PI-103",
-  "epigraf": "E4.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Puntuación de la escala de Glasgow"
- },
- {
-  "id": "ics-dsi-2016PI-104",
-  "epigraf": "E4.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Complicaciones neurológicas tras el ictus"
- },
- {
-  "id": "ics-dsi-2016PI-105",
-  "epigraf": "E2.3",
-  "secondary": "E5.1",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Profilaxis antitetánica con vacunación desconocida"
- },
- {
-  "id": "ics-dsi-2016PI-106",
-  "epigraf": "E3.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Definición y cribado de la HTA"
- },
- {
-  "id": "ics-dsi-2016PI-107",
-  "epigraf": "E4.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Medidas para evitar la hipertensión intracraneal"
- },
- {
-  "id": "ics-dsi-2016PI-108",
-  "epigraf": "E3.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "ECG en fibrilación auricular"
- },
- {
-  "id": "ics-dsi-2016PI-109",
-  "epigraf": "E7.6",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Factores de riesgo en valoración de caídas"
- },
- {
-  "id": "ics-dsi-2016PI-11",
-  "epigraf": "E3.6",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Fisiopatología de la incontinencia de urgencia"
- },
- {
-  "id": "ics-dsi-2016PI-110",
-  "epigraf": "E1.6",
-  "secondary": "E4.4",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Comunicación con la persona afásica"
- },
- {
-  "id": "ics-dsi-2016PI-111",
-  "epigraf": "E4.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Concepto de hemianopsia"
- },
- {
-  "id": "ics-dsi-2016PI-112",
-  "epigraf": "E4.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Signos de hipertensión intracraneal"
- },
- {
-  "id": "ics-dsi-2016PI-113",
-  "epigraf": "E6.7",
-  "secondary": "E4.4",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Prevención de broncoaspiración en disfagia"
- },
- {
-  "id": "ics-dsi-2016PI-114",
-  "epigraf": "E6.8",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cuidados en nutrición enteral por SNG"
- },
- {
-  "id": "ics-dsi-2016PI-115",
-  "epigraf": "E6.4",
-  "secondary": "E6.8",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Administración de fármacos por sonda"
- },
- {
-  "id": "ics-dsi-2016PI-116",
-  "epigraf": "E6.4",
-  "secondary": "E5.2",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Administración de heparina subcutánea"
- },
- {
-  "id": "ics-dsi-2016PI-117",
-  "epigraf": "E5.1",
-  "secondary": "E3.6",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Higiene perineal en cambio de pañal"
- },
- {
-  "id": "ics-dsi-2016PI-118",
-  "epigraf": "E7.9",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Etapas de la conciliación de la medicación"
- },
- {
-  "id": "ics-dsi-2016PI-119",
-  "epigraf": "E6.11",
-  "secondary": "T7.3",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Mecánica corporal en la movilización"
- },
- {
-  "id": "ics-dsi-2016PI-12",
-  "epigraf": "E1.3",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Fase de planificación del proceso enfermero"
- },
- {
-  "id": "ics-dsi-2016PI-120",
-  "epigraf": "E1.3",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Fase de valoración del proceso enfermero"
- },
- {
-  "id": "ics-dsi-2016PI-121",
-  "epigraf": "E3.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Definición de la EPOC"
- },
- {
-  "id": "ics-dsi-2016PI-122",
-  "epigraf": "E3.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Manifestaciones clínicas de la EPOC"
- },
- {
-  "id": "ics-dsi-2016PI-123",
-  "epigraf": "E3.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Normas de realización de la espirometría"
- },
- {
-  "id": "ics-dsi-2016PI-124",
-  "epigraf": "E2.6",
-  "secondary": "E7.5",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Objetivos de la visita PREALT"
- },
- {
-  "id": "ics-dsi-2016PI-125",
-  "epigraf": "E2.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Definición de dependencia"
- },
- {
-  "id": "ics-dsi-2016PI-126",
-  "epigraf": "E2.7",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Definición de exfumador"
- },
- {
-  "id": "ics-dsi-2016PI-127",
-  "epigraf": "E3.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Escala de disnea MRC"
- },
- {
-  "id": "ics-dsi-2016PI-128",
-  "epigraf": "E3.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Prueba de la marcha de 6 minutos"
- },
- {
-  "id": "ics-dsi-2016PI-129",
-  "epigraf": "E5.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Lesión por presión de categoría I"
- },
- {
-  "id": "ics-dsi-2016PI-13",
-  "epigraf": "E1.8",
-  "secondary": "E4.6",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cadena epidemiológica"
- },
- {
-  "id": "ics-dsi-2016PI-130",
-  "epigraf": "E5.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Tratamiento tópico de úlceras por presión"
- },
- {
-  "id": "ics-dsi-2016PI-131",
-  "epigraf": "E3.4",
-  "secondary": "E4.2",
-  "confidence": "high",
-  "currency": "check",
-  "currency_reason": "Las guías actuales (ESC 2024, ADA) fijan objetivos más estrictos (<130/80) en diabéticos",
-  "concept": "Objetivo de presión arterial en diabéticos"
- },
- {
-  "id": "ics-dsi-2016PI-132",
-  "epigraf": "E3.5",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Efectos adversos del tratamiento de la EPOC"
- },
- {
-  "id": "ics-dsi-2016PI-133",
-  "epigraf": "E3.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Vía inhalatoria en la EPOC"
- },
- {
-  "id": "ics-dsi-2016PI-134",
-  "epigraf": "E3.5",
-  "secondary": "E6.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Uso y efectos del salbutamol inhalado"
- },
- {
-  "id": "ics-dsi-2016PI-135",
-  "epigraf": "E6.3",
-  "secondary": "E3.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Efectos secundarios de los antihipertensivos"
- },
- {
-  "id": "ics-dsi-2016PI-136",
-  "epigraf": "E1.3",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Fase de planificación del proceso enfermero"
- },
- {
-  "id": "ics-dsi-2016PI-137",
-  "epigraf": "E2.3",
-  "secondary": "E3.5",
-  "confidence": "high",
-  "currency": "check",
-  "currency_reason": "El calendario actual usa vacuna conjugada (VNC20) en dosis única; pautas de revacunación con VPN23 superadas",
-  "concept": "Vacunación antineumocócica en adultos"
- },
- {
-  "id": "ics-dsi-2016PI-138",
-  "epigraf": "E3.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Signos de toxicidad por oxígeno"
- },
- {
-  "id": "ics-dsi-2016PI-139",
-  "epigraf": "E6.7",
-  "secondary": "E3.5",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Alimentación en EPOC avanzada"
- },
- {
-  "id": "ics-dsi-2016PI-14",
-  "epigraf": "E7.2",
-  "secondary": "E7.3",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Uso correcto de guantes no estériles"
- },
- {
-  "id": "ics-dsi-2016PI-140",
-  "epigraf": "E3.4",
-  "secondary": "E4.2",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cálculo del índice tobillo-brazo"
- },
- {
-  "id": "ics-dsi-2016PI-15",
-  "epigraf": "E4.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Educación sanitaria en diabetes tipo 2"
- },
- {
-  "id": "ics-dsi-2016PI-16",
-  "epigraf": "E7.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Antisepsia de manos"
- },
- {
-  "id": "ics-dsi-2016PI-17",
-  "epigraf": "E4.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "check",
-  "currency_reason": "Las guías actuales recomiendan metformina desde el diagnóstico junto a estilo de vida",
-  "concept": "Tratamiento inicial de la diabetes tipo 2"
- },
- {
-  "id": "ics-dsi-2016PI-18",
-  "epigraf": "E7.3",
-  "secondary": "E4.6",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Aislamiento por gotas en meningitis"
- },
- {
-  "id": "ics-dsi-2016PI-19",
-  "epigraf": "E4.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Indicaciones de insulinización definitiva"
- },
- {
-  "id": "ics-dsi-2016PI-2",
-  "epigraf": "E3.5",
-  "secondary": "E2.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Manejo de la EPOC estable"
- },
- {
-  "id": "ics-dsi-2016PI-20",
-  "epigraf": "E4.8",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Grados de encefalopatía hepática"
- },
- {
-  "id": "ics-dsi-2016PI-21",
-  "epigraf": "E3.6",
-  "secondary": "E7.2",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Sondaje vesical con circuito cerrado"
- },
- {
-  "id": "ics-dsi-2016PI-22",
-  "epigraf": "E4.2",
-  "secondary": "E4.1",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Pérdida de peso en diabetes tipo 2"
- },
- {
-  "id": "ics-dsi-2016PI-23",
   "epigraf": "E4.5",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Síndrome de desuso por inmovilización"
+  "concept": "Puntuación de la escala de Glasgow",
+  "epigraf_v1": "E4.4"
  },
  {
-  "id": "ics-dsi-2016PI-24",
-  "epigraf": "E3.4",
+  "id": "ics-dsi-2016PI-104",
+  "epigraf": "E4.6",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Endocarditis infecciosa"
+  "concept": "Complicaciones neurológicas tras el ictus",
+  "epigraf_v1": "E4.4"
  },
  {
-  "id": "ics-dsi-2016PI-25",
-  "epigraf": "E5.8",
-  "secondary": "E5.1",
-  "confidence": "low",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cuidados del prurito dermatológico"
- },
- {
-  "id": "ics-dsi-2016PI-26",
-  "epigraf": "E4.4",
+  "id": "ics-dsi-2016PI-105",
+  "epigraf": "E2.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Factores de riesgo del ictus hemorrágico"
+  "concept": "Profilaxis antitetánica con vacunación desconocida",
+  "epigraf_v1": "E2.3"
  },
  {
-  "id": "ics-dsi-2016PI-27",
-  "epigraf": "E4.9",
-  "secondary": "E3.5",
+  "id": "ics-dsi-2016PI-106",
+  "epigraf": "E3.10",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Definición y cribado de la HTA",
+  "epigraf_v1": "E3.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-107",
+  "epigraf": "E5.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Medidas para evitar la hipertensión intracraneal",
+  "epigraf_v1": "E4.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-108",
+  "epigraf": "E3.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "ECG en fibrilación auricular",
+  "epigraf_v1": "E3.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-109",
+  "epigraf": "E7.7",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Factores de riesgo en valoración de caídas",
+  "epigraf_v1": "E7.6"
+ },
+ {
+  "id": "ics-dsi-2016PI-11",
+  "epigraf": "E3.15",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Fisiopatología de la incontinencia de urgencia",
+  "epigraf_v1": "E3.6"
+ },
+ {
+  "id": "ics-dsi-2016PI-110",
+  "epigraf": "E1.8",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Interpretación de gasometría: acidosis respiratoria"
+  "concept": "Comunicación con la persona afásica",
+  "epigraf_v1": "E1.6"
  },
  {
-  "id": "ics-dsi-2016PI-28",
+  "id": "ics-dsi-2016PI-111",
+  "epigraf": "E4.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Concepto de hemianopsia",
+  "epigraf_v1": "E4.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-112",
+  "epigraf": "E5.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Signos de hipertensión intracraneal",
+  "epigraf_v1": "E4.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-113",
+  "epigraf": "E4.6",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Prevención de broncoaspiración en disfagia",
+  "epigraf_v1": "E6.7"
+ },
+ {
+  "id": "ics-dsi-2016PI-114",
+  "epigraf": "E6.10",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados en nutrición enteral por SNG",
+  "epigraf_v1": "E6.8"
+ },
+ {
+  "id": "ics-dsi-2016PI-115",
+  "epigraf": "E6.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Administración de fármacos por sonda",
+  "epigraf_v1": "E6.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-116",
+  "epigraf": "E6.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Administración de heparina subcutánea",
+  "epigraf_v1": "E6.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-117",
+  "epigraf": "E5.3",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Higiene perineal en cambio de pañal",
+  "epigraf_v1": "E5.1"
+ },
+ {
+  "id": "ics-dsi-2016PI-118",
+  "epigraf": "E7.11",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Etapas de la conciliación de la medicación",
+  "epigraf_v1": "E7.9"
+ },
+ {
+  "id": "ics-dsi-2016PI-119",
+  "epigraf": "E6.11",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Mecánica corporal en la movilización",
+  "epigraf_v1": "E6.11"
+ },
+ {
+  "id": "ics-dsi-2016PI-12",
+  "epigraf": "E1.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Fase de planificación del proceso enfermero",
+  "epigraf_v1": "E1.3"
+ },
+ {
+  "id": "ics-dsi-2016PI-120",
+  "epigraf": "E1.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Fase de valoración del proceso enfermero",
+  "epigraf_v1": "E1.3"
+ },
+ {
+  "id": "ics-dsi-2016PI-121",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Definición de la EPOC",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-122",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Manifestaciones clínicas de la EPOC",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-123",
+  "epigraf": "E3.11",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Normas de realización de la espirometría",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-124",
+  "epigraf": "E2.7",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Objetivos de la visita PREALT",
+  "epigraf_v1": "E2.6"
+ },
+ {
+  "id": "ics-dsi-2016PI-125",
+  "epigraf": "E2.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Definición de dependencia",
+  "epigraf_v1": "E2.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-126",
+  "epigraf": "E2.8",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Definición de exfumador",
+  "epigraf_v1": "E2.7"
+ },
+ {
+  "id": "ics-dsi-2016PI-127",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Escala de disnea MRC",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-128",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Prueba de la marcha de 6 minutos",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-129",
+  "epigraf": "E5.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Lesión por presión de categoría I",
+  "epigraf_v1": "E5.1"
+ },
+ {
+  "id": "ics-dsi-2016PI-13",
+  "epigraf": "E7.1",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cadena epidemiológica",
+  "epigraf_v1": "E1.8"
+ },
+ {
+  "id": "ics-dsi-2016PI-130",
+  "epigraf": "E5.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Tratamiento tópico de úlceras por presión",
+  "epigraf_v1": "E5.1"
+ },
+ {
+  "id": "ics-dsi-2016PI-131",
+  "epigraf": "E3.10",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "check",
+  "currency_reason": "Las guías actuales (ESC 2024, ADA) fijan objetivos más estrictos (<130/80) en diabéticos",
+  "concept": "Objetivo de presión arterial en diabéticos",
+  "epigraf_v1": "E3.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-132",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Efectos adversos del tratamiento de la EPOC",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-133",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Vía inhalatoria en la EPOC",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-134",
+  "epigraf": "E3.13",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Uso y efectos del salbutamol inhalado",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-135",
   "epigraf": "E6.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Ángulo de inyección intradérmica"
+  "concept": "Efectos secundarios de los antihipertensivos",
+  "epigraf_v1": "E6.3"
+ },
+ {
+  "id": "ics-dsi-2016PI-136",
+  "epigraf": "E1.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Fase de planificación del proceso enfermero",
+  "epigraf_v1": "E1.3"
+ },
+ {
+  "id": "ics-dsi-2016PI-137",
+  "epigraf": "E2.4",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "check",
+  "currency_reason": "El calendario actual usa vacuna conjugada (VNC20) en dosis única; pautas de revacunación con VPN23 superadas",
+  "concept": "Vacunación antineumocócica en adultos",
+  "epigraf_v1": "E2.3"
+ },
+ {
+  "id": "ics-dsi-2016PI-138",
+  "epigraf": "E3.13",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Signos de toxicidad por oxígeno",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-139",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Alimentación en EPOC avanzada",
+  "epigraf_v1": "E6.7"
+ },
+ {
+  "id": "ics-dsi-2016PI-14",
+  "epigraf": "E7.3",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Uso correcto de guantes no estériles",
+  "epigraf_v1": "E7.2"
+ },
+ {
+  "id": "ics-dsi-2016PI-140",
+  "epigraf": "E3.10",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cálculo del índice tobillo-brazo",
+  "epigraf_v1": "E3.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-15",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Educación sanitaria en diabetes tipo 2",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2016PI-16",
+  "epigraf": "E7.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Antisepsia de manos",
+  "epigraf_v1": "E7.2"
+ },
+ {
+  "id": "ics-dsi-2016PI-17",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "check",
+  "currency_reason": "Las guías actuales recomiendan metformina desde el diagnóstico junto a estilo de vida",
+  "concept": "Tratamiento inicial de la diabetes tipo 2",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2016PI-18",
+  "epigraf": "E7.4",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Aislamiento por gotas en meningitis",
+  "epigraf_v1": "E7.3"
+ },
+ {
+  "id": "ics-dsi-2016PI-19",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Indicaciones de insulinización definitiva",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2016PI-2",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Manejo de la EPOC estable",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-20",
+  "epigraf": "E4.13",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Grados de encefalopatía hepática",
+  "epigraf_v1": "E4.8"
+ },
+ {
+  "id": "ics-dsi-2016PI-21",
+  "epigraf": "E3.16",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Sondaje vesical con circuito cerrado",
+  "epigraf_v1": "E3.6"
+ },
+ {
+  "id": "ics-dsi-2016PI-22",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Pérdida de peso en diabetes tipo 2",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2016PI-23",
+  "epigraf": "E4.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Síndrome de desuso por inmovilización",
+  "epigraf_v1": "E4.5"
+ },
+ {
+  "id": "ics-dsi-2016PI-24",
+  "epigraf": "E3.8",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Endocarditis infecciosa",
+  "epigraf_v1": "E3.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-25",
+  "epigraf": "E5.1",
+  "secondary": null,
+  "confidence": "low",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados del prurito dermatológico",
+  "epigraf_v1": "E5.8"
+ },
+ {
+  "id": "ics-dsi-2016PI-26",
+  "epigraf": "E4.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Factores de riesgo del ictus hemorrágico",
+  "epigraf_v1": "E4.4"
+ },
+ {
+  "id": "ics-dsi-2016PI-27",
+  "epigraf": "E4.2",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Interpretación de gasometría: acidosis respiratoria",
+  "epigraf_v1": "E4.9"
+ },
+ {
+  "id": "ics-dsi-2016PI-28",
+  "epigraf": "E6.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Ángulo de inyección intradérmica",
+  "epigraf_v1": "E6.4"
  },
  {
   "id": "ics-dsi-2016PI-29",
-  "epigraf": "E6.3",
+  "epigraf": "E6.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Efectos adversos de la codeína"
+  "concept": "Efectos adversos de la codeína",
+  "epigraf_v1": "E6.3"
  },
  {
   "id": "ics-dsi-2016PI-3",
-  "epigraf": "E3.6",
+  "epigraf": "E3.15",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Hábitos preventivos de incontinencia urinaria"
+  "concept": "Hábitos preventivos de incontinencia urinaria",
+  "epigraf_v1": "E3.6"
  },
  {
   "id": "ics-dsi-2016PI-30",
-  "epigraf": "E6.9",
-  "secondary": "E3.5",
+  "epigraf": "E3.13",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Técnica de aspiración de secreciones"
+  "concept": "Técnica de aspiración de secreciones",
+  "epigraf_v1": "E6.9"
  },
  {
   "id": "ics-dsi-2016PI-31",
-  "epigraf": "E6.3",
-  "secondary": "E5.7",
+  "epigraf": "E6.4",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Vida media de la morfina"
+  "concept": "Vida media de la morfina",
+  "epigraf_v1": "E6.3"
  },
  {
   "id": "ics-dsi-2016PI-32",
-  "epigraf": "E5.5",
-  "secondary": "E7.6",
+  "epigraf": "E5.14",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Uso de inmovilizaciones/contención mecánica"
+  "concept": "Uso de inmovilizaciones/contención mecánica",
+  "epigraf_v1": "E5.5"
  },
  {
   "id": "ics-dsi-2016PI-33",
-  "epigraf": "E7.7",
-  "secondary": "E5.2",
+  "epigraf": "E7.9",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Factores de riesgo de sobrecarga transfusional"
+  "concept": "Factores de riesgo de sobrecarga transfusional",
+  "epigraf_v1": "E7.7"
  },
  {
   "id": "ics-dsi-2016PI-34",
-  "epigraf": "E2.8",
+  "epigraf": "E2.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Signos de alarma del desarrollo a los 2 meses"
+  "concept": "Signos de alarma del desarrollo a los 2 meses",
+  "epigraf_v1": "E2.8"
  },
  {
   "id": "ics-dsi-2016PI-35",
-  "epigraf": "E7.4",
-  "secondary": "E7.7",
+  "epigraf": "E7.6",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Clasificación de incidentes: cuasiincidente"
+  "concept": "Clasificación de incidentes: cuasiincidente",
+  "epigraf_v1": "E7.4"
  },
  {
   "id": "ics-dsi-2016PI-36",
-  "epigraf": "E2.8",
+  "epigraf": "E2.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Consejo de salud bucodental en pediatría"
+  "concept": "Consejo de salud bucodental en pediatría",
+  "epigraf_v1": "E2.8"
  },
  {
   "id": "ics-dsi-2016PI-37",
-  "epigraf": "E5.7",
-  "secondary": "E6.3",
+  "epigraf": "E5.18",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Codeína en escalera analgésica OMS"
+  "concept": "Codeína en escalera analgésica OMS",
+  "epigraf_v1": "E5.7"
  },
  {
   "id": "ics-dsi-2016PI-38",
-  "epigraf": "E2.2",
+  "epigraf": "E2.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Prevención cuaternaria"
+  "concept": "Prevención cuaternaria",
+  "epigraf_v1": "E2.2"
  },
  {
   "id": "ics-dsi-2016PI-39",
-  "epigraf": "E1.9",
+  "epigraf": "E1.12",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Investigación-acción participativa"
+  "concept": "Investigación-acción participativa",
+  "epigraf_v1": "E1.9"
  },
  {
   "id": "ics-dsi-2016PI-4",
-  "epigraf": "E3.1",
+  "epigraf": "E3.2",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Soporte vital básico: comprobación de respiración"
+  "concept": "Soporte vital básico: comprobación de respiración",
+  "epigraf_v1": "E3.1"
  },
  {
   "id": "ics-dsi-2016PI-40",
-  "epigraf": "E3.4",
+  "epigraf": "E3.8",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Signos de descompensación de insuficiencia cardíaca"
+  "concept": "Signos de descompensación de insuficiencia cardíaca",
+  "epigraf_v1": "E3.4"
  },
  {
   "id": "ics-dsi-2016PI-41",
-  "epigraf": "E1.1",
+  "epigraf": "E1.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Valor de responsabilidad del Código de ética"
+  "concept": "Valor de responsabilidad del Código de ética",
+  "epigraf_v1": "E1.1"
  },
  {
   "id": "ics-dsi-2016PI-42",
-  "epigraf": "E1.8",
+  "epigraf": "E1.10",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Estudio cuasiexperimental"
+  "concept": "Estudio cuasiexperimental",
+  "epigraf_v1": "E1.8"
  },
  {
   "id": "ics-dsi-2016PI-43",
@@ -1599,16 +1776,18 @@
   "confidence": "high",
   "currency": "check",
   "currency_reason": "El Pla de salut 2016-2020 ha sido sustituido por planes posteriores (2021-2025 y siguientes)",
-  "concept": "Principios del Pla de salut 2016-2020"
+  "concept": "Principios del Pla de salut 2016-2020",
+  "epigraf_v1": "T1.3"
  },
  {
   "id": "ics-dsi-2016PI-44",
-  "epigraf": "E2.8",
-  "secondary": "E5.3",
+  "epigraf": "E2.9",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Test de Snellen: agudeza visual infantil"
+  "concept": "Test de Snellen: agudeza visual infantil",
+  "epigraf_v1": "E2.8"
  },
  {
   "id": "ics-dsi-2016PI-45",
@@ -1617,34 +1796,38 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Fases de los programas de salud comunitaria"
+  "concept": "Fases de los programas de salud comunitaria",
+  "epigraf_v1": "E2.1"
  },
  {
   "id": "ics-dsi-2016PI-46",
-  "epigraf": "E2.8",
-  "secondary": "E2.1",
+  "epigraf": "E2.10",
+  "secondary": null,
   "confidence": "high",
   "currency": "check",
   "currency_reason": "El Programa Salut i Escola se ha reformulado y ampliado; verificar cursos destinatarios actuales",
-  "concept": "Destinatarios del Programa Salut i Escola"
+  "concept": "Destinatarios del Programa Salut i Escola",
+  "epigraf_v1": "E2.8"
  },
  {
   "id": "ics-dsi-2016PI-47",
-  "epigraf": "E2.7",
-  "secondary": "E5.6",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Test de Fagerström de dependencia nicotínica"
- },
- {
-  "id": "ics-dsi-2016PI-48",
-  "epigraf": "E3.4",
+  "epigraf": "E2.8",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Medidas no farmacológicas en insuficiencia cardíaca"
+  "concept": "Test de Fagerström de dependencia nicotínica",
+  "epigraf_v1": "E2.7"
+ },
+ {
+  "id": "ics-dsi-2016PI-48",
+  "epigraf": "E3.8",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Medidas no farmacológicas en insuficiencia cardíaca",
+  "epigraf_v1": "E3.4"
  },
  {
   "id": "ics-dsi-2016PI-49",
@@ -1653,61 +1836,68 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Objetivos del asesoramiento en el duelo"
+  "concept": "Objetivos del asesoramiento en el duelo",
+  "epigraf_v1": "E8.4"
  },
  {
   "id": "ics-dsi-2016PI-5",
-  "epigraf": "E5.1",
+  "epigraf": "E5.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Fisiopatología y prevención de UPP"
+  "concept": "Fisiopatología y prevención de UPP",
+  "epigraf_v1": "E5.1"
  },
  {
   "id": "ics-dsi-2016PI-50",
-  "epigraf": "E1.5",
+  "epigraf": "E1.7",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Técnicas de apoyo narrativo en la entrevista"
+  "concept": "Técnicas de apoyo narrativo en la entrevista",
+  "epigraf_v1": "E1.5"
  },
  {
   "id": "ics-dsi-2016PI-6",
-  "epigraf": "E3.4",
+  "epigraf": "E3.8",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Factores precipitantes de insuficiencia cardíaca"
+  "concept": "Factores precipitantes de insuficiencia cardíaca",
+  "epigraf_v1": "E3.4"
  },
  {
   "id": "ics-dsi-2016PI-7",
-  "epigraf": "E6.7",
-  "secondary": "E4.1",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Componentes del gasto energético"
- },
- {
-  "id": "ics-dsi-2016PI-8",
-  "epigraf": "E1.3",
-  "secondary": "E1.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Planes de cuidados estandarizados e individualización"
- },
- {
-  "id": "ics-dsi-2016PI-9",
-  "epigraf": "E6.7",
+  "epigraf": "E6.8",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Aminoácidos esenciales y valor biológico"
+  "concept": "Componentes del gasto energético",
+  "epigraf_v1": "E6.7"
+ },
+ {
+  "id": "ics-dsi-2016PI-8",
+  "epigraf": "E1.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Planes de cuidados estandarizados e individualización",
+  "epigraf_v1": "E1.3"
+ },
+ {
+  "id": "ics-dsi-2016PI-9",
+  "epigraf": "E6.8",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Aminoácidos esenciales y valor biológico",
+  "epigraf_v1": "E6.7"
  },
  {
   "id": "ics-dsi-2019-A-1",
@@ -1716,16 +1906,18 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Atención primaria orientada a la comunidad (APOC)"
+  "concept": "Atención primaria orientada a la comunidad (APOC)",
+  "epigraf_v1": "E2.1"
  },
  {
   "id": "ics-dsi-2019-A-10",
   "epigraf": "E8.3",
-  "secondary": "E2.4",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Test de Zarit de sobrecarga del cuidador"
+  "concept": "Test de Zarit de sobrecarga del cuidador",
+  "epigraf_v1": "E8.3"
  },
  {
   "id": "ics-dsi-2019-A-101",
@@ -1734,295 +1926,328 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Clasificación del IMC"
+  "concept": "Clasificación del IMC",
+  "epigraf_v1": "E4.1"
  },
  {
   "id": "ics-dsi-2019-A-102",
-  "epigraf": "E4.5",
-  "secondary": "E2.9",
+  "epigraf": "E4.8",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Factores de riesgo de fractura por fragilidad"
+  "concept": "Factores de riesgo de fractura por fragilidad",
+  "epigraf_v1": "E4.5"
  },
  {
   "id": "ics-dsi-2019-A-103",
-  "epigraf": "E4.5",
+  "epigraf": "E4.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Valoración neurovascular de extremidad"
+  "concept": "Valoración neurovascular de extremidad",
+  "epigraf_v1": "E4.5"
  },
  {
   "id": "ics-dsi-2019-A-104",
-  "epigraf": "E4.5",
+  "epigraf": "E4.8",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Prevención de luxación de prótesis de cadera"
+  "concept": "Prevención de luxación de prótesis de cadera",
+  "epigraf_v1": "E4.5"
  },
  {
   "id": "ics-dsi-2019-A-105",
-  "epigraf": "E7.7",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Tiempo máximo de transfusión de hematíes"
- },
- {
-  "id": "ics-dsi-2019-A-106",
-  "epigraf": "E2.9",
-  "secondary": "E3.6",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Síntomas atípicos de ITU en ancianos"
- },
- {
-  "id": "ics-dsi-2019-A-107",
-  "epigraf": "E6.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Administración subcutánea de HBPM"
- },
- {
-  "id": "ics-dsi-2019-A-108",
-  "epigraf": "E3.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Criterios de Framingham de insuficiencia cardíaca"
- },
- {
-  "id": "ics-dsi-2019-A-109",
-  "epigraf": "E6.3",
-  "secondary": "E3.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Efectos adversos de betabloqueantes"
- },
- {
-  "id": "ics-dsi-2019-A-11",
-  "epigraf": "E3.6",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Insuficiencia renal aguda postrenal"
- },
- {
-  "id": "ics-dsi-2019-A-110",
-  "epigraf": "E1.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Escucha activa"
- },
- {
-  "id": "ics-dsi-2019-A-111",
-  "epigraf": "E3.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Consejos de autocuidado en insuficiencia cardíaca"
- },
- {
-  "id": "ics-dsi-2019-A-112",
-  "epigraf": "E4.3",
-  "secondary": "E6.7",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Dieta en hipercolesterolemia"
- },
- {
-  "id": "ics-dsi-2019-A-113",
-  "epigraf": "E6.2",
-  "secondary": "E2.7",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Modelo transteórico de Prochaska y DiClemente"
- },
- {
-  "id": "ics-dsi-2019-A-114",
-  "epigraf": "E5.6",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Fármacos para la deshabituación tabáquica"
- },
- {
-  "id": "ics-dsi-2019-A-115",
   "epigraf": "E7.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Tipos de discrepancias en conciliación"
+  "concept": "Tiempo máximo de transfusión de hematíes",
+  "epigraf_v1": "E7.7"
+ },
+ {
+  "id": "ics-dsi-2019-A-106",
+  "epigraf": "E3.15",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Síntomas atípicos de ITU en ancianos",
+  "epigraf_v1": "E2.9"
+ },
+ {
+  "id": "ics-dsi-2019-A-107",
+  "epigraf": "E6.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Administración subcutánea de HBPM",
+  "epigraf_v1": "E6.4"
+ },
+ {
+  "id": "ics-dsi-2019-A-108",
+  "epigraf": "E3.8",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Criterios de Framingham de insuficiencia cardíaca",
+  "epigraf_v1": "E3.4"
+ },
+ {
+  "id": "ics-dsi-2019-A-109",
+  "epigraf": "E6.4",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Efectos adversos de betabloqueantes",
+  "epigraf_v1": "E6.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-11",
+  "epigraf": "E3.15",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Insuficiencia renal aguda postrenal",
+  "epigraf_v1": "E3.6"
+ },
+ {
+  "id": "ics-dsi-2019-A-110",
+  "epigraf": "E1.7",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Escucha activa",
+  "epigraf_v1": "E1.5"
+ },
+ {
+  "id": "ics-dsi-2019-A-111",
+  "epigraf": "E3.8",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Consejos de autocuidado en insuficiencia cardíaca",
+  "epigraf_v1": "E3.4"
+ },
+ {
+  "id": "ics-dsi-2019-A-112",
+  "epigraf": "E4.15",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Dieta en hipercolesterolemia",
+  "epigraf_v1": "E4.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-113",
+  "epigraf": "E6.2",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Modelo transteórico de Prochaska y DiClemente",
+  "epigraf_v1": "E6.2"
+ },
+ {
+  "id": "ics-dsi-2019-A-114",
+  "epigraf": "E5.15",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Fármacos para la deshabituación tabáquica",
+  "epigraf_v1": "E5.6"
+ },
+ {
+  "id": "ics-dsi-2019-A-115",
+  "epigraf": "E7.11",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Tipos de discrepancias en conciliación",
+  "epigraf_v1": "E7.9"
  },
  {
   "id": "ics-dsi-2019-A-116",
-  "epigraf": "E3.4",
+  "epigraf": "E3.7",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cálculo del gasto cardíaco"
+  "concept": "Cálculo del gasto cardíaco",
+  "epigraf_v1": "E3.4"
  },
  {
   "id": "ics-dsi-2019-A-117",
-  "epigraf": "E4.7",
-  "secondary": "E6.3",
+  "epigraf": "E4.12",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Laxantes y estreñimiento"
+  "concept": "Laxantes y estreñimiento",
+  "epigraf_v1": "E4.7"
  },
  {
   "id": "ics-dsi-2019-A-118",
-  "epigraf": "E3.5",
+  "epigraf": "E3.12",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Clasificación GOLD de la EPOC"
+  "concept": "Clasificación GOLD de la EPOC",
+  "epigraf_v1": "E3.5"
  },
  {
   "id": "ics-dsi-2019-A-119",
-  "epigraf": "E3.5",
-  "secondary": "E6.3",
+  "epigraf": "E3.12",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Tratamiento farmacológico de la EPOC"
+  "concept": "Tratamiento farmacológico de la EPOC",
+  "epigraf_v1": "E3.5"
  },
  {
   "id": "ics-dsi-2019-A-12",
-  "epigraf": "E5.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Neutropenia: definición y riesgo infeccioso"
- },
- {
-  "id": "ics-dsi-2019-A-120",
-  "epigraf": "E3.5",
-  "secondary": "E6.9",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Interpretación de gasometría arterial"
- },
- {
-  "id": "ics-dsi-2019-A-121",
-  "epigraf": "E3.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cuidados en neumonía"
- },
- {
-  "id": "ics-dsi-2019-A-122",
-  "epigraf": "E3.5",
-  "secondary": "E6.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Terapia nebulizada"
- },
- {
-  "id": "ics-dsi-2019-A-123",
-  "epigraf": "E4.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Autoanálisis de glucemia capilar"
- },
- {
-  "id": "ics-dsi-2019-A-124",
   "epigraf": "E5.6",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Test de Fagerström de dependencia nicotínica"
+  "concept": "Neutropenia: definición y riesgo infeccioso",
+  "epigraf_v1": "E5.2"
  },
  {
-  "id": "ics-dsi-2019-A-13",
-  "epigraf": "E1.9",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Diseño cualitativo fenomenológico"
- },
- {
-  "id": "ics-dsi-2019-A-14",
-  "epigraf": "E3.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "RCP básica en adultos: parámetros"
- },
- {
-  "id": "ics-dsi-2019-A-15",
-  "epigraf": "E2.3",
-  "secondary": "E3.2",
-  "confidence": "high",
-  "currency": "check",
-  "currency_reason": "Pauta dTpa en embarazo actualizada: desde semana 27, preferentemente 27-28 (no ventana 27-36)",
-  "concept": "Vacunación dTpa en el embarazo"
- },
- {
-  "id": "ics-dsi-2019-A-16",
-  "epigraf": "T9.2",
-  "secondary": "T3.2",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Duración del deber de confidencialidad"
- },
- {
-  "id": "ics-dsi-2019-A-17",
-  "epigraf": "E5.7",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Uso de analgésicos en cuidados paliativos"
- },
- {
-  "id": "ics-dsi-2019-A-18",
+  "id": "ics-dsi-2019-A-120",
   "epigraf": "E4.2",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cribado de complicaciones de la DM2"
+  "concept": "Interpretación de gasometría arterial",
+  "epigraf_v1": "E3.5"
  },
  {
-  "id": "ics-dsi-2019-A-19",
-  "epigraf": "E5.4",
+  "id": "ics-dsi-2019-A-121",
+  "epigraf": "E3.12",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Shock séptico: signos clínicos"
+  "concept": "Cuidados en neumonía",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2019-A-122",
+  "epigraf": "E3.13",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Terapia nebulizada",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2019-A-123",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Autoanálisis de glucemia capilar",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2019-A-124",
+  "epigraf": "E5.15",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Test de Fagerström de dependencia nicotínica",
+  "epigraf_v1": "E5.6"
+ },
+ {
+  "id": "ics-dsi-2019-A-13",
+  "epigraf": "E1.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Diseño cualitativo fenomenológico",
+  "epigraf_v1": "E1.9"
+ },
+ {
+  "id": "ics-dsi-2019-A-14",
+  "epigraf": "E3.2",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "RCP básica en adultos: parámetros",
+  "epigraf_v1": "E3.1"
+ },
+ {
+  "id": "ics-dsi-2019-A-15",
+  "epigraf": "E2.4",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "check",
+  "currency_reason": "Pauta dTpa en embarazo actualizada: desde semana 27, preferentemente 27-28 (no ventana 27-36)",
+  "concept": "Vacunación dTpa en el embarazo",
+  "epigraf_v1": "E2.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-16",
+  "epigraf": "T9.2",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Duración del deber de confidencialidad",
+  "epigraf_v1": "T9.2"
+ },
+ {
+  "id": "ics-dsi-2019-A-17",
+  "epigraf": "E5.18",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Uso de analgésicos en cuidados paliativos",
+  "epigraf_v1": "E5.7"
+ },
+ {
+  "id": "ics-dsi-2019-A-18",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cribado de complicaciones de la DM2",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2019-A-19",
+  "epigraf": "E5.11",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Shock séptico: signos clínicos",
+  "epigraf_v1": "E5.4"
  },
  {
   "id": "ics-dsi-2019-A-2",
@@ -2031,511 +2256,568 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Misión y visión del ICS"
+  "concept": "Misión y visión del ICS",
+  "epigraf_v1": "T2.3"
  },
  {
   "id": "ics-dsi-2019-A-20",
-  "epigraf": "E5.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Anafilaxia: concepto y manifestaciones"
- },
- {
-  "id": "ics-dsi-2019-A-21",
-  "epigraf": "E2.2",
-  "secondary": "E3.4",
-  "confidence": "medium",
-  "currency": "check",
-  "currency_reason": "Periodicidad de cribado de HTA revisada en actualizaciones PAPPS posteriores",
-  "concept": "Periodicidad del cribado de HTA"
- },
- {
-  "id": "ics-dsi-2019-A-22",
-  "epigraf": "E2.8",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Calendario de dentición infantil"
- },
- {
-  "id": "ics-dsi-2019-A-23",
-  "epigraf": "E7.3",
-  "secondary": "E7.2",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Precauciones estándar"
- },
- {
-  "id": "ics-dsi-2019-A-24",
-  "epigraf": "E3.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Beneficios de la oxigenoterapia domiciliaria"
- },
- {
-  "id": "ics-dsi-2019-A-25",
-  "epigraf": "E3.6",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Terminología urinaria: disuria"
- },
- {
-  "id": "ics-dsi-2019-A-26",
-  "epigraf": "E5.2",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Interacciones del acenocumarol"
- },
- {
-  "id": "ics-dsi-2019-A-27",
-  "epigraf": "E4.6",
-  "secondary": "E6.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Técnica de la prueba de tuberculina"
- },
- {
-  "id": "ics-dsi-2019-A-28",
-  "epigraf": "E1.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Código deontológico: indicaciones que causan daño"
- },
- {
-  "id": "ics-dsi-2019-A-29",
-  "epigraf": "E3.6",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Incontinencia de esfuerzo y suelo pélvico"
- },
- {
-  "id": "ics-dsi-2019-A-3",
-  "epigraf": "E4.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Terminología neurológica: ataxia"
- },
- {
-  "id": "ics-dsi-2019-A-30",
-  "epigraf": "E4.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Prevención de hipertensión intracraneal"
- },
- {
-  "id": "ics-dsi-2019-A-31",
-  "epigraf": "E2.3",
-  "secondary": "E5.2",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Vacunación IM en pacientes anticoagulados"
- },
- {
-  "id": "ics-dsi-2019-A-32",
-  "epigraf": "E3.5",
-  "secondary": "E6.9",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Patrones respiratorios: Cheyne-Stokes"
- },
- {
-  "id": "ics-dsi-2019-A-33",
-  "epigraf": "E3.8",
-  "secondary": "E3.1",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Antídoto de benzodiacepinas: flumazenil"
- },
- {
-  "id": "ics-dsi-2019-A-34",
-  "epigraf": "E4.6",
-  "secondary": "E7.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Precauciones ante hepatitis C"
- },
- {
-  "id": "ics-dsi-2019-A-35",
-  "epigraf": "E5.3",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Alta tras cirugía de oído medio"
- },
- {
-  "id": "ics-dsi-2019-A-36",
-  "epigraf": "E7.3",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Clasificación de residuos sanitarios grupo II"
- },
- {
-  "id": "ics-dsi-2019-A-37",
-  "epigraf": "E3.6",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Estrategias de continencia urinaria"
- },
- {
-  "id": "ics-dsi-2019-A-38",
-  "epigraf": "E5.5",
-  "secondary": "E8.1",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Trastorno de estrés postraumático"
- },
- {
-  "id": "ics-dsi-2019-A-39",
-  "epigraf": "E2.7",
-  "secondary": "E4.1",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Perímetro abdominal y riesgo cardiovascular"
- },
- {
-  "id": "ics-dsi-2019-A-4",
   "epigraf": "E5.7",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cuidados de la xerostomía en paliativos"
+  "concept": "Anafilaxia: concepto y manifestaciones",
+  "epigraf_v1": "E5.2"
  },
  {
-  "id": "ics-dsi-2019-A-40",
-  "epigraf": "E2.2",
-  "secondary": "E3.5",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Prevención terciaria del asma infantil"
- },
- {
-  "id": "ics-dsi-2019-A-41",
-  "epigraf": "E7.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Factores de eficacia de desinfectantes químicos"
- },
- {
-  "id": "ics-dsi-2019-A-42",
-  "epigraf": "E4.8",
+  "id": "ics-dsi-2019-A-21",
+  "epigraf": "E2.3",
   "secondary": null,
   "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Fisiología de la secreción pancreática"
+  "currency": "check",
+  "currency_reason": "Periodicidad de cribado de HTA revisada en actualizaciones PAPPS posteriores",
+  "concept": "Periodicidad del cribado de HTA",
+  "epigraf_v1": "E2.2"
  },
  {
-  "id": "ics-dsi-2019-A-43",
-  "epigraf": "E6.8",
+  "id": "ics-dsi-2019-A-22",
+  "epigraf": "E2.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Diarrea en nutrición enteral"
+  "concept": "Calendario de dentición infantil",
+  "epigraf_v1": "E2.8"
  },
  {
-  "id": "ics-dsi-2019-A-44",
-  "epigraf": "E3.4",
+  "id": "ics-dsi-2019-A-23",
+  "epigraf": "E7.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Pericarditis: características clínicas"
+  "concept": "Precauciones estándar",
+  "epigraf_v1": "E7.3"
  },
  {
-  "id": "ics-dsi-2019-A-45",
-  "epigraf": "E3.6",
+  "id": "ics-dsi-2019-A-24",
+  "epigraf": "E3.13",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Tipos de sonda vesical"
+  "concept": "Beneficios de la oxigenoterapia domiciliaria",
+  "epigraf_v1": "E3.5"
  },
  {
-  "id": "ics-dsi-2019-A-46",
-  "epigraf": "E4.3",
-  "secondary": null,
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Hipocalcemia: signos y síntomas"
- },
- {
-  "id": "ics-dsi-2019-A-47",
-  "epigraf": "E1.8",
+  "id": "ics-dsi-2019-A-25",
+  "epigraf": "E3.15",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Diseño descriptivo transversal para prevalencia"
+  "concept": "Terminología urinaria: disuria",
+  "epigraf_v1": "E3.6"
  },
  {
-  "id": "ics-dsi-2019-A-48",
-  "epigraf": "E1.1",
+  "id": "ics-dsi-2019-A-26",
+  "epigraf": "E6.5",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Código de ética: valor autonomía"
+  "concept": "Interacciones del acenocumarol",
+  "epigraf_v1": "E5.2"
  },
  {
-  "id": "ics-dsi-2019-A-49",
-  "epigraf": "E7.7",
+  "id": "ics-dsi-2019-A-27",
+  "epigraf": "E4.11",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Tiempo de infusión de plaquetas"
+  "concept": "Técnica de la prueba de tuberculina",
+  "epigraf_v1": "E4.6"
  },
  {
-  "id": "ics-dsi-2019-A-5",
-  "epigraf": "E7.7",
-  "secondary": "E5.2",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Actuación ante reacción transfusional"
- },
- {
-  "id": "ics-dsi-2019-A-50",
-  "epigraf": "E2.8",
+  "id": "ics-dsi-2019-A-28",
+  "epigraf": "E1.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Tabla de Llevant del desarrollo psicomotor"
+  "concept": "Código deontológico: indicaciones que causan daño",
+  "epigraf_v1": "E1.1"
  },
  {
-  "id": "ics-dsi-2019-A-51",
-  "epigraf": "E8.1",
-  "secondary": "E8.2",
+  "id": "ics-dsi-2019-A-29",
+  "epigraf": "E3.15",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Estrategias de afrontamiento no adaptativas"
+  "concept": "Incontinencia de esfuerzo y suelo pélvico",
+  "epigraf_v1": "E3.6"
  },
  {
-  "id": "ics-dsi-2019-A-52",
-  "epigraf": "E3.5",
-  "secondary": "E2.9",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Prevención de atelectasia en encamados"
- },
- {
-  "id": "ics-dsi-2019-A-53",
+  "id": "ics-dsi-2019-A-3",
   "epigraf": "E4.5",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Lumbalgia aguda: medidas no farmacológicas"
+  "concept": "Terminología neurológica: ataxia",
+  "epigraf_v1": "E4.4"
  },
  {
-  "id": "ics-dsi-2019-A-54",
+  "id": "ics-dsi-2019-A-30",
+  "epigraf": "E5.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Prevención de hipertensión intracraneal",
+  "epigraf_v1": "E4.4"
+ },
+ {
+  "id": "ics-dsi-2019-A-31",
+  "epigraf": "E2.4",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Vacunación IM en pacientes anticoagulados",
+  "epigraf_v1": "E2.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-32",
+  "epigraf": "E3.11",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Patrones respiratorios: Cheyne-Stokes",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2019-A-33",
   "epigraf": "E3.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Controles en el puerperio hospitalario"
+  "concept": "Antídoto de benzodiacepinas: flumazenil",
+  "epigraf_v1": "E3.8"
  },
  {
-  "id": "ics-dsi-2019-A-55",
-  "epigraf": "E5.3",
+  "id": "ics-dsi-2019-A-34",
+  "epigraf": "E7.4",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Precauciones ante hepatitis C",
+  "epigraf_v1": "E4.6"
+ },
+ {
+  "id": "ics-dsi-2019-A-35",
+  "epigraf": "E5.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Alta tras cirugía de oído medio",
+  "epigraf_v1": "E5.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-36",
+  "epigraf": "E7.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Clasificación de residuos sanitarios grupo II",
+  "epigraf_v1": "E7.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-37",
+  "epigraf": "E3.15",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Estrategias de continencia urinaria",
+  "epigraf_v1": "E3.6"
+ },
+ {
+  "id": "ics-dsi-2019-A-38",
+  "epigraf": "E5.13",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Trastorno de estrés postraumático",
+  "epigraf_v1": "E5.5"
+ },
+ {
+  "id": "ics-dsi-2019-A-39",
+  "epigraf": "E4.15",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Perímetro abdominal y riesgo cardiovascular",
+  "epigraf_v1": "E2.7"
+ },
+ {
+  "id": "ics-dsi-2019-A-4",
+  "epigraf": "E5.17",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados de la xerostomía en paliativos",
+  "epigraf_v1": "E5.7"
+ },
+ {
+  "id": "ics-dsi-2019-A-40",
+  "epigraf": "E2.3",
+  "secondary": "E3.12",
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Prevención terciaria del asma infantil",
+  "epigraf_v1": "E2.2"
+ },
+ {
+  "id": "ics-dsi-2019-A-41",
+  "epigraf": "E7.2",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Factores de eficacia de desinfectantes químicos",
+  "epigraf_v1": "E7.1"
+ },
+ {
+  "id": "ics-dsi-2019-A-42",
+  "epigraf": "E4.13",
   "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cuidados de la estomatitis leve"
+  "concept": "Fisiología de la secreción pancreática",
+  "epigraf_v1": "E4.8"
  },
  {
-  "id": "ics-dsi-2019-A-56",
-  "epigraf": "E4.7",
-  "secondary": "E6.8",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cuidados de la gastrostomía PEG"
- },
- {
-  "id": "ics-dsi-2019-A-57",
-  "epigraf": "T7.3",
-  "secondary": "E7.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Prevención de exposición a riesgo biológico"
- },
- {
-  "id": "ics-dsi-2019-A-58",
-  "epigraf": "E2.10",
+  "id": "ics-dsi-2019-A-43",
+  "epigraf": "E6.10",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Apgar familiar"
+  "concept": "Diarrea en nutrición enteral",
+  "epigraf_v1": "E6.8"
  },
  {
-  "id": "ics-dsi-2019-A-59",
-  "epigraf": "E4.2",
-  "secondary": "E6.7",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Dieta en DM2: aporte de grasas"
- },
- {
-  "id": "ics-dsi-2019-A-6",
-  "epigraf": "E5.7",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Escalera analgésica de la OMS"
- },
- {
-  "id": "ics-dsi-2019-A-60",
-  "epigraf": "E1.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Modelo de Benner: niveles de competencia"
- },
- {
-  "id": "ics-dsi-2019-A-61",
-  "epigraf": "E5.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Tratamiento del shock hipovolémico"
- },
- {
-  "id": "ics-dsi-2019-A-62",
-  "epigraf": "E3.4",
-  "secondary": "E2.7",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Medidas de estilo de vida en HTA"
- },
- {
-  "id": "ics-dsi-2019-A-63",
-  "epigraf": "E5.7",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Escalera analgésica de la OMS"
- },
- {
-  "id": "ics-dsi-2019-A-64",
-  "epigraf": "E5.1",
-  "secondary": null,
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Indicaciones de suturas adhesivas"
- },
- {
-  "id": "ics-dsi-2019-A-65",
-  "epigraf": "E6.9",
-  "secondary": "E5.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Medición de la presión venosa central"
- },
- {
-  "id": "ics-dsi-2019-A-66",
+  "id": "ics-dsi-2019-A-44",
   "epigraf": "E3.8",
-  "secondary": "E3.1",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Intoxicación por opiáceos: signos"
+  "concept": "Pericarditis: características clínicas",
+  "epigraf_v1": "E3.4"
  },
  {
-  "id": "ics-dsi-2019-A-67",
-  "epigraf": "E2.8",
-  "secondary": "E5.3",
+  "id": "ics-dsi-2019-A-45",
+  "epigraf": "E3.16",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cribado de agudeza visual infantil"
+  "concept": "Tipos de sonda vesical",
+  "epigraf_v1": "E3.6"
  },
  {
-  "id": "ics-dsi-2019-A-68",
+  "id": "ics-dsi-2019-A-46",
   "epigraf": "E4.2",
-  "secondary": "E6.3",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Hipocalcemia: signos y síntomas",
+  "epigraf_v1": "E4.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-47",
+  "epigraf": "E1.10",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Antidiabéticos orales: características"
+  "concept": "Diseño descriptivo transversal para prevalencia",
+  "epigraf_v1": "E1.8"
  },
  {
-  "id": "ics-dsi-2019-A-69",
-  "epigraf": "E6.7",
-  "secondary": "E2.7",
+  "id": "ics-dsi-2019-A-48",
+  "epigraf": "E1.3",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Recomendaciones de alimentación saludable"
+  "concept": "Código de ética: valor autonomía",
+  "epigraf_v1": "E1.1"
  },
  {
-  "id": "ics-dsi-2019-A-7",
+  "id": "ics-dsi-2019-A-49",
+  "epigraf": "E7.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Tiempo de infusión de plaquetas",
+  "epigraf_v1": "E7.7"
+ },
+ {
+  "id": "ics-dsi-2019-A-5",
+  "epigraf": "E7.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Actuación ante reacción transfusional",
+  "epigraf_v1": "E7.7"
+ },
+ {
+  "id": "ics-dsi-2019-A-50",
+  "epigraf": "E2.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Tabla de Llevant del desarrollo psicomotor",
+  "epigraf_v1": "E2.8"
+ },
+ {
+  "id": "ics-dsi-2019-A-51",
+  "epigraf": "E8.1",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Estrategias de afrontamiento no adaptativas",
+  "epigraf_v1": "E8.1"
+ },
+ {
+  "id": "ics-dsi-2019-A-52",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Prevención de atelectasia en encamados",
+  "epigraf_v1": "E3.5"
+ },
+ {
+  "id": "ics-dsi-2019-A-53",
   "epigraf": "E4.8",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Varices esofágicas e hipertensión portal"
+  "concept": "Lumbalgia aguda: medidas no farmacológicas",
+  "epigraf_v1": "E4.5"
  },
  {
-  "id": "ics-dsi-2019-A-70",
+  "id": "ics-dsi-2019-A-54",
+  "epigraf": "E3.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Controles en el puerperio hospitalario",
+  "epigraf_v1": "E3.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-55",
+  "epigraf": "E5.9",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados de la estomatitis leve",
+  "epigraf_v1": "E5.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-56",
+  "epigraf": "E4.14",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados de la gastrostomía PEG",
+  "epigraf_v1": "E4.7"
+ },
+ {
+  "id": "ics-dsi-2019-A-57",
+  "epigraf": "T7.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Prevención de exposición a riesgo biológico",
+  "epigraf_v1": "T7.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-58",
+  "epigraf": "E2.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Apgar familiar",
+  "epigraf_v1": "E2.10"
+ },
+ {
+  "id": "ics-dsi-2019-A-59",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Dieta en DM2: aporte de grasas",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2019-A-6",
+  "epigraf": "E5.18",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Escalera analgésica de la OMS",
+  "epigraf_v1": "E5.7"
+ },
+ {
+  "id": "ics-dsi-2019-A-60",
+  "epigraf": "E1.4",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Modelo de Benner: niveles de competencia",
+  "epigraf_v1": "E1.2"
+ },
+ {
+  "id": "ics-dsi-2019-A-61",
+  "epigraf": "E5.11",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Tratamiento del shock hipovolémico",
+  "epigraf_v1": "E5.4"
+ },
+ {
+  "id": "ics-dsi-2019-A-62",
+  "epigraf": "E3.10",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Medidas de estilo de vida en HTA",
+  "epigraf_v1": "E3.4"
+ },
+ {
+  "id": "ics-dsi-2019-A-63",
+  "epigraf": "E5.18",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Escalera analgésica de la OMS",
+  "epigraf_v1": "E5.7"
+ },
+ {
+  "id": "ics-dsi-2019-A-64",
+  "epigraf": "E5.2",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Indicaciones de suturas adhesivas",
+  "epigraf_v1": "E5.1"
+ },
+ {
+  "id": "ics-dsi-2019-A-65",
+  "epigraf": "E5.10",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Medición de la presión venosa central",
+  "epigraf_v1": "E6.9"
+ },
+ {
+  "id": "ics-dsi-2019-A-66",
+  "epigraf": "E3.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Intoxicación por opiáceos: signos",
+  "epigraf_v1": "E3.8"
+ },
+ {
+  "id": "ics-dsi-2019-A-67",
+  "epigraf": "E2.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cribado de agudeza visual infantil",
+  "epigraf_v1": "E2.8"
+ },
+ {
+  "id": "ics-dsi-2019-A-68",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Antidiabéticos orales: características",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2019-A-69",
   "epigraf": "E6.8",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cuidados en nutrición por SNG"
+  "concept": "Recomendaciones de alimentación saludable",
+  "epigraf_v1": "E6.7"
+ },
+ {
+  "id": "ics-dsi-2019-A-7",
+  "epigraf": "E4.13",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Varices esofágicas e hipertensión portal",
+  "epigraf_v1": "E4.8"
+ },
+ {
+  "id": "ics-dsi-2019-A-70",
+  "epigraf": "E6.10",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados en nutrición por SNG",
+  "epigraf_v1": "E6.8"
  },
  {
   "id": "ics-dsi-2019-A-71",
@@ -2544,304 +2826,338 @@
   "confidence": "high",
   "currency": "check",
   "currency_reason": "Pla de salut 2021-2025 finalizado; nuevo Pla de salut puede reformular principios",
-  "concept": "Principios inspiradores del Pla de salut"
+  "concept": "Principios inspiradores del Pla de salut",
+  "epigraf_v1": "T1.3"
  },
  {
   "id": "ics-dsi-2019-A-72",
-  "epigraf": "E3.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Obstrucción de vía aérea por cuerpo extraño"
- },
- {
-  "id": "ics-dsi-2019-A-73",
-  "epigraf": "E2.8",
-  "secondary": "E6.7",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Alimentación de 0 a 3 años"
- },
- {
-  "id": "ics-dsi-2019-A-74",
-  "epigraf": "E5.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Categorías de lesiones por presión"
- },
- {
-  "id": "ics-dsi-2019-A-75",
-  "epigraf": "E2.3",
-  "secondary": "E6.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Lugar de vacunación IM en lactantes"
- },
- {
-  "id": "ics-dsi-2019-A-76",
-  "epigraf": "E6.2",
-  "secondary": "E1.5",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Entrevista motivacional: definición"
- },
- {
-  "id": "ics-dsi-2019-A-8",
-  "epigraf": "E1.3",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Fase de valoración del PAE"
- },
- {
-  "id": "ics-dsi-2019-A-9",
-  "epigraf": "E6.8",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cuidados en nutrición parenteral"
- },
- {
-  "id": "ics-dsi-2024-A-1",
-  "epigraf": "E5.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Apósitos hidrocoloides en cura húmeda"
- },
- {
-  "id": "ics-dsi-2024-A-10",
-  "epigraf": "E4.6",
-  "secondary": "E6.4",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Técnica de la prueba de tuberculina"
- },
- {
-  "id": "ics-dsi-2024-A-101",
-  "epigraf": "E4.4",
-  "secondary": "E3.1",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Escala RACE en código ictus"
- },
- {
-  "id": "ics-dsi-2024-A-102",
-  "epigraf": "E4.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Escala de coma de Glasgow"
- },
- {
-  "id": "ics-dsi-2024-A-103",
-  "epigraf": "E6.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cálculo de dosis en bolo de alteplasa"
- },
- {
-  "id": "ics-dsi-2024-A-104",
-  "epigraf": "E5.1",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Escala de Braden: interpretación"
- },
- {
-  "id": "ics-dsi-2024-A-105",
-  "epigraf": "E5.1",
-  "secondary": "E4.1",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Requerimientos nutricionales en lesiones por presión"
- },
- {
-  "id": "ics-dsi-2024-A-106",
-  "epigraf": "E6.10",
-  "secondary": "E6.7",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Disfagia orofaríngea: signos de eficacia"
- },
- {
-  "id": "ics-dsi-2024-A-107",
-  "epigraf": "E6.9",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Elección de dispositivo de acceso vascular"
- },
- {
-  "id": "ics-dsi-2024-A-108",
-  "epigraf": "E2.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Índice de Barthel: interpretación"
- },
- {
-  "id": "ics-dsi-2024-A-109",
-  "epigraf": "E1.4",
-  "secondary": "E8.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Diagnóstico ATIC de afrontamiento familiar"
- },
- {
-  "id": "ics-dsi-2024-A-11",
-  "epigraf": "E5.2",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Educación en anticoagulantes orales directos"
- },
- {
-  "id": "ics-dsi-2024-A-110",
-  "epigraf": "E7.4",
-  "secondary": "E7.7",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Clasificación de incidentes: evento centinela"
- },
- {
-  "id": "ics-dsi-2024-A-111",
   "epigraf": "E3.2",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Profilaxis anti-D en gestantes Rh negativo"
+  "concept": "Obstrucción de vía aérea por cuerpo extraño",
+  "epigraf_v1": "E3.1"
  },
  {
-  "id": "ics-dsi-2024-A-112",
-  "epigraf": "E3.3",
-  "secondary": null,
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Clasificación del prematuro por edad gestacional"
- },
- {
-  "id": "ics-dsi-2024-A-113",
-  "epigraf": "E3.3",
+  "id": "ics-dsi-2019-A-73",
+  "epigraf": "E2.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Composición del calostro"
+  "concept": "Alimentación de 0 a 3 años",
+  "epigraf_v1": "E2.8"
  },
  {
-  "id": "ics-dsi-2024-A-114",
-  "epigraf": "E3.3",
-  "secondary": "E2.8",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cribados neonatales sistemáticos"
- },
- {
-  "id": "ics-dsi-2024-A-115",
-  "epigraf": "E2.8",
-  "secondary": "E3.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Suplemento de vitamina D en lactancia materna"
- },
- {
-  "id": "ics-dsi-2024-A-116",
-  "epigraf": "E2.14",
-  "secondary": "E2.8",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Bronquiolitis: virus respiratorio sincitial"
- },
- {
-  "id": "ics-dsi-2024-A-117",
-  "epigraf": "E2.14",
-  "secondary": "E2.8",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cuidados en bronquiolitis"
- },
- {
-  "id": "ics-dsi-2024-A-118",
-  "epigraf": "E4.2",
+  "id": "ics-dsi-2019-A-74",
+  "epigraf": "E5.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Criterios diagnósticos de DM2"
+  "concept": "Categorías de lesiones por presión",
+  "epigraf_v1": "E5.1"
  },
  {
-  "id": "ics-dsi-2024-A-119",
-  "epigraf": "E4.2",
+  "id": "ics-dsi-2019-A-75",
+  "epigraf": "E2.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Complicaciones microvasculares de la diabetes"
+  "concept": "Lugar de vacunación IM en lactantes",
+  "epigraf_v1": "E2.3"
  },
  {
-  "id": "ics-dsi-2024-A-12",
-  "epigraf": "E3.7",
-  "secondary": "E4.6",
+  "id": "ics-dsi-2019-A-76",
+  "epigraf": "E6.2",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Sífilis: Treponema pallidum"
+  "concept": "Entrevista motivacional: definición",
+  "epigraf_v1": "E6.2"
  },
  {
-  "id": "ics-dsi-2024-A-120",
-  "epigraf": "E4.2",
-  "secondary": "E6.3",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Riesgo de hipoglucemia de antidiabéticos"
- },
- {
-  "id": "ics-dsi-2024-A-121",
-  "epigraf": "E1.2",
-  "secondary": "E4.2",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Necesidades básicas de Virginia Henderson"
- },
- {
-  "id": "ics-dsi-2024-A-122",
+  "id": "ics-dsi-2019-A-8",
   "epigraf": "E1.5",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Tipos de preguntas en la entrevista clínica"
+  "concept": "Fase de valoración del PAE",
+  "epigraf_v1": "E1.3"
+ },
+ {
+  "id": "ics-dsi-2019-A-9",
+  "epigraf": "E6.10",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados en nutrición parenteral",
+  "epigraf_v1": "E6.8"
+ },
+ {
+  "id": "ics-dsi-2024-A-1",
+  "epigraf": "E5.2",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Apósitos hidrocoloides en cura húmeda",
+  "epigraf_v1": "E5.1"
+ },
+ {
+  "id": "ics-dsi-2024-A-10",
+  "epigraf": "E4.11",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Técnica de la prueba de tuberculina",
+  "epigraf_v1": "E4.6"
+ },
+ {
+  "id": "ics-dsi-2024-A-101",
+  "epigraf": "E3.1",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Escala RACE en código ictus",
+  "epigraf_v1": "E4.4"
+ },
+ {
+  "id": "ics-dsi-2024-A-102",
+  "epigraf": "E4.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Escala de coma de Glasgow",
+  "epigraf_v1": "E4.4"
+ },
+ {
+  "id": "ics-dsi-2024-A-103",
+  "epigraf": "E6.7",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cálculo de dosis en bolo de alteplasa",
+  "epigraf_v1": "E6.5"
+ },
+ {
+  "id": "ics-dsi-2024-A-104",
+  "epigraf": "E5.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Escala de Braden: interpretación",
+  "epigraf_v1": "E5.1"
+ },
+ {
+  "id": "ics-dsi-2024-A-105",
+  "epigraf": "E5.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Requerimientos nutricionales en lesiones por presión",
+  "epigraf_v1": "E5.1"
+ },
+ {
+  "id": "ics-dsi-2024-A-106",
+  "epigraf": "E4.12",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Disfagia orofaríngea: signos de eficacia",
+  "epigraf_v1": "E6.10"
+ },
+ {
+  "id": "ics-dsi-2024-A-107",
+  "epigraf": "E6.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Elección de dispositivo de acceso vascular",
+  "epigraf_v1": "E6.9"
+ },
+ {
+  "id": "ics-dsi-2024-A-108",
+  "epigraf": "E2.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Índice de Barthel: interpretación",
+  "epigraf_v1": "E2.4"
+ },
+ {
+  "id": "ics-dsi-2024-A-109",
+  "epigraf": "E1.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Diagnóstico ATIC de afrontamiento familiar",
+  "epigraf_v1": "E1.4"
+ },
+ {
+  "id": "ics-dsi-2024-A-11",
+  "epigraf": "E6.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Educación en anticoagulantes orales directos",
+  "epigraf_v1": "E5.2"
+ },
+ {
+  "id": "ics-dsi-2024-A-110",
+  "epigraf": "E7.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Clasificación de incidentes: evento centinela",
+  "epigraf_v1": "E7.4"
+ },
+ {
+  "id": "ics-dsi-2024-A-111",
+  "epigraf": "E3.5",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Profilaxis anti-D en gestantes Rh negativo",
+  "epigraf_v1": "E3.2"
+ },
+ {
+  "id": "ics-dsi-2024-A-112",
+  "epigraf": "E3.6",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Clasificación del prematuro por edad gestacional",
+  "epigraf_v1": "E3.3"
+ },
+ {
+  "id": "ics-dsi-2024-A-113",
+  "epigraf": "E3.6",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Composición del calostro",
+  "epigraf_v1": "E3.3"
+ },
+ {
+  "id": "ics-dsi-2024-A-114",
+  "epigraf": "E2.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cribados neonatales sistemáticos",
+  "epigraf_v1": "E3.3"
+ },
+ {
+  "id": "ics-dsi-2024-A-115",
+  "epigraf": "E2.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Suplemento de vitamina D en lactancia materna",
+  "epigraf_v1": "E2.8"
+ },
+ {
+  "id": "ics-dsi-2024-A-116",
+  "epigraf": "E2.15",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Bronquiolitis: virus respiratorio sincitial",
+  "epigraf_v1": "E2.14"
+ },
+ {
+  "id": "ics-dsi-2024-A-117",
+  "epigraf": "E2.15",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados en bronquiolitis",
+  "epigraf_v1": "E2.14"
+ },
+ {
+  "id": "ics-dsi-2024-A-118",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Criterios diagnósticos de DM2",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2024-A-119",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Complicaciones microvasculares de la diabetes",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2024-A-12",
+  "epigraf": "E3.19",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Sífilis: Treponema pallidum",
+  "epigraf_v1": "E3.7"
+ },
+ {
+  "id": "ics-dsi-2024-A-120",
+  "epigraf": "E4.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Riesgo de hipoglucemia de antidiabéticos",
+  "epigraf_v1": "E4.2"
+ },
+ {
+  "id": "ics-dsi-2024-A-121",
+  "epigraf": "E1.4",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Necesidades básicas de Virginia Henderson",
+  "epigraf_v1": "E1.2"
+ },
+ {
+  "id": "ics-dsi-2024-A-122",
+  "epigraf": "E1.7",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Tipos de preguntas en la entrevista clínica",
+  "epigraf_v1": "E1.5"
  },
  {
   "id": "ics-dsi-2024-A-123",
@@ -2850,34 +3166,38 @@
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "ECG: características del ritmo sinusal"
+  "concept": "ECG: características del ritmo sinusal",
+  "epigraf_v1": "E3.4"
  },
  {
   "id": "ics-dsi-2024-A-124",
-  "epigraf": "E3.5",
-  "secondary": "E6.9",
+  "epigraf": "E3.11",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Auscultación pulmonar: ruidos normales"
+  "concept": "Auscultación pulmonar: ruidos normales",
+  "epigraf_v1": "E3.5"
  },
  {
   "id": "ics-dsi-2024-A-125",
-  "epigraf": "E2.6",
+  "epigraf": "E2.7",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Plan de intervención individualizado y compartido (PIIC)"
+  "concept": "Plan de intervención individualizado y compartido (PIIC)",
+  "epigraf_v1": "E2.6"
  },
  {
   "id": "ics-dsi-2024-A-13",
-  "epigraf": "E7.4",
+  "epigraf": "E7.6",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Sistema de notificación SNiSP Cat"
+  "concept": "Sistema de notificación SNiSP Cat",
+  "epigraf_v1": "E7.4"
  },
  {
   "id": "ics-dsi-2024-A-14",
@@ -2886,43 +3206,48 @@
   "confidence": "high",
   "currency": "check",
   "currency_reason": "Requisitos de carrera profesional ICS sujetos a nuevos acuerdos de Mesa Sectorial",
-  "concept": "Requisitos de antigüedad de carrera profesional"
+  "concept": "Requisitos de antigüedad de carrera profesional",
+  "epigraf_v1": "T6.1"
  },
  {
   "id": "ics-dsi-2024-A-15",
-  "epigraf": "E3.4",
-  "secondary": "E2.7",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Tablas REGICOR de riesgo cardiovascular"
- },
- {
-  "id": "ics-dsi-2024-A-16",
-  "epigraf": "E6.7",
-  "secondary": "E4.7",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Alimentos con gluten en celiaquía"
- },
- {
-  "id": "ics-dsi-2024-A-17",
-  "epigraf": "E2.2",
+  "epigraf": "E4.15",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Niveles de prevención: prevención secundaria"
+  "concept": "Tablas REGICOR de riesgo cardiovascular",
+  "epigraf_v1": "E3.4"
+ },
+ {
+  "id": "ics-dsi-2024-A-16",
+  "epigraf": "E6.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Alimentos con gluten en celiaquía",
+  "epigraf_v1": "E6.7"
+ },
+ {
+  "id": "ics-dsi-2024-A-17",
+  "epigraf": "E2.3",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Niveles de prevención: prevención secundaria",
+  "epigraf_v1": "E2.2"
  },
  {
   "id": "ics-dsi-2024-A-18",
-  "epigraf": "E5.6",
-  "secondary": "E2.7",
+  "epigraf": "E5.15",
+  "secondary": null,
   "confidence": "medium",
   "currency": "check",
   "currency_reason": "Umbrales de consumo de riesgo rebajados (Ministerio 2020: 20 g/día hombres, 10 g/día mujeres)",
-  "concept": "Consumo de riesgo de alcohol en UBE"
+  "concept": "Consumo de riesgo de alcohol en UBE",
+  "epigraf_v1": "E5.6"
  },
  {
   "id": "ics-dsi-2024-A-19",
@@ -2931,25 +3256,28 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Modelo PRECEDE: factores predisponentes"
+  "concept": "Modelo PRECEDE: factores predisponentes",
+  "epigraf_v1": "E6.2"
  },
  {
   "id": "ics-dsi-2024-A-2",
-  "epigraf": "E3.1",
+  "epigraf": "E3.2",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Obstrucción de vía aérea por cuerpo extraño"
+  "concept": "Obstrucción de vía aérea por cuerpo extraño",
+  "epigraf_v1": "E3.1"
  },
  {
   "id": "ics-dsi-2024-A-20",
-  "epigraf": "T3.3",
-  "secondary": "E1.1",
+  "epigraf": "T3.2",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Definición de documento de voluntades anticipadas"
+  "concept": "Definición de documento de voluntades anticipadas",
+  "epigraf_v1": "T3.3"
  },
  {
   "id": "ics-dsi-2024-A-21",
@@ -2958,124 +3286,138 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Determinantes de la salud"
+  "concept": "Determinantes de la salud",
+  "epigraf_v1": "E2.1"
  },
  {
   "id": "ics-dsi-2024-A-22",
-  "epigraf": "E7.2",
+  "epigraf": "E7.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Flora residente y transitoria de las manos"
+  "concept": "Flora residente y transitoria de las manos",
+  "epigraf_v1": "E7.2"
  },
  {
   "id": "ics-dsi-2024-A-23",
-  "epigraf": "E5.4",
-  "secondary": "E3.4",
+  "epigraf": "E5.11",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Causas no coronarias de shock cardiogénico"
+  "concept": "Causas no coronarias de shock cardiogénico",
+  "epigraf_v1": "E5.4"
  },
  {
   "id": "ics-dsi-2024-A-24",
-  "epigraf": "E7.2",
+  "epigraf": "E7.3",
   "secondary": null,
   "confidence": "high",
   "currency": "check",
   "currency_reason": "Protocolo Neumonía Zero revisado; evidencia reciente cuestiona la clorhexidina oral",
-  "concept": "Medidas del proyecto Neumonía Zero"
+  "concept": "Medidas del proyecto Neumonía Zero",
+  "epigraf_v1": "E7.2"
  },
  {
   "id": "ics-dsi-2024-A-25",
-  "epigraf": "E2.14",
-  "secondary": "E5.3",
+  "epigraf": "E2.15",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Faringoamigdalitis estreptocócica infantil"
+  "concept": "Faringoamigdalitis estreptocócica infantil",
+  "epigraf_v1": "E2.14"
  },
  {
   "id": "ics-dsi-2024-A-26",
-  "epigraf": "E4.2",
+  "epigraf": "E4.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cetoacidosis diabética"
+  "concept": "Cetoacidosis diabética",
+  "epigraf_v1": "E4.2"
  },
  {
   "id": "ics-dsi-2024-A-27",
-  "epigraf": "E1.2",
+  "epigraf": "E1.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Teoría de las transiciones de Meleis"
+  "concept": "Teoría de las transiciones de Meleis",
+  "epigraf_v1": "E1.2"
  },
  {
   "id": "ics-dsi-2024-A-28",
-  "epigraf": "E3.2",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Dolor en embarazo ectópico"
- },
- {
-  "id": "ics-dsi-2024-A-29",
-  "epigraf": "E2.13",
-  "secondary": "E2.1",
-  "confidence": "medium",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Método Hanlon de priorización de problemas"
- },
- {
-  "id": "ics-dsi-2024-A-3",
-  "epigraf": "E5.5",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Trastorno límite de la personalidad"
- },
- {
-  "id": "ics-dsi-2024-A-30",
   "epigraf": "E3.5",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cuidados en neumonía"
+  "concept": "Dolor en embarazo ectópico",
+  "epigraf_v1": "E3.2"
+ },
+ {
+  "id": "ics-dsi-2024-A-29",
+  "epigraf": "E2.1",
+  "secondary": null,
+  "confidence": "medium",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Método Hanlon de priorización de problemas",
+  "epigraf_v1": "E2.13"
+ },
+ {
+  "id": "ics-dsi-2024-A-3",
+  "epigraf": "E5.13",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Trastorno límite de la personalidad",
+  "epigraf_v1": "E5.5"
+ },
+ {
+  "id": "ics-dsi-2024-A-30",
+  "epigraf": "E3.12",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados en neumonía",
+  "epigraf_v1": "E3.5"
  },
  {
   "id": "ics-dsi-2024-A-31",
-  "epigraf": "E2.3",
+  "epigraf": "E2.4",
   "secondary": null,
   "confidence": "high",
   "currency": "check",
   "currency_reason": "Calendario vacunal de Cataluña modificado tras 2022; verificar pauta vigente",
-  "concept": "Vacuna MenB en calendario de Cataluña 2022"
+  "concept": "Vacuna MenB en calendario de Cataluña 2022",
+  "epigraf_v1": "E2.3"
  },
  {
   "id": "ics-dsi-2024-A-32",
-  "epigraf": "E3.4",
-  "secondary": "E7.8",
+  "epigraf": "E3.10",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Prevención de tromboflebitis postquirúrgica"
+  "concept": "Prevención de tromboflebitis postquirúrgica",
+  "epigraf_v1": "E3.4"
  },
  {
   "id": "ics-dsi-2024-A-33",
-  "epigraf": "E6.3",
-  "secondary": "E5.7",
+  "epigraf": "E5.18",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Fármacos de primera línea en dolor neuropático"
+  "concept": "Fármacos de primera línea en dolor neuropático",
+  "epigraf_v1": "E6.3"
  },
  {
   "id": "ics-dsi-2024-A-34",
@@ -3084,43 +3426,48 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Valores del ICS"
+  "concept": "Valores del ICS",
+  "epigraf_v1": "T2.3"
  },
  {
   "id": "ics-dsi-2024-A-35",
-  "epigraf": "E4.6",
+  "epigraf": "E4.10",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Escabiosis: características y transmisión"
+  "concept": "Escabiosis: características y transmisión",
+  "epigraf_v1": "E4.6"
  },
  {
   "id": "ics-dsi-2024-A-36",
-  "epigraf": "E1.4",
+  "epigraf": "E1.6",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Concepto de terminología enfermera"
+  "concept": "Concepto de terminología enfermera",
+  "epigraf_v1": "E1.4"
  },
  {
   "id": "ics-dsi-2024-A-37",
-  "epigraf": "E3.4",
-  "secondary": "E6.9",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Índice tobillo-brazo: contraindicaciones"
- },
- {
-  "id": "ics-dsi-2024-A-38",
-  "epigraf": "E4.4",
+  "epigraf": "E3.10",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Miastenia gravis"
+  "concept": "Índice tobillo-brazo: contraindicaciones",
+  "epigraf_v1": "E3.4"
+ },
+ {
+  "id": "ics-dsi-2024-A-38",
+  "epigraf": "E4.7",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Miastenia gravis",
+  "epigraf_v1": "E4.4"
  },
  {
   "id": "ics-dsi-2024-A-39",
@@ -3129,339 +3476,377 @@
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Duelo disfuncional"
+  "concept": "Duelo disfuncional",
+  "epigraf_v1": "E8.4"
  },
  {
   "id": "ics-dsi-2024-A-4",
-  "epigraf": "E1.4",
-  "secondary": "E2.8",
+  "epigraf": "E1.6",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Plan de cuidados estandarizado de sedentarismo infantil"
+  "concept": "Plan de cuidados estandarizado de sedentarismo infantil",
+  "epigraf_v1": "E1.4"
  },
  {
   "id": "ics-dsi-2024-A-40",
-  "epigraf": "E1.8",
+  "epigraf": "E1.10",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Variables dependiente e independiente"
+  "concept": "Variables dependiente e independiente",
+  "epigraf_v1": "E1.8"
  },
  {
   "id": "ics-dsi-2024-A-41",
-  "epigraf": "E2.3",
+  "epigraf": "E2.4",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Coadministración de vacunas gripe y herpes zóster"
+  "concept": "Coadministración de vacunas gripe y herpes zóster",
+  "epigraf_v1": "E2.3"
  },
  {
   "id": "ics-dsi-2024-A-42",
-  "epigraf": "E4.5",
+  "epigraf": "E4.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Clínica de la fractura de cuello de fémur"
+  "concept": "Clínica de la fractura de cuello de fémur",
+  "epigraf_v1": "E4.5"
  },
  {
   "id": "ics-dsi-2024-A-43",
-  "epigraf": "E5.3",
+  "epigraf": "E5.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Extracción de tapones de cerumen"
+  "concept": "Extracción de tapones de cerumen",
+  "epigraf_v1": "E5.3"
  },
  {
   "id": "ics-dsi-2024-A-44",
-  "epigraf": "T3.4",
+  "epigraf": "T3.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Carta de derechos y deberes: intimidad"
+  "concept": "Carta de derechos y deberes: intimidad",
+  "epigraf_v1": "T3.4"
  },
  {
   "id": "ics-dsi-2024-A-45",
-  "epigraf": "E5.8",
-  "secondary": "E5.1",
+  "epigraf": "E5.1",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Candidiasis cutánea en pliegues"
+  "concept": "Candidiasis cutánea en pliegues",
+  "epigraf_v1": "E5.8"
  },
  {
   "id": "ics-dsi-2024-A-46",
-  "epigraf": "E4.5",
+  "epigraf": "E4.9",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Grados de esguince de tobillo"
+  "concept": "Grados de esguince de tobillo",
+  "epigraf_v1": "E4.5"
  },
  {
   "id": "ics-dsi-2024-A-47",
-  "epigraf": "E5.5",
+  "epigraf": "E5.14",
   "secondary": null,
   "confidence": "high",
   "currency": "check",
   "currency_reason": "Pla de prevenció del suïcidi 2021-2025 vencido; posible nuevo plan",
-  "concept": "Plan de prevención del suicidio de Cataluña"
+  "concept": "Plan de prevención del suicidio de Cataluña",
+  "epigraf_v1": "E5.5"
  },
  {
   "id": "ics-dsi-2024-A-48",
-  "epigraf": "E2.9",
-  "secondary": "E5.3",
+  "epigraf": "E2.11",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cribado de hipoacusia: test del susurro"
+  "concept": "Cribado de hipoacusia: test del susurro",
+  "epigraf_v1": "E2.9"
  },
  {
   "id": "ics-dsi-2024-A-49",
-  "epigraf": "E4.4",
+  "epigraf": "E4.7",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Disreflexia autónoma en lesión medular"
+  "concept": "Disreflexia autónoma en lesión medular",
+  "epigraf_v1": "E4.4"
  },
  {
   "id": "ics-dsi-2024-A-5",
-  "epigraf": "E1.4",
-  "secondary": "E8.2",
+  "epigraf": "E1.6",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Diagnósticos ATIC: adaptación al estado de salud"
+  "concept": "Diagnósticos ATIC: adaptación al estado de salud",
+  "epigraf_v1": "E1.4"
  },
  {
   "id": "ics-dsi-2024-A-50",
-  "epigraf": "E5.5",
-  "secondary": "E4.1",
+  "epigraf": "E5.13",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Trastorno por atracón"
+  "concept": "Trastorno por atracón",
+  "epigraf_v1": "E5.5"
  },
  {
   "id": "ics-dsi-2024-A-51",
-  "epigraf": "E6.7",
-  "secondary": "E2.7",
+  "epigraf": "E6.8",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Guía Petits canvis per menjar millor"
+  "concept": "Guía Petits canvis per menjar millor",
+  "epigraf_v1": "E6.7"
  },
  {
   "id": "ics-dsi-2024-A-52",
-  "epigraf": "T9.3",
-  "secondary": "T3.3",
+  "epigraf": "T9.1",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Ley orgánica de regulación de la eutanasia"
+  "concept": "Ley orgánica de regulación de la eutanasia",
+  "epigraf_v1": "T9.3"
  },
  {
   "id": "ics-dsi-2024-A-53",
-  "epigraf": "E2.8",
-  "secondary": "E6.7",
+  "epigraf": "E2.9",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Bebidas vegetales en la primera infancia"
+  "concept": "Bebidas vegetales en la primera infancia",
+  "epigraf_v1": "E2.8"
  },
  {
   "id": "ics-dsi-2024-A-54",
-  "epigraf": "E1.1",
+  "epigraf": "E1.3",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Valores del Código de ética de Cataluña"
+  "concept": "Valores del Código de ética de Cataluña",
+  "epigraf_v1": "E1.1"
  },
  {
   "id": "ics-dsi-2024-A-55",
-  "epigraf": "E5.2",
-  "secondary": "E3.1",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Adrenalina en el tratamiento de la anafilaxia"
- },
- {
-  "id": "ics-dsi-2024-A-56",
-  "epigraf": "E2.8",
-  "secondary": "E6.7",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Seguridad alimentaria en lactantes"
- },
- {
-  "id": "ics-dsi-2024-A-57",
-  "epigraf": "E5.3",
+  "epigraf": "E5.7",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Glaucoma agudo de ángulo cerrado"
+  "concept": "Adrenalina en el tratamiento de la anafilaxia",
+  "epigraf_v1": "E5.2"
+ },
+ {
+  "id": "ics-dsi-2024-A-56",
+  "epigraf": "E2.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Seguridad alimentaria en lactantes",
+  "epigraf_v1": "E2.8"
+ },
+ {
+  "id": "ics-dsi-2024-A-57",
+  "epigraf": "E5.8",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Glaucoma agudo de ángulo cerrado",
+  "epigraf_v1": "E5.3"
  },
  {
   "id": "ics-dsi-2024-A-58",
+  "epigraf": "E7.7",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Factores de riesgo predictivos de caídas",
+  "epigraf_v1": "E7.6"
+ },
+ {
+  "id": "ics-dsi-2024-A-59",
+  "epigraf": "E5.17",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Cuidados paliativos pediátricos: objetivo",
+  "epigraf_v1": "E5.7"
+ },
+ {
+  "id": "ics-dsi-2024-A-6",
+  "epigraf": "E5.9",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Actuación ante epistaxis",
+  "epigraf_v1": "E5.3"
+ },
+ {
+  "id": "ics-dsi-2024-A-60",
+  "epigraf": "E1.11",
+  "secondary": null,
+  "confidence": "high",
+  "currency": "ok",
+  "currency_reason": null,
+  "concept": "Error alfa en contraste de hipótesis",
+  "epigraf_v1": "E1.8"
+ },
+ {
+  "id": "ics-dsi-2024-A-61",
   "epigraf": "E7.6",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Factores de riesgo predictivos de caídas"
- },
- {
-  "id": "ics-dsi-2024-A-59",
-  "epigraf": "E5.7",
-  "secondary": "E2.8",
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Cuidados paliativos pediátricos: objetivo"
- },
- {
-  "id": "ics-dsi-2024-A-6",
-  "epigraf": "E5.3",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Actuación ante epistaxis"
- },
- {
-  "id": "ics-dsi-2024-A-60",
-  "epigraf": "E1.8",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Error alfa en contraste de hipótesis"
- },
- {
-  "id": "ics-dsi-2024-A-61",
-  "epigraf": "E7.4",
-  "secondary": null,
-  "confidence": "high",
-  "currency": "ok",
-  "currency_reason": null,
-  "concept": "Concepto de segunda víctima"
+  "concept": "Concepto de segunda víctima",
+  "epigraf_v1": "E7.4"
  },
  {
   "id": "ics-dsi-2024-A-62",
-  "epigraf": "E1.4",
-  "secondary": "E5.4",
+  "epigraf": "E1.6",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Plan de cuidados estandarizado del linfoma mediastínico"
+  "concept": "Plan de cuidados estandarizado del linfoma mediastínico",
+  "epigraf_v1": "E1.4"
  },
  {
   "id": "ics-dsi-2024-A-63",
-  "epigraf": "E5.7",
+  "epigraf": "E5.17",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Escala de Ramsay en sedación paliativa"
+  "concept": "Escala de Ramsay en sedación paliativa",
+  "epigraf_v1": "E5.7"
  },
  {
   "id": "ics-dsi-2024-A-64",
-  "epigraf": "E7.1",
+  "epigraf": "E7.2",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Antisepsia cutánea en lactantes"
+  "concept": "Antisepsia cutánea en lactantes",
+  "epigraf_v1": "E7.1"
  },
  {
   "id": "ics-dsi-2024-A-65",
-  "epigraf": "E4.3",
-  "secondary": "E2.2",
+  "epigraf": "E4.15",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Cribado de dislipemia según PAPPS"
+  "concept": "Cribado de dislipemia según PAPPS",
+  "epigraf_v1": "E4.3"
  },
  {
   "id": "ics-dsi-2024-A-66",
-  "epigraf": "E2.14",
-  "secondary": "E2.8",
+  "epigraf": "E5.12",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Signos de hipertensión intracraneal en lactantes"
+  "concept": "Signos de hipertensión intracraneal en lactantes",
+  "epigraf_v1": "E2.14"
  },
  {
   "id": "ics-dsi-2024-A-67",
-  "epigraf": "E6.9",
+  "epigraf": "E6.12",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Técnica de lavado (flushing) de catéteres"
+  "concept": "Técnica de lavado (flushing) de catéteres",
+  "epigraf_v1": "E6.9"
  },
  {
   "id": "ics-dsi-2024-A-68",
-  "epigraf": "E4.4",
+  "epigraf": "E4.7",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Tipos de crisis epilépticas"
+  "concept": "Tipos de crisis epilépticas",
+  "epigraf_v1": "E4.4"
  },
  {
   "id": "ics-dsi-2024-A-69",
-  "epigraf": "E3.6",
+  "epigraf": "E3.15",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Insuficiencia renal aguda prerrenal"
+  "concept": "Insuficiencia renal aguda prerrenal",
+  "epigraf_v1": "E3.6"
  },
  {
   "id": "ics-dsi-2024-A-7",
-  "epigraf": "E3.7",
-  "secondary": "E2.3",
+  "epigraf": "E3.19",
+  "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Transmisión y vacunación del VPH"
+  "concept": "Transmisión y vacunación del VPH",
+  "epigraf_v1": "E3.7"
  },
  {
   "id": "ics-dsi-2024-A-70",
-  "epigraf": "E1.9",
+  "epigraf": "E1.12",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Diseño cualitativo fenomenológico"
+  "concept": "Diseño cualitativo fenomenológico",
+  "epigraf_v1": "E1.9"
  },
  {
   "id": "ics-dsi-2024-A-8",
-  "epigraf": "E3.8",
-  "secondary": "E3.1",
+  "epigraf": "E3.3",
+  "secondary": null,
   "confidence": "medium",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Antídoto en intoxicación por metotrexato"
+  "concept": "Antídoto en intoxicación por metotrexato",
+  "epigraf_v1": "E3.8"
  },
  {
   "id": "ics-dsi-2024-A-9",
-  "epigraf": "E4.5",
+  "epigraf": "E4.8",
   "secondary": null,
   "confidence": "high",
   "currency": "ok",
   "currency_reason": null,
-  "concept": "Anatomía del manguito rotador"
+  "concept": "Anatomía del manguito rotador",
+  "epigraf_v1": "E4.5"
  }
 ]

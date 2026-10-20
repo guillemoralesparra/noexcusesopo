@@ -1,0 +1,9313 @@
+{
+ "_doc": "Epígrafs del temari v2 (prevalen sobre part*.json, overrides.json i processed_*.json). Generat per scripts/reclass_v2.py.",
+ "ics-dsi-2015-A-1": {
+  "epigraf": "E5.11",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dsi-2015-A-10": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dsi-2015-A-100": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-dsi-2015-A-11": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-dsi-2015-A-12": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2015-A-13": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dsi-2015-A-14": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2015-A-15": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dsi-2015-A-16": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2015-A-17": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2015-A-18": {
+  "epigraf": "E1.12",
+  "secondary": null,
+  "epigraf_v1": "E1.9"
+ },
+ "ics-dsi-2015-A-19": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-dsi-2015-A-2": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dsi-2015-A-20": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dsi-2015-A-21": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2015-A-22": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dsi-2015-A-23": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dsi-2015-A-24": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-dsi-2015-A-25": {
+  "epigraf": "T3.3",
+  "secondary": null,
+  "epigraf_v1": "T3.2"
+ },
+ "ics-dsi-2015-A-26": {
+  "epigraf": "E6.7",
+  "secondary": null,
+  "epigraf_v1": "E6.5"
+ },
+ "ics-dsi-2015-A-27": {
+  "epigraf": "E7.7",
+  "secondary": null,
+  "epigraf_v1": "E7.6"
+ },
+ "ics-dsi-2015-A-28": {
+  "epigraf": "E5.8",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-dsi-2015-A-29": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dsi-2015-A-3": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dsi-2015-A-30": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2015-A-31": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-dsi-2015-A-32": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dsi-2015-A-33": {
+  "epigraf": "E5.1",
+  "secondary": null,
+  "epigraf_v1": "E5.8"
+ },
+ "ics-dsi-2015-A-34": {
+  "epigraf": "E5.9",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-dsi-2015-A-35": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-dsi-2015-A-36": {
+  "epigraf": "E2.12",
+  "secondary": null,
+  "epigraf_v1": "E2.10"
+ },
+ "ics-dsi-2015-A-37": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2015-A-38": {
+  "epigraf": "E8.1",
+  "secondary": null,
+  "epigraf_v1": "E8.1"
+ },
+ "ics-dsi-2015-A-39": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2015-A-4": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dsi-2015-A-40": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2015-A-41": {
+  "epigraf": "T8.1",
+  "secondary": null,
+  "epigraf_v1": "T8.1"
+ },
+ "ics-dsi-2015-A-42": {
+  "epigraf": "E6.1",
+  "secondary": null,
+  "epigraf_v1": "E6.1"
+ },
+ "ics-dsi-2015-A-43": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dsi-2015-A-44": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.4"
+ },
+ "ics-dsi-2015-A-45": {
+  "epigraf": "T3.3",
+  "secondary": null,
+  "epigraf_v1": "T3.4"
+ },
+ "ics-dsi-2015-A-46": {
+  "epigraf": "E5.16",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dsi-2015-A-47": {
+  "epigraf": "T7.4",
+  "secondary": null,
+  "epigraf_v1": "T7.4"
+ },
+ "ics-dsi-2015-A-48": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dsi-2015-A-49": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dsi-2015-A-5": {
+  "epigraf": "E5.1",
+  "secondary": null,
+  "epigraf_v1": "E5.8"
+ },
+ "ics-dsi-2015-A-50": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2015-A-51": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dsi-2015-A-52": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2015-A-53": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dsi-2015-A-54": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-dsi-2015-A-55": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dsi-2015-A-56": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dsi-2015-A-57": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dsi-2015-A-58": {
+  "epigraf": "E3.4",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2015-A-59": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dsi-2015-A-6": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2015-A-60": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dsi-2015-A-61": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2015-A-62": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dsi-2015-A-63": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2015-A-64": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2015-A-65": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E2.4"
+ },
+ "ics-dsi-2015-A-66": {
+  "epigraf": "E8.1",
+  "secondary": null,
+  "epigraf_v1": "E8.1"
+ },
+ "ics-dsi-2015-A-67": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2015-A-68": {
+  "epigraf": "E4.4",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-dsi-2015-A-69": {
+  "epigraf": "E2.8",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-dsi-2015-A-7": {
+  "epigraf": "E8.1",
+  "secondary": null,
+  "epigraf_v1": "E8.1"
+ },
+ "ics-dsi-2015-A-70": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dsi-2015-A-71": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2015-A-72": {
+  "epigraf": "E1.3",
+  "secondary": null,
+  "epigraf_v1": "E1.1"
+ },
+ "ics-dsi-2015-A-73": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dsi-2015-A-74": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-dsi-2015-A-75": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2015-A-76": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2015-A-77": {
+  "epigraf": "E5.14",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dsi-2015-A-78": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dsi-2015-A-79": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-dsi-2015-A-8": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2015-A-80": {
+  "epigraf": "E1.9",
+  "secondary": null,
+  "epigraf_v1": "E1.7"
+ },
+ "ics-dsi-2015-A-81": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dsi-2015-A-82": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-dsi-2015-A-83": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dsi-2015-A-84": {
+  "epigraf": "E8.1",
+  "secondary": null,
+  "epigraf_v1": "E8.1"
+ },
+ "ics-dsi-2015-A-85": {
+  "epigraf": "E4.2",
+  "secondary": null,
+  "epigraf_v1": "E4.9"
+ },
+ "ics-dsi-2015-A-86": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-dsi-2015-A-87": {
+  "epigraf": "E5.19",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dsi-2015-A-88": {
+  "epigraf": "E3.5",
+  "secondary": null,
+  "epigraf_v1": "E3.2"
+ },
+ "ics-dsi-2015-A-89": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2015-A-9": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dsi-2015-A-90": {
+  "epigraf": "E2.14",
+  "secondary": null,
+  "epigraf_v1": "E2.12"
+ },
+ "ics-dsi-2015-A-91": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2015-A-92": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dsi-2015-A-93": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E6.10"
+ },
+ "ics-dsi-2015-A-94": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dsi-2015-A-95": {
+  "epigraf": "E3.7",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2015-A-96": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dsi-2015-A-97": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dsi-2015-A-98": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-dsi-2015-A-99": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dsi-2016PI-1": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2016PI-10": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dsi-2016PI-101": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2016PI-102": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2016PI-103": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2016PI-104": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2016PI-105": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-dsi-2016PI-106": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2016PI-107": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2016PI-108": {
+  "epigraf": "E3.9",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2016PI-109": {
+  "epigraf": "E7.7",
+  "secondary": null,
+  "epigraf_v1": "E7.6"
+ },
+ "ics-dsi-2016PI-11": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2016PI-110": {
+  "epigraf": "E1.8",
+  "secondary": null,
+  "epigraf_v1": "E1.6"
+ },
+ "ics-dsi-2016PI-111": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2016PI-112": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2016PI-113": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dsi-2016PI-114": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dsi-2016PI-115": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-dsi-2016PI-116": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-dsi-2016PI-117": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2016PI-118": {
+  "epigraf": "E7.11",
+  "secondary": null,
+  "epigraf_v1": "E7.9"
+ },
+ "ics-dsi-2016PI-119": {
+  "epigraf": "E6.11",
+  "secondary": null,
+  "epigraf_v1": "E6.11"
+ },
+ "ics-dsi-2016PI-12": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-dsi-2016PI-120": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-dsi-2016PI-121": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2016PI-122": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2016PI-123": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2016PI-124": {
+  "epigraf": "E2.7",
+  "secondary": null,
+  "epigraf_v1": "E2.6"
+ },
+ "ics-dsi-2016PI-125": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E2.4"
+ },
+ "ics-dsi-2016PI-126": {
+  "epigraf": "E2.8",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-dsi-2016PI-127": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2016PI-128": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2016PI-129": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2016PI-13": {
+  "epigraf": "E7.1",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dsi-2016PI-130": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2016PI-131": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2016PI-132": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2016PI-133": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2016PI-134": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2016PI-135": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dsi-2016PI-136": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-dsi-2016PI-137": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-dsi-2016PI-138": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2016PI-139": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dsi-2016PI-14": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dsi-2016PI-140": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2016PI-15": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2016PI-16": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dsi-2016PI-17": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2016PI-18": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-dsi-2016PI-19": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2016PI-2": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2016PI-20": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-dsi-2016PI-21": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2016PI-22": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2016PI-23": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dsi-2016PI-24": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2016PI-25": {
+  "epigraf": "E5.1",
+  "secondary": null,
+  "epigraf_v1": "E5.8"
+ },
+ "ics-dsi-2016PI-26": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2016PI-27": {
+  "epigraf": "E4.2",
+  "secondary": null,
+  "epigraf_v1": "E4.9"
+ },
+ "ics-dsi-2016PI-28": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-dsi-2016PI-29": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dsi-2016PI-3": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2016PI-30": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dsi-2016PI-31": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dsi-2016PI-32": {
+  "epigraf": "E5.14",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dsi-2016PI-33": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dsi-2016PI-34": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2016PI-35": {
+  "epigraf": "E7.6",
+  "secondary": null,
+  "epigraf_v1": "E7.4"
+ },
+ "ics-dsi-2016PI-36": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2016PI-37": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dsi-2016PI-38": {
+  "epigraf": "E2.3",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-dsi-2016PI-39": {
+  "epigraf": "E1.12",
+  "secondary": null,
+  "epigraf_v1": "E1.9"
+ },
+ "ics-dsi-2016PI-4": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dsi-2016PI-40": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2016PI-41": {
+  "epigraf": "E1.3",
+  "secondary": null,
+  "epigraf_v1": "E1.1"
+ },
+ "ics-dsi-2016PI-42": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dsi-2016PI-43": {
+  "epigraf": "T1.3",
+  "secondary": null,
+  "epigraf_v1": "T1.3"
+ },
+ "ics-dsi-2016PI-44": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2016PI-45": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-dsi-2016PI-46": {
+  "epigraf": "E2.10",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2016PI-47": {
+  "epigraf": "E2.8",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-dsi-2016PI-48": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2016PI-49": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-dsi-2016PI-5": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2016PI-50": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-dsi-2016PI-6": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2016PI-7": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dsi-2016PI-8": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-dsi-2016PI-9": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dsi-2019-A-1": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-dsi-2019-A-10": {
+  "epigraf": "E8.3",
+  "secondary": null,
+  "epigraf_v1": "E8.3"
+ },
+ "ics-dsi-2019-A-101": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-dsi-2019-A-102": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dsi-2019-A-103": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dsi-2019-A-104": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dsi-2019-A-105": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dsi-2019-A-106": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dsi-2019-A-107": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-dsi-2019-A-108": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2019-A-109": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dsi-2019-A-11": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2019-A-110": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-dsi-2019-A-111": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2019-A-112": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-dsi-2019-A-113": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-dsi-2019-A-114": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dsi-2019-A-115": {
+  "epigraf": "E7.11",
+  "secondary": null,
+  "epigraf_v1": "E7.9"
+ },
+ "ics-dsi-2019-A-116": {
+  "epigraf": "E3.7",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2019-A-117": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dsi-2019-A-118": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2019-A-119": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2019-A-12": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dsi-2019-A-120": {
+  "epigraf": "E4.2",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2019-A-121": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2019-A-122": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2019-A-123": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2019-A-124": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dsi-2019-A-13": {
+  "epigraf": "E1.12",
+  "secondary": null,
+  "epigraf_v1": "E1.9"
+ },
+ "ics-dsi-2019-A-14": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dsi-2019-A-15": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-dsi-2019-A-16": {
+  "epigraf": "T9.2",
+  "secondary": null,
+  "epigraf_v1": "T9.2"
+ },
+ "ics-dsi-2019-A-17": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dsi-2019-A-18": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2019-A-19": {
+  "epigraf": "E5.11",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dsi-2019-A-2": {
+  "epigraf": "T2.3",
+  "secondary": null,
+  "epigraf_v1": "T2.3"
+ },
+ "ics-dsi-2019-A-20": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dsi-2019-A-21": {
+  "epigraf": "E2.3",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-dsi-2019-A-22": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2019-A-23": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-dsi-2019-A-24": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2019-A-25": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2019-A-26": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dsi-2019-A-27": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dsi-2019-A-28": {
+  "epigraf": "E1.3",
+  "secondary": null,
+  "epigraf_v1": "E1.1"
+ },
+ "ics-dsi-2019-A-29": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2019-A-3": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2019-A-30": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2019-A-31": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-dsi-2019-A-32": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2019-A-33": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-dsi-2019-A-34": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dsi-2019-A-35": {
+  "epigraf": "E5.9",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-dsi-2019-A-36": {
+  "epigraf": "E7.5",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-dsi-2019-A-37": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2019-A-38": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dsi-2019-A-39": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-dsi-2019-A-4": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dsi-2019-A-40": {
+  "epigraf": "E2.3",
+  "secondary": "E3.12",
+  "epigraf_v1": "E2.2"
+ },
+ "ics-dsi-2019-A-41": {
+  "epigraf": "E7.2",
+  "secondary": null,
+  "epigraf_v1": "E7.1"
+ },
+ "ics-dsi-2019-A-42": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-dsi-2019-A-43": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dsi-2019-A-44": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2019-A-45": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2019-A-46": {
+  "epigraf": "E4.2",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-dsi-2019-A-47": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dsi-2019-A-48": {
+  "epigraf": "E1.3",
+  "secondary": null,
+  "epigraf_v1": "E1.1"
+ },
+ "ics-dsi-2019-A-49": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dsi-2019-A-5": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dsi-2019-A-50": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2019-A-51": {
+  "epigraf": "E8.1",
+  "secondary": null,
+  "epigraf_v1": "E8.1"
+ },
+ "ics-dsi-2019-A-52": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2019-A-53": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dsi-2019-A-54": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dsi-2019-A-55": {
+  "epigraf": "E5.9",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-dsi-2019-A-56": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dsi-2019-A-57": {
+  "epigraf": "T7.3",
+  "secondary": null,
+  "epigraf_v1": "T7.3"
+ },
+ "ics-dsi-2019-A-58": {
+  "epigraf": "E2.12",
+  "secondary": null,
+  "epigraf_v1": "E2.10"
+ },
+ "ics-dsi-2019-A-59": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2019-A-6": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dsi-2019-A-60": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dsi-2019-A-61": {
+  "epigraf": "E5.11",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dsi-2019-A-62": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2019-A-63": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dsi-2019-A-64": {
+  "epigraf": "E5.2",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2019-A-65": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dsi-2019-A-66": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-dsi-2019-A-67": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2019-A-68": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2019-A-69": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dsi-2019-A-7": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-dsi-2019-A-70": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dsi-2019-A-71": {
+  "epigraf": "T1.3",
+  "secondary": null,
+  "epigraf_v1": "T1.3"
+ },
+ "ics-dsi-2019-A-72": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dsi-2019-A-73": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2019-A-74": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2019-A-75": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-dsi-2019-A-76": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-dsi-2019-A-8": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-dsi-2019-A-9": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dsi-2024-A-1": {
+  "epigraf": "E5.2",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2024-A-10": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dsi-2024-A-101": {
+  "epigraf": "E3.1",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2024-A-102": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2024-A-103": {
+  "epigraf": "E6.7",
+  "secondary": null,
+  "epigraf_v1": "E6.5"
+ },
+ "ics-dsi-2024-A-104": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2024-A-105": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dsi-2024-A-106": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E6.10"
+ },
+ "ics-dsi-2024-A-107": {
+  "epigraf": "E6.12",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dsi-2024-A-108": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E2.4"
+ },
+ "ics-dsi-2024-A-109": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dsi-2024-A-11": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dsi-2024-A-110": {
+  "epigraf": "E7.6",
+  "secondary": null,
+  "epigraf_v1": "E7.4"
+ },
+ "ics-dsi-2024-A-111": {
+  "epigraf": "E3.5",
+  "secondary": null,
+  "epigraf_v1": "E3.2"
+ },
+ "ics-dsi-2024-A-112": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dsi-2024-A-113": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dsi-2024-A-114": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dsi-2024-A-115": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2024-A-116": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-dsi-2024-A-117": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-dsi-2024-A-118": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2024-A-119": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2024-A-12": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-dsi-2024-A-120": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2024-A-121": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dsi-2024-A-122": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-dsi-2024-A-123": {
+  "epigraf": "E3.4",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2024-A-124": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2024-A-125": {
+  "epigraf": "E2.7",
+  "secondary": null,
+  "epigraf_v1": "E2.6"
+ },
+ "ics-dsi-2024-A-13": {
+  "epigraf": "E7.6",
+  "secondary": null,
+  "epigraf_v1": "E7.4"
+ },
+ "ics-dsi-2024-A-14": {
+  "epigraf": "T6.1",
+  "secondary": null,
+  "epigraf_v1": "T6.1"
+ },
+ "ics-dsi-2024-A-15": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2024-A-16": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dsi-2024-A-17": {
+  "epigraf": "E2.3",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-dsi-2024-A-18": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dsi-2024-A-19": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-dsi-2024-A-2": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dsi-2024-A-20": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.3"
+ },
+ "ics-dsi-2024-A-21": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-dsi-2024-A-22": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dsi-2024-A-23": {
+  "epigraf": "E5.11",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dsi-2024-A-24": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dsi-2024-A-25": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-dsi-2024-A-26": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dsi-2024-A-27": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dsi-2024-A-28": {
+  "epigraf": "E3.5",
+  "secondary": null,
+  "epigraf_v1": "E3.2"
+ },
+ "ics-dsi-2024-A-29": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-dsi-2024-A-3": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dsi-2024-A-30": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dsi-2024-A-31": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-dsi-2024-A-32": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2024-A-33": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dsi-2024-A-34": {
+  "epigraf": "T2.3",
+  "secondary": null,
+  "epigraf_v1": "T2.3"
+ },
+ "ics-dsi-2024-A-35": {
+  "epigraf": "E4.10",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dsi-2024-A-36": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dsi-2024-A-37": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dsi-2024-A-38": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2024-A-39": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-dsi-2024-A-4": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dsi-2024-A-40": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dsi-2024-A-41": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-dsi-2024-A-42": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dsi-2024-A-43": {
+  "epigraf": "E5.9",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-dsi-2024-A-44": {
+  "epigraf": "T3.3",
+  "secondary": null,
+  "epigraf_v1": "T3.4"
+ },
+ "ics-dsi-2024-A-45": {
+  "epigraf": "E5.1",
+  "secondary": null,
+  "epigraf_v1": "E5.8"
+ },
+ "ics-dsi-2024-A-46": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dsi-2024-A-47": {
+  "epigraf": "E5.14",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dsi-2024-A-48": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dsi-2024-A-49": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2024-A-5": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dsi-2024-A-50": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dsi-2024-A-51": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dsi-2024-A-52": {
+  "epigraf": "T9.1",
+  "secondary": null,
+  "epigraf_v1": "T9.3"
+ },
+ "ics-dsi-2024-A-53": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2024-A-54": {
+  "epigraf": "E1.3",
+  "secondary": null,
+  "epigraf_v1": "E1.1"
+ },
+ "ics-dsi-2024-A-55": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dsi-2024-A-56": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dsi-2024-A-57": {
+  "epigraf": "E5.8",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-dsi-2024-A-58": {
+  "epigraf": "E7.7",
+  "secondary": null,
+  "epigraf_v1": "E7.6"
+ },
+ "ics-dsi-2024-A-59": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dsi-2024-A-6": {
+  "epigraf": "E5.9",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-dsi-2024-A-60": {
+  "epigraf": "E1.11",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dsi-2024-A-61": {
+  "epigraf": "E7.6",
+  "secondary": null,
+  "epigraf_v1": "E7.4"
+ },
+ "ics-dsi-2024-A-62": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dsi-2024-A-63": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dsi-2024-A-64": {
+  "epigraf": "E7.2",
+  "secondary": null,
+  "epigraf_v1": "E7.1"
+ },
+ "ics-dsi-2024-A-65": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-dsi-2024-A-66": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-dsi-2024-A-67": {
+  "epigraf": "E6.12",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dsi-2024-A-68": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dsi-2024-A-69": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dsi-2024-A-7": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-dsi-2024-A-70": {
+  "epigraf": "E1.12",
+  "secondary": null,
+  "epigraf_v1": "E1.9"
+ },
+ "ics-dsi-2024-A-8": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-dsi-2024-A-9": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dui-hbcn-2010-1": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hbcn-2010-10": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hbcn-2010-11": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hbcn-2010-12": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hbcn-2010-13": {
+  "epigraf": "E2.3",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-dui-hbcn-2010-14": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-hbcn-2010-15": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hbcn-2010-16": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hbcn-2010-17": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dui-hbcn-2010-18": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hbcn-2010-19": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-hbcn-2010-2": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hbcn-2010-20": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-dui-hbcn-2010-21": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dui-hbcn-2010-22": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dui-hbcn-2010-23": {
+  "epigraf": "E3.9",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-hbcn-2010-24": {
+  "epigraf": "E7.8",
+  "secondary": null,
+  "epigraf_v1": "E7.4"
+ },
+ "ics-dui-hbcn-2010-25": {
+  "epigraf": "E7.8",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dui-hbcn-2010-26": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hbcn-2010-27": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hbcn-2010-28": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dui-hbcn-2010-29": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hbcn-2010-3": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hbcn-2010-30": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dui-hbcn-2010-31": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hbcn-2010-32": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dui-hbcn-2010-33": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dui-hbcn-2010-34": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dui-hbcn-2010-35": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dui-hbcn-2010-36": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dui-hbcn-2010-37": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-dui-hbcn-2010-38": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dui-hbcn-2010-39": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dui-hbcn-2010-4": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-hbcn-2010-40": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hbcn-2010-41": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-hbcn-2010-42": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dui-hbcn-2010-43": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dui-hbcn-2010-44": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dui-hbcn-2010-45": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-hbcn-2010-46": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "E7.4"
+ },
+ "ics-dui-hbcn-2010-47": {
+  "epigraf": "E1.11",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-hbcn-2010-48": {
+  "epigraf": "E4.2",
+  "secondary": null,
+  "epigraf_v1": "E4.9"
+ },
+ "ics-dui-hbcn-2010-49": {
+  "epigraf": "E3.9",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-hbcn-2010-5": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hbcn-2010-50": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-dui-hbcn-2010-51": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dui-hbcn-2010-52": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hbcn-2010-53": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-hbcn-2010-54": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hbcn-2010-55": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hbcn-2010-56": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hbcn-2010-57": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hbcn-2010-58": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E6.10"
+ },
+ "ics-dui-hbcn-2010-59": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hbcn-2010-6": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-hbcn-2010-60": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hbcn-2010-61": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dui-hbcn-2010-62": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hbcn-2010-63": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dui-hbcn-2010-64": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dui-hbcn-2010-65": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-dui-hbcn-2010-66": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-dui-hbcn-2010-67": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-dui-hbcn-2010-68": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-dui-hbcn-2010-69": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dui-hbcn-2010-7": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dui-hbcn-2010-70": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dui-hbcn-2010-71": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-hbcn-2010-72": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dui-hbcn-2010-73": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-hbcn-2010-74": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-dui-hbcn-2010-76": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-dui-hbcn-2010-77": {
+  "epigraf": "E5.2",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dui-hbcn-2010-78": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-hbcn-2010-79": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-dui-hbcn-2010-8": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hbcn-2010-80": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-dui-hbcn-2010-81": {
+  "epigraf": "E5.11",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hbcn-2010-82": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hbcn-2010-83": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hbcn-2010-84": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hbcn-2010-85": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hbcn-2010-86": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dui-hbcn-2010-87": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dui-hbcn-2010-88": {
+  "epigraf": "T4.4",
+  "secondary": null,
+  "epigraf_v1": "T4.4"
+ },
+ "ics-dui-hbcn-2010-89": {
+  "epigraf": "T2.2",
+  "secondary": null,
+  "epigraf_v1": "T2.1"
+ },
+ "ics-dui-hbcn-2010-9": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dui-hbcn-2010-90": {
+  "epigraf": "T1.3",
+  "secondary": null,
+  "epigraf_v1": "T1.3"
+ },
+ "ics-dui-hgirona-2009-1": {
+  "epigraf": "T4.2",
+  "secondary": null,
+  "epigraf_v1": "T4.2"
+ },
+ "ics-dui-hgirona-2009-10": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-dui-hgirona-2009-11": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-hgirona-2009-12": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-hgirona-2009-13": {
+  "epigraf": "E5.2",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-hgirona-2009-14": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-hgirona-2009-15": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-hgirona-2009-16": {
+  "epigraf": "E4.4",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-dui-hgirona-2009-17": {
+  "epigraf": "E6.13",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-hgirona-2009-18": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hgirona-2009-19": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dui-hgirona-2009-2": {
+  "epigraf": "T4.2",
+  "secondary": null,
+  "epigraf_v1": "T4.2"
+ },
+ "ics-dui-hgirona-2009-20": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-dui-hgirona-2009-21": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hgirona-2009-22": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hgirona-2009-23": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dui-hgirona-2009-24": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dui-hgirona-2009-25": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dui-hgirona-2009-26": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hgirona-2009-27": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hgirona-2009-28": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-hgirona-2009-29": {
+  "epigraf": "E7.2",
+  "secondary": null,
+  "epigraf_v1": "E7.1"
+ },
+ "ics-dui-hgirona-2009-3": {
+  "epigraf": "T1.3",
+  "secondary": null,
+  "epigraf_v1": "T1.3"
+ },
+ "ics-dui-hgirona-2009-30": {
+  "epigraf": "E3.4",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-hgirona-2009-31": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-hgirona-2009-32": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dui-hgirona-2009-33": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dui-hgirona-2009-34": {
+  "epigraf": "E6.1",
+  "secondary": null,
+  "epigraf_v1": "E6.1"
+ },
+ "ics-dui-hgirona-2009-35": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-dui-hgirona-2009-36": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hgirona-2009-37": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hgirona-2009-38": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hgirona-2009-39": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dui-hgirona-2009-4": {
+  "epigraf": "T1.3",
+  "secondary": null,
+  "epigraf_v1": "T1.3"
+ },
+ "ics-dui-hgirona-2009-40": {
+  "epigraf": "E5.14",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dui-hgirona-2009-41": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dui-hgirona-2009-43": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dui-hgirona-2009-44": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dui-hgirona-2009-45": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dui-hgirona-2009-46": {
+  "epigraf": "E5.8",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-dui-hgirona-2009-47": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hgirona-2009-48": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dui-hgirona-2009-49": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dui-hgirona-2009-5": {
+  "epigraf": "T1.1",
+  "secondary": null,
+  "epigraf_v1": "T1.1"
+ },
+ "ics-dui-hgirona-2009-50": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-dui-hgirona-2009-51": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dui-hgirona-2009-52": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hgirona-2009-53": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dui-hgirona-2009-54": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dui-hgirona-2009-55": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dui-hgirona-2009-56": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dui-hgirona-2009-57": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dui-hgirona-2009-58": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dui-hgirona-2009-59": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hgirona-2009-6": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dui-hgirona-2009-60": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-dui-hgirona-2009-61": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hgirona-2009-62": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hgirona-2009-63": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-hgirona-2009-64": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.1"
+ },
+ "ics-dui-hgirona-2009-65": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.3"
+ },
+ "ics-dui-hgirona-2009-66": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dui-hgirona-2009-67": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dui-hgirona-2009-68": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E2.4"
+ },
+ "ics-dui-hgirona-2009-69": {
+  "epigraf": "E2.7",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dui-hgirona-2009-7": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dui-hgirona-2009-70": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-hgirona-2009-71": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-hgirona-2009-72": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-dui-hgirona-2009-73": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dui-hgirona-2009-74": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dui-hgirona-2009-75": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dui-hgirona-2009-76": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-dui-hgirona-2009-77": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dui-hgirona-2009-78": {
+  "epigraf": "E6.7",
+  "secondary": null,
+  "epigraf_v1": "E6.5"
+ },
+ "ics-dui-hgirona-2009-79": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hgirona-2009-8": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-dui-hgirona-2009-80": {
+  "epigraf": "T9.1",
+  "secondary": null,
+  "epigraf_v1": "T9.1"
+ },
+ "ics-dui-hgirona-2009-9": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.2"
+ },
+ "ics-dui-hlleida-2009-1": {
+  "epigraf": "E6.13",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dui-hlleida-2009-10": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-hlleida-2009-11": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dui-hlleida-2009-12": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dui-hlleida-2009-13": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hlleida-2009-14": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hlleida-2009-15": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-hlleida-2009-16": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-hlleida-2009-17": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hlleida-2009-18": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hlleida-2009-19": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hlleida-2009-2": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-hlleida-2009-20": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-hlleida-2009-21": {
+  "epigraf": "E3.9",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-hlleida-2009-22": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-hlleida-2009-23": {
+  "epigraf": "E3.9",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-hlleida-2009-24": {
+  "epigraf": "E3.4",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-hlleida-2009-25": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hlleida-2009-26": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hlleida-2009-27": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hlleida-2009-28": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-dui-hlleida-2009-29": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hlleida-2009-3": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dui-hlleida-2009-30": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hlleida-2009-31": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hlleida-2009-32": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hlleida-2009-33": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hlleida-2009-34": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-dui-hlleida-2009-35": {
+  "epigraf": "E8.2",
+  "secondary": null,
+  "epigraf_v1": "E8.2"
+ },
+ "ics-dui-hlleida-2009-36": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-hlleida-2009-37": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-hlleida-2009-38": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hlleida-2009-39": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hlleida-2009-4": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-hlleida-2009-40": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hlleida-2009-41": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hlleida-2009-42": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hlleida-2009-43": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-hlleida-2009-44": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E6.10"
+ },
+ "ics-dui-hlleida-2009-45": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E6.10"
+ },
+ "ics-dui-hlleida-2009-46": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E6.11"
+ },
+ "ics-dui-hlleida-2009-47": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dui-hlleida-2009-48": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dui-hlleida-2009-49": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dui-hlleida-2009-5": {
+  "epigraf": "E2.7",
+  "secondary": null,
+  "epigraf_v1": "E2.6"
+ },
+ "ics-dui-hlleida-2009-50": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dui-hlleida-2009-51": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dui-hlleida-2009-52": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dui-hlleida-2009-53": {
+  "epigraf": "T9.1",
+  "secondary": null,
+  "epigraf_v1": "T9.1"
+ },
+ "ics-dui-hlleida-2009-54": {
+  "epigraf": "T9.1",
+  "secondary": null,
+  "epigraf_v1": "T9.1"
+ },
+ "ics-dui-hlleida-2009-55": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-dui-hlleida-2009-56": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dui-hlleida-2009-57": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-dui-hlleida-2009-58": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-hlleida-2009-59": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-dui-hlleida-2009-6": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dui-hlleida-2009-60": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dui-hlleida-2009-61": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dui-hlleida-2009-62": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hlleida-2009-63": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hlleida-2009-64": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dui-hlleida-2009-65": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dui-hlleida-2009-66": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hlleida-2009-67": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-hlleida-2009-68": {
+  "epigraf": "E1.12",
+  "secondary": null,
+  "epigraf_v1": "E1.9"
+ },
+ "ics-dui-hlleida-2009-69": {
+  "epigraf": "E1.12",
+  "secondary": null,
+  "epigraf_v1": "E1.9"
+ },
+ "ics-dui-hlleida-2009-7": {
+  "epigraf": "E5.19",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dui-hlleida-2009-70": {
+  "epigraf": "E3.14",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dui-hlleida-2009-71": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dui-hlleida-2009-72": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-hlleida-2009-73": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-dui-hlleida-2009-74": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-dui-hlleida-2009-75": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-dui-hlleida-2009-76": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.1"
+ },
+ "ics-dui-hlleida-2009-77": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-hlleida-2009-78": {
+  "epigraf": "E5.2",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-hlleida-2009-79": {
+  "epigraf": "T2.2",
+  "secondary": null,
+  "epigraf_v1": "T2.1"
+ },
+ "ics-dui-hlleida-2009-8": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-hlleida-2009-80": {
+  "epigraf": "T2.1",
+  "secondary": null,
+  "epigraf_v1": "T2.1"
+ },
+ "ics-dui-hlleida-2009-9": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-dui-htarragona-2008-1": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dui-htarragona-2008-10": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dui-htarragona-2008-11": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-htarragona-2008-12": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-htarragona-2008-13": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-htarragona-2008-14": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-htarragona-2008-15": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dui-htarragona-2008-16": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dui-htarragona-2008-17": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-htarragona-2008-18": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dui-htarragona-2008-19": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dui-htarragona-2008-2": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-dui-htarragona-2008-20": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-dui-htarragona-2008-21": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-dui-htarragona-2008-22": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-htarragona-2008-23": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dui-htarragona-2008-24": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dui-htarragona-2008-25": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-dui-htarragona-2008-26": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dui-htarragona-2008-27": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dui-htarragona-2008-28": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-dui-htarragona-2008-29": {
+  "epigraf": "E6.12",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-dui-htarragona-2008-3": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dui-htarragona-2008-30": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E7.7"
+ },
+ "ics-dui-htarragona-2008-31": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-htarragona-2008-32": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-dui-htarragona-2008-33": {
+  "epigraf": "E3.7",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-htarragona-2008-34": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-htarragona-2008-35": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dui-htarragona-2008-36": {
+  "epigraf": "E3.20",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-dui-htarragona-2008-37": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-htarragona-2008-38": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-dui-htarragona-2008-39": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-htarragona-2008-4": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-dui-htarragona-2008-40": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-dui-htarragona-2008-41": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dui-htarragona-2008-42": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-htarragona-2008-43": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dui-htarragona-2008-44": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.1"
+ },
+ "ics-dui-htarragona-2008-45": {
+  "epigraf": "E5.4",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-htarragona-2008-46": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-dui-htarragona-2008-47": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-dui-htarragona-2008-48": {
+  "epigraf": "E6.3",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dui-htarragona-2008-49": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-dui-htarragona-2008-5": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-dui-htarragona-2008-50": {
+  "epigraf": "T3.3",
+  "secondary": null,
+  "epigraf_v1": "T3.2"
+ },
+ "ics-dui-htarragona-2008-51": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-dui-htarragona-2008-52": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-htarragona-2008-53": {
+  "epigraf": "T4.2",
+  "secondary": null,
+  "epigraf_v1": "T4.2"
+ },
+ "ics-dui-htarragona-2008-54": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dui-htarragona-2008-55": {
+  "epigraf": "E3.20",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-dui-htarragona-2008-56": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-htarragona-2008-57": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-dui-htarragona-2008-58": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E6.10"
+ },
+ "ics-dui-htarragona-2008-59": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-htarragona-2008-6": {
+  "epigraf": "E3.7",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-htarragona-2008-60": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-htarragona-2008-61": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dui-htarragona-2008-62": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-htarragona-2008-63": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-htarragona-2008-64": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dui-htarragona-2008-65": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-htarragona-2008-66": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-htarragona-2008-67": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-htarragona-2008-68": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-htarragona-2008-69": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-htarragona-2008-7": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-htarragona-2008-70": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-htarragona-2008-71": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-htarragona-2008-72": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-dui-htarragona-2008-73": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-htarragona-2008-74": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dui-htarragona-2008-75": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-htarragona-2008-76": {
+  "epigraf": "E3.5",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-htarragona-2008-77": {
+  "epigraf": "E3.5",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-htarragona-2008-78": {
+  "epigraf": "E3.5",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-htarragona-2008-79": {
+  "epigraf": "E3.5",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-htarragona-2008-8": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-htarragona-2008-80": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-htarragona-2008-9": {
+  "epigraf": "T2.2",
+  "secondary": null,
+  "epigraf_v1": "T2.2"
+ },
+ "ics-dui-primaria-2010-1": {
+  "epigraf": "E8.3",
+  "secondary": null,
+  "epigraf_v1": "E8.3"
+ },
+ "ics-dui-primaria-2010-10": {
+  "epigraf": "E1.11",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-primaria-2010-11": {
+  "epigraf": "E1.11",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-primaria-2010-12": {
+  "epigraf": "E1.11",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-primaria-2010-13": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-primaria-2010-14": {
+  "epigraf": "E1.11",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-primaria-2010-15": {
+  "epigraf": "E1.11",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-primaria-2010-16": {
+  "epigraf": "E1.12",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-primaria-2010-17": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-primaria-2010-18": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-primaria-2010-19": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-dui-primaria-2010-2": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dui-primaria-2010-20": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-dui-primaria-2010-21": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dui-primaria-2010-22": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-primaria-2010-23": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-primaria-2010-24": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-dui-primaria-2010-25": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-primaria-2010-26": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-dui-primaria-2010-27": {
+  "epigraf": "E2.8",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-dui-primaria-2010-28": {
+  "epigraf": "E2.8",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-dui-primaria-2010-29": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-dui-primaria-2010-3": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-dui-primaria-2010-30": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-dui-primaria-2010-31": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dui-primaria-2010-32": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.2"
+ },
+ "ics-dui-primaria-2010-33": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.3"
+ },
+ "ics-dui-primaria-2010-34": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.2"
+ },
+ "ics-dui-primaria-2010-35": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-dui-primaria-2010-36": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-dui-primaria-2010-37": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-dui-primaria-2010-38": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-dui-primaria-2010-39": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-dui-primaria-2010-4": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dui-primaria-2010-40": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-dui-primaria-2010-41": {
+  "epigraf": "E8.2",
+  "secondary": null,
+  "epigraf_v1": "E8.1"
+ },
+ "ics-dui-primaria-2010-42": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-primaria-2010-43": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-primaria-2010-44": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-dui-primaria-2010-45": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-primaria-2010-46": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-primaria-2010-47": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-primaria-2010-48": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-dui-primaria-2010-49": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-dui-primaria-2010-5": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dui-primaria-2010-50": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-primaria-2010-51": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-primaria-2010-52": {
+  "epigraf": "E2.10",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-dui-primaria-2010-53": {
+  "epigraf": "E2.10",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dui-primaria-2010-54": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dui-primaria-2010-55": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dui-primaria-2010-56": {
+  "epigraf": "E6.7",
+  "secondary": null,
+  "epigraf_v1": "E6.5"
+ },
+ "ics-dui-primaria-2010-57": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-dui-primaria-2010-58": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-primaria-2010-59": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-primaria-2010-6": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-dui-primaria-2010-60": {
+  "epigraf": "E8.1",
+  "secondary": null,
+  "epigraf_v1": "E8.3"
+ },
+ "ics-dui-primaria-2010-61": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-dui-primaria-2010-62": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dui-primaria-2010-63": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-dui-primaria-2010-64": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-dui-primaria-2010-65": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-dui-primaria-2010-67": {
+  "epigraf": "T7.1",
+  "secondary": null,
+  "epigraf_v1": "T7.1"
+ },
+ "ics-dui-primaria-2010-68": {
+  "epigraf": "T4.1",
+  "secondary": null,
+  "epigraf_v1": "T4.1"
+ },
+ "ics-dui-primaria-2010-69": {
+  "epigraf": "T11.1",
+  "secondary": null,
+  "epigraf_v1": "T11.1"
+ },
+ "ics-dui-primaria-2010-7": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-primaria-2010-70": {
+  "epigraf": "T10.2",
+  "secondary": null,
+  "epigraf_v1": "T10.2"
+ },
+ "ics-dui-primaria-2010-71": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-dui-primaria-2010-72": {
+  "epigraf": "E1.14",
+  "secondary": null,
+  "epigraf_v1": "E1.12"
+ },
+ "ics-dui-primaria-2010-73": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-dui-primaria-2010-74": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-dui-primaria-2010-75": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-dui-primaria-2010-76": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-dui-primaria-2010-77": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-dui-primaria-2010-78": {
+  "epigraf": "E2.3",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-dui-primaria-2010-79": {
+  "epigraf": "T7.3",
+  "secondary": null,
+  "epigraf_v1": "T7.3"
+ },
+ "ics-dui-primaria-2010-8": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-primaria-2010-80": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dui-primaria-2010-81": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dui-primaria-2010-82": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-dui-primaria-2010-83": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dui-primaria-2010-84": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dui-primaria-2010-85": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-dui-primaria-2010-86": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-dui-primaria-2010-87": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-dui-primaria-2010-88": {
+  "epigraf": "T7.3",
+  "secondary": null,
+  "epigraf_v1": "T7.3"
+ },
+ "ics-dui-primaria-2010-89": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-dui-primaria-2010-9": {
+  "epigraf": "E1.12",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-dui-primaria-2010-90": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-242-1": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-242-10": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-hist-242-11": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-242-2": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-242-3": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-hist-242-4": {
+  "epigraf": "E7.2",
+  "secondary": null,
+  "epigraf_v1": "E7.1"
+ },
+ "ics-hist-242-5": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-242-6": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-242-7": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-hist-242-8": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-242-9": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-hist-243-1": {
+  "epigraf": "T9.1",
+  "secondary": null,
+  "epigraf_v1": "T9.1"
+ },
+ "ics-hist-243-10": {
+  "epigraf": "T9.1",
+  "secondary": null,
+  "epigraf_v1": "T9.1"
+ },
+ "ics-hist-243-11": {
+  "epigraf": "E1.2",
+  "secondary": null,
+  "epigraf_v1": "E1.1"
+ },
+ "ics-hist-243-2": {
+  "epigraf": "T9.1",
+  "secondary": null,
+  "epigraf_v1": "T9.1"
+ },
+ "ics-hist-243-22": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.2"
+ },
+ "ics-hist-243-3": {
+  "epigraf": "E1.1",
+  "secondary": null,
+  "epigraf_v1": "E1.1"
+ },
+ "ics-hist-243-4": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.3"
+ },
+ "ics-hist-243-5": {
+  "epigraf": "T9.1",
+  "secondary": null,
+  "epigraf_v1": "T9.1"
+ },
+ "ics-hist-243-6": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.1"
+ },
+ "ics-hist-243-7": {
+  "epigraf": "T9.1",
+  "secondary": null,
+  "epigraf_v1": "T9.1"
+ },
+ "ics-hist-243-8": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.1"
+ },
+ "ics-hist-243-9": {
+  "epigraf": "T9.2",
+  "secondary": null,
+  "epigraf_v1": "T9.2"
+ },
+ "ics-hist-245-1": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-245-10": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-hist-245-102": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-11": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-12": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-13": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-245-14": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-15": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-245-16": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-17": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-hist-245-18": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-19": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-2": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-245-20": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-21": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-245-22": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-23": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-25": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-hist-245-26": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-hist-245-27": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-28": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-29": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-245-3": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-30": {
+  "epigraf": "T7.3",
+  "secondary": null,
+  "epigraf_v1": "T7.3"
+ },
+ "ics-hist-245-31": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-32": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-33": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-245-35": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-36": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-245-37": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-245-38": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-245-4": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-245-41": {
+  "epigraf": "E3.4",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-42": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-43": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-44": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-45": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-46": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-245-48": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-5": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-51": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-52": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-53": {
+  "epigraf": "E3.9",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-54": {
+  "epigraf": "E3.4",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-55": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-56": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-245-57": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-58": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-245-59": {
+  "epigraf": "E3.9",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-6": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-245-60": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-245-61": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-245-62": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-245-63": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-64": {
+  "epigraf": "E3.9",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-7": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-245-70": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-71": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-72": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-79": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-245-8": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-86": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-87": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-88": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-245-89": {
+  "epigraf": "E4.2",
+  "secondary": null,
+  "epigraf_v1": "E4.9"
+ },
+ "ics-hist-245-90": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-245-94": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-245-95": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-246-1": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-246-10": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-hist-246-11": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-246-12": {
+  "epigraf": "E5.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-246-14": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-246-15": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-246-16": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-246-18": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-246-2": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-246-20": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-hist-246-21": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-246-22": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-246-23": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-246-27": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-246-28": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-246-29": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-246-3": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-246-30": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-246-31": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-246-4": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-246-40": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-246-41": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-246-48": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-246-59": {
+  "epigraf": "E3.10",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-246-6": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-246-63": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-246-65": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-246-66": {
+  "epigraf": "E5.11",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-246-73": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-246-74": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-246-75": {
+  "epigraf": "E1.8",
+  "secondary": null,
+  "epigraf_v1": "E1.6"
+ },
+ "ics-hist-246-76": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-246-8": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-246-9": {
+  "epigraf": "E5.10",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-247-1": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-10": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-11": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-247-12": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-13": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-14": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-2": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-3": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-4": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-5": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-6": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-247-7": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-8": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-247-9": {
+  "epigraf": "E5.5",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-248-1": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-248-10": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-248-11": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-248-12": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-248-13": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-hist-248-14": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-248-15": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-hist-248-16": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-hist-248-18": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-248-19": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-248-2": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-248-20": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-hist-248-21": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-hist-248-22": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-hist-248-23": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-248-24": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-hist-248-3": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-hist-248-39": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-hist-248-4": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-hist-248-43": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-hist-248-48": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E4.7"
+ },
+ "ics-hist-248-5": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-248-6": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-248-7": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-hist-248-8": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-248-9": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-hist-249-1": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-249-10": {
+  "epigraf": "E1.14",
+  "secondary": null,
+  "epigraf_v1": "E1.12"
+ },
+ "ics-hist-249-11": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-12": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-14": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-15": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-249-16": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-17": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-18": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "E10.2"
+ },
+ "ics-hist-249-19": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "E10.2"
+ },
+ "ics-hist-249-2": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-249-20": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-23": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-24": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-249-25": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-249-26": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-27": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-28": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-29": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-3": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-30": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-31": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-249-32": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-33": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-34": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-35": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-249-36": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-37": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-38": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-39": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-4": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-40": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-41": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-42": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-43": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-44": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-46": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-47": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-249-48": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-49": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-5": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-50": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-51": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-52": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-53": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-54": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-55": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-56": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-249-57": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-249-58": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-59": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-6": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-60": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-249-61": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-62": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-249-7": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-8": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-82": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-249-9": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "E10.2"
+ },
+ "ics-hist-250-1": {
+  "epigraf": "E3.20",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-10": {
+  "epigraf": "E3.18",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-11": {
+  "epigraf": "E3.18",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-12": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-13": {
+  "epigraf": "E3.17",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-14": {
+  "epigraf": "E2.3",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-250-15": {
+  "epigraf": "E3.18",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-16": {
+  "epigraf": "E3.18",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-17": {
+  "epigraf": "E3.20",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-250-2": {
+  "epigraf": "E3.20",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-3": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-250-4": {
+  "epigraf": "E3.20",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-5": {
+  "epigraf": "E3.18",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-6": {
+  "epigraf": "E3.18",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-7": {
+  "epigraf": "E3.18",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-250-8": {
+  "epigraf": "E3.5",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-250-9": {
+  "epigraf": "E3.20",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-251-1": {
+  "epigraf": "E4.4",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-hist-251-10": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-11": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-12": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-13": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-14": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-15": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-16": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-17": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-18": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-19": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-2": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-20": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-21": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-22": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-23": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-24": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-25": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-26": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-27": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-28": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-29": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-3": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-30": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-31": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-32": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-33": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-34": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-35": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-36": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-37": {
+  "epigraf": "E5.4",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-251-38": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-39": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-4": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-40": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-41": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-42": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-43": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-45": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-46": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-47": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-48": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-49": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-5": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-50": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-51": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-55": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-6": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-7": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-74": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-75": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-76": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-77": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-78": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-79": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-8": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-80": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-81": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-82": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-251-9": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-252-1": {
+  "epigraf": "E3.20",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-252-2": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-hist-252-6": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-252-7": {
+  "epigraf": "E3.18",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-253-11": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-hist-253-12": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-hist-253-13": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-14": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-15": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-16": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-17": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-18": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-19": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-2": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-20": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-21": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-22": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-23": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-24": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-25": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-26": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-27": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-253-28": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-hist-253-29": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-3": {
+  "epigraf": "E2.10",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-253-31": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-32": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-253-33": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-34": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-36": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-hist-253-37": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-253-38": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-hist-253-39": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-4": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-40": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-253-41": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-253-43": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-44": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-45": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-46": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-48": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-49": {
+  "epigraf": "E2.6",
+  "secondary": null,
+  "epigraf_v1": "E2.5"
+ },
+ "ics-hist-253-5": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-hist-253-50": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-253-51": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-52": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-53": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-54": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-253-55": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-56": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E2.7"
+ },
+ "ics-hist-253-59": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-6": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E4.3"
+ },
+ "ics-hist-253-61": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-62": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-63": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-253-66": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-67": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-hist-253-68": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-69": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-253-7": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-70": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-71": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-253-72": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-8": {
+  "epigraf": "E6.8",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-253-83": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-253-85": {
+  "epigraf": "E4.15",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-254-1": {
+  "epigraf": "E2.3",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-254-10": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-11": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-12": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-13": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-14": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-15": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-16": {
+  "epigraf": "E5.2",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-254-17": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-18": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-19": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-2": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-20": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-21": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-22": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-26": {
+  "epigraf": "E3.20",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-254-27": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-254-28": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-29": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-3": {
+  "epigraf": "E5.1",
+  "secondary": null,
+  "epigraf_v1": "E5.8"
+ },
+ "ics-hist-254-30": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-31": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-32": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-4": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-5": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-55": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-56": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-57": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-58": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-6": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-7": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-254-8": {
+  "epigraf": "E5.6",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-254-9": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-255-1": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-hist-255-10": {
+  "epigraf": "E6.13",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-255-13": {
+  "epigraf": "E7.9",
+  "secondary": null,
+  "epigraf_v1": "E5.2"
+ },
+ "ics-hist-255-14": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-hist-255-16": {
+  "epigraf": "E3.4",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-255-17": {
+  "epigraf": "E6.13",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-255-18": {
+  "epigraf": "E6.13",
+  "secondary": null,
+  "epigraf_v1": "E5.1"
+ },
+ "ics-hist-255-2": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-255-3": {
+  "epigraf": "E4.14",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-255-38": {
+  "epigraf": "E6.12",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-255-39": {
+  "epigraf": "E6.12",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-255-44": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E6.10"
+ },
+ "ics-hist-255-6": {
+  "epigraf": "E6.10",
+  "secondary": null,
+  "epigraf_v1": "E6.8"
+ },
+ "ics-hist-255-7": {
+  "epigraf": "E3.14",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-255-8": {
+  "epigraf": "E6.12",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-255-9": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-256-1": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-10": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-100": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-hist-256-101": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-102": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-hist-256-103": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-hist-256-104": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-105": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-256-106": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-hist-256-107": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-109": {
+  "epigraf": "E8.2",
+  "secondary": null,
+  "epigraf_v1": "E8.2"
+ },
+ "ics-hist-256-11": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-12": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-120": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-256-128": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-256-13": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-130": {
+  "epigraf": "E8.2",
+  "secondary": null,
+  "epigraf_v1": "E8.1"
+ },
+ "ics-hist-256-134": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-135": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-hist-256-136": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-256-14": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-141": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E6.7"
+ },
+ "ics-hist-256-15": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-16": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-17": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-18": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-19": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-hist-256-2": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-20": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-21": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-22": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-23": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-24": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-26": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-27": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-28": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-29": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-3": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-30": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-31": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-32": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-33": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-hist-256-34": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-35": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-36": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-37": {
+  "epigraf": "E4.1",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-256-38": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-39": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-4": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-256-40": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-41": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-256-42": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-43": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-hist-256-44": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-45": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-256-46": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-47": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-48": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-256-49": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-5": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-50": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-51": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-256-52": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-256-54": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-55": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-56": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-57": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-58": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-59": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-6": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-60": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-61": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-62": {
+  "epigraf": "E2.10",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-63": {
+  "epigraf": "E2.10",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-64": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-hist-256-65": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-66": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-67": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-68": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-69": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-7": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-70": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-71": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-72": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-73": {
+  "epigraf": "E1.5",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-256-74": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-75": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-76": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-77": {
+  "epigraf": "E5.9",
+  "secondary": null,
+  "epigraf_v1": "E5.3"
+ },
+ "ics-hist-256-78": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-79": {
+  "epigraf": "E2.10",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-8": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-80": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-81": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-82": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-83": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-84": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-85": {
+  "epigraf": "E3.6",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-86": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-256-87": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-88": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-89": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-9": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-90": {
+  "epigraf": "E4.10",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-256-91": {
+  "epigraf": "E5.16",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-92": {
+  "epigraf": "E5.16",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-93": {
+  "epigraf": "E2.10",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-95": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-256-96": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-256-97": {
+  "epigraf": "E2.9",
+  "secondary": null,
+  "epigraf_v1": "E3.3"
+ },
+ "ics-hist-256-98": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.14"
+ },
+ "ics-hist-256-99": {
+  "epigraf": "E5.1",
+  "secondary": null,
+  "epigraf_v1": "E5.8"
+ },
+ "ics-hist-257-1": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-10": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-11": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-12": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-13": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-257-14": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-257-15": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-257-16": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-17": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-18": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-19": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-2": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-257-20": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-21": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-257-22": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-23": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-257-24": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-25": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-257-26": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-27": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-28": {
+  "epigraf": "E1.8",
+  "secondary": null,
+  "epigraf_v1": "E1.6"
+ },
+ "ics-hist-257-29": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-3": {
+  "epigraf": "E1.8",
+  "secondary": null,
+  "epigraf_v1": "E1.6"
+ },
+ "ics-hist-257-30": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-31": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-257-32": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-257-33": {
+  "epigraf": "E6.1",
+  "secondary": null,
+  "epigraf_v1": "E6.1"
+ },
+ "ics-hist-257-34": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-257-35": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-257-36": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-257-37": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-257-38": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.11"
+ },
+ "ics-hist-257-4": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-257-40": {
+  "epigraf": "E6.1",
+  "secondary": null,
+  "epigraf_v1": "E6.1"
+ },
+ "ics-hist-257-9": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-258-1": {
+  "epigraf": "E6.1",
+  "secondary": null,
+  "epigraf_v1": "E6.1"
+ },
+ "ics-hist-258-19": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-258-2": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-20": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-21": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-258-22": {
+  "epigraf": "E6.3",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-23": {
+  "epigraf": "E4.10",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-258-24": {
+  "epigraf": "E5.9",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-258-25": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-258-26": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-258-27": {
+  "epigraf": "E6.3",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-28": {
+  "epigraf": "E5.1",
+  "secondary": null,
+  "epigraf_v1": "E5.8"
+ },
+ "ics-hist-258-3": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-31": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-258-35": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-36": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-hist-258-37": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-4": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-hist-258-40": {
+  "epigraf": "E4.3",
+  "secondary": null,
+  "epigraf_v1": "E4.2"
+ },
+ "ics-hist-258-41": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-42": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-258-43": {
+  "epigraf": "E6.6",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-hist-258-45": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-47": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-258-48": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-258-49": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-50": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-258-51": {
+  "epigraf": "E6.3",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-258-53": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-258-54": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-258-74": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-260-12": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-260-17": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-260-18": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-260-20": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-260-21": {
+  "epigraf": "E7.1",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-hist-260-22": {
+  "epigraf": "E7.1",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-260-25": {
+  "epigraf": "E7.4",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-hist-260-47": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-260-54": {
+  "epigraf": "E6.13",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-260-7": {
+  "epigraf": "E7.2",
+  "secondary": null,
+  "epigraf_v1": "E7.1"
+ },
+ "ics-hist-260-74": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.9"
+ },
+ "ics-hist-260-75": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-260-76": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-260-77": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-1": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-10": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-13": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-14": {
+  "epigraf": "E3.14",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-16": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-18": {
+  "epigraf": "E7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-261-2": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-20": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-21": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-22": {
+  "epigraf": "E3.14",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-23": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-24": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-27": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-261-28": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-261-3": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-4": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-41": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-6": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-8": {
+  "epigraf": "E3.16",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-261-9": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-262-1": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-12": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-14": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-262-15": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-16": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-262-17": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-262-19": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-2": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-262-20": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-22": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-262-23": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-29": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-3": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-262-30": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-262-31": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-262-32": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-36": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-262-4": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-262-5": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-50": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-55": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-hist-262-56": {
+  "epigraf": "E4.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-6": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-262-63": {
+  "epigraf": "E4.13",
+  "secondary": null,
+  "epigraf_v1": "E4.8"
+ },
+ "ics-hist-262-64": {
+  "epigraf": "E5.12",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-66": {
+  "epigraf": "E4.12",
+  "secondary": null,
+  "epigraf_v1": "E6.10"
+ },
+ "ics-hist-262-7": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-262-70": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-71": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-74": {
+  "epigraf": "E4.6",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-262-8": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-263-1": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-10": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-12": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-13": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-14": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-16": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-17": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-18": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-2": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-26": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-3": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-263-30": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-263-31": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-32": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-33": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-263-34": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-35": {
+  "epigraf": "E5.2",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-hist-263-36": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-37": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-4": {
+  "epigraf": "E3.15",
+  "secondary": null,
+  "epigraf_v1": "E3.6"
+ },
+ "ics-hist-263-5": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-6": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-7": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-8": {
+  "epigraf": "E4.9",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-263-9": {
+  "epigraf": "E4.8",
+  "secondary": null,
+  "epigraf_v1": "E4.5"
+ },
+ "ics-hist-264-1": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-10": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-11": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-264-12": {
+  "epigraf": "E4.10",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-13": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-14": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-264-15": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-16": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.1"
+ },
+ "ics-hist-264-17": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-264-18": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-19": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-2": {
+  "epigraf": "T7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-264-20": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-21": {
+  "epigraf": "E4.10",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-264-22": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-264-23": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-264-24": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-25": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-26": {
+  "epigraf": "E7.2",
+  "secondary": null,
+  "epigraf_v1": "E7.1"
+ },
+ "ics-hist-264-27": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-264-28": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E4.1"
+ },
+ "ics-hist-264-3": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-30": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-31": {
+  "epigraf": "T7.3",
+  "secondary": null,
+  "epigraf_v1": "E7.2"
+ },
+ "ics-hist-264-32": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-34": {
+  "epigraf": "E4.10",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-264-35": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-37": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-4": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-40": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-43": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-47": {
+  "epigraf": "T3.3",
+  "secondary": null,
+  "epigraf_v1": "T3.2"
+ },
+ "ics-hist-264-49": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-5": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-6": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-67": {
+  "epigraf": "E3.19",
+  "secondary": null,
+  "epigraf_v1": "E3.7"
+ },
+ "ics-hist-264-7": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-8": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-264-9": {
+  "epigraf": "E4.10",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-265-1": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-hist-265-10": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-100": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-265-101": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-265-11": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-12": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-13": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-14": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-15": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-hist-265-16": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-17": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-18": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-19": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-265-2": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-20": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-21": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-22": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-hist-265-23": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-24": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-25": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-26": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-27": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-28": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-3": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-30": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-31": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-32": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-265-33": {
+  "epigraf": "E7.10",
+  "secondary": null,
+  "epigraf_v1": "E7.8"
+ },
+ "ics-hist-265-34": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-35": {
+  "epigraf": "E2.11",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-265-36": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-39": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-4": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-40": {
+  "epigraf": "E6.4",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-41": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-42": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-43": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-44": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-47": {
+  "epigraf": "E4.2",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-48": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-49": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-5": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-54": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-56": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-265-58": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-59": {
+  "epigraf": "E6.5",
+  "secondary": null,
+  "epigraf_v1": "E6.3"
+ },
+ "ics-hist-265-6": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-64": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-69": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-7": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-72": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-74": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-75": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-76": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-77": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-hist-265-78": {
+  "epigraf": "E4.2",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-79": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-8": {
+  "epigraf": "E6.9",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-88": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E6.4"
+ },
+ "ics-hist-265-90": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-91": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-265-92": {
+  "epigraf": "E3.13",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-94": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-95": {
+  "epigraf": "E3.11",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-96": {
+  "epigraf": "E2.15",
+  "secondary": null,
+  "epigraf_v1": "E2.8"
+ },
+ "ics-hist-265-97": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-98": {
+  "epigraf": "E3.12",
+  "secondary": null,
+  "epigraf_v1": "E3.5"
+ },
+ "ics-hist-265-99": {
+  "epigraf": "E4.11",
+  "secondary": null,
+  "epigraf_v1": "E4.6"
+ },
+ "ics-hist-268-1": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-12": {
+  "epigraf": "E1.9",
+  "secondary": null,
+  "epigraf_v1": "E1.7"
+ },
+ "ics-hist-268-13": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-14": {
+  "epigraf": "E6.2",
+  "secondary": null,
+  "epigraf_v1": "E6.2"
+ },
+ "ics-hist-268-15": {
+  "epigraf": "E1.8",
+  "secondary": null,
+  "epigraf_v1": "E1.6"
+ },
+ "ics-hist-268-16": {
+  "epigraf": "E2.12",
+  "secondary": null,
+  "epigraf_v1": "E2.10"
+ },
+ "ics-hist-268-17": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-18": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-268-2": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-22": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-27": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-28": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-29": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-3": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-30": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-5": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-6": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-268-7": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-269-1": {
+  "epigraf": "E1.4",
+  "secondary": null,
+  "epigraf_v1": "E1.2"
+ },
+ "ics-hist-269-10": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-269-11": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-269-12": {
+  "epigraf": "E1.7",
+  "secondary": null,
+  "epigraf_v1": "E1.5"
+ },
+ "ics-hist-269-13": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-269-14": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-269-15": {
+  "epigraf": "T3.2",
+  "secondary": null,
+  "epigraf_v1": "T3.2"
+ },
+ "ics-hist-269-16": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-269-17": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-269-18": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-269-19": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-269-2": {
+  "epigraf": "E1.14",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-hist-269-20": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-269-21": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-269-22": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-269-26": {
+  "epigraf": "E2.7",
+  "secondary": null,
+  "epigraf_v1": "E2.6"
+ },
+ "ics-hist-269-27": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-269-3": {
+  "epigraf": "E1.14",
+  "secondary": null,
+  "epigraf_v1": "E1.12"
+ },
+ "ics-hist-269-32": {
+  "epigraf": "E2.7",
+  "secondary": null,
+  "epigraf_v1": "E2.6"
+ },
+ "ics-hist-269-4": {
+  "epigraf": "E1.14",
+  "secondary": null,
+  "epigraf_v1": "E1.12"
+ },
+ "ics-hist-269-5": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E2.6"
+ },
+ "ics-hist-269-6": {
+  "epigraf": "E1.14",
+  "secondary": null,
+  "epigraf_v1": "E1.12"
+ },
+ "ics-hist-269-7": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E2.6"
+ },
+ "ics-hist-269-9": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-270-1": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-10": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-100": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-101": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-270-11": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-12": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-13": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-14": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-15": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-16": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-17": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-18": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-19": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-2": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-20": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-21": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-22": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-23": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-24": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-25": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-26": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-27": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-28": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-29": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-3": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-30": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-31": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-32": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-270-33": {
+  "epigraf": "E5.14",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-34": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-35": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-36": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-37": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-38": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-39": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-4": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-40": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-41": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-42": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-270-43": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-44": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-45": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-270-46": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-270-47": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-270-48": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-270-49": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-270-5": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-50": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-51": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-52": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-53": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-54": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-270-55": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-56": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-58": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-270-6": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-61": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-69": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-270-7": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-71": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-72": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-73": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-75": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-270-76": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-77": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-270-78": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-79": {
+  "epigraf": "E4.7",
+  "secondary": null,
+  "epigraf_v1": "E4.4"
+ },
+ "ics-hist-270-8": {
+  "epigraf": "E5.13",
+  "secondary": null,
+  "epigraf_v1": "E5.5"
+ },
+ "ics-hist-270-80": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-81": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-82": {
+  "epigraf": "E2.5",
+  "secondary": null,
+  "epigraf_v1": "E2.9"
+ },
+ "ics-hist-270-83": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-270-9": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-93": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-94": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-95": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-270-96": {
+  "epigraf": "E5.15",
+  "secondary": null,
+  "epigraf_v1": "E5.6"
+ },
+ "ics-hist-271-1": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-10": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-11": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-12": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-13": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-14": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-15": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-16": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-17": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-18": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-19": {
+  "epigraf": "E1.10",
+  "secondary": null,
+  "epigraf_v1": "E1.8"
+ },
+ "ics-hist-271-2": {
+  "epigraf": "T10.2",
+  "secondary": null,
+  "epigraf_v1": "T10.2"
+ },
+ "ics-hist-271-21": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-22": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.2"
+ },
+ "ics-hist-271-23": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-25": {
+  "epigraf": "E2.3",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-271-26": {
+  "epigraf": "T10.2",
+  "secondary": null,
+  "epigraf_v1": "T10.2"
+ },
+ "ics-hist-271-27": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-28": {
+  "epigraf": "T10.2",
+  "secondary": null,
+  "epigraf_v1": "T10.2"
+ },
+ "ics-hist-271-29": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-3": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-30": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-31": {
+  "epigraf": "E2.3",
+  "secondary": null,
+  "epigraf_v1": "E2.2"
+ },
+ "ics-hist-271-32": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-33": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-34": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-35": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-36": {
+  "epigraf": "T10.2",
+  "secondary": null,
+  "epigraf_v1": "T10.2"
+ },
+ "ics-hist-271-37": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-38": {
+  "epigraf": "T10.2",
+  "secondary": null,
+  "epigraf_v1": "T10.2"
+ },
+ "ics-hist-271-39": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-4": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-40": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-41": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-42": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-43": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-45": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-46": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-47": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-48": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-49": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.1"
+ },
+ "ics-hist-271-5": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-50": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-51": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-54": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-55": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-59": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "E1.3"
+ },
+ "ics-hist-271-6": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-60": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-61": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-63": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-64": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-65": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-66": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-67": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-68": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-69": {
+  "epigraf": "T10.1",
+  "secondary": null,
+  "epigraf_v1": "T10.1"
+ },
+ "ics-hist-271-7": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-8": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-271-9": {
+  "epigraf": "E2.1",
+  "secondary": null,
+  "epigraf_v1": "E2.13"
+ },
+ "ics-hist-272-1": {
+  "epigraf": "E5.19",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-10": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-11": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-hist-272-12": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-13": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-14": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-15": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-16": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-hist-272-17": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-hist-272-18": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-19": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-2": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-20": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-21": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-272-22": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-23": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-24": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-25": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-26": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-27": {
+  "epigraf": "E5.19",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-28": {
+  "epigraf": "E1.6",
+  "secondary": null,
+  "epigraf_v1": "E1.4"
+ },
+ "ics-hist-272-29": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-3": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-30": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-31": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-hist-272-32": {
+  "epigraf": "E5.19",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-33": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-34": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-35": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-hist-272-38": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-4": {
+  "epigraf": "E8.3",
+  "secondary": null,
+  "epigraf_v1": "E8.3"
+ },
+ "ics-hist-272-40": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-hist-272-5": {
+  "epigraf": "E1.8",
+  "secondary": "E5.17",
+  "epigraf_v1": "E1.6"
+ },
+ "ics-hist-272-51": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-hist-272-52": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-53": {
+  "epigraf": "E8.1",
+  "secondary": null,
+  "epigraf_v1": "E8.1"
+ },
+ "ics-hist-272-54": {
+  "epigraf": "E5.18",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-55": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-hist-272-7": {
+  "epigraf": "E8.4",
+  "secondary": null,
+  "epigraf_v1": "E8.4"
+ },
+ "ics-hist-272-8": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-272-9": {
+  "epigraf": "E5.17",
+  "secondary": null,
+  "epigraf_v1": "E5.7"
+ },
+ "ics-hist-273-1": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-273-11": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-273-12": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-273-14": {
+  "epigraf": "E5.11",
+  "secondary": null,
+  "epigraf_v1": "E5.4"
+ },
+ "ics-hist-273-16": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-273-17": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-273-18": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-273-19": {
+  "epigraf": "E3.8",
+  "secondary": null,
+  "epigraf_v1": "E3.4"
+ },
+ "ics-hist-273-21": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-273-3": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-273-5": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-273-6": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-273-7": {
+  "epigraf": "E3.2",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-273-8": {
+  "epigraf": "E5.7",
+  "secondary": null,
+  "epigraf_v1": "E3.1"
+ },
+ "ics-hist-273-9": {
+  "epigraf": "E3.3",
+  "secondary": null,
+  "epigraf_v1": "E3.8"
+ },
+ "ics-hist-274-1": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-10": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-12": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-13": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-15": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-17": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-18": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-2": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-20": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-21": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-22": {
+  "epigraf": "E7.5",
+  "secondary": null,
+  "epigraf_v1": "E7.3"
+ },
+ "ics-hist-274-24": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-25": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-28": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-29": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-3": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-31": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-32": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-34": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-35": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-36": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-37": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-38": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-39": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-4": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-40": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-42": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-43": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-45": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-5": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-6": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-7": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-8": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ },
+ "ics-hist-274-9": {
+  "epigraf": "E2.4",
+  "secondary": null,
+  "epigraf_v1": "E2.3"
+ }
+}

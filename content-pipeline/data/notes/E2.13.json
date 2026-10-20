@@ -1,23 +1,32 @@
 {
  "epigraf": "E2.13",
- "body_md": "## En una frase\nEl diagnòstic de salut comunitari identifica necessitats i recursos d'una població i en prioritza els problemes amb mètodes com **Hanlon** i la **matriu de criteris**; és el primer pas dels programes de salut comunitària.\n\n## Conceptes clau\n- **Diagnòstic de salut comunitària**: procés de descripció i anàlisi de l'estat de salut, els seus determinants, les necessitats percebudes i els actius d'una comunitat. Fonts: indicadors demogràfics i epidemiològics, registres, enquestes (ESCA), entrevistes a informants clau, grups focals, mapes d'actius.\n- **Tipus de necessitats** (Bradshaw): normatives, sentides, expressades i comparades.\n- **Fases**: recollida de dades, anàlisi, identificació de problemes, **priorització**, objectius, intervencions i avaluació.\n- **Mètode de Hanlon**: priorització mitjançant la fórmula **(A + B) × C × D**, on **A = magnitud del problema**, **B = gravetat**, **C = eficàcia de la solució** i **D = factibilitat (PEARL)**. La **seguretat de la intervenció no forma part** del mètode (2024).\n- **Altres mètodes**: matriu de criteris (magnitud, gravetat, vulnerabilitat, transcendència), tècnica de grup nominal, Delphi, mètode de Dieze.\n- **Participació comunitària**: la comunitat ha d'intervenir en la priorització.\n- **Components PEARL (factibilitat)**: Propietat, Economia, Acceptabilitat, Recursos, Legalitat.\n\n## Valors, escales i classificacions\n\n| Component Hanlon | Pregunta |\n|---|---|\n| A. Magnitud | Quanta gent afecta? |\n| B. Gravetat | Quina severitat, urgència i cost? |\n| C. Eficàcia | Es pot resoldre? |\n| D. Factibilitat | És viable (PEARL)? |\n\nFórmula: **Puntuació = (A + B) × C × D**; la prioritat és la puntuació més alta.\n\n## Actuació infermera\n- **Valoració**: dades de salut i context (indicadors, entrevistes, observació).\n- **Diagnòstic**: *gestió ineficaç de la salut de la comunitat*, *afrontament comunitari ineficaç*.\n- **Intervencions**: implicar els agents comunitaris, aplicar el mètode de priorització i fixar objectius mesurables.\n- **Avaluació**: indicadors de procés i de resultat.\n\n## Què pregunten als exàmens\n- Components del mètode Hanlon; no n'és la seguretat de la intervenció (2024).\n\n## Trampes freqüents\n- Afegir \"seguretat\", \"cost\" o \"equitat\" com a components del Hanlon.\n- Confondre la priorització amb la identificació del problema.\n- Prioritzar només amb dades epidemiològiques i oblidar la percepció de la comunitat.\n\n## Normativa i guies de referència\n- Pla de salut de Catalunya; Llei 15/1990 (LOSC), participació comunitària.\n- Pineault R., Daveluy C. *La planificació sanitària* (mètode Hanlon adaptat per OPS).",
+ "epigraf_v1": [
+  "E2.11"
+ ],
+ "body_md": "## En una frase\nL'atenció infermera respectuosa amb la diversitat afectiva, sexual i de gènere (LGTBI) i amb les persones en vulnerabilitat social es basa en la no-discriminació, la competència cultural i la perspectiva interseccional.\n\n## Conceptes clau\n- **Sexe**, **identitat de gènere** (vivència interna), **expressió de gènere**, **orientació sexual**: dimensions diferents. **Persona trans**: identitat de gènere diferent del sexe assignat; **cisgènere**: coincident; **persona no binària**; **intersexualitat** (variacions de les característiques sexuals).\n- **Orientació sexual**: heterosexual, homosexual, bisexual, asexual, etc.\n- **Despatologització**: la CIM-11 (OMS, 2019) va treure la transexualitat dels trastorns mentals i la va incloure com a \"incongruència de gènere\" dins les condicions relacionades amb la salut sexual.\n- **Estrès de minories**: estigma i discriminació augmenten ansietat, depressió, consum de substàncies i risc de suïcidi.\n- **Llei 11/2014 (Catalunya)** per garantir els drets de lesbianes, gais, bisexuals, transgèneres i intersexuals i per eradicar l'homofòbia, la bifòbia i la transfòbia: garanteix l'atenció sanitària sense discriminació i el dret a l'autodeterminació del gènere. **Llei 4/2023 estatal** per a la igualtat real i efectiva de les persones trans i per a la garantia dels drets LGTBI.\n- **Vulnerabilitat social**: pobresa, sensellarisme, migració, precarietat laboral, racisme, discapacitat, soledat no desitjada. **Interseccionalitat**: múltiples eixos de desigualtat que s'acumulen.\n- **Competència cultural**: respectar creences i valors; ús d'intèrprets i mediadors.\n\n## Valors, escales i classificacions\n\n| Concepte | Definició |\n|---|---|\n| Identitat de gènere | Vivència interna del gènere |\n| Expressió de gènere | Manera de manifestar-lo |\n| Orientació sexual | Atracció afectiva i sexual |\n| Sexe assignat | Naixement, segons característiques físiques |\n\nAtenció sanitària a persones trans: unitats de referència (p. ex. Trànsit); acompanyament sense patologitzar; els tractaments hormonals els indica l'equip mèdic.\n\n## Actuació infermera\n- **Valoració**: preguntar el nom i els pronoms preferits; no assumir orientació ni gènere; història sexual sense judicis.\n- **Diagnòstic**: *risc de soledat*, *afrontament ineficaç*, *aïllament social*, *conductes de salut proclius al risc*.\n- **Intervencions**: entorn acollidor, confidencialitat, registre del nom sentit, prevenció d'ITS, vacunes (VPH, VHB), salut mental, derivació a recursos comunitaris.\n- **Educació**: sexualitat saludable, riscos, drets.\n- **Avaluació**: sentiment d'acollida, accés i continuïtat de cures.\n\n## Què pregunten als exàmens\nNo s'ha preguntat als exàmens oficials 2015-2024. Probable: conceptes de gènere i orientació, llei catalana LGTBI, i vulnerabilitat social.\n\n## Trampes freqüents\n- Confondre orientació sexual amb identitat de gènere.\n- Considerar la transexualitat un trastorn mental.\n- Assumir que tota persona és heterosexual i cisgènere.\n- Revelar la identitat de gènere o l'orientació a la família sense consentiment.\n\n## Normativa i guies de referència\n- Llei 11/2014, del 10 d'octubre, de Catalunya (LGTBI).\n- Llei 4/2023, de 28 de febrer, per a la igualtat real i efectiva de les persones trans i per a la garantia dels drets LGTBI.\n- Llei 17/2015, d'igualtat efectiva de dones i homes (Catalunya).",
  "key_points": [
-  "El mètode de Hanlon prioritza amb magnitud, gravetat, eficàcia de la solució i factibilitat.",
-  "La fórmula de Hanlon és (A + B) × C × D.",
-  "La seguretat de la intervenció no és un component del Hanlon.",
-  "El diagnòstic de salut comunitari integra dades objectives i percepció de la comunitat.",
-  "La priorització és posterior a l'anàlisi de la situació i anterior a la formulació d'objectius."
+  "Orientació sexual, identitat de gènere, expressió de gènere i sexe assignat són dimensions diferents.",
+  "La transexualitat ja no es considera un trastorn mental (CIM-11: incongruència de gènere).",
+  "La Llei 11/2014 de Catalunya garanteix l'atenció sanitària sense discriminació de les persones LGTBI.",
+  "La interseccionalitat descriu l'acumulació de desigualtats (gènere, classe, origen, orientació).",
+  "S'ha de respectar el nom i els pronoms de la persona i mantenir la confidencialitat."
  ],
  "sources": [
   {
    "kind": "norma",
-   "label": "Llei 15/1990 (LOSC)",
-   "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/1990/07/09/15"
+   "label": "Llei 17/2015, d'igualtat efectiva de dones i homes",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/2015/07/21/17"
   },
   {
    "kind": "ref",
-   "label": "Pineault R., Daveluy C. La planificación sanitaria (mètode Hanlon)"
+   "label": "Llei 11/2014, del 10 d'octubre (LGTBI de Catalunya)"
+  },
+  {
+   "kind": "ref",
+   "label": "Llei 4/2023, de 28 de febrer (persones trans i LGTBI)"
   }
  ],
- "review_flags": []
+ "review_flags": [
+  "Les lleis 11/2014 i 4/2023 s'han de comprovar al text consolidat; no són a les fonts del projecte."
+ ]
 }

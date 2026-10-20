@@ -1,0 +1,29 @@
+{
+ "epigraf": "E1.8",
+ "body_md": "## En una frase\nL'epidemiologia estudia la distribució i els determinants de la salut en poblacions; la bioestadística aporta els mètodes per descriure dades i contrastar hipòtesis, i cada pregunta de recerca demana un **disseny d'estudi** adequat.\n\n## Conceptes clau\n- **Cadena epidemiològica**: agent causal, reservori, porta de sortida, mecanisme de transmissió, porta d'entrada i hoste susceptible. *L'antigen no en forma part* (2016); és l'agent causal el que hi és.\n- **Mesures de freqüència**: **prevalença** (casos existents / població en un moment o període; proporció, sense unitats) i **incidència** (casos nous en un període; acumulada o taxa de densitat). Prevalença ≈ incidència × durada.\n- **Mesures d'associació**: risc relatiu, odds ratio, risc atribuïble, NNT.\n- **Variables**: **independent** (causa, exposició o intervenció) i **dependent** (resposta o efecte). En un estudi que avalua una intervenció d'educació sanitària sobre el consum de tabac, la independent és la intervenció (2024). Qualitatives (nominals, ordinals) i quantitatives (discretes, contínues).\n- **Dissenys**:\n  - **Descriptiu transversal**: mesura prevalença en un moment; adequat per a prevalença de dolor no controlat o maltractament (2015, 2019).\n  - **Cohorts**: segueix exposats i no exposats; calcula incidència i risc relatiu.\n  - **Casos i controls**: parteix de la malaltia; calcula OR; bo per a malalties rares.\n  - **Assaig clínic aleatoritzat**: intervenció amb assignació aleatòria i grup control; màxim nivell d'evidència d'un estudi primari.\n  - **Quasiexperimental**: intervenció **sense grup control** o sense aleatorització (2016).\n- **Biaixos**: de selecció, d'informació, de confusió; es controlen amb aleatorització, aparellament i anàlisi multivariant.\n- **Inferència**: hipòtesi nul·la (H0) i alternativa (H1); **error alfa (tipus I)** = rebutjar H0 quan és certa (2024); **error beta (tipus II)** = no rebutjar H0 quan és falsa; **potència** = 1 − β. Valor p < 0,05 → diferència estadísticament significativa; l'IC 95% no ha d'incloure el valor nul (0 per a diferències, 1 per a RR/OR).\n\n## Valors, escales i classificacions\n\n| Tipus d'estudi | Mesura | Direcció |\n|---|---|---|\n| Transversal | Prevalença | Un moment |\n| Cohorts | Incidència, RR | Exposició → malaltia |\n| Casos-controls | OR | Malaltia → exposició |\n| Assaig clínic | Efecte de la intervenció | Aleatori, prospectiu |\n\n| Decisió | H0 certa | H0 falsa |\n|---|---|---|\n| Rebutjar H0 | Error alfa | Correcte (potència) |\n| No rebutjar H0 | Correcte | Error beta |\n\n**Estadística descriptiva**: mitjana, mediana, moda; desviació estàndard, rang interquartílic; la mediana és robusta a valors extrems. **Distribució normal**: ±1 DE = 68%, ±2 DE = 95%, ±3 DE = 99,7%.\n\n**Proves habituals**: t de Student (2 mitjanes), ANOVA (>2 mitjanes), khi quadrat (variables qualitatives), correlació de Pearson/Spearman, Mann-Whitney i Wilcoxon (no paramètriques).\n\n**Proves diagnòstiques**: sensibilitat (VP/malalts), especificitat (VN/sans), VPP i VPN (depenen de la prevalença).\n\n## Actuació infermera\n- Formular una pregunta de recerca (format PICO) i escollir el disseny adequat.\n- Garantir el **consentiment informat**, la confidència i l'aprovació d'un comitè d'ètica de la recerca.\n- Comunicar les malalties de declaració obligatòria (MDO) i col·laborar en la vigilància epidemiològica.\n- Interpretar críticament l'evidència (CASPe, CONSORT, STROBE).\n\n## Què pregunten als exàmens\n- Disseny transversal per a prevalença (2015, 2019).\n- Elements de la cadena epidemiològica (2016).\n- Estudi d'intervenció sense grup control = quasiexperimental (2016).\n- Variable dependent i independent (2024).\n- Interpretació de l'error alfa (2024).\n\n## Trampes freqüents\n- Confondre prevalença amb incidència.\n- Dir que l'error alfa és \"no rebutjar una H0 falsa\": això és el beta.\n- Creure que cohorts i casos-controls són el mateix: el sentit del seguiment és oposat.\n- Considerar que un estudi transversal pot calcular incidència.\n- Confondre significació estadística amb rellevància clínica.\n\n## Normativa i guies de referència\n- Llei 14/1986, general de sanitat, art. 8 (vigilància epidemiològica).\n- Declaració d'Hèlsinki i normativa de recerca biomèdica (Llei 14/2007).\n- Reglament (UE) 2016/679 i LO 3/2018 per a la protecció de dades en recerca.",
+ "key_points": [
+  "La prevalença mesura casos existents (transversal) i la incidència casos nous (cohorts).",
+  "L'antigen no pertany a la cadena epidemiològica; l'agent causal sí.",
+  "Un estudi d'intervenció sense grup control és quasiexperimental.",
+  "La variable independent és la causa o la intervenció i la dependent és l'efecte mesurat.",
+  "L'error alfa consisteix a rebutjar la hipòtesi nul·la quan és certa.",
+  "Cohorts s'aplica per a incidència i risc relatiu; casos i controls per a OR i malalties rares."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 14/1986, general de sanitat",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499"
+  },
+  {
+   "kind": "norma",
+   "label": "LO 3/2018 (protecció de dades)",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673"
+  },
+  {
+   "kind": "ref",
+   "label": "Llei 14/2007, d'investigació biomèdica"
+  }
+ ],
+ "review_flags": []
+}

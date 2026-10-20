@@ -1,0 +1,29 @@
+{
+ "epigraf": "E1.14",
+ "epigraf_v1": [
+  "E1.12"
+ ],
+ "body_md": "## En una frase\nEls nous rols infermers a l'atenció primària i comunitària (infermera de pràctica avançada, gestora de casos, infermera referent, escolar, d'enllaç, comunitària) amplien l'autonomia i el lideratge de la professió.\n\n## Conceptes clau\n- **Infermera de pràctica avançada (IPA)**: formació de màster i competències clíniques ampliades (valoració avançada, decisions autònomes, lideratge); gestiona sovint pacients crònics complexos.\n- **Infermera gestora de casos** (gestora de casos complexos): coordina recursos i nivells assistencials per a persones amb necessitats complexes.\n- **Infermera referent / de família i comunitat**: responsable de la salut d'una població assignada, amb enfocament comunitari i familiar.\n- **Infermera escolar**: salut a l'escola (educació per a la salut, atenció a malalties cròniques, urgències).\n- **Infermera d'enllaç** (hospital–primària): continuïtat assistencial a l'alta (programa PREALT).\n- **Infermera comunitària i de salut pública**: intervencions de promoció i prevenció, activitats comunitàries, \"actius per a la salut\", prescripció social.\n- **Indicació, ús i autorització de dispensació de medicaments**: l'RD 954/2015 permet a la infermera indicar medicaments no subjectes a prescripció mèdica i, amb protocol, els subjectes a prescripció; requereix acreditació.\n- **Infermera especialista**: Família i comunitària, Pediàtrica, Geriàtrica, Salut mental, Obstetricoginecològica (llevadora), Treball i Mèdico-quirúrgica.\n- **Teleconsulta, atenció domiciliària i telemonitoratge** com a àmbits en expansió.\n\n## Valors, escales i classificacions\n\n| Rol | Funció principal |\n|---|---|\n| IPA | Valoració i gestió clínica avançada |\n| Gestora de casos | Coordinació de la persona complexa |\n| Infermera de família i comunitària | Atenció longitudinal i comunitària |\n| Infermera escolar | Salut en l'àmbit escolar |\n| Infermera d'enllaç | Continuïtat hospital–primària |\n\n## Actuació infermera\n- Valorar necessitats de la persona, la família i la comunitat.\n- Prioritzar la gestió proactiva de la cronicitat i la prevenció.\n- Treballar en equip interdisciplinari i amb recursos comunitaris.\n- Indicar i/o dispensar amb protocol i seguint els requisits legals.\n- Registrar i avaluar resultats en salut.\n\n## Què pregunten als exàmens\nNo hi ha preguntes oficials classificades en aquest epígraf el 2015-2024; són probables preguntes sobre la infermera gestora de casos, l'RD 954/2015 i el model d'atenció a la cronicitat. (L'epígraf és proper a E2.6.)\n\n## Trampes freqüents\n- Pensar que la infermera pot prescriure qualsevol fàrmac sense protocol.\n- Confondre infermera gestora de casos (persona complexa) amb la d'enllaç (alta hospitalària).\n- Confondre l'especialitat de família i comunitària amb el rol d'IPA.\n\n## Normativa i guies de referència\n- Llei 44/2003, d'ordenació de les professions sanitàries.\n- Reial decret 954/2015, d'indicació, ús i autorització de dispensació de medicaments i productes sanitaris per infermeres.\n- Estratègia Nacional d'Atenció Primària i Comunitària (2019) i pla de salut de Catalunya.",
+ "key_points": [
+  "La infermera de pràctica avançada té formació de màster i competències clíniques ampliades.",
+  "La infermera gestora de casos coordina la cura de persones amb necessitats complexes.",
+  "La infermera d'enllaç assegura la continuïtat assistencial entre l'hospital i la primària.",
+  "L'RD 954/2015 regula la indicació i dispensació de medicaments per infermeres.",
+  "Les especialitats infermeres inclouen Família i comunitària, Pediàtrica, Geriàtrica i Salut mental, entre d'altres."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 44/2003, d'ordenació de les professions sanitàries",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21340"
+  },
+  {
+   "kind": "norma",
+   "label": "RD 954/2015",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-14028"
+  }
+ ],
+ "review_flags": [
+  "La regulació de la IPA a Espanya i Catalunya està en desenvolupament; verificar l'estat actual."
+ ]
+}

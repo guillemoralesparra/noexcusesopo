@@ -1,5 +1,8 @@
 {
  "epigraf": "T5.3",
+ "epigraf_v1": [
+  "T5.3"
+ ],
  "body_md": "## En una frase\nEl III Acord de la Mesa Sectorial de Negociació de Sanitat (signat el 22 de novembre de 2023, publicat al DOGC el 23 de gener de 2024 amb vigència fins al 31 de desembre de 2027) millora les condicions de treball del personal estatutari de l'ICS en jornada, atenció continuada, carrera professional, direcció per objectius i retribucions.\n\n## Conceptes clau\n- **Naturalesa i signants**: acord de la Mesa Sectorial entre l'ICS i la representació sindical (CCOO, UGT, Metges de Catalunya i SATSE); ratificat pel Govern el 12 de desembre de 2023; inscrit i publicat per la Resolució EMT/74/2024. Només recull allò que millora el II Acord, que roman vigent en tot el que no s'hi oposi, i preveia refondre'l en un text únic.\n- **Jornada ordinària**: personal mèdic i facultatiu, 1.642 hores anuals efectives (als hospitals passa de 1.728 a 1.642). Resta de categories: 1.599 hores anuals en torn diürn i 1.445 en torn fix de nit; el torn rodat s'ajusta proporcionalment. Atenció continuada: 149 hores mensuals.\n- **Jornada complementària (guàrdies)**: programada amb previsió de sis mesos; la suma d'ordinària i complementària no pot superar 2.187 hores anuals (equivalent a 48 hores setmanals de mitjana, coherent amb l'art. 48.2 de l'Estatut marc); no inclou fins a 150 hores anuals voluntàries addicionals. La guàrdia localitzada no computa llevat de crida efectiva i es limita progressivament a 1.500 hores anuals (excepcionalment 1.650).\n- **Exempcions de guàrdies**: embarassades i professionals amb contraindicació de salut; majors de 50 anys poden demanar-ho amb tres mesos d'antelació; exoneració de guàrdies localitzades gradual (60 anys el 2024, 55 el 2025, 50 el 2027).\n- **Ampliació voluntària**: cobertura voluntària de festius intersetmanals i, per a la infermeria, de diumenges amb un plus d'especial dedicació.\n- **Perfils**: reconeixement professional i econòmic de les infermeres especialistes, de pràctica avançada (IPA) i d'atenció especialitzada, amb compromís de definir procediment i import de carrera propi per a les IPA.\n- **Carrera professional**: requisits de vinculació i còmput del temps (inclou excedències per cura i serveis especials); quatre nivells; ajust de punts: 20 per formació continuada i 75 per activitat assistencial; mínim de crèdits de formació continuada acreditada (7 a partir de 2025); banda mínima d'assoliment del 70 %, 65 %, 60 % i 55 % per als nivells 1 a 4.\n- **DPO (direcció per objectius)**: signatura el primer trimestre; tenen dret a participar-hi qui presta més de 175 dies a l'ICS (amb presència superior al 96 %); els objectius han de ser reptadors però assolibles i pactats; no poden obligar a fer activitats fora de la jornada.\n- **Permisos, llicències i vacances**: l'Estatut marc (art. 61) remet als permisos del personal públic (TREBEP, arts. 48-49) i garanteix un mínim de 30 dies naturals de vacances (art. 53); el detall propi de l'ICS ve del II Acord, que continua vigent.\n\n## Valors, escales i classificacions\n| Concepte | Xifra |\n|---|---|\n| Jornada anual facultatius | 1.642 h |\n| Jornada anual torn diürn (resta) | 1.599 h |\n| Jornada anual torn fix de nit | 1.445 h |\n| Màxim jornada ordinària + complementària | 2.187 h/any (48 h/setm.) |\n| Guàrdia localitzada, límit progressiu | 1.500 h/any (excepcional 1.650) |\n| Banda mínima carrera | 70 / 65 / 60 / 55 % |\n| Vigència | Fins al 31/12/2027 |\n\n## Actuació infermera\nConèixer el torn i la jornada anual aplicables, les possibilitats d'exempció, el procés de carrera professional (acreditar formació continuada i activitat assistencial) i la DPO anual.\n\n## Què pregunten als exàmens\nCap pregunta oficial 2015-2024 classificada aquí. L'acord és de 2023; per tant, és plausible que aparegui a la convocatòria de 2027, sobretot jornada anual, carrera professional i DPO.\n\n## Trampes freqüents\n- Aplicar a tota la plantilla la jornada de 1.642 h: és la dels facultatius; la infermeria en torn diürn fa 1.599 h.\n- Confondre el límit de 48 hores setmanals de mitjana amb el de les 2.187 hores anuals: són equivalents.\n- Pensar que el III Acord deroga el II Acord: només el millora.\n- Creure que la DPO inclou obligatòriament tothom: cal presència mínima del 96 % en el cas dels temporals.\n\n## Normativa i guies de referència\n- Resolució EMT/74/2024, de 12 de gener (DOGC 9085, 23.1.2024): III Acord de condicions de treball del personal estatutari de l'ICS.\n- Llei 55/2003, arts. 47-48, 51-53, 61; RDL 5/2015, arts. 47-50.\n",
  "key_points": [
   "El III Acord es va signar el 22/11/2023, es va publicar al DOGC el 23/1/2024 i té vigència fins al 31/12/2027.",
@@ -10,9 +13,24 @@
   "Per participar en la DPO cal més de 175 dies treballats i presència superior al 96 % en el cas de nomenaments breus."
  ],
  "sources": [
-  {"kind": "ref", "label": "Resolució EMT/74/2024, de 12 de gener, III Acord de condicions de treball del personal estatutari de l'ICS (DOGC 9085, 23.1.2024)"},
-  {"kind": "norma", "label": "Llei 55/2003, arts. 47-48, 51-53, 61", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101"},
-  {"kind": "norma", "label": "RDL 5/2015, arts. 47-50", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"}
+  {
+   "kind": "ref",
+   "label": "Resolució EMT/74/2024, de 12 de gener, III Acord de condicions de treball del personal estatutari de l'ICS (DOGC 9085, 23.1.2024)"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 55/2003, arts. 47-48, 51-53, 61",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101"
+  },
+  {
+   "kind": "norma",
+   "label": "RDL 5/2015, arts. 47-50",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+  }
  ],
- "review_flags": ["El text del III Acord no és a data/sources; m'he basat en el text de la Resolució EMT/74/2024 present a la documentació de referència. Els permisos, llicències i vacances propis de l'ICS no hi són detallats (provenen del II Acord) i no s'han pogut verificar.", "Verificar si s'ha publicat el text refós del III Acord i si hi ha modificacions posteriors a 2024.", "No he verificat els imports retributius ni els permisos específics."]
+ "review_flags": [
+  "El text del III Acord no és a data/sources; m'he basat en el text de la Resolució EMT/74/2024 present a la documentació de referència. Els permisos, llicències i vacances propis de l'ICS no hi són detallats (provenen del II Acord) i no s'han pogut verificar.",
+  "Verificar si s'ha publicat el text refós del III Acord i si hi ha modificacions posteriors a 2024.",
+  "No he verificat els imports retributius ni els permisos específics."
+ ]
 }

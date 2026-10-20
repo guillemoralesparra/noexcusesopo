@@ -22,12 +22,17 @@ for f in (ROOT / "data" / "sources").glob("*.json"):
         sources[c["id"]] = {"kind": "norma", "label": f"{norm['short']}, {c['unit']}", "url": norm["url"]}
 
 valid_eps = {e["id"] for b in json.loads((ROOT / "data" / "temario.json").read_text(encoding="utf-8"))["blocs"] for t in b["temes"] for e in t["epigrafs"]}
+# Epígrafs del temari v2 (scripts/reclass_v2.py): prevalen sobre la classificació original
+v2_path = ROOT / "data" / "classification" / "v2.json"
+v2 = json.loads(v2_path.read_text(encoding="utf-8")) if v2_path.exists() else {}
 out, missing, bad_ep = [], 0, 0
 for q in json.loads((H / "candidates.json").read_text(encoding="utf-8")):
     p = chunks.get(q["id"])
     if not p:
         missing += 1
         continue
+    if q["id"] in v2:
+        p = {**p, "epigraf_v1": p["epigraf"], "epigraf": v2[q["id"]]["epigraf"], "secondary": v2[q["id"]]["secondary"]}
     # Correcció de prefixos equivocats (p. ex. E10.2 → T10.2)
     if p["epigraf"] not in valid_eps and ("T" + p["epigraf"][1:]) in valid_eps:
         p["epigraf"] = "T" + p["epigraf"][1:]
@@ -48,6 +53,7 @@ for q in json.loads((H / "candidates.json").read_text(encoding="utf-8")):
         **{k: q[k] for k in ("id", "exam_id", "n", "section", "case_id", "stem", "options", "accepted", "source_label")},
         "annulled": False,
         "epigraf": p["epigraf"],
+        **({"epigraf_v1": p["epigraf_v1"]} if "epigraf_v1" in p else {}),
         "secondary": p.get("secondary") if p.get("secondary") in valid_eps else None,
         "concept": p.get("concept"),
         "currency": p.get("currency", "check"),

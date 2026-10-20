@@ -1,5 +1,8 @@
 {
  "epigraf": "T5.1",
+ "epigraf_v1": [
+  "T5.1"
+ ],
  "body_md": "## En una frase\nL'Estatut bàsic de l'empleat públic (TREBEP, RDL 5/2015) estableix les bases del règim estatutari dels funcionaris i les normes aplicables al personal laboral de totes les administracions, i classifica els empleats públics en quatre classes; el personal estatutari dels serveis de salut es regeix per la seva legislació pròpia i, de manera complementària, pel TREBEP.\n\n## Conceptes clau\n- **Objecte (art. 1)**: bases del règim estatutari dels funcionaris i normes aplicables al personal laboral. Fonaments d'actuació: servei als ciutadans, igualtat, mèrit i capacitat, objectivitat i imparcialitat, eficàcia, transparència, avaluació, negociació col·lectiva, entre d'altres.\n- **Àmbit (art. 2)**: personal funcionari i, en allò que correspongui, laboral de l'Administració General de l'Estat, de les comunitats autònomes (i Ceuta i Melilla), de les entitats locals, dels organismes públics i entitats de dret públic dependents, i de les universitats públiques.\n- **Personal estatutari de salut (art. 2.3)**: es regeix per la seva legislació específica i pel TREBEP, excepte el capítol II del títol III (llevat de l'art. 20) i els arts. 22.3, 24 i 84; quan el TREBEP diu «funcionari de carrera» s'entén inclòs l'estatutari (art. 2.4). El TREBEP és supletori per a tot el personal no inclòs en el seu àmbit (art. 2.5).\n- **Concepte (art. 8)**: empleat públic és qui exerceix funcions retribuïdes en les administracions al servei dels interessos generals.\n- **Classes (art. 8.2)**: funcionaris de carrera, funcionaris interins, personal laboral (fix, indefinit o temporal) i personal eventual.\n- **Funcionari de carrera (art. 9)**: vinculat per nomenament legal a una administració per relació estatutària de dret administratiu per a serveis professionals retribuïts de caràcter permanent; les funcions que impliquen potestats públiques o salvaguarda dels interessos generals les exerceixen exclusivament funcionaris.\n- **Interí (art. 10)**: nomenat per necessitat i urgència per a funcions de funcionari de carrera: vacant (màxim 3 anys), substitució transitòria, programes temporals (màxim 3 anys, ampliable fins a 12 mesos més) i excés o acumulació de tasques (màxim 9 mesos dins de 18). Mai no esdevé funcionari de carrera.\n- **Personal laboral (art. 11)**: contracte de treball escrit; **eventual (art. 12)**: nomenament i cessament lliures, funcions de confiança o assessorament especial, no és mèrit per accedir a la funció pública; **directiu professional (art. 13)**: designat per mèrit, capacitat i idoneïtat amb publicitat i concurrència, avaluat per resultats.\n\n## Valors, escales i classificacions\n| Classe | Tret distintiu |\n|---|---|\n| Funcionari de carrera | Permanent, nomenament legal, dret administratiu |\n| Funcionari interí | Temporal, necessitat i urgència; màx. 3 anys per vacant |\n| Personal laboral | Contracte de treball (fix, indefinit, temporal) |\n| Personal eventual | Confiança o assessorament, lliure nomenament i cessament |\n\n## Actuació infermera\nLa infermera de l'ICS és personal estatutari (Llei 55/2003), no funcionària de carrera de la funció pública general, però el TREBEP li és aplicable en allò no previst a la seva legislació; cal saber distingir-ho.\n\n## Què pregunten als exàmens\nCap pregunta oficial 2015-2024 classificada aquí. Recopilacions d'oposicions d'ICS inclouen preguntes de test transversal sobre l'EBEP: classes de personal, àmbit i codi de conducta.\n\n## Trampes freqüents\n- Dir que el personal estatutari de salut es regeix només pel TREBEP: la seva norma pròpia és l'Estatut marc.\n- Oblidar el personal eventual com a quarta classe o confondre'l amb l'interí.\n- Pensar que l'interí pot adquirir la condició de funcionari de carrera pel pas del temps.\n- Fer servir el nom antic (Llei 7/2007): ara és el RDL 5/2015.\n\n## Normativa i guies de referència\n- RDL 5/2015, de 30 d'octubre (TREBEP), arts. 1-13.\n- Llei 55/2003, art. 2.\n",
  "key_points": [
   "El TREBEP (RDL 5/2015) fixa les bases del règim estatutari dels funcionaris i les normes del personal laboral de les administracions.",
@@ -10,8 +13,18 @@
   "El personal eventual fa funcions de confiança o assessorament i té nomenament i cessament lliures."
  ],
  "sources": [
-  {"kind": "norma", "label": "RDL 5/2015 (TREBEP), arts. 1-13", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"},
-  {"kind": "norma", "label": "Llei 55/2003, art. 2", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101"}
+  {
+   "kind": "norma",
+   "label": "RDL 5/2015 (TREBEP), arts. 1-13",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 55/2003, art. 2",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101"
+  }
  ],
- "review_flags": ["El TREBEP ha estat modificat diverses vegades (temporalitat el 2021-2022); el text consolidat de la font és de juliol de 2025, però no he comprovat reformes posteriors."]
+ "review_flags": [
+  "El TREBEP ha estat modificat diverses vegades (temporalitat el 2021-2022); el text consolidat de la font és de juliol de 2025, però no he comprovat reformes posteriors."
+ ]
 }

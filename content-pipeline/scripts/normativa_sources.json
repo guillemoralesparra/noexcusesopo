@@ -17,5 +17,9 @@
   {"slug": "llei-17-2015", "short": "Llei 17/2015 (igualtat)", "jurisdiction": "catalunya", "source": "pjc", "eli": "https://portaljuridic.gencat.cat/eli/es-ct/l/2015/07/21/17", "temario": ["T8"]},
   {"slug": "llei-5-2008", "short": "Llei 5/2008 (violència masclista)", "jurisdiction": "catalunya", "source": "pjc", "eli": "https://portaljuridic.gencat.cat/eli/es-ct/l/2008/04/24/5", "temario": ["T8"]},
   {"slug": "lo-3-2021", "short": "LO 3/2021 (eutanàsia)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2021-4628", "temario": ["T9.3"]},
-  {"slug": "rd-954-2015", "short": "RD 954/2015 (prescripció infermera)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2015-14028", "temario": ["E6.6"]}
+  {"slug": "rd-954-2015", "short": "RD 954/2015 (prescripció infermera)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2015-14028", "temario": ["E6.6"]},
+  {"slug": "ley-39-2015", "short": "Llei 39/2015 (procediment administratiu comú)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2015-10565", "temario": ["T11"]},
+  {"slug": "ley-40-2015", "short": "Llei 40/2015 (règim jurídic del sector públic)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-2015-10566", "temario": ["T11"]},
+  {"slug": "llei-17-2020", "short": "Llei 17/2020 (modificació de la Llei 5/2008)", "jurisdiction": "catalunya", "source": "pjc", "eli": "https://portaljuridic.gencat.cat/eli/es-ct/l/2020/12/22/17", "temario": ["T8"]},
+  {"slug": "lo-10-1995", "short": "LO 10/1995 (Codi penal)", "jurisdiction": "estat", "source": "boe", "boe_id": "BOE-A-1995-25444", "temario": ["T9"]}
 ]

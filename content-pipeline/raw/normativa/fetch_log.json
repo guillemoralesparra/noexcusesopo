@@ -184,5 +184,42 @@
       "metadatos": "ley-14-1986.boe-metadatos.xml",
       "texto": "ley-14-1986.boe-texto.xml"
     }
+  },
+  "ley-39-2015": {
+    "ok": true,
+    "fetched": "2026-10-19",
+    "files": {
+      "metadatos": "ley-39-2015.boe-metadatos.xml",
+      "texto": "ley-39-2015.boe-texto.xml"
+    }
+  },
+  "ley-40-2015": {
+    "ok": true,
+    "fetched": "2026-10-19",
+    "files": {
+      "metadatos": "ley-40-2015.boe-metadatos.xml",
+      "texto": "ley-40-2015.boe-texto.xml"
+    }
+  },
+  "llei-17-2020": {
+    "ok": true,
+    "fetched": "2026-10-19",
+    "files": {
+      "eli_page": "llei-17-2020.eli.html",
+      "document": "llei-17-2020.pjc-document.json",
+      "affectations": "llei-17-2020.pjc-affectations.json",
+      "mode": "structured",
+      "documentId": "889760",
+      "validity": "2024890",
+      "traceability": "02"
+    }
+  },
+  "lo-10-1995": {
+    "ok": true,
+    "fetched": "2026-10-19",
+    "files": {
+      "metadatos": "lo-10-1995.boe-metadatos.xml",
+      "texto": "lo-10-1995.boe-texto.xml"
+    }
   }
 }

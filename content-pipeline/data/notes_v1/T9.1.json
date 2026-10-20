@@ -1,0 +1,46 @@
+{
+ "epigraf": "T9.1",
+ "body_md": "## En una frase\nLa bioètica és la disciplina que analitza els problemes ètics de la salut i la vida amb quatre principis (autonomia, beneficència, no-maleficència i justícia) i es concreta en les institucions sanitàries mitjançant els comitès d'ètica assistencial, que assessoren de manera interdisciplinària i no vinculant.\n\n## Conceptes clau\n- **Orígens**: Informe Belmont (1979) i *Principles of Biomedical Ethics* de Beauchamp i Childress (1979), que formulen els quatre principis; a Espanya els difon Diego Gracia.\n- **Autonomia**: respecte a la capacitat de decidir de la persona competent (consentiment informat, voluntats anticipades, dret a rebutjar un tractament).\n- **Beneficència**: obligació de fer el bé i procurar el benefici del pacient segons la seva pròpia noció de benefici.\n- **No-maleficència**: *primum non nocere*; evitar el dany, la negligència i els tractaments fútils.\n- **Justícia**: distribució equitativa de recursos i d'accés, sense discriminació.\n- **Dos nivells (Gracia)**: **ètica de mínims** (no-maleficència i justícia: exigibles, inclosos en la llei) i **ètica de màxims** (autonomia i beneficència: pròpia de cada projecte de vida).\n- **Deliberació**: mètode ordenat per prendre decisions: presentar el cas, identificar els problemes morals, valorar els valors en conflicte, buscar cursos d'acció, triar el més prudent i comprovar-ne la coherència amb la llei i la reflexió pública.\n- **Comitè d'ètica assistencial (CEA)**: òrgan consultiu, multidisciplinari (mèdics, infermeria, treball social, juristes, persones alienes al centre, usuaris), que assessora en conflictes ètics, elabora protocols i orientacions, fomenta la formació. **Les seves recomanacions no són vinculants**; no avalua professionals ni exerceix funcions disciplinàries.\n- **Comitè d'ètica de la investigació (CEIC/CEIm)**: avalua assajos clínics i projectes de recerca amb persones.\n\n## Valors, escales i classificacions\n| Principi | Pregunta clau | Exemple infermer |\n|---|---|---|\n| Autonomia | Què vol la persona? | Respectar la negativa informada a una cura |\n| Beneficència | Què li convé? | Individualitzar el pla de cures |\n| No-maleficència | Li farem mal? | Evitar sobreactuació o contencions innecessàries |\n| Justícia | És equitatiu? | Prioritzar per necessitat clínica |\n\n## Actuació infermera\n- Detectar els conflictes ètics (voluntats anticipades, rebuig de tractament, limitació de l'esforç terapèutic), documentar-los i comunicar-los a l'equip.\n- Respectar el consentiment informat i les voluntats anticipades (Llei 21/2000, art. 6 i 8).\n- Recórrer al CEA quan el conflicte no es resol dins l'equip.\n- Aplicar els codis deontològics (CIE, CGE, codi de Catalunya) com a marc de referència.\n\n## Què pregunten als exàmens\nCap pregunta classificada als exàmens oficials 2015–2024 com a epígraf propi. Probable: definició dels quatre principis, ètica de mínims i de màxims i funcions del CEA.\n\n## Trampes freqüents\n- Dir que les recomanacions del comitè d'ètica són obligatòries: no ho són.\n- Situar la beneficència entre els principis de mínims: és de màxims.\n- Confondre el CEA amb el comitè d'ètica de la investigació.\n\n## Normativa i guies de referència\n- Llei 21/2000, art. 6 (consentiment informat) i art. 8 (voluntats anticipades); Llei 41/2002, art. 11.\n- Llei 44/2003 (LOPS), art. 5 (principis de la relació entre professionals i pacients).\n- Beauchamp i Childress, *Principles of Biomedical Ethics*; Informe Belmont (1979); Codi d'ètica de les infermeres i infermers de Catalunya (2013).\n",
+ "key_points": [
+  "Els quatre principis de la bioètica són autonomia, beneficència, no-maleficència i justícia.",
+  "Segons Gracia, no-maleficència i justícia són l'ètica de mínims (exigible) i autonomia i beneficència l'ètica de màxims.",
+  "El comitè d'ètica assistencial és consultiu, multidisciplinari i les seves recomanacions no són vinculants.",
+  "El CEA no avalua professionals ni té funcions disciplinàries.",
+  "El CEIC/CEIm avalua assajos clínics i projectes de recerca.",
+  "El consentiment informat i les voluntats anticipades concreten el principi d'autonomia (Llei 21/2000)."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 21/2000, art. 6",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/2000/12/29/21"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 21/2000, art. 8",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/2000/12/29/21"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 41/2002, art. 11",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 44/2003, art. 5",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21340"
+  },
+  {
+   "kind": "ref",
+   "label": "Codi d'ètica de les infermeres i infermers de Catalunya, Consell de Col·legis, 2013"
+  },
+  {
+   "kind": "ref",
+   "label": "Beauchamp T, Childress J. Principles of Biomedical Ethics (ed. originals 1979)"
+  }
+ ],
+ "review_flags": [
+  "La regulació concreta dels CEA a Catalunya (acreditació, composició) no és a data/sources; descrita de manera general.",
+  "Cap pregunta d'examen classificada; la prioritat és baixa."
+ ]
+}

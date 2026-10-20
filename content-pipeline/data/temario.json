@@ -1,591 +1,811 @@
 {
-  "source": "Resolució SLT/2380/2025 (DOGC 9441, 26/06/2025), Annex 3 i Annex 35.3",
-  "note": "El camp 'oficial' és literal de la convocatòria. Els 'epigrafs' són un desglossament propi per estructurar l'estudi; es revisaran amb el mapa de freqüències dels exàmens oficials.",
-  "blocs": [
+ "source": "Resolució SLT/2380/2025 (DOGC 9441, 26/06/2025), Annex 3 i Annex 35.3",
+ "version": 2,
+ "note": "El camp 'oficial' és literal de la convocatòria. Els epígrafs (v2, 19/10/2026) desglossen cada tema seguint el text oficial i l'organització real del material d'estudi; 'abast' fixa què hi va quan un contingut podria anar a dos llocs. La v1 és a temario_v1.json.",
+ "blocs": [
+  {
+   "id": "T",
+   "nom": "Temari transversal",
+   "temes": [
     {
-      "id": "T",
-      "nom": "Temari transversal",
-      "temes": [
-        {
-          "id": "T1",
-          "titol": "Ordenació sanitària de Catalunya, SISCAT i Pla de salut",
-          "oficial": "La Llei d'ordenació sanitària de Catalunya. El sistema sanitari integral d'utilització pública de Catalunya (SISCAT): Disposicions comunes als centres, serveis i establiments sanitaris integrats en el SISCAT. El Pla de salut de Catalunya: principis generals.",
-          "epigrafs": [
-            {
-              "id": "T1.1",
-              "titol": "Llei 15/1990 d'ordenació sanitària de Catalunya (LOSC): principis, CatSalut i ordenació territorial"
-            },
-            {
-              "id": "T1.2",
-              "titol": "SISCAT (Decret 196/2010): disposicions comunes a centres, serveis i establiments"
-            },
-            {
-              "id": "T1.3",
-              "titol": "Pla de salut de Catalunya: principis generals, objectius i indicadors"
-            }
-          ]
-        },
-        {
-          "id": "T2",
-          "titol": "Institut Català de la Salut",
-          "oficial": "L'empresa pública Institut Català de la Salut. Missió, visió i valors. Règim jurídic, objectius, funcions i principis de gestió. Organització de l'Institut Català de la Salut. Els Estatuts de l'Institut Català de la Salut. Competències de l'Institut Català de la Salut.",
-          "epigrafs": [
-            {
-              "id": "T2.1",
-              "titol": "Llei 8/2007 de l'ICS: naturalesa i règim jurídic, objectius, funcions i principis de gestió"
-            },
-            {
-              "id": "T2.2",
-              "titol": "Estatuts de l'ICS (Decret 13/2009) i organització: òrgans de govern i gerències territorials"
-            },
-            {
-              "id": "T2.3",
-              "titol": "Missió, visió, valors i competències de l'ICS"
-            }
-          ]
-        },
-        {
-          "id": "T3",
-          "titol": "Drets i deures en salut i protecció de dades",
-          "oficial": "Drets i deures de la ciutadania en relació amb la salut i l'atenció sanitària: dret d'informació sanitària del pacient. Dret a la intimitat i confidencialitat del pacient. Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals: àmbit d'aplicació, conceptes bàsics, principis de la protecció de dades. Drets ARSOPOL. La figura del delegat de protecció de dades. Reglament general de protecció de dades (RGPD).",
-          "epigrafs": [
-            {
-              "id": "T3.1",
-              "titol": "Dret a la informació sanitària i consentiment informat (Llei 21/2000, Llei 41/2002)"
-            },
-            {
-              "id": "T3.2",
-              "titol": "Intimitat, confidencialitat i història clínica"
-            },
-            {
-              "id": "T3.3",
-              "titol": "Autonomia del pacient: document de voluntats anticipades i instruccions prèvies"
-            },
-            {
-              "id": "T3.4",
-              "titol": "Carta de drets i deures de la ciutadania en relació amb la salut"
-            },
-            {
-              "id": "T3.5",
-              "titol": "LOPDGDD i RGPD: conceptes, principis, drets ARSOPOL i delegat de protecció de dades"
-            }
-          ]
-        },
-        {
-          "id": "T4",
-          "titol": "Estatut marc del personal estatutari",
-          "oficial": "L'Estatut marc del personal estatutari dels serveis de salut: objecte, àmbit d'aplicació, drets i deures, adquisició i pèrdua de la condició de personal estatutari, actualització de coneixements, retribucions, incompatibilitats.",
-          "epigrafs": [
-            {
-              "id": "T4.1",
-              "titol": "Objecte, àmbit d'aplicació i classificació del personal estatutari"
-            },
-            {
-              "id": "T4.2",
-              "titol": "Drets i deures del personal estatutari"
-            },
-            {
-              "id": "T4.3",
-              "titol": "Adquisició i pèrdua de la condició de personal estatutari"
-            },
-            {
-              "id": "T4.4",
-              "titol": "Retribucions i actualització de coneixements"
-            },
-            {
-              "id": "T4.5",
-              "titol": "Incompatibilitats"
-            }
-          ]
-        },
-        {
-          "id": "T5",
-          "titol": "EBEP i III Acord de la Mesa Sectorial",
-          "oficial": "L'Estatut bàsic de l'empleat públic: objecte i àmbit d'aplicació, codi de conducta dels empleats públics. El III Acord de la Mesa Sectorial de Negociació de Sanitat sobre les condicions de treball del personal estatutari de l'Institut Català de la Salut.",
-          "epigrafs": [
-            {
-              "id": "T5.1",
-              "titol": "EBEP: objecte, àmbit d'aplicació i classes de personal"
-            },
-            {
-              "id": "T5.2",
-              "titol": "Codi de conducta: principis ètics i principis de conducta"
-            },
-            {
-              "id": "T5.3",
-              "titol": "III Acord de la Mesa Sectorial: jornada, permisos, llicències i condicions de treball"
-            }
-          ]
-        },
-        {
-          "id": "T6",
-          "titol": "Incentivació i promoció professional",
-          "oficial": "Sistemes d'incentivació i promoció professionals: la carrera professional, la direcció per objectius i la retribució variable.",
-          "epigrafs": [
-            {
-              "id": "T6.1",
-              "titol": "Carrera professional: nivells, requisits i avaluació"
-            },
-            {
-              "id": "T6.2",
-              "titol": "Direcció per objectius (DPO) i retribució variable"
-            }
-          ]
-        },
-        {
-          "id": "T7",
-          "titol": "Prevenció de riscos laborals i assetjament",
-          "oficial": "Llei de prevenció de riscos laborals: conceptes bàsics, drets i obligacions en matèria de seguretat i salut en el treball. El reglament dels serveis de prevenció. Organització de recursos per a les activitats preventives. Protocol per a la prevenció, la detecció, l'actuació i la resolució de situacions d'assetjament sexual, per raó de sexe, de l'orientació sexual i/o de la identitat sexual a l'Administració de la Generalitat de Catalunya.",
-          "epigrafs": [
-            {
-              "id": "T7.1",
-              "titol": "Llei 31/1995: conceptes bàsics, drets i obligacions"
-            },
-            {
-              "id": "T7.2",
-              "titol": "Reglament dels serveis de prevenció i organització de recursos preventius"
-            },
-            {
-              "id": "T7.3",
-              "titol": "Riscos laborals en l'àmbit sanitari: biològic, ergonòmic, psicosocial i agressions"
-            },
-            {
-              "id": "T7.4",
-              "titol": "Protocol d'assetjament sexual i per raó de sexe, orientació o identitat sexual"
-            }
-          ]
-        },
-        {
-          "id": "T8",
-          "titol": "Igualtat i violència masclista",
-          "oficial": "Llei 17/2015, del 21 de juliol, d'igualtat efectiva de dones i homes: objecte i finalitats. Principis d'actuació dels poders públics. Llei 5/2008, del 24 d'abril, del dret de les dones a erradicar la violència masclista i Llei 17/2020, del 22 de desembre, de modificació de la Llei 5/2008, del dret de les dones a erradicar la violència masclista: disposicions generals. II Pla d'Igualtat de l'Institut Català de la Salut.",
-          "epigrafs": [
-            {
-              "id": "T8.1",
-              "titol": "Llei 17/2015 d'igualtat efectiva: objecte, finalitats i principis d'actuació"
-            },
-            {
-              "id": "T8.2",
-              "titol": "Llei 5/2008 i Llei 17/2020: violència masclista, formes i àmbits"
-            },
-            {
-              "id": "T8.3",
-              "titol": "II Pla d'Igualtat de l'ICS"
-            }
-          ]
-        },
-        {
-          "id": "T9",
-          "titol": "Bioètica i secret professional",
-          "oficial": "Principis generals de la bioètica. El secret professional: concepte i regulació jurídica.",
-          "epigrafs": [
-            {
-              "id": "T9.1",
-              "titol": "Principis de la bioètica i comitès d'ètica"
-            },
-            {
-              "id": "T9.2",
-              "titol": "Secret professional: concepte i regulació jurídica"
-            },
-            {
-              "id": "T9.3",
-              "titol": "Decisions al final de la vida: Llei orgànica 3/2021 de regulació de l'eutanàsia"
-            }
-          ]
-        },
-        {
-          "id": "T10",
-          "titol": "Qualitat",
-          "oficial": "Qualitat: Concepte i definició. Qualitat tècnica i qualitat percebuda: concepte. El cicle de millora contínua: planificar, implantar, avaluar i activar (cicle PDCA). Resolució de problemes: el diagrama causa-efecte.",
-          "epigrafs": [
-            {
-              "id": "T10.1",
-              "titol": "Concepte de qualitat, dimensions, qualitat tècnica i percebuda"
-            },
-            {
-              "id": "T10.2",
-              "titol": "Cicle PDCA, diagrama causa-efecte i eines de millora"
-            }
-          ]
-        },
-        {
-          "id": "T11",
-          "titol": "Ofimàtica i administració electrònica",
-          "oficial": "Ofimàtica. Intranet, Internet, correu electrònic. Administració electrònica.",
-          "epigrafs": [
-            {
-              "id": "T11.1",
-              "titol": "Ofimàtica, Intranet, Internet i correu electrònic"
-            },
-            {
-              "id": "T11.2",
-              "titol": "Administració electrònica: identificació i signatura electròniques, seu electrònica"
-            }
-          ]
-        }
-      ]
+     "id": "T1",
+     "titol": "Ordenació sanitària de Catalunya, SISCAT i Pla de salut",
+     "oficial": "La Llei d'ordenació sanitària de Catalunya. El sistema sanitari integral d'utilització pública de Catalunya (SISCAT): Disposicions comunes als centres, serveis i establiments sanitaris integrats en el SISCAT. El Pla de salut de Catalunya: principis generals.",
+     "epigrafs": [
+      {
+       "id": "T1.1",
+       "titol": "Llei d'ordenació sanitària de Catalunya (Llei 15/1990)",
+       "abast": "Principis, CatSalut, ordenació territorial (regions sanitàries, sectors, ABS) i sistema sanitari català."
+      },
+      {
+       "id": "T1.2",
+       "titol": "El SISCAT: disposicions comunes als centres, serveis i establiments (Decret 196/2010)",
+       "abast": "Xarxa d'utilització pública, requisits i disposicions comunes."
+      },
+      {
+       "id": "T1.3",
+       "titol": "El Pla de salut de Catalunya: principis generals",
+       "abast": "Pla de salut 2021-2025: principis, prioritats per a la salut i per al sistema, línies i indicadors."
+      }
+     ]
     },
     {
-      "id": "E",
-      "nom": "Temari específic d'infermeria (A2-129)",
-      "temes": [
-        {
-          "id": "E1",
-          "titol": "Cures, ètica, metodologia, comunicació i recerca",
-          "oficial": "Tenir cura de la persona, la família i la comunitat. Conèixer i incorporar a la pràctica els aspectes ètics de la prestació de cures, el codi deontològic i el codi ètic de la disciplina infermera. Conèixer i saber aplicar el desenvolupament teòric infermer, els fonaments teòrics i metodològics disciplinaris, el procés d'atenció d'infermeria i els llenguatges clínics. Aconseguir en la relació terapèutica una comunicació efectiva mitjançant tècniques de comunicació bàsiques i avançades. Saber aplicar estils de comunicació en la comunicació verbal i no verbal i saber gestionar la comunicació en situacions de crisi i/o violència. Conèixer i saber aplicar els aspectes bàsics de la metodologia de la recerca clínica, epidemiològica i qualitativa. Tecnologia d'informació i comunicació. Intel·ligència artificial en salut. Nous rols professionals a l'atenció primària i comunitària.",
-          "epigrafs": [
-            {
-              "id": "E1.1",
-              "titol": "Ètica de les cures: codi deontològic i Codi d'ètica de les infermeres de Catalunya"
-            },
-            {
-              "id": "E1.2",
-              "titol": "Models i teories infermeres"
-            },
-            {
-              "id": "E1.3",
-              "titol": "Procés d'atenció d'infermeria (PAI)"
-            },
-            {
-              "id": "E1.4",
-              "titol": "Llenguatges clínics: NANDA-I, NOC, NIC, ATIC i registres"
-            },
-            {
-              "id": "E1.5",
-              "titol": "Relació terapèutica i tècniques de comunicació; entrevista clínica"
-            },
-            {
-              "id": "E1.6",
-              "titol": "Comunicació verbal i no verbal; comunicació de males notícies"
-            },
-            {
-              "id": "E1.7",
-              "titol": "Comunicació en situacions de crisi, agressivitat i violència"
-            },
-            {
-              "id": "E1.8",
-              "titol": "Recerca quantitativa, epidemiologia i bioestadística"
-            },
-            {
-              "id": "E1.9",
-              "titol": "Recerca qualitativa i pràctica basada en l'evidència"
-            },
-            {
-              "id": "E1.10",
-              "titol": "TIC i sistemes d'informació sanitaris"
-            },
-            {
-              "id": "E1.11",
-              "titol": "Intel·ligència artificial en salut"
-            },
-            {
-              "id": "E1.12",
-              "titol": "Nous rols infermers a l'atenció primària i comunitària"
-            }
-          ]
-        },
-        {
-          "id": "E2",
-          "titol": "Promoció, prevenció, cicle vital i família",
-          "oficial": "Desenvolupar accions conduents a la promoció de la salut social, pública i comunitària i promoure la salut i l'autonomia de la persona. Desenvolupar també accions dirigides a la prevenció de la malaltia, el deteriorament i la dependència. Conèixer i incorporar a la pràctica les recomanacions de salut mediambiental. Conèixer el concepte de cronicitat. Conèixer els factors de risc en les diferents etapes del cicle vital. Saber identificar els aspectes específics de l'atenció a la salut dels infants i adolescents, i els aspectes específics de l'atenció a la salut dels ancians. Saber valorar la salut familiar, la dinàmica, el funcionament i els rols familiars, incloses les situacions de diversitats afectiva, sexual i de gènere i situacions de vulnerabilitat social. Conèixer els atributs de la família funcional/disfuncional i conèixer les teories sobre vinculació afectiva.",
-          "epigrafs": [
-            {
-              "id": "E2.1",
-              "titol": "Promoció de la salut i salut comunitària; determinants socials"
-            },
-            {
-              "id": "E2.2",
-              "titol": "Nivells de prevenció i cribratges"
-            },
-            {
-              "id": "E2.3",
-              "titol": "Vacunacions i calendari vacunal"
-            },
-            {
-              "id": "E2.4",
-              "titol": "Prevenció de la dependència; valoració funcional"
-            },
-            {
-              "id": "E2.5",
-              "titol": "Salut mediambiental"
-            },
-            {
-              "id": "E2.6",
-              "titol": "Cronicitat: models d'atenció, PCC i MACA"
-            },
-            {
-              "id": "E2.7",
-              "titol": "Factors de risc i estils de vida en el cicle vital"
-            },
-            {
-              "id": "E2.8",
-              "titol": "Atenció a la salut d'infants i adolescents"
-            },
-            {
-              "id": "E2.9",
-              "titol": "Atenció a la gent gran: fragilitat i síndromes geriàtriques"
-            },
-            {
-              "id": "E2.10",
-              "titol": "Salut familiar: valoració, cicle vital familiar, família funcional/disfuncional"
-            },
-            {
-              "id": "E2.11",
-              "titol": "Diversitat afectiva, sexual i de gènere; vulnerabilitat social"
-            },
-            {
-              "id": "E2.12",
-              "titol": "Teories de la vinculació afectiva"
-            },
-            {
-              "id": "E2.13",
-              "titol": "Diagnòstic de salut i priorització de problemes en salut comunitària"
-            },
-            {
-              "id": "E2.14",
-              "titol": "Problemes de salut prevalents en la infància"
-            }
-          ]
-        },
-        {
-          "id": "E3",
-          "titol": "Urgències, maternitat, cardiorespiratori i nefrourinari",
-          "oficial": "Valorar, diagnosticar i abordar problemes de salut reals i de risc. Conèixer i saber aplicar el procés de cures en situacions d'urgència o emergència. Conèixer i saber aplicar el procés de cures en l'embaràs, part i puerperi. Conèixer i saber aplicar el procés de cures a les persones amb problemes cardiocirculatoris i/o respiratoris. Conèixer i saber aplicar el procés de cures a les persones amb problemes nefrourinaris i/o de l'aparell reproductor.",
-          "epigrafs": [
-            {
-              "id": "E3.1",
-              "titol": "Urgències i emergències: triatge, suport vital i RCP, politraumatisme"
-            },
-            {
-              "id": "E3.2",
-              "titol": "Embaràs: seguiment i educació maternal"
-            },
-            {
-              "id": "E3.3",
-              "titol": "Part, puerperi, lactància materna i cures del nounat"
-            },
-            {
-              "id": "E3.4",
-              "titol": "Problemes cardiocirculatoris: cardiopatia isquèmica, IC, HTA, arítmies i ECG, vascular"
-            },
-            {
-              "id": "E3.5",
-              "titol": "Problemes respiratoris: MPOC, asma, oxigenoteràpia i inhaladors"
-            },
-            {
-              "id": "E3.6",
-              "titol": "Problemes nefrourinaris: MRC, diàlisi, sondatge vesical, incontinència"
-            },
-            {
-              "id": "E3.7",
-              "titol": "Aparell reproductor i salut sexual: anticoncepció, ITS, climateri, càncers ginecològics i de pròstata"
-            },
-            {
-              "id": "E3.8",
-              "titol": "Intoxicacions agudes, antídots i urgències ambientals"
-            }
-          ]
-        },
-        {
-          "id": "E4",
-          "titol": "Endocrí-nutrició, neuro-musculoesquelètic, infeccions i digestiu",
-          "oficial": "Conèixer i saber aplicar el procés de cures a les persones amb problemes nutricionals, metabòlics i/o endocrinològics. Conèixer i saber aplicar el procés de cures a les persones amb problemes neurològics i/o musculars i esquelètics. Conèixer i saber aplicar el procés de cures a les persones amb problemes infecciosos i/o parasitaris. Conèixer i saber aplicar el procés de cures a les persones amb problemes digestius, hepatobiliars o pancreàtics.",
-          "epigrafs": [
-            {
-              "id": "E4.1",
-              "titol": "Valoració nutricional, obesitat i desnutrició"
-            },
-            {
-              "id": "E4.2",
-              "titol": "Diabetis mellitus"
-            },
-            {
-              "id": "E4.3",
-              "titol": "Altres trastorns metabòlics i endocrins: tiroide, dislipèmies"
-            },
-            {
-              "id": "E4.4",
-              "titol": "Problemes neurològics: AVC, epilèpsia, demències, Parkinson, valoració neurològica"
-            },
-            {
-              "id": "E4.5",
-              "titol": "Problemes musculoesquelètics: fractures, osteoporosi, immobilitzacions"
-            },
-            {
-              "id": "E4.6",
-              "titol": "Malalties infeccioses i parasitàries: TBC, VIH, hepatitis, MDO"
-            },
-            {
-              "id": "E4.7",
-              "titol": "Problemes digestius i ostomies"
-            },
-            {
-              "id": "E4.8",
-              "titol": "Problemes hepatobiliars i pancreàtics"
-            },
-            {
-              "id": "E4.9",
-              "titol": "Alteracions hidroelectrolítiques i de l'equilibri àcid-base"
-            }
-          ]
-        },
-        {
-          "id": "E5",
-          "titol": "Pell, sang, ORL-oftalmologia, multisistèmic, salut mental i final de vida",
-          "oficial": "Conèixer i saber aplicar el procés de cures a les persones amb problemes cutanis i/o tegumentaris. Conèixer i saber aplicar el procés de cures a les persones amb problemes dels òrgans hematopoètics, la sang o el sistema immunitari. Conèixer i saber aplicar el procés de cures a les persones amb problemes maxil·lofacials, otorrinolaringològics i/o oftalmològics. Conèixer i saber aplicar el procés de cures a les persones amb problemes multiorgànics/multisistèmics. Conèixer i saber aplicar el procés de cures a les persones amb problemes mentals, del comportament (incloses les addiccions) i de vulnerabilitat social. Conèixer i saber aplicar el procés de cures a la persona en situació de malaltia terminal. *Procés de cures (...) inclou com a mínim els coneixements d'anatomia i fisiologia, fisiopatologia, valoració/avaluació, diagnòstic, detecció precoç i actuació.",
-          "epigrafs": [
-            {
-              "id": "E5.1",
-              "titol": "Lesions cutànies: úlceres per pressió, ferides, cremades i úlceres vasculars"
-            },
-            {
-              "id": "E5.2",
-              "titol": "Hematologia i immunitat: anèmies, coagulació i anticoagulants, anafilaxi"
-            },
-            {
-              "id": "E5.3",
-              "titol": "Problemes maxil·lofacials, ORL i oftalmològics"
-            },
-            {
-              "id": "E5.4",
-              "titol": "Problemes multisistèmics: xoc, sèpsia, pacient crític i oncològic"
-            },
-            {
-              "id": "E5.5",
-              "titol": "Salut mental: trastorns, risc de suïcidi i contenció"
-            },
-            {
-              "id": "E5.6",
-              "titol": "Addiccions i vulnerabilitat social"
-            },
-            {
-              "id": "E5.7",
-              "titol": "Malaltia terminal i cures pal·liatives"
-            },
-            {
-              "id": "E5.8",
-              "titol": "Problemes dermatològics: dermatitis, micosis, prurit i toxicodèrmies"
-            }
-          ]
-        },
-        {
-          "id": "E6",
-          "titol": "Adherència, educació sanitària, farmacologia i nutrició",
-          "oficial": "Ajudar el pacient en el compliment del tractament i saber fer-lo partícip. Conèixer i saber adequar les accions de l'educació sanitària. Conèixer i saber aplicar els models d'intervenció educativa per a la salut, els mètodes i procediments educatius, els conceptes i indicadors de seguiment i compliment, adhesió i adherència al tractament i/o als consells de salut. Conèixer i saber aplicar les bases de la farmacologia clínica, principals grups de medicaments: generalitats, accions, usos, principals efectes secundaris/adversos, principals incompatibilitats. Saber administrar els medicaments i fer les cures associades a l'administració de medicaments: conèixer i saber aplicar les tècniques de conservació, preparació i administració, comprovacions de seguretat, càlcul de dosi, càlcul de velocitat de perfusió, paràmetres de valoració pre-, trans- i/o postadministració, cures associades, avaluació de la resposta terapèutica i educació sanitària per al maneig de la medicació. Conèixer les tècniques en nutrició i dietètica. Saber indicar l'administració de dietes terapèutiques i la nutrició artificial. Conèixer i saber adequar les accions de l'educació nutricional. Conèixer i saber aplicar les intervencions, tècniques i procediments associats al pla terapèutic i al pla de cures.",
-          "epigrafs": [
-            {
-              "id": "E6.1",
-              "titol": "Adherència terapèutica: conceptes, mesura i intervencions"
-            },
-            {
-              "id": "E6.2",
-              "titol": "Educació per a la salut: models i mètodes"
-            },
-            {
-              "id": "E6.3",
-              "titol": "Farmacologia clínica: grups, efectes adversos i incompatibilitats"
-            },
-            {
-              "id": "E6.4",
-              "titol": "Administració de medicaments: vies, tècniques, conservació i comprovacions"
-            },
-            {
-              "id": "E6.5",
-              "titol": "Càlcul de dosis i de velocitat de perfusió"
-            },
-            {
-              "id": "E6.6",
-              "titol": "Indicació i prescripció infermera de medicaments"
-            },
-            {
-              "id": "E6.7",
-              "titol": "Dietètica i dietes terapèutiques; educació nutricional"
-            },
-            {
-              "id": "E6.8",
-              "titol": "Nutrició artificial: enteral i parenteral"
-            },
-            {
-              "id": "E6.9",
-              "titol": "Tècniques i procediments: accessos venosos, sondes, mostres, constants"
-            },
-            {
-              "id": "E6.10",
-              "titol": "Disfàgia orofaríngia: cribratge i adaptació de textures"
-            },
-            {
-              "id": "E6.11",
-              "titol": "Mobilització del pacient i mecànica corporal"
-            }
-          ]
-        },
-        {
-          "id": "E7",
-          "titol": "Seguretat del pacient i control de la infecció",
-          "oficial": "Contribuir a garantir la seguretat del pacient i gestionar el procés assistencial. Conèixer i saber aplicar els principis d'asèpsia i esterilització. Saber desenvolupar accions conduents a la prevenció i abordatge de la infecció nosocomial i de les infeccions relacionades amb l'assistència sanitària. Conèixer i saber aplicar les mesures d'aïllaments i les precaucions que cal aplicar. Conèixer els programes de seguretat clínica, la teoria de l'error humà en l'atenció de la salut i els conceptes de seguretat clínica. Conèixer el sistema de prevenció d'errors i d'esdeveniments adversos. Prevenir les caigudes i disminuir les lesions. Conèixer i saber aplicar el sistema de seguretat farmacològica i transfusional, el sistema de seguretat periquirúrgica i periintervencionista. Conèixer i saber determinar l'eficàcia de la conciliació de medicació.",
-          "epigrafs": [
-            {
-              "id": "E7.1",
-              "titol": "Asèpsia, antisèpsia, desinfecció i esterilització"
-            },
-            {
-              "id": "E7.2",
-              "titol": "Infeccions relacionades amb l'assistència sanitària: higiene de mans i programes Zero"
-            },
-            {
-              "id": "E7.3",
-              "titol": "Aïllaments, precaucions i residus sanitaris"
-            },
-            {
-              "id": "E7.4",
-              "titol": "Seguretat clínica: error humà, esdeveniments adversos i notificació"
-            },
-            {
-              "id": "E7.5",
-              "titol": "Identificació del pacient i comunicació en les transferències"
-            },
-            {
-              "id": "E7.6",
-              "titol": "Prevenció de caigudes i lesions"
-            },
-            {
-              "id": "E7.7",
-              "titol": "Seguretat farmacològica i transfusional"
-            },
-            {
-              "id": "E7.8",
-              "titol": "Seguretat quirúrgica i periintervencionista"
-            },
-            {
-              "id": "E7.9",
-              "titol": "Conciliació de la medicació"
-            }
-          ]
-        },
-        {
-          "id": "E8",
-          "titol": "Adaptació, afrontament, cuidadors i dol",
-          "oficial": "Facilitar el procés d'adaptació i saber gestionar l'afrontament al nou estat de salut. Conèixer i saber aplicar les teories de l'estrès i l'afrontament, i els mecanismes i estratègies d'adaptació i afrontament. Conèixer el procés d'adaptació i afrontament a la malaltia, discapacitat o situació vital. Saber valorar, diagnosticar i abordar els problemes i complicacions associades amb els processos d'afrontament i intervencions de suport. Saber fer intervenció d'atenció a la família/cuidador de persones amb malalties cròniques, discapacitats o estats de fragilitat. Saber identificar les necessitats per fer l'adaptació i afrontament del cuidador/família. Saber prevenir la claudicació familiar i el cansament del rol de cuidador. Saber valorar, diagnosticar i intervenir en aquest àmbit. Conèixer el procés de dol i saber detectar el dol funcional i el dol disfuncional.",
-          "epigrafs": [
-            {
-              "id": "E8.1",
-              "titol": "Teories de l'estrès i l'afrontament; mecanismes d'adaptació"
-            },
-            {
-              "id": "E8.2",
-              "titol": "Adaptació a la malaltia, la discapacitat o una situació vital; intervencions de suport"
-            },
-            {
-              "id": "E8.3",
-              "titol": "Atenció al cuidador i la família: sobrecàrrega i claudicació"
-            },
-            {
-              "id": "E8.4",
-              "titol": "Procés de dol: dol funcional i disfuncional"
-            }
-          ]
-        }
-      ]
+     "id": "T2",
+     "titol": "Institut Català de la Salut",
+     "oficial": "L'empresa pública Institut Català de la Salut. Missió, visió i valors. Règim jurídic, objectius, funcions i principis de gestió. Organització de l'Institut Català de la Salut. Els Estatuts de l'Institut Català de la Salut. Competències de l'Institut Català de la Salut.",
+     "epigrafs": [
+      {
+       "id": "T2.1",
+       "titol": "L'empresa pública ICS: règim jurídic, objectius, funcions i principis de gestió (Llei 8/2007)",
+       "abast": "Naturalesa, adscripció, objectius, funcions, principis de gestió i règim jurídic."
+      },
+      {
+       "id": "T2.2",
+       "titol": "Organització, Estatuts i competències de l'ICS (Decret 13/2009)",
+       "abast": "Òrgans de govern i de direcció, estructura territorial, competències."
+      },
+      {
+       "id": "T2.3",
+       "titol": "Missió, visió i valors de l'ICS. Codi ètic de l'ICS",
+       "abast": "Missió/visió/valors i el Codi ètic de l'ICS."
+      }
+     ]
+    },
+    {
+     "id": "T3",
+     "titol": "Drets i deures en salut i protecció de dades",
+     "oficial": "Drets i deures de la ciutadania en relació amb la salut i l'atenció sanitària: dret d'informació sanitària del pacient. Dret a la intimitat i confidencialitat del pacient. Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals: àmbit d'aplicació, conceptes bàsics, principis de la protecció de dades. Drets ARSOPOL. La figura del delegat de protecció de dades. Reglament general de protecció de dades (RGPD).",
+     "epigrafs": [
+      {
+       "id": "T3.1",
+       "titol": "Drets i deures de la ciutadania en relació amb la salut i l'atenció sanitària",
+       "abast": "Carta de drets i deures (tots els àmbits) i drets i deures en general."
+      },
+      {
+       "id": "T3.2",
+       "titol": "Dret d'informació sanitària, consentiment informat i autonomia del pacient",
+       "abast": "Informació assistencial, consentiment, voluntats anticipades/instruccions prèvies, història clínica (Llei 21/2000, Llei 41/2002)."
+      },
+      {
+       "id": "T3.3",
+       "titol": "Dret a la intimitat i confidencialitat del pacient",
+       "abast": "Intimitat, confidencialitat i el seu tractament legal (no l'ètica de la intimitat infermera, que va a E1.1)."
+      },
+      {
+       "id": "T3.4",
+       "titol": "Protecció de dades: LOPDGDD (LO 3/2018) i RGPD",
+       "abast": "Àmbit, conceptes bàsics, principis, drets ARSOPOL, delegat de protecció de dades, RGPD. També la LOPD 15/1999 històrica."
+      }
+     ]
+    },
+    {
+     "id": "T4",
+     "titol": "Estatut marc del personal estatutari",
+     "oficial": "L'Estatut marc del personal estatutari dels serveis de salut: objecte, àmbit d'aplicació, drets i deures, adquisició i pèrdua de la condició de personal estatutari, actualització de coneixements, retribucions, incompatibilitats.",
+     "epigrafs": [
+      {
+       "id": "T4.1",
+       "titol": "Estatut marc: objecte, àmbit d'aplicació i classificació del personal estatutari"
+      },
+      {
+       "id": "T4.2",
+       "titol": "Estatut marc: drets i deures del personal estatutari"
+      },
+      {
+       "id": "T4.3",
+       "titol": "Estatut marc: adquisició i pèrdua de la condició de personal estatutari"
+      },
+      {
+       "id": "T4.4",
+       "titol": "Estatut marc: actualització de coneixements i retribucions"
+      },
+      {
+       "id": "T4.5",
+       "titol": "Estatut marc: incompatibilitats",
+       "abast": "Inclou Llei 53/1984 d'incompatibilitats."
+      }
+     ]
+    },
+    {
+     "id": "T5",
+     "titol": "EBEP i III Acord de la Mesa Sectorial",
+     "oficial": "L'Estatut bàsic de l'empleat públic: objecte i àmbit d'aplicació, codi de conducta dels empleats públics. El III Acord de la Mesa Sectorial de Negociació de Sanitat sobre les condicions de treball del personal estatutari de l'Institut Català de la Salut.",
+     "epigrafs": [
+      {
+       "id": "T5.1",
+       "titol": "EBEP: objecte i àmbit d'aplicació",
+       "abast": "Classes de personal incloses."
+      },
+      {
+       "id": "T5.2",
+       "titol": "EBEP: codi de conducta dels empleats públics",
+       "abast": "Principis ètics i de conducta (art. 52-54)."
+      },
+      {
+       "id": "T5.3",
+       "titol": "III Acord de la Mesa Sectorial de Sanitat (condicions de treball del personal estatutari de l'ICS)",
+       "abast": "Jornada, permisos, llicències, vacances i altres condicions. També el II Acord com a antecedent."
+      }
+     ]
+    },
+    {
+     "id": "T6",
+     "titol": "Incentivació i promoció professional",
+     "oficial": "Sistemes d'incentivació i promoció professionals: la carrera professional, la direcció per objectius i la retribució variable.",
+     "epigrafs": [
+      {
+       "id": "T6.1",
+       "titol": "La carrera professional"
+      },
+      {
+       "id": "T6.2",
+       "titol": "Direcció per objectius i retribució variable"
+      }
+     ]
+    },
+    {
+     "id": "T7",
+     "titol": "Prevenció de riscos laborals i assetjament",
+     "oficial": "Llei de prevenció de riscos laborals: conceptes bàsics, drets i obligacions en matèria de seguretat i salut en el treball. El reglament dels serveis de prevenció. Organització de recursos per a les activitats preventives. Protocol per a la prevenció, la detecció, l'actuació i la resolució de situacions d'assetjament sexual, per raó de sexe, de l'orientació sexual i/o de la identitat sexual a l'Administració de la Generalitat de Catalunya.",
+     "epigrafs": [
+      {
+       "id": "T7.1",
+       "titol": "Llei de prevenció de riscos laborals: conceptes bàsics, drets i obligacions",
+       "abast": "Llei 31/1995."
+      },
+      {
+       "id": "T7.2",
+       "titol": "Reglament dels serveis de prevenció i organització de recursos preventius",
+       "abast": "RD 39/1997."
+      },
+      {
+       "id": "T7.3",
+       "titol": "Riscos laborals en l'àmbit sanitari i la seva prevenció",
+       "abast": "Risc biològic, químic, físic (radiacions), ergonòmic (càrregues, PVD), psicosocial, torns, agressions, incendis/emergències, embaràs i personal sensible."
+      },
+      {
+       "id": "T7.4",
+       "titol": "Protocol d'assetjament sexual, per raó de sexe, orientació sexual i/o identitat de gènere"
+      }
+     ]
+    },
+    {
+     "id": "T8",
+     "titol": "Igualtat i violència masclista",
+     "oficial": "Llei 17/2015, del 21 de juliol, d'igualtat efectiva de dones i homes: objecte i finalitats. Principis d'actuació dels poders públics. Llei 5/2008, del 24 d'abril, del dret de les dones a erradicar la violència masclista i Llei 17/2020, del 22 de desembre, de modificació de la Llei 5/2008, del dret de les dones a erradicar la violència masclista: disposicions generals. II Pla d'Igualtat de l'Institut Català de la Salut.",
+     "epigrafs": [
+      {
+       "id": "T8.1",
+       "titol": "Llei 17/2015 d'igualtat efectiva de dones i homes: objecte, finalitats i principis d'actuació"
+      },
+      {
+       "id": "T8.2",
+       "titol": "Llei 5/2008 i Llei 17/2020 del dret de les dones a erradicar la violència masclista: disposicions generals",
+       "abast": "Definicions, formes i àmbits de la violència masclista. El maltractament com a problema clínic va a E5.16."
+      },
+      {
+       "id": "T8.3",
+       "titol": "II Pla d'Igualtat de l'ICS"
+      }
+     ]
+    },
+    {
+     "id": "T9",
+     "titol": "Bioètica i secret professional",
+     "oficial": "Principis generals de la bioètica. El secret professional: concepte i regulació jurídica.",
+     "epigrafs": [
+      {
+       "id": "T9.1",
+       "titol": "Principis generals de la bioètica",
+       "abast": "Història, principis (autonomia, beneficència, no-maleficència, justícia), comitès d'ètica, dilemes i final de vida (eutanàsia LO 3/2021)."
+      },
+      {
+       "id": "T9.2",
+       "titol": "El secret professional: concepte i regulació jurídica"
+      }
+     ]
+    },
+    {
+     "id": "T10",
+     "titol": "Qualitat",
+     "oficial": "Qualitat: Concepte i definició. Qualitat tècnica i qualitat percebuda: concepte. El cicle de millora contínua: planificar, implantar, avaluar i activar (cicle PDCA). Resolució de problemes: el diagrama causa-efecte.",
+     "epigrafs": [
+      {
+       "id": "T10.1",
+       "titol": "Qualitat: concepte i definició; qualitat tècnica i qualitat percebuda",
+       "abast": "Conceptes, dimensions, models (ISO, EFQM, EVAM), cartes de serveis, quadre de comandament, SERVQUAL, control de qualitat."
+      },
+      {
+       "id": "T10.2",
+       "titol": "El cicle de millora contínua (PDCA)"
+      },
+      {
+       "id": "T10.3",
+       "titol": "Resolució de problemes: diagrama causa-efecte i altres eines de qualitat",
+       "abast": "Ishikawa, arbre de problemes, Pareto, histograma, pluja d'idees, DAFO, Gantt, PERT, diagrama de flux."
+      }
+     ]
+    },
+    {
+     "id": "T11",
+     "titol": "Ofimàtica i administració electrònica",
+     "oficial": "Ofimàtica. Intranet, Internet, correu electrònic. Administració electrònica.",
+     "epigrafs": [
+      {
+       "id": "T11.1",
+       "titol": "Ofimàtica",
+       "abast": "Origen de la informàtica, maquinari/programari, aplicacions ofimàtiques."
+      },
+      {
+       "id": "T11.2",
+       "titol": "Intranet, Internet i correu electrònic"
+      },
+      {
+       "id": "T11.3",
+       "titol": "Administració electrònica",
+       "abast": "Seu electrònica, identificació i signatura electrònica, relació electrònica amb l'administració."
+      }
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "id": "E",
+   "nom": "Temari específic d'infermeria (A2-129)",
+   "temes": [
+    {
+     "id": "E1",
+     "titol": "Cures, ètica, metodologia, comunicació i recerca",
+     "oficial": "Tenir cura de la persona, la família i la comunitat. Conèixer i incorporar a la pràctica els aspectes ètics de la prestació de cures, el codi deontològic i el codi ètic de la disciplina infermera. Conèixer i saber aplicar el desenvolupament teòric infermer, els fonaments teòrics i metodològics disciplinaris, el procés d'atenció d'infermeria i els llenguatges clínics. Aconseguir en la relació terapèutica una comunicació efectiva mitjançant tècniques de comunicació bàsiques i avançades. Saber aplicar estils de comunicació en la comunicació verbal i no verbal i saber gestionar la comunicació en situacions de crisi i/o violència. Conèixer i saber aplicar els aspectes bàsics de la metodologia de la recerca clínica, epidemiològica i qualitativa. Tecnologia d'informació i comunicació. Intel·ligència artificial en salut. Nous rols professionals a l'atenció primària i comunitària.",
+     "epigrafs": [
+      {
+       "id": "E1.1",
+       "titol": "Aspectes ètics de les cures: ètica, deontologia i ètica de la intimitat",
+       "abast": "Ètica i deontologia aplicades a la infermeria; ètica de la intimitat. Els principis generals de bioètica van a T9.1."
+      },
+      {
+       "id": "E1.2",
+       "titol": "Codi deontològic de la infermeria espanyola i Codi d'ètica del CIE"
+      },
+      {
+       "id": "E1.3",
+       "titol": "Codi d'ètica de les infermeres i infermers de Catalunya"
+      },
+      {
+       "id": "E1.4",
+       "titol": "Desenvolupament teòric infermer: marc conceptual, models i teories",
+       "abast": "Nightingale, Henderson, Orem, Roy, Peplau, Rogers, necessitats humanes, autocura..."
+      },
+      {
+       "id": "E1.5",
+       "titol": "Procés d'atenció d'infermeria (PAI)",
+       "abast": "Valoració (recollida i organització de dades, patrons), diagnòstic, planificació, execució, avaluació; problemes de col·laboració; registres."
+      },
+      {
+       "id": "E1.6",
+       "titol": "Llenguatges clínics: NANDA-I, NOC, NIC i plans de cures estandarditzats",
+       "abast": "Taxonomies, formulació de diagnòstics, glossari de metodologia; plans de cures estandarditzats en general (els plans específics d'una patologia van a l'epígraf clínic)."
+      },
+      {
+       "id": "E1.7",
+       "titol": "Relació terapèutica i habilitats socials; tècniques de comunicació i entrevista clínica",
+       "abast": "Models d'habilitats socials, assertivitat, escolta, empatia, entrevista clínica."
+      },
+      {
+       "id": "E1.8",
+       "titol": "Comunicació verbal i no verbal; comunicació de males notícies"
+      },
+      {
+       "id": "E1.9",
+       "titol": "Comunicació en situacions de crisi i/o violència",
+       "abast": "Desescalada, maneig del pacient agressiu en la comunicació. La contenció psiquiàtrica va a E5.14."
+      },
+      {
+       "id": "E1.10",
+       "titol": "Metodologia de la recerca: mètode científic, dissenys d'estudi i epidemiologia",
+       "abast": "Recerca clínica i epidemiològica, tipus d'estudis, mesures de freqüència i associació, validesa, cribratge (sensibilitat/especificitat)."
+      },
+      {
+       "id": "E1.11",
+       "titol": "Bioestadística",
+       "abast": "Estadística descriptiva i inferencial, probabilitat, mostreig, contrast d'hipòtesis."
+      },
+      {
+       "id": "E1.12",
+       "titol": "Recerca qualitativa i pràctica basada en l'evidència",
+       "abast": "Mètodes qualitatius, PBE i les seves fases, nivells d'evidència, lectura crítica, bibliografia científica."
+      },
+      {
+       "id": "E1.13",
+       "titol": "Tecnologies de la informació i la comunicació; intel·ligència artificial en salut"
+      },
+      {
+       "id": "E1.14",
+       "titol": "Nous rols professionals a l'atenció primària i comunitària; competències professionals",
+       "abast": "Rols de la infermera a l'APiC, perfil competencial i model de competències de l'ICS."
+      }
+     ]
+    },
+    {
+     "id": "E2",
+     "titol": "Promoció, prevenció, cicle vital i família",
+     "oficial": "Desenvolupar accions conduents a la promoció de la salut social, pública i comunitària i promoure la salut i l'autonomia de la persona. Desenvolupar també accions dirigides a la prevenció de la malaltia, el deteriorament i la dependència. Conèixer i incorporar a la pràctica les recomanacions de salut mediambiental. Conèixer el concepte de cronicitat. Conèixer els factors de risc en les diferents etapes del cicle vital. Saber identificar els aspectes específics de l'atenció a la salut dels infants i adolescents, i els aspectes específics de l'atenció a la salut dels ancians. Saber valorar la salut familiar, la dinàmica, el funcionament i els rols familiars, incloses les situacions de diversitats afectiva, sexual i de gènere i situacions de vulnerabilitat social. Conèixer els atributs de la família funcional/disfuncional i conèixer les teories sobre vinculació afectiva.",
+     "epigrafs": [
+      {
+       "id": "E2.1",
+       "titol": "Salut social, salut pública i salut comunitària",
+       "abast": "Conceptes de salut, determinants, OMS, sistemes, salut comunitària, diagnòstic de salut comunitari."
+      },
+      {
+       "id": "E2.2",
+       "titol": "Promoció de la salut: conferències internacionals i estratègies",
+       "abast": "Alma-Ata, Ottawa, Adelaida... estratègies orientades a la promoció; conductes generadores de salut. L'educació per a la salut com a mètode va a E6.2."
+      },
+      {
+       "id": "E2.3",
+       "titol": "Prevenció de la malaltia: nivells de prevenció i activitats preventives (PAPPS)",
+       "abast": "Nivells de prevenció, cribratges, activitats preventives de l'adult."
+      },
+      {
+       "id": "E2.4",
+       "titol": "Vacunacions",
+       "abast": "Immunització, tipus de vacunes, calendari, contraindicacions, pautes correctores, cadena de fred, cobertures, vacunació de l'adult i grups de risc."
+      },
+      {
+       "id": "E2.5",
+       "titol": "Prevenció del deteriorament i de la dependència; valoració funcional i atenció domiciliària",
+       "abast": "Escales de valoració (Barthel, Lawton, Pfeiffer, Lobo, Zarit...), atenció domiciliària, valoració integral."
+      },
+      {
+       "id": "E2.6",
+       "titol": "Salut mediambiental"
+      },
+      {
+       "id": "E2.7",
+       "titol": "La cronicitat: PCC i MACA",
+       "abast": "Concepte, models d'atenció a la cronicitat, PCC/MACA."
+      },
+      {
+       "id": "E2.8",
+       "titol": "Factors de risc i estils de vida en l'edat adulta",
+       "abast": "Alcohol, alimentació, activitat física, sexualitat, salut mental; atenció a la dona (climateri preventiu). El tabaquisme i la deshabituació tabàquica van a E5.15."
+      },
+      {
+       "id": "E2.9",
+       "titol": "Atenció a la salut de l'infant",
+       "abast": "Controls de salut, desenvolupament psicomotor, alimentació infantil, salut bucodental, prevenció d'accidents, fotoprotecció, cribratges i protocol preventiu pediàtric."
+      },
+      {
+       "id": "E2.10",
+       "titol": "Atenció a la salut de l'adolescent",
+       "abast": "Característiques, alimentació i TCA, hàbits tòxics, sexualitat, salut escolar (Programa Salut i Escola)."
+      },
+      {
+       "id": "E2.11",
+       "titol": "Atenció a la salut de la gent gran",
+       "abast": "Envelliment, fragilitat, síndromes geriàtriques, valoració geriàtrica. Les caigudes van a E7.7."
+      },
+      {
+       "id": "E2.12",
+       "titol": "Salut familiar: concepte, estructura, cicle vital, genograma i funcionalitat",
+       "abast": "Família funcional/disfuncional, valoració i intervenció familiar."
+      },
+      {
+       "id": "E2.13",
+       "titol": "Diversitat afectiva, sexual i de gènere; vulnerabilitat social"
+      },
+      {
+       "id": "E2.14",
+       "titol": "Teories de la vinculació afectiva",
+       "abast": "Aferrament al llarg del cicle vital."
+      },
+      {
+       "id": "E2.15",
+       "titol": "Problemes de salut prevalents en la infància",
+       "abast": "Patologia pediàtrica per aparells (respiratòria, cardíaca, digestiva, hematològica, neurològica, renal, oncològica). Les activitats preventives i els cribratges de l'infant van a E2.9."
+      }
+     ]
+    },
+    {
+     "id": "E3",
+     "titol": "Urgències, maternitat, cardiorespiratori i nefrourinari",
+     "oficial": "Valorar, diagnosticar i abordar problemes de salut reals i de risc. Conèixer i saber aplicar el procés de cures en situacions d'urgència o emergència. Conèixer i saber aplicar el procés de cures en l'embaràs, part i puerperi. Conèixer i saber aplicar el procés de cures a les persones amb problemes cardiocirculatoris i/o respiratoris. Conèixer i saber aplicar el procés de cures a les persones amb problemes nefrourinaris i/o de l'aparell reproductor.",
+     "epigrafs": [
+      {
+       "id": "E3.1",
+       "titol": "Urgències i emergències: organització, triatge, transport sanitari i catàstrofes",
+       "abast": "Conceptes, sistemes d'emergències, triatge (extra i hospitalari), transport, IMV, codis d'activació (organització del Codi IAM/Ictus)."
+      },
+      {
+       "id": "E3.2",
+       "titol": "Suport vital i RCP: bàsic, avançat i pediàtric; OVACE; cures postressuscitació",
+       "abast": "Guies ERC."
+      },
+      {
+       "id": "E3.3",
+       "titol": "Atenció al pacient politraumatitzat i altres urgències (intoxicacions, hipotèrmia, cop de calor)",
+       "abast": "Valoració primària/secundària del trauma; intoxicacions agudes i antídots; patologia per calor/fred; ofegament; electrocució. Les cremades com a lesió cutània van a E5.5."
+      },
+      {
+       "id": "E3.4",
+       "titol": "Tècniques diagnòstiques a urgències: ECG, pulsioximetria i capnografia"
+      },
+      {
+       "id": "E3.5",
+       "titol": "Embaràs: canvis fisiològics, cures, educació maternal i problemes freqüents",
+       "abast": "Inclou complicacions de la gestació (avortament, placenta, EHE, diabetis gestacional)."
+      },
+      {
+       "id": "E3.6",
+       "titol": "Part, puerperi i lactància materna; urgències obstètriques"
+      },
+      {
+       "id": "E3.7",
+       "titol": "Sistema cardiocirculatori: anatomia, fisiologia i valoració"
+      },
+      {
+       "id": "E3.8",
+       "titol": "Cardiopatia isquèmica, insuficiència cardíaca, valvulopaties i altres patologies cardíaques",
+       "abast": "SCA, IAM (Codi IAM), angina, IC, EAP, taponament, endocarditis/pericarditis."
+      },
+      {
+       "id": "E3.9",
+       "titol": "Arítmies i procediments cardiovasculars",
+       "abast": "Arítmies, marcapassos, cardioversió/desfibril·lació, Swan-Ganz, BCIA."
+      },
+      {
+       "id": "E3.10",
+       "titol": "Hipertensió arterial i patologia vascular perifèrica",
+       "abast": "HTA, malaltia arterial perifèrica, TVP, varius. Les úlceres vasculars van a E5.4."
+      },
+      {
+       "id": "E3.11",
+       "titol": "Sistema respiratori: anatomia, fisiologia, valoració i proves (espirometria, gasometria)"
+      },
+      {
+       "id": "E3.12",
+       "titol": "Patologia respiratòria: asma, MPOC, TEP, infeccions respiratòries i insuficiència respiratòria"
+      },
+      {
+       "id": "E3.13",
+       "titol": "Teràpia respiratòria: oxigenoteràpia, aerosolteràpia i inhaladors, via aèria artificial, ventilació mecànica i fisioteràpia respiratòria"
+      },
+      {
+       "id": "E3.14",
+       "titol": "Sistema nefrourinari: anatomia, fisiologia i proves diagnòstiques"
+      },
+      {
+       "id": "E3.15",
+       "titol": "Patologia nefrourinària: insuficiència renal, infecció urinària, litiasi, incontinència i HBP"
+      },
+      {
+       "id": "E3.16",
+       "titol": "Diàlisi, trasplantament renal, sondatge vesical i derivacions urinàries"
+      },
+      {
+       "id": "E3.17",
+       "titol": "Aparell reproductor: anatomia i fisiologia; menarquia, trastorns menstruals i sexualitat"
+      },
+      {
+       "id": "E3.18",
+       "titol": "Anticoncepció, climateri i menopausa"
+      },
+      {
+       "id": "E3.19",
+       "titol": "Infeccions de transmissió sexual"
+      },
+      {
+       "id": "E3.20",
+       "titol": "Càncer ginecològic, de mama i de pròstata"
+      }
+     ]
+    },
+    {
+     "id": "E4",
+     "titol": "Endocrí-nutrició, neuro-musculoesquelètic, infeccions i digestiu",
+     "oficial": "Conèixer i saber aplicar el procés de cures a les persones amb problemes nutricionals, metabòlics i/o endocrinològics. Conèixer i saber aplicar el procés de cures a les persones amb problemes neurològics i/o musculars i esquelètics. Conèixer i saber aplicar el procés de cures a les persones amb problemes infecciosos i/o parasitaris. Conèixer i saber aplicar el procés de cures a les persones amb problemes digestius, hepatobiliars o pancreàtics.",
+     "epigrafs": [
+      {
+       "id": "E4.1",
+       "titol": "Problemes nutricionals i metabòlics: valoració de l'estat nutricional, desnutrició, obesitat i deshidratació",
+       "abast": "La dietètica i la nutrició artificial van a E6."
+      },
+      {
+       "id": "E4.2",
+       "titol": "Equilibri hidroelectrolític i àcid-base",
+       "abast": "Trastorns del sodi, potassi, calci..., acidosi/alcalosi, gasometria interpretada."
+      },
+      {
+       "id": "E4.3",
+       "titol": "Diabetis mellitus",
+       "abast": "Diagnòstic, tractament (insulina, ADO), complicacions agudes i cròniques, educació diabetològica, peu diabètic (prevenció)."
+      },
+      {
+       "id": "E4.4",
+       "titol": "Altres trastorns endocrins: tiroide, paratiroide, suprarenals i hipòfisi"
+      },
+      {
+       "id": "E4.5",
+       "titol": "Sistema nerviós: anatomia, fisiologia i valoració neurològica",
+       "abast": "Escales (Glasgow...), pupil·les, proves."
+      },
+      {
+       "id": "E4.6",
+       "titol": "Malaltia vascular cerebral: ictus i hemorràgies intracranials",
+       "abast": "Codi ictus clínic."
+      },
+      {
+       "id": "E4.7",
+       "titol": "Demències i altres malalties neurològiques",
+       "abast": "Alzheimer i altres demències, Parkinson, epilèpsia, esclerosi múltiple, ELA, infeccions del SNC, cefalees, lesió medul·lar."
+      },
+      {
+       "id": "E4.8",
+       "titol": "Sistema musculoesquelètic: valoració, artritis, artrosi, osteoporosi i artroplàsties"
+      },
+      {
+       "id": "E4.9",
+       "titol": "Traumatologia: fractures, esquinços i luxacions; immobilitzacions, guixos i embenats"
+      },
+      {
+       "id": "E4.10",
+       "titol": "Malalties infeccioses: epidemiologia, cadena de transmissió, prevenció i control; MDO",
+       "abast": "Les precaucions/aïllaments hospitalaris van a E7.4."
+      },
+      {
+       "id": "E4.11",
+       "titol": "Principals malalties infeccioses: tuberculosi, VIH/sida, hepatitis víriques i altres",
+       "abast": "Les ITS van a E3.19."
+      },
+      {
+       "id": "E4.12",
+       "titol": "Aparell digestiu: abdomen agut, hemorràgia digestiva, úlcera pèptica i malalties intestinals"
+      },
+      {
+       "id": "E4.13",
+       "titol": "Fetge, vies biliars i pàncrees",
+       "abast": "Hepatitis (clínica digestiva), cirrosi, colelitiasi, pancreatitis."
+      },
+      {
+       "id": "E4.14",
+       "titol": "Sondatge nasogàstric, ostomies digestives i cures associades"
+      },
+      {
+       "id": "E4.15",
+       "titol": "Dislipèmies i risc cardiovascular",
+       "abast": "Lípids, càlcul i abordatge del risc cardiovascular (guia de lípids i risc cardiovascular). La HTA va a E3.10."
+      }
+     ]
+    },
+    {
+     "id": "E5",
+     "titol": "Pell, sang, ORL-oftalmologia, multisistèmic, salut mental i final de vida",
+     "oficial": "Conèixer i saber aplicar el procés de cures a les persones amb problemes cutanis i/o tegumentaris. Conèixer i saber aplicar el procés de cures a les persones amb problemes dels òrgans hematopoètics, la sang o el sistema immunitari. Conèixer i saber aplicar el procés de cures a les persones amb problemes maxil·lofacials, otorrinolaringològics i/o oftalmològics. Conèixer i saber aplicar el procés de cures a les persones amb problemes multiorgànics/multisistèmics. Conèixer i saber aplicar el procés de cures a les persones amb problemes mentals, del comportament (incloses les addiccions) i de vulnerabilitat social. Conèixer i saber aplicar el procés de cures a la persona en situació de malaltia terminal. *Procés de cures (...) inclou com a mínim els coneixements d'anatomia i fisiologia, fisiopatologia, valoració/avaluació, diagnòstic, detecció precoç i actuació.",
+     "epigrafs": [
+      {
+       "id": "E5.1",
+       "titol": "La pell: estructura, valoració i patologia dermatològica",
+       "abast": "Infeccions cutànies, dermatitis, psoriasi, liquen, tumors cutanis, toxicodèrmies."
+      },
+      {
+       "id": "E5.2",
+       "titol": "Ferides i cicatrització: cura de ferides, desbridament, sutures"
+      },
+      {
+       "id": "E5.3",
+       "titol": "Úlceres per pressió i lesions relacionades amb la dependència"
+      },
+      {
+       "id": "E5.4",
+       "titol": "Úlceres d'extremitat inferior: venoses, arterials i peu diabètic"
+      },
+      {
+       "id": "E5.5",
+       "titol": "Cremades, congelacions i alteracions de la termoregulació",
+       "abast": "Cremades com a lesió; hipertèrmia i febre."
+      },
+      {
+       "id": "E5.6",
+       "titol": "Sistema hematològic: anatomia, fisiologia i patologia de la sang",
+       "abast": "Grups sanguinis, anèmies, leucèmies/limfomes, trastorns de la coagulació, trasplantament de progenitors. La transfusió segura va a E7.9."
+      },
+      {
+       "id": "E5.7",
+       "titol": "Sistema immunitari: immunitat, al·lèrgia i anafilaxi; pacient oncològic"
+      },
+      {
+       "id": "E5.8",
+       "titol": "Problemes oftalmològics"
+      },
+      {
+       "id": "E5.9",
+       "titol": "Problemes otorinolaringològics i maxil·lofacials"
+      },
+      {
+       "id": "E5.10",
+       "titol": "El pacient crític: accessos venosos centrals i monitoratge hemodinàmic",
+       "abast": "Catèters venosos centrals i complicacions, PVC, catèter d'artèria pulmonar, via arterial."
+      },
+      {
+       "id": "E5.11",
+       "titol": "Xoc, sèpsia i fallada multiorgànica"
+      },
+      {
+       "id": "E5.12",
+       "titol": "Traumatisme cranioencefàlic i hipertensió intracranial"
+      },
+      {
+       "id": "E5.13",
+       "titol": "Salut mental: classificació i principals trastorns mentals",
+       "abast": "Ansietat, depressió, bipolar, psicosi/esquizofrènia, personalitat, TCA, somatomorfs, adaptatius; escales de salut mental."
+      },
+      {
+       "id": "E5.14",
+       "titol": "Urgències psiquiàtriques: risc de suïcidi, agitació i contenció"
+      },
+      {
+       "id": "E5.15",
+       "titol": "Addiccions i drogodependències",
+       "abast": "Alcohol, opiacis, benzodiazepines, cànnabis, cocaïna, tabaquisme i deshabituació tabàquica, joc patològic, Pla nacional sobre drogues."
+      },
+      {
+       "id": "E5.16",
+       "titol": "Maltractaments i vulnerabilitat social",
+       "abast": "Maltractament infantil, a la dona, a la gent gran: detecció, prevenció i protocol."
+      },
+      {
+       "id": "E5.17",
+       "titol": "Malaltia terminal i cures pal·liatives: concepte, valoració i control de símptomes"
+      },
+      {
+       "id": "E5.18",
+       "titol": "El dolor: valoració i tractament"
+      },
+      {
+       "id": "E5.19",
+       "titol": "Situació d'agonia, atenció a la família i cures postmortem",
+       "abast": "La teoria del dol va a E8.4."
+      }
+     ]
+    },
+    {
+     "id": "E6",
+     "titol": "Adherència, educació sanitària, farmacologia i nutrició",
+     "oficial": "Ajudar el pacient en el compliment del tractament i saber fer-lo partícip. Conèixer i saber adequar les accions de l'educació sanitària. Conèixer i saber aplicar els models d'intervenció educativa per a la salut, els mètodes i procediments educatius, els conceptes i indicadors de seguiment i compliment, adhesió i adherència al tractament i/o als consells de salut. Conèixer i saber aplicar les bases de la farmacologia clínica, principals grups de medicaments: generalitats, accions, usos, principals efectes secundaris/adversos, principals incompatibilitats. Saber administrar els medicaments i fer les cures associades a l'administració de medicaments: conèixer i saber aplicar les tècniques de conservació, preparació i administració, comprovacions de seguretat, càlcul de dosi, càlcul de velocitat de perfusió, paràmetres de valoració pre-, trans- i/o postadministració, cures associades, avaluació de la resposta terapèutica i educació sanitària per al maneig de la medicació. Conèixer les tècniques en nutrició i dietètica. Saber indicar l'administració de dietes terapèutiques i la nutrició artificial. Conèixer i saber adequar les accions de l'educació nutricional. Conèixer i saber aplicar les intervencions, tècniques i procediments associats al pla terapèutic i al pla de cures.",
+     "epigrafs": [
+      {
+       "id": "E6.1",
+       "titol": "Adherència terapèutica: compliment, adhesió i intervencions"
+      },
+      {
+       "id": "E6.2",
+       "titol": "Educació per a la salut: models, mètodes i tècniques educatives; foment de l'autocura"
+      },
+      {
+       "id": "E6.3",
+       "titol": "Farmacologia clínica: conceptes bàsics, farmacocinètica, farmacodinàmia, RAM i interaccions",
+       "abast": "Inclou farmacovigilància conceptual; el sistema de seguretat farmacològica va a E7.8."
+      },
+      {
+       "id": "E6.4",
+       "titol": "Grups de medicaments (I): urgències, sistema nerviós, cardiovascular i respiratori"
+      },
+      {
+       "id": "E6.5",
+       "titol": "Grups de medicaments (II): sang, digestiu, endocrí, renal, antiinfecciosos, immunitat, antineoplàstics i dermatològics"
+      },
+      {
+       "id": "E6.6",
+       "titol": "Administració de medicaments: conservació, preparació, vies i comprovacions de seguretat"
+      },
+      {
+       "id": "E6.7",
+       "titol": "Càlcul de dosis i de velocitat de perfusió"
+      },
+      {
+       "id": "E6.8",
+       "titol": "Nutrició i dietètica: nutrients, alimentació equilibrada i educació nutricional"
+      },
+      {
+       "id": "E6.9",
+       "titol": "Dietes terapèutiques"
+      },
+      {
+       "id": "E6.10",
+       "titol": "Nutrició artificial: enteral i parenteral"
+      },
+      {
+       "id": "E6.11",
+       "titol": "Intervencions i procediments bàsics: cures bàsiques, constants vitals i mobilització",
+       "abast": "Higiene, mobilització i mecànica corporal, signes vitals."
+      },
+      {
+       "id": "E6.12",
+       "titol": "Accessos venosos perifèrics, sueroteràpia, punció arterial i obtenció de mostres"
+      },
+      {
+       "id": "E6.13",
+       "titol": "Altres procediments: sondatges, rentat gàstric, cossos estranys i procediments del manual d'infermeria",
+       "abast": "Procediments que no pertanyen a un sistema concret."
+      }
+     ]
+    },
+    {
+     "id": "E7",
+     "titol": "Seguretat del pacient i control de la infecció",
+     "oficial": "Contribuir a garantir la seguretat del pacient i gestionar el procés assistencial. Conèixer i saber aplicar els principis d'asèpsia i esterilització. Saber desenvolupar accions conduents a la prevenció i abordatge de la infecció nosocomial i de les infeccions relacionades amb l'assistència sanitària. Conèixer i saber aplicar les mesures d'aïllaments i les precaucions que cal aplicar. Conèixer els programes de seguretat clínica, la teoria de l'error humà en l'atenció de la salut i els conceptes de seguretat clínica. Conèixer el sistema de prevenció d'errors i d'esdeveniments adversos. Prevenir les caigudes i disminuir les lesions. Conèixer i saber aplicar el sistema de seguretat farmacològica i transfusional, el sistema de seguretat periquirúrgica i periintervencionista. Conèixer i saber determinar l'eficàcia de la conciliació de medicació.",
+     "epigrafs": [
+      {
+       "id": "E7.1",
+       "titol": "La infecció: conceptes generals i cadena epidemiològica"
+      },
+      {
+       "id": "E7.2",
+       "titol": "Asèpsia, antisèpsia, desinfecció i esterilització"
+      },
+      {
+       "id": "E7.3",
+       "titol": "Infeccions relacionades amb l'assistència sanitària i la seva prevenció; higiene de mans"
+      },
+      {
+       "id": "E7.4",
+       "titol": "Aïllaments i precaucions"
+      },
+      {
+       "id": "E7.5",
+       "titol": "Gestió de residus sanitaris"
+      },
+      {
+       "id": "E7.6",
+       "titol": "Seguretat clínica: error humà, esdeveniments adversos, notificació i anàlisi de riscos",
+       "abast": "AMFE, anàlisi causa-arrel, sistemes de notificació, programes de seguretat."
+      },
+      {
+       "id": "E7.7",
+       "titol": "Prevenció de caigudes i lesions"
+      },
+      {
+       "id": "E7.8",
+       "titol": "Seguretat farmacològica"
+      },
+      {
+       "id": "E7.9",
+       "titol": "Seguretat transfusional"
+      },
+      {
+       "id": "E7.10",
+       "titol": "Seguretat periquirúrgica i periintervencionista"
+      },
+      {
+       "id": "E7.11",
+       "titol": "Conciliació de la medicació"
+      }
+     ]
+    },
+    {
+     "id": "E8",
+     "titol": "Adaptació, afrontament, cuidadors i dol",
+     "oficial": "Facilitar el procés d'adaptació i saber gestionar l'afrontament al nou estat de salut. Conèixer i saber aplicar les teories de l'estrès i l'afrontament, i els mecanismes i estratègies d'adaptació i afrontament. Conèixer el procés d'adaptació i afrontament a la malaltia, discapacitat o situació vital. Saber valorar, diagnosticar i abordar els problemes i complicacions associades amb els processos d'afrontament i intervencions de suport. Saber fer intervenció d'atenció a la família/cuidador de persones amb malalties cròniques, discapacitats o estats de fragilitat. Saber identificar les necessitats per fer l'adaptació i afrontament del cuidador/família. Saber prevenir la claudicació familiar i el cansament del rol de cuidador. Saber valorar, diagnosticar i intervenir en aquest àmbit. Conèixer el procés de dol i saber detectar el dol funcional i el dol disfuncional.",
+     "epigrafs": [
+      {
+       "id": "E8.1",
+       "titol": "Teories de l'estrès i l'afrontament; mecanismes d'adaptació"
+      },
+      {
+       "id": "E8.2",
+       "titol": "Adaptació i afrontament a la malaltia, la discapacitat o una situació vital; intervencions de suport"
+      },
+      {
+       "id": "E8.3",
+       "titol": "Atenció a la família i al cuidador: sobrecàrrega, cansament del rol i claudicació"
+      },
+      {
+       "id": "E8.4",
+       "titol": "El procés de dol: dol funcional i disfuncional"
+      }
+     ]
+    }
+   ]
+  }
+ ]
 }

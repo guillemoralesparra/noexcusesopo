@@ -250,5 +250,57 @@
   "temario": [
    "E6.6"
   ]
+ },
+ {
+  "slug": "ley-39-2015",
+  "title": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+  "short": "Llei 39/2015 (procediment administratiu comú)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2024-11-06",
+  "n_chunks": 157,
+  "temario": [
+   "T11"
+  ]
+ },
+ {
+  "slug": "ley-40-2015",
+  "title": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+  "short": "Llei 40/2015 (règim jurídic del sector públic)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2024-08-02",
+  "n_chunks": 220,
+  "temario": [
+   "T11"
+  ]
+ },
+ {
+  "slug": "llei-17-2020",
+  "title": "LLEI 17/2020, del 22 de desembre, de modificació de la Llei 5/2008, del dret de les dones a erradicar la violència masclista",
+  "short": "Llei 17/2020 (modificació de la Llei 5/2008)",
+  "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/2020/12/22/17",
+  "language": "ca",
+  "jurisdiction": "catalunya",
+  "consolidated_as_of": "2024-04-23",
+  "n_chunks": 30,
+  "temario": [
+   "T8"
+  ]
+ },
+ {
+  "slug": "lo-10-1995",
+  "title": "Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.",
+  "short": "LO 10/1995 (Codi penal)",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444",
+  "language": "es",
+  "jurisdiction": "estat",
+  "consolidated_as_of": "2026-04-09",
+  "n_chunks": 756,
+  "temario": [
+   "T9"
+  ]
  }
 ]

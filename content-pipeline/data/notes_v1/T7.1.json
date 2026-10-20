@@ -1,0 +1,48 @@
+{
+ "epigraf": "T7.1",
+ "body_md": "## En una frase\nLa Llei 31/1995 de prevenció de riscos laborals (LPRL) obliga l'empresari (a l'ICS, l'Administració com a ocupadora) a garantir la seguretat i la salut de les persones treballadores mitjançant una acció preventiva planificada, i obliga també les treballadores a col·laborar-hi.\n\n## Conceptes clau\n- **Prevenció** (art. 4): conjunt d'activitats o mesures previstes en totes les fases de l'activitat per evitar o disminuir els riscos derivats del treball. **Risc laboral**: possibilitat que es produeixi un dany derivat del treball; la gravetat combina probabilitat i severitat. **Risc greu i imminent**: probable que es materialitzi en un futur immediat i pugui causar un dany greu.\n- **Dret a la protecció** (art. 14): drets d'informació, consulta i participació, formació en matèria preventiva, paralització de l'activitat en risc greu i imminent i vigilància de la salut; correlatiu al **deure de protecció** de l'empresari.\n- **Principis de l'acció preventiva** (art. 15): evitar els riscos; avaluar els que no es poden evitar; combatre'ls en l'origen; adaptar el treball a la persona; tenir en compte l'evolució de la tècnica; substituir allò perillós per allò que ho és poc o gens; planificar la prevenció; anteposar la protecció col·lectiva a la individual; donar instruccions adequades.\n- **Avaluació de riscos i planificació** (art. 16): pla de prevenció, avaluació inicial i revisions i planificació de l'activitat preventiva.\n- **Informació, formació i participació** (art. 18, 19): la formació s'ha d'impartir dins la jornada o descomptant-ne el temps.\n- **Mesures d'emergència** (art. 20) i **risc greu i imminent** (art. 21): la treballadora pot interrompre l'activitat i abandonar el lloc de treball; els representants legals poden acordar-ne la paralització per majoria.\n- **Vigilància de la salut** (art. 22): **voluntària**, amb excepcions (cal informe previ dels representants si és imprescindible per avaluar efectes de les condicions de treball, si pot suposar un perill per a la treballadora o per a tercers, o per norma legal); respecta la intimitat i la confidencialitat, i l'empresari només rep conclusions d'aptitud, no dades mèdiques.\n- **Protecció de treballadores especialment sensibles** (art. 25) i **maternitat** (art. 26).\n- **Obligacions de les treballadores** (art. 29): usar correctament equips i mitjans de protecció, no inutilitzar dispositius de seguretat, informar de qualsevol situació de risc i cooperar amb l'empresari.\n- **Representació**: delegats de prevenció (art. 35) i Comitè de Seguretat i Salut (art. 38).\n\n## Valors, escales i classificacions\n| Òrgan o figura | Dada clau |\n|---|---|\n| Delegats de prevenció | Fins a 30 treballadors: el delegat de personal; 31-49: 1 delegat; 50-100: 2; 101-500: 3; 501-1.000: 4; 1.001-2.000: 5; 2.001-3.000: 6; 3.001-4.000: 7; més de 4.000: 8 |\n| Comitè de Seguretat i Salut | Paritari; obligatori a partir de **50 treballadors**; es reuneix **trimestralment** i quan ho demani una de les parts |\n\n## Actuació infermera\n- Conèixer l'avaluació de riscos del lloc de treball i el pla de prevenció de la unitat.\n- Utilitzar els equips de protecció i notificar incidents i situacions de risc (art. 29.2.4).\n- Acceptar o rebutjar de manera informada la vigilància de la salut i vacunacions segons el caràcter voluntari.\n- Dirigir-te als delegats de prevenció o al Comitè de Seguretat i Salut per a propostes de millora.\n\n## Què pregunten als exàmens\n- No hi ha preguntes de la LPRL com a tal al període 2015–2024 (recurrents als exàmens més antics: composició del Comitè de Seguretat i Salut, delegats de prevenció, obligacions de l'empresari i dels treballadors).\n- Probable: voluntarietat de la vigilància de la salut, principis de l'acció preventiva i definicions de l'art. 4.\n\n## Trampes freqüents\n- Pensar que la vigilància de la salut és sempre obligatòria o que l'empresari pot accedir als resultats clínics.\n- Confondre el Comitè de Seguretat i Salut (paritari, 50 o més treballadors) amb els delegats de prevenció (representants de les persones treballadores).\n- Atribuir la **protecció individual** com a prioritària: la LPRL prioritza la protecció col·lectiva.\n\n## Normativa i guies de referència\n- Llei 31/1995, art. 4, 14, 15, 16, 18-22, 25-26, 29, 35 i 38.\n",
+ "key_points": [
+  "La LPRL imposa a l'empresari un deure general de protecció correlatiu al dret de les treballadores a una protecció eficaç (art. 14).",
+  "Principis de l'acció preventiva (art. 15): evitar i avaluar riscos, combatre'ls en l'origen i anteposar la protecció col·lectiva a la individual.",
+  "La vigilància de la salut és voluntària, amb excepcions justificades (art. 22), i confidencial.",
+  "En risc greu i imminent la treballadora pot interrompre l'activitat i abandonar el lloc de treball (art. 21).",
+  "Els delegats de prevenció s'escullen segons una escala segons plantilla; a partir de 50 treballadors hi ha Comitè de Seguretat i Salut.",
+  "El Comitè de Seguretat i Salut és paritari i es reuneix trimestralment.",
+  "Les treballadores han d'usar correctament els equips de protecció i comunicar els riscos (art. 29)."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 31/1995, art. 4",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 31/1995, art. 15",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 31/1995, art. 22",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 31/1995, art. 29",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 31/1995, art. 35",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 31/1995, art. 38",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292"
+  }
+ ],
+ "review_flags": [
+  "La Llei 31/1995 ha rebut modificacions recents (consolidada 2026-04); es recomana repassar la versió vigent."
+ ]
+}

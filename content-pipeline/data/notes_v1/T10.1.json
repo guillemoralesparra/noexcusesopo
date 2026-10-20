@@ -1,0 +1,26 @@
+{
+ "epigraf": "T10.1",
+ "body_md": "## En una frase\nLa qualitat en salut és el grau en què els serveis augmenten la probabilitat de resultats desitjats i satisfan les necessitats i expectatives de les persones; es distingeix la qualitat tècnica (la que defineixen els professionals) de la percebuda (la que viu i expressa la persona usuària).\n\n## Conceptes clau\n- **Qualitat de servei**: conjunt d'atributs d'un servei que serveixen per satisfer necessitats i expectatives de les persones usuàries; en sanitat pública el beneficiari final és tota la societat.\n- **Qualitat tècnica**: aplicació correcta de la ciència i la tecnologia per aconseguir el millor equilibri entre benefici i risc (es mesura amb indicadors clínics i estàndards).\n- **Qualitat percebuda**: satisfacció que experimenta la persona després d'usar el servei; és **subjectiva** i només la pot explicar ella (enquestes de satisfacció, queixes i suggeriments, PREM).\n- **Altres classificacions**: qualitat **requerida** (atributs indispensables), **esperada** (expectatives), **programada** (la prevista per l'organització) i **realitzada** (la resultant).\n- **Dimensions de la qualitat**: competència professional, accessibilitat, efectivitat, eficiència, seguretat, continuïtat, adequació, satisfacció i equitat (Donabedian i altres autors).\n- **Marc de Donabedian**: es pot avaluar l'**estructura** (recursos), el **procés** (activitats) i el **resultat** (efectes en salut).\n- **Principis de la gestió de la qualitat**: enfocament a la persona usuària, lideratge, participació del personal, enfocament basat en processos, enfocament de sistema, millora contínua, decisions basades en fets i relacions beneficioses amb proveïdors.\n- **Eines i models**: cartes de serveis, anàlisi i millora de processos, models d'excel·lència (EFQM, CAF), normes ISO 9001 i quadre de comandament.\n\n## Valors, escales i classificacions\n| Concepte | Definició breu |\n|---|---|\n| Criteri | Condició que ha de complir una bona assistència |\n| Indicador | Mesura quantitativa que monitora un aspecte de la qualitat |\n| Estàndard | Nivell d'assoliment acceptable fixat per a un indicador |\n| Carta de serveis | Document que informa de serveis, compromisos de qualitat i drets de les persones usuàries |\n\n## Actuació infermera\n- Registrar amb rigor, aplicar protocols i guies de pràctica clínica.\n- Notificar incidents i participar en les auditories i indicadors de qualitat de la unitat.\n- Escoltar la persona usuària i integrar les seves queixes i suggeriments en la millora.\n- Proposar projectes de millora i participar-hi.\n\n## Què pregunten als exàmens\nCap pregunta classificada com a epígraf propi als exàmens oficials 2015–2024, però és tema amb preguntes habituals als bancs d'oposicions: definició de qualitat, qualitat tècnica contra percebuda i dimensions.\n\n## Trampes freqüents\n- Atribuir la qualitat percebuda al criteri dels professionals: és la de la persona usuària.\n- Confondre indicador (la mesura) amb estàndard (el valor objectiu).\n- Confondre qualitat programada (prevista) amb realitzada (obtinguda).\n\n## Normativa i guies de referència\n- Donabedian A. *The Definition of Quality and Approaches to its Assessment* (1980).\n- Models EFQM, CAF i ISO 9001 (referències generals); Llei 44/2003, art. 5 (qualitat i seguretat en l'atenció).\n",
+ "key_points": [
+  "Qualitat tècnica és l'adequació científica de l'atenció; qualitat percebuda és la satisfacció subjectiva de la persona usuària.",
+  "La qualitat es pot avaluar en estructura, procés i resultat (Donabedian).",
+  "Qualitat requerida, esperada, programada i realitzada són altres classificacions habituals.",
+  "Un indicador mesura; un estàndard fixa el valor acceptable.",
+  "Els principis de gestió inclouen enfocament a la persona usuària, lideratge, millora contínua i decisions basades en fets.",
+  "Models d'excel·lència: EFQM i CAF; certificació: ISO 9001."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 44/2003, art. 5",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21340"
+  },
+  {
+   "kind": "ref",
+   "label": "Donabedian A. The Definition of Quality and Approaches to its Assessment, 1980"
+  }
+ ],
+ "review_flags": [
+  "No hi ha font normativa al corpus; contingut basat en el temari de qualitat i coneixement general. Verificar si l'examen demana un autor o model concret (EFQM/CAF/EVAM)."
+ ]
+}

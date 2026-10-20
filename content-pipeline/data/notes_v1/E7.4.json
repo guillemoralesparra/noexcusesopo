@@ -1,0 +1,30 @@
+{
+ "epigraf": "E7.4",
+ "body_md": "## En una frase\nLa seguretat clínica estudia com evitar danys innecessaris als pacients; l'error humà es considera un fenomen sistèmic i els sistemes de notificació, com el SNiSP Cat, permeten aprendre dels incidents sense culpabilitzar.\n\n## Conceptes clau\n- **Model de l'error de Reason** (formatge suís): els danys sorgeixen quan s'alineen **errors actius** (de la persona a primera línia) i **condicions latents** (organització, recursos, disseny) que travessen successives barreres. Tipus d'error: **lapsus** (falla d'atenció en l'execució), **omissió** (falla de memòria) i **equivocació** (error de planificació basat en regles o coneixement).\n- **Cultura justa i no punitiva**: es distingeix l'error humà, el comportament de risc i la conducta temerària.\n- **Terminologia** (classificació OMS): **incident relacionat amb la seguretat** (qualsevol esdeveniment que podria haver causat o ha causat dany innecessari); **quasi incident (near miss)**: no arriba al pacient; **incident sense dany**; **esdeveniment advers**: causa dany; **esdeveniment sentinella**: provoca mort, dany greu permanent o pèrdua de funció, i requereix anàlisi immediata.\n- **Segona víctima**: el **professional implicat** en un incident, que pateix un impacte emocional.\n- Estudis: **ENEAS** (hospitalització, 2005) i **APEAS** (atenció primària, 2007) a Espanya.\n\n## Valors, escales i classificacions\n| Tipus d'incident | Exemple |\n|---|---|\n| Quasi incident | S'adverteix l'al·lèrgia abans d'administrar l'amoxicil·lina |\n| Incident sense dany | L'error arriba al pacient però no li fa mal |\n| Esdeveniment advers | Hipoglucèmia per una dosi d'insulina equivocada |\n| Esdeveniment sentinella | Mort per reacció hemolítica per transfusió incompatible |\n\n| Eina | Ús |\n|---|---|\n| **SNiSP Cat** (des del 2021) | Sistema de notificació i aprenentatge per a la seguretat del pacient de Catalunya (hospitals i equips d'atenció primària) |\n| Anàlisi causa-arrel, AMFE, protocol de Londres | Anàlisi dels esdeveniments i del risc |\n| Rondes de seguretat | Detecció proactiva |\n\n## Actuació infermera\n- **Notificar** tot incident i quasi incident al SNiSP Cat, de manera voluntària, confidencial i no punitiva.\n- **Informar** el pacient o la família de manera honesta (revelació) i atendre'n les necessitats.\n- Garantir les pràctiques segures (identificació, mesures higièniques, llista de verificació), comunicació estructurada i doble verificació.\n- Donar suport a la **segona víctima**.\n- **Avaluació**: indicadors de seguretat i millora contínua.\n- **Prevenció**: llistes de verificació, protocols i barreres tecnològiques (codis de barres, prescripció electrònica), doble comprovació, reducció de la càrrega de treball i de les interrupcions, formació i comunicació estructurada.\n- **Reptes mundials de l'OMS**: higiene de mans (2005), cirurgia segura (2008) i medicació sense dany (2017). L'objectiu comú és reduir el dany evitable i aprendre dels errors de manera sistèmica.\n\n## Què pregunten als exàmens\n- Classificació d'incidents: **quasi incident** (2017) i **esdeveniment sentinella** (2024).\n- Sistema de notificació disponible des de 2021: **SNiSP Cat** (2024).\n- Segona víctima: professionals implicats (2024).\n\n## Trampes freqüents\n- Confondre quasi incident (no arriba al pacient) amb esdeveniment advers (amb dany).\n- Pensar que la notificació és per sancionar.\n- Dir que la segona víctima és la família.\n- Atribuir els errors només a la persona que els comet.\n\n## Normativa i guies de referència\n- OMS, International Classification for Patient Safety (ICPS) i Estratègia de Seguretat del Pacient del SNS.\n- Llei 41/2002 (dret a la informació).\n- Pla de salut de Catalunya i Pla de seguretat del pacient del Departament de Salut.\n",
+ "key_points": [
+  "El model de Reason explica els errors per l'alineació d'errors actius i condicions latents.",
+  "Quasi incident: no arriba al pacient; esdeveniment advers: causa dany; sentinella: mort o dany greu permanent.",
+  "La segona víctima és el professional implicat en l'incident.",
+  "SNiSP Cat és el sistema de notificació d'incidents de seguretat del pacient a Catalunya des de 2021.",
+  "La notificació és voluntària, confidencial i no punitiva.",
+  "ENEAS (2005) i APEAS (2007) són els estudis espanyols d'incidència d'esdeveniments adversos."
+ ],
+ "sources": [
+  {
+   "kind": "norma",
+   "label": "Llei 41/2002 (autonomia del pacient, dret a la informació)",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188"
+  },
+  {
+   "kind": "ref",
+   "label": "OMS, International Classification for Patient Safety (2009)"
+  },
+  {
+   "kind": "ref",
+   "label": "Estudios ENEAS (2005) y APEAS (2007)"
+  }
+ ],
+ "review_flags": [
+  "Verificar que el SNiSP Cat sigue activo y su denominación exacta en 2026."
+ ]
+}

@@ -51,6 +51,13 @@
 - **17 preguntas oficiales están marcadas "a revisar"** porque su respuesta puede estar desactualizada (calendario vacunal, umbrales de alcohol, Pla de salut, etc.).
 - Detalle completo en `content-pipeline/data/frequency_map.md`.
 
+### Cambio de estructura (20/10/2026): temario v2
+- Acuerdo con FUDEN: todo el material del curso es visible para todas las cuentas (sin acceso por cuenta ni lector aparte).
+- El temario pasa a 146 epígrafes sobre los 19 temas oficiales, y cada epígrafe muestra el **texto literal** del material y la normativa por partes (temario, resúmenes, apoyo, diapositivas, normativa, bibliografía). Las fichas propias quedan como «Fitxa resum».
+- Las 4.639 preguntas (oficiales, históricas y FUDEN) están reasociadas a los epígrafes v2.
+- La búsqueda cubre temario y preguntas, con prioridad del temario.
+- Detalle del diseño, los datos y las migraciones: `docs/temari-v2.md`.
+
 ### Estado (17/10/2026)
 - **Nombre:** NoExcusesOpo. Interfaz en catalán con botón a castellano (las preguntas, siempre en catalán).
 - **Diseño:** mundo visual «Rajola de Sant Pau» (elegido por la usuaria): el temario es un paviment de 110 rajoles que se colocan al dominar cada epígrafe. Patrones de UX de Duolingo/UWorld (ver `docs/ux-research.md`). Responsive en móvil, tablet y ordenador (prioridad ordenador). Sistema documentado en `app/DESIGN.md`.

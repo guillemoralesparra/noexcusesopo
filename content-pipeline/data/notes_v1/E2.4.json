@@ -1,0 +1,24 @@
+{
+ "epigraf": "E2.4",
+ "body_md": "## En una frase\nLa dependència és la necessitat d'ajuda per fer les activitats bàsiques de la vida diària; es valora amb escales com **Barthel** (ABVD), **Lawton i Brody** (AIVD) i **Katz**, i la sobrecàrrega del cuidador amb el **test de Zarit**.\n\n## Conceptes clau\n- **Dependència** (Llei 39/2006 i Consell d'Europa): estat permanent en què les persones necessiten atenció d'altres o ajudes importants per fer les **activitats bàsiques de la vida diària (ABVD)**, derivat de l'edat, la malaltia o la discapacitat (2016).\n- **ABVD**: alimentar-se, vestir-se, higiene, ús del WC, continència, mobilitat i desplaçament. **AIVD** (instrumentals): telèfon, compres, cuinar, tasques de la llar, rentar la roba, transport, medicació, economia.\n- **Autonomia vs. independència**: autonomia és prendre decisions pròpies; independència, fer sense ajuda.\n- **Prevenció de la dependència**: activitat física, estimulació cognitiva, nutrició, adaptació de l'entorn, prevenció de caigudes, detecció precoç de fragilitat.\n- **Cuidador principal**: assumeix la major part de les cures; risc de **sobrecàrrega i síndrome del cuidador**.\n\n## Valors, escales i classificacions\n\n**Índex de Barthel** (ABVD; 10 ítems; 0-100, de 5 en 5): **mesura el nivell d'independència en les ABVD** (2015).\n\n| Puntuació | Grau de dependència |\n|---|---|\n| <20 | Total |\n| 20-35 | Greu |\n| 40-55 | Moderada |\n| ≥60 | Lleu |\n| 100 | Independent |\n\nEls ítems puntuen 0, 5, 10 o 15 (transferències i deambulació fins a 15; la resta fins a 10; higiene i bany fins a 5).\n\n| Escala | Què valora |\n|---|---|\n| Barthel | ABVD |\n| Katz | ABVD (A-G) |\n| Lawton i Brody | AIVD (0-8) |\n| Zarit | Sobrecàrrega del cuidador (22 ítems; ≥47 lleu, ≥56 intensa) |\n| Pfeiffer / Mini-Cog | Deteriorament cognitiu |\n| Tinetti, Timed Up and Go | Marxa i risc de caiguda |\n| Escala de Norton/Braden | Risc de nafres |\n\n**Graus de dependència legal (Llei 39/2006)**: grau I (moderada), II (severa), III (gran dependència).\n\n## Actuació infermera\n- **Valoració funcional**: Barthel, Lawton; valorar el domicili i el suport social; cuidador amb Zarit.\n- **Diagnòstic**: *dèficit d'autocura* (higiene, vestir-se, alimentació, ús del WC), *risc de caigudes*, *cansament del rol de cuidador*, *afrontament familiar compromès*.\n- **Intervencions**: fomentar l'autonomia (fer amb, no fer per), productes de suport, teràpia ocupacional, activitat física, recursos del sistema de dependència (SAAD), centres de dia, teleassistència, respir familiar.\n- **Educació**: al cuidador sobre mobilització, estalvi d'esforç, autocura.\n- **Avaluació**: puntuacions successives; sobrecàrrega del cuidador.\n\n## Què pregunten als exàmens\n- Índex de Barthel: utilitat (ABVD) i interpretació de la puntuació en un cas post-ictus (2015, 2024; resposta oficial del 2024: 10).\n- Definició de dependència (2016).\n- Test de Zarit per a la sobrecàrrega del cuidador (2019).\n\n## Trampes freqüents\n- Confondre Barthel (ABVD) amb Lawton (AIVD).\n- Pensar que Zarit valora el pacient: valora el **cuidador**.\n- Confondre autonomia amb independència.\n- Oblidar que dependència és una necessitat d'ajuda, no una malaltia.\n\n## Normativa i guies de referència\n- Llei 39/2006, de promoció de l'autonomia personal i atenció a les persones en situació de dependència (SAAD).\n- Llei 12/2007 de serveis socials de Catalunya.\n- Mahoney i Barthel (1965); Lawton i Brody (1969); Zarit (1980).",
+ "key_points": [
+  "La dependència és la necessitat d'ajuda per fer les activitats bàsiques de la vida diària.",
+  "L'índex de Barthel mesura la independència en les ABVD; <20 indica dependència total i 100 independència.",
+  "Lawton i Brody valora les activitats instrumentals de la vida diària.",
+  "El test de Zarit mesura la sobrecàrrega del cuidador principal.",
+  "La Llei 39/2006 reconeix tres graus de dependència: moderada, severa i gran dependència."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "Llei 39/2006, de promoció de l'autonomia personal i atenció a les persones en situació de dependència"
+  },
+  {
+   "kind": "ref",
+   "label": "Mahoney FI, Barthel DW. Functional evaluation: the Barthel Index (1965)"
+  }
+ ],
+ "review_flags": [
+  "Les puntuacions de tall de Zarit i els graus de la Llei 39/2006 (graus I-III) s'han de verificar; la valoració oficial de dependència a Catalunya usa el BVD, no Barthel."
+ ]
+}

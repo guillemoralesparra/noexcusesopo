@@ -1,0 +1,36 @@
+{
+ "epigraf": "E4.13",
+ "epigraf_v1": [
+  "E4.8"
+ ],
+ "body_md": "## En una frase\nCirrosi hepàtica i les seves complicacions (hipertensió portal, varius, ascites, encefalopatia), patologia biliar (colelitiasi, colecistitis, CPRE) i pancreatitis, amb fisiologia de les secrecions pancreàtiques.\n\n## Conceptes clau\n- **Cirrosi hepàtica**: fibrosi i nòduls de regeneració que alteren l'arquitectura del fetge. Causes: alcohol, hepatitis víriques B i C, esteatohepatitis metabòlica. **Hipertensió portal**: augment de la pressió a la vena porta; provoca **varius esofàgiques** (mecanisme fisiològic de les varius en la cirrosi), ascites, esplenomegàlia i circulació col·lateral.\n- **Encefalopatia hepàtica**: alteració neuropsiquiàtrica per acumulació d'amoníac. Factors precipitants: sagnat digestiu, infecció, estrenyiment, sedants, deshidratació, hipopotassèmia.\n- **Colelitiasi**: càlculs a la vesícula. **Còlic biliar**: dolor a l'hipocondri dret, de vegades irradiat a l'espatlla, després d'àpats grassos. **Colecistitis**: inflamació, febre i signe de Murphy. **Colangitis**: tríada de Charcot (febre, icterícia, dolor).\n- **CPRE** (colangiopancreatografia retrògrada endoscòpica): diagnòstica i terapèutica de la via biliar. Complicacions: **pancreatitis aguda** (la més freqüent), hemorràgia, perforació i colangitis; la diverticulitis NO n'és una.\n- **Pancreatitis aguda**: inflamació pancreàtica, per litiasi biliar o alcohol; dolor epigàstric intens «en cinturó» irradiat a l'esquena, nàusees i vòmits; elevació de la **lipasa** (> 3 vegades el normal).\n- **Secreció pancreàtica**: exocrina (amilasa, lipasa, proteases) i alcalina, rica en bicarbonat (pH ≈ 8) per neutralitzar el quim àcid de l'estómac; afirmar que té **pH àcid** és FALS. L'endocrina produeix insulina i glucagó.\n\n## Valors, escales i classificacions\n**Encefalopatia hepàtica (West Haven)**\n\n| Grau | Característiques |\n|---|---|\n| I | Alteració lleu de l'atenció, ansietat o eufòria, inversió del ritme de son |\n| **II** | **Augment de la somnolència, desorientació, conducta inapropiada, canvis d'humor, agitació**, asterixi |\n| III | Somnolència marcada però despertable, confusió greu, desorientació |\n| IV | Coma |\n\n**Analítica hepàtica:** ALT/AST (lesió hepatocel·lular), GGT i fosfatasa alcalina (colestasi), bilirubina (icterícia si > 2–3 mg/dl), INR i albúmina (funció de síntesi), amoníac. **Child-Pugh** (A, B, C) valora la gravetat de la cirrosi. Pancreatitis: lipasa > 3 × LSN; gravetat segons la classificació d'Atlanta (lleu, moderadament greu, greu).\n\n**Tractament de les complicacions:** ascites → dieta amb restricció de sodi (2 g/dia), diürètics (espironolactona + furosemida), paracentesi amb albúmina; encefalopatia → **lactulosa** (objectiu 2–3 deposicions toves/dia) i rifaximina, tractar el desencadenant; varius → betablocadors no selectius (propranolol, carvedilol) i lligadura endoscòpica; sagnat varicós → terlipressina, antibiòtic, endoscòpia.\n\n## Actuació infermera\n**Valoració:** nivell de consciència (asterixi), icterícia, ascites (perímetre abdominal, pes), edemes, estat nutricional, sagnat, dolor abdominal, deposicions (color), diüresi, signes d'infecció, consum d'alcohol i fàrmacs.\n\n**Diagnòstics (NANDA):** Excés de volum de líquids; Risc de sagnat; Risc de confusió aguda; Desequilibri nutricional; Dolor agut; Risc d'alteració de la funció hepàtica; Risc de deteriorament de la integritat cutània (prurit).\n\n**Intervencions**\n- **Cirrosi:** pes i perímetre abdominal diari, balanç hídric, dieta hiposòdica (proteïna normal, no restringida), suplement de vitamines, evitar alcohol i hepatotòxics (paracetamol ≤ 2 g/dia), prevenir estrenyiment, vigilar hemorràgia (melenes, hematèmesi), seguretat davant l'encefalopatia (caigudes, evitar sedants), vacunació enfront de VHA i VHB, cura de la pell.\n- **Encefalopatia:** valorar el nivell de consciència, lactulosa, control de deposicions, orientació.\n- **Pancreatitis aguda:** analgèsia, fluïdoteràpia abundant, dejuni inicial i nutrició enteral precoç, control de constants, glucèmia i diüresi, vigilància de complicacions.\n- **CPRE:** abans, informar el procediment, **consentiment informat**, dejuni de 6–8 h, al·lèrgies (iode), coagulació, accés venós; després, constants, vigilar dolor abdominal, febre, vòmits o sagnat (signes de pancreatitis, perforació o hemorràgia) i mantenir el dejuni fins que es prescrigui.\n- **Colecistectomia laparoscòpica:** dolor referit a l'espatlla pel gas, deambulació precoç, dieta baixa en greixos, signes d'infecció.\n\n**Educació:** abstinència d'alcohol, dieta, fàrmacs permesos, signes d'alarma (confusió, sagnat, febre, augment d'abdomen), adherència, immunitzacions.\n\n**Avaluació:** pes estable, nivell de consciència adequat, absència de sagnat, dolor controlat, adherència a dieta i fàrmacs.\n\n## Què pregunten als exàmens\n- Complicacions de la CPRE; diverticulitis no n'és (2015).\n- Graus d'encefalopatia hepàtica: nivell II (2016).\n- Secrecions pancreàtiques: pH àcid és la falsedat (2019).\n- Varius esofàgiques per hipertensió portal (2019).\n\n## Trampes freqüents\n- La secreció pancreàtica és alcalina, no àcida.\n- La diverticulitis no és una complicació de la CPRE; la més freqüent és la pancreatitis.\n- Les varius esofàgiques provenen de la hipertensió portal, no de la hipertensió arterial.\n- En encefalopatia no es restringeix sistemàticament la proteïna; s'usa lactulosa.\n- L'encefalopatia grau II té somnolència i desorientació, el coma és el grau IV.\n\n## Normativa i guies de referència\n- AASLD/EASL, guies d'encefalopatia hepàtica i maneig de la cirrosi descompensada (2022).\n- Guies de l'American College of Gastroenterology i de l'ESGE sobre pancreatitis aguda i CPRE.\n- Classificació d'Atlanta revisada (2012) per a la pancreatitis aguda.",
+ "key_points": [
+  "La cirrosi evoluciona a hipertensió portal, que causa varius esofàgiques, ascites i esplenomegàlia.",
+  "Encefalopatia hepàtica grau II: somnolència, desorientació, conducta inapropiada, canvis d'humor i agitació.",
+  "Es tracta amb lactulosa (2–3 deposicions al dia); la proteïna no es restringeix de manera sistemàtica.",
+  "La secreció pancreàtica és alcalina (rica en bicarbonat), no àcida.",
+  "La complicació més freqüent de la CPRE és la pancreatitis aguda; la diverticulitis no n'és una.",
+  "Pancreatitis aguda: dolor epigàstric en cinturó i lipasa > 3 vegades el normal.",
+  "Còlic biliar: dolor a l'hipocondri dret després d'àpats grassos; colangitis: febre, icterícia i dolor.",
+  "Ascites: restricció de sodi, pes i perímetre abdominal diaris, diürètics i paracentesi."
+ ],
+ "sources": [
+  {
+   "kind": "ref",
+   "label": "AASLD/EASL, guia d'encefalopatia hepàtica"
+  },
+  {
+   "kind": "ref",
+   "label": "ACG, guia de pancreatitis aguda"
+  },
+  {
+   "kind": "ref",
+   "label": "Classificació d'Atlanta revisada 2012"
+  }
+ ],
+ "review_flags": [
+  "Criterios West Haven pueden formularse de forma distinta en cada fuente; el examen 2016 define el grado II.",
+  "Complicaciones de CPRE: la más frecuente (pancreatitis) según series; verificar en guía ESGE vigente.",
+  "Doses y objetivos de lactulosa/rifaximina según protocolo local."
+ ]
+}

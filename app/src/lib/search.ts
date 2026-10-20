@@ -2,9 +2,11 @@ import "server-only";
 import { sql } from "drizzle-orm";
 import { getDb } from "@/db";
 
+export type SearchKind = "temari" | "question";
+
 export type SearchHit = {
   id: string;
-  kind: "note" | "question" | "norma" | "fuden";
+  kind: SearchKind;
   epigrafId: string | null;
   title: string;
   url: string | null;
@@ -13,30 +15,48 @@ export type SearchHit = {
   rank: number;
 };
 
+const rowsOf = <T,>(res: unknown): T[] => {
+  const r = res as { rows?: T[] } & T[];
+  return r.rows ?? r;
+};
+
 /**
- * Cerca per paraules clau al temari (fitxes), a les preguntes i a la normativa.
- * Fa servir el diccionari català de Postgres: troba "úlcera" en buscar "ulceres" i a l'inrevés.
- * Accepta sintaxi de cercador: "frase exacta", -excloure, OR.
+ * Cerca per paraules clau al temari (el text de cada epígraf i les fitxes) i a les preguntes.
+ * El temari surt sempre abans que les preguntes; dins de cada grup, per rellevància.
+ * Fa servir els diccionaris català i castellà de Postgres (troba "úlcera" en buscar "ulceres")
+ * i accepta sintaxi de cercador: "frase exacta", -excloure, OR.
  */
-export async function search(q: string, kind: SearchHit["kind"] | undefined, canSeeFuden: boolean, limit = 30): Promise<SearchHit[]> {
+export async function search(q: string, kind: SearchKind | undefined, limit = 40): Promise<{ hits: SearchHit[]; counts: Record<SearchKind, number> }> {
   const query = q.trim().slice(0, 200);
-  if (query.length < 2) return [];
+  const counts: Record<SearchKind, number> = { temari: 0, question: 0 };
+  if (query.length < 2) return { hits: [], counts };
   const db = await getDb();
-  const res = await db.execute(sql`
-    select id, kind, epigraf_id as "epigrafId", title, url,
-      ts_rank_cd(tsv, websearch_to_tsquery('catalan', ${query}) || websearch_to_tsquery('spanish', ${query})) as rank,
-      ts_headline('catalan', body, websearch_to_tsquery('catalan', ${query}) || websearch_to_tsquery('spanish', ${query}),
-        'StartSel=<mark>, StopSel=</mark>, MaxWords=38, MinWords=14, MaxFragments=2, FragmentDelimiter=" … "') as snippet
-    from search_docs
-    where tsv @@ (websearch_to_tsquery('catalan', ${query}) || websearch_to_tsquery('spanish', ${query}))
-      ${kind ? sql`and kind = ${kind}` : sql``}
-      ${canSeeFuden ? sql`` : sql`and not restricted`}
-    order by (case kind when 'note' then 0 when 'fuden' then 1 when 'norma' then 2 else 3 end), rank desc
-    limit ${limit}
-  `);
-  const r = res as unknown as { rows?: SearchHit[] } & SearchHit[];
-  const rows = r.rows ?? r;
-  return rows.map((r) => ({ ...r, rank: Number(r.rank) }));
+  const tsq = sql`(websearch_to_tsquery('catalan', ${query}) || websearch_to_tsquery('spanish', ${query}))`;
+  const [countRes, hitRes] = await Promise.all([
+    db.execute(sql`select kind, count(*)::int as n from search_docs where tsv @@ ${tsq} group by kind`),
+    // Com a màxim dos fragments per pàgina de contingut, perquè una sola pàgina no ompli la llista;
+    // el fragment ressaltat es calcula només per als resultats que es mostren.
+    db.execute(sql`
+      with m as (
+        select id, kind, epigraf_id, title, url, body, ts_rank_cd(tsv, ${tsq}) as rank,
+          row_number() over (partition by coalesce(url, id) order by ts_rank_cd(tsv, ${tsq}) desc) as rn
+        from search_docs
+        where tsv @@ ${tsq} ${kind ? sql`and kind = ${kind}` : sql``}
+      ), top as (
+        select * from m where rn <= 2
+        order by (case kind when 'temari' then 0 else 1 end), rank desc
+        limit ${limit}
+      )
+      select id, kind, epigraf_id as "epigrafId", title, url, rank,
+        ts_headline('catalan', body, ${tsq},
+          'StartSel=<mark>, StopSel=</mark>, MaxWords=38, MinWords=14, MaxFragments=2, FragmentDelimiter=" … "') as snippet
+      from top
+      order by (case kind when 'temari' then 0 else 1 end), rank desc
+    `),
+  ]);
+  for (const c of rowsOf<{ kind: SearchKind; n: number }>(countRes)) if (c.kind in counts) counts[c.kind] = Number(c.n);
+  const hits = rowsOf<SearchHit>(hitRes).map((h) => ({ ...h, rank: Number(h.rank) }));
+  return { hits, counts };
 }
 
 /** Escapa el text i només deixa passar les marques <mark> del fragment. */

@@ -1,5 +1,8 @@
 {
  "epigraf": "T1.2",
+ "epigraf_v1": [
+  "T1.2"
+ ],
  "body_md": "## En una frase\nEl SISCAT (Decret 196/2010) és el sistema sanitari integral d'utilització pública de Catalunya: agrupa en xarxes tots els centres, serveis i establiments, de titularitat pública o privada, que presten serveis amb cobertura pública i han de complir unes obligacions comunes.\n\n## Conceptes clau\n- **Constitució (art. 1)**: tres xarxes, a les quals s'afegeix el Catàleg de potencials proveïdors. Les xarxes són: la de centres d'internament, la de centres i serveis sanitaris d'àmbit comunitari i la de serveis de transport sanitari.\n- **Qui el configura (art. 2)**: centres gestionats per l'ICS; per entitats públiques que són mitjà propi de la Generalitat; per altres entitats de titularitat pública; i centres privats necessaris per al Pla de salut que ho sol·licitin. Els dos primers grups s'integren **automàticament**; els altres, per procediment.\n- **Requisits d'integració (art. 3)**: autorització administrativa del Departament de Salut i inscripció al Registre de centres, serveis i establiments sanitaris; acreditació o estàndards de qualitat.\n- **Obligacions comunes (art. 4)**: exercir les funcions assistencials, de promoció de la salut, prevenció, recerca i docència segons els programes del CatSalut; sotmetre's a gestió i comptabilitat (arts. 54-55 LOSC), a controls i inspeccions i a acreditació; adequar-se a les directrius del CatSalut; subministrar informació assistencial i econòmica.\n- **Interconnexió (art. 5)**: qui ja és en una xarxa només ha d'acreditar els estàndards addicionals per entrar en una altra.\n- **Catàleg de potencials proveïdors (arts. 17-22)**: proveïdors no integrats en xarxes; la inclusió és la primera fase del procediment restringit de contractació.\n\n## Valors, escales i classificacions\n| Xarxa | Què inclou |\n|---|---|\n| Centres d'internament (art. 7) | Hospitals d'aguts, hospitals per a crònics; assistència en internament i ambulatòria. Objectiu: equitat d'accés i ús òptim de recursos |\n| Àmbit comunitari (art. 11) | Atenció primària, salut mental i addiccions comunitàries, atenció sociosanitària, rehabilitació, atenció especialitzada ambulatòria |\n| Transport sanitari (art. 14) | Titulars d'ambulàncies necessàries per als trasllats a càrrec del CatSalut |\n\n## Actuació infermera\nEl SISCAT és el marc dins del qual es garanteix la continuïtat assistencial entre nivells (primària, hospital, sociosanitari, salut mental). La infermera, en les derivacions i els informes de continuïtat de cures, actua dins d'aquesta xarxa integrada.\n\n## Què pregunten als exàmens\nCap pregunta oficial 2015-2024 està classificada aquí. Previsible: composició en tres xarxes, integració automàtica dels centres de l'ICS i obligacions de les entitats integrades.\n\n## Trampes freqüents\n- Dir que el SISCAT només inclou centres públics: també hi ha entitats privades concertades o vinculades.\n- Creure que els centres de l'ICS han de sol·licitar la integració: és automàtica.\n- Confondre el Catàleg de potencials proveïdors amb una quarta xarxa: no és una xarxa.\n- Pensar que la xarxa d'internament només inclou hospitals d'aguts: inclou també els de crònics.\n\n## Normativa i guies de referència\n- Decret 196/2010, de 14 de desembre, del SISCAT: arts. 1-5, 7, 10, 11, 14, 18, 22.\n- Llei 15/1990 (LOSC), arts. 44-45: inclusió, exclusió i efectes de la pertinença al sistema.\n",
  "key_points": [
   "El SISCAT té tres xarxes: centres d'internament, centres i serveis d'àmbit comunitari, i transport sanitari.",
@@ -10,8 +13,18 @@
   "El CatSalut publica al seu web la relació de centres que configuren el SISCAT."
  ],
  "sources": [
-  {"kind": "norma", "label": "Decret 196/2010 (SISCAT), arts. 1-5, 7, 10, 11, 14, 18, 22", "url": "https://portaljuridic.gencat.cat/eli/es-ct/d/2010/12/14/196"},
-  {"kind": "norma", "label": "Llei 15/1990, arts. 44-45", "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/1990/07/09/15"}
+  {
+   "kind": "norma",
+   "label": "Decret 196/2010 (SISCAT), arts. 1-5, 7, 10, 11, 14, 18, 22",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/d/2010/12/14/196"
+  },
+  {
+   "kind": "norma",
+   "label": "Llei 15/1990, arts. 44-45",
+   "url": "https://portaljuridic.gencat.cat/eli/es-ct/l/1990/07/09/15"
+  }
  ],
- "review_flags": ["Només s'han llegit arts. 1-5, 7, 10, 11, 14, 18 i 22 del decret; no s'ha revisat el detall dels procediments d'integració (arts. 13, 16, 19) ni s'ha comprovat si hi ha modificacions posteriors."]
+ "review_flags": [
+  "Només s'han llegit arts. 1-5, 7, 10, 11, 14, 18 i 22 del decret; no s'ha revisat el detall dels procediments d'integració (arts. 13, 16, 19) ni s'ha comprovat si hi ha modificacions posteriors."
+ ]
 }

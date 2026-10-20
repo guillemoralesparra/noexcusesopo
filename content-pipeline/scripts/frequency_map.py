@@ -20,6 +20,13 @@ overrides = json.loads((DATA / "classification" / "overrides.json").read_text(en
 for c in cls:
     if c["id"] in overrides:
         c["secondary"], c["epigraf"] = c["epigraf"], overrides[c["id"]]
+# Epígrafs del temari v2 (scripts/reclass_v2.py): prevalen sobre part*.json i overrides.json
+v2_path = DATA / "classification" / "v2.json"
+v2 = json.loads(v2_path.read_text(encoding="utf-8")) if v2_path.exists() else {}
+for c in cls:
+    if c["id"] in v2:
+        c["epigraf_v1"] = c["epigraf"]
+        c["epigraf"], c["secondary"] = v2[c["id"]]["epigraf"], v2[c["id"]]["secondary"]
 (DATA / "classification" / "classification.json").write_text(
     json.dumps(sorted(cls, key=lambda c: c["id"]), ensure_ascii=False, indent=1), encoding="utf-8")
 missing = set(bank) - {c["id"] for c in cls}

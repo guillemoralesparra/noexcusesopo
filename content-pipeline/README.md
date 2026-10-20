@@ -48,3 +48,30 @@ si canvies la geometria.
 | DSI-PI-2016 | 11/06/2017 | 50 | 2 supòsits alternatius × 20 | no consta | no consta |
 | DSI-LLIURE-2018 model A | 12/05/2019 | 76 | 3 (24 preguntes) | cap | 2 h |
 | Conv. 100 estabilització model A | 02/06/2024 | 70 | 3 (25 preguntes, 2 anul·lades) | cap | 2 h |
+
+## Material de FUDEN en Markdown (privat, fora del repositori)
+
+`scripts/fuden_markdown.py` converteix tot `raw/fuden/files/` a `data/fuden/web/md/*.md` (pymupdf4llm,
+OCR amb Tesseract cat+spa a les pàgines escanejades, WebP de cada diapositiva a `data/fuden/web/img/`)
+amb una marca `<!-- pàg. N -->` per pàgina i un `index.json` amb l'índex de títols. `scripts/fuden_questions_md.py`
+passa `data/fuden/questions/*.json` a `data/fuden/web/preguntes/*.md`. Tot `data/fuden/` és a `.gitignore`;
+instruccions completes a `data/fuden/web/README.md`.
+
+## Temari v2 amb el contingut literal (privat, fora del repositori)
+
+`data/temario.json` és l'estructura v2 (19 temes oficials, 146 epígrafs, camp `abast` per a les fronteres; la v1 és a
+`temario_v1.json`). El contingut de cada epígraf es construeix sense cap model:
+
+1. `scripts/temari_segments.py` trosseja el material de FUDEN en Markdown per títols (o per pàgina) i marca els duplicats
+   → `data/fuden/temari/segments.json`.
+2. `data/fuden/temari/assign/*.json` diu a quin epígraf va cada tros i quins articles de `data/sources/` hi van
+   (`python -I scripts/temari_build.py listings` en fa els llistats; `check [docs]` comprova que tot és assignat un cop).
+3. `python -I scripts/temari_build.py build` escriu la guia a `data/fuden/temari/guia/` (`00-GUIA.md`, un `.md` per
+   epígraf i `index.json`). L'anàlisi de la reorganització és a `data/fuden/temari/analisi.md`.
+   També escriu `data/fuden/temari/blocs.json`, el contingut que l'app carrega amb el seed (sense imatges i
+   partit en pàgines de ~4.000 paraules).
+4. Preguntes: `scripts/reclass_v2.py` (lots → `data/fuden/reclass/`, `check`, `apply`) deixa l'epígraf v2 a
+   `data/classification/v2.json` (oficials i històriques; `frequency_map.py` i `merge_historical.py` l'apliquen)
+   i al camp `epigraf` de `data/fuden/questions/*.json`. `scripts/notes_v2.py` passa les fitxes a ids v2.
+
+Disseny complet del canvi: `../docs/temari-v2.md`.

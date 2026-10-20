@@ -1,5 +1,8 @@
 {
  "epigraf": "T4.2",
+ "epigraf_v1": [
+  "T4.2"
+ ],
  "body_md": "## En una frase\nL'Estatut marc enumera els drets individuals i col·lectius del personal estatutari (arts. 17-18) i els seus deures (art. 19), entre els quals destaquen la formació continuada, la confidencialitat i el respecte a la dignitat dels usuaris.\n\n## Conceptes clau\n- **Drets individuals (art. 17)**: estabilitat en l'ocupació i exercici efectiu de la funció; percepció puntual de retribucions; formació continuada i reconeixement de la qualificació; protecció en seguretat i salut laboral (Llei 31/1995); mobilitat voluntària, promoció interna i desenvolupament professional; dignitat i intimitat; descans (límit de jornada, vacances i permisos); assistència i protecció de les administracions; Seguretat Social del règim general; informació sobre funcions i objectius de la unitat; no-discriminació (incloent orientació i identitat sexual, expressió de gènere); jubilació; acció social. Aplicables al personal temporal en la mesura que la naturalesa del dret ho permeti.\n- **Drets col·lectius (art. 18)**: lliure sindicació; activitat sindical; **vaga** amb manteniment dels serveis essencials; negociació col·lectiva, representació i participació; reunió; serveis de prevenció i òrgans representatius en seguretat laboral.\n- **Deures (art. 19)**:\n  - respectar la Constitució, l'Estatut d'autonomia i l'ordenament;\n  - exercir la professió amb lleialtat, eficàcia i principis tècnics, científics, ètics i deontològics;\n  - mantenir actualitzats els coneixements;\n  - complir amb diligència les instruccions i col·laborar en equip;\n  - participar en la consecució dels objectius assignats;\n  - col·laborar quan l'autoritat adopti mesures especials d'urgència o necessitat;\n  - complir horaris i jornada, incloses les jornades complementàries;\n  - informar els usuaris del seu procés assistencial;\n  - respectar la dignitat, la intimitat i l'autonomia dels usuaris sense discriminar;\n  - guardar reserva i confidencialitat;\n  - complir el règim d'incompatibilitats;\n  - identificar-se amb nom i categoria professional davant els usuaris.\n\n## Valors, escales i classificacions\n| Tipus | Idea clau | Article |\n|---|---|---|\n| Dret individual | Formació continuada | 17.1.c |\n| Dret col·lectiu | Vaga amb serveis essencials garantits | 18.c |\n| Deure | Confidencialitat | 19.j |\n| Deure | Incompatibilitats | 19.n |\n| Deure | Identificació davant l'usuari | 19.ñ |\n\n## Actuació infermera\nPortar identificació visible amb nom i categoria, formar-se de manera continuada, informar el pacient sobre el procés assistencial dins les competències pròpies, mantenir el secret professional, complir la jornada i participar en els objectius de la unitat.\n\n## Què pregunten als exàmens\nCap pregunta 2015-2024 classificada aquí. En convocatòries antigues (2009) es preguntava què ha de fer el personal estatutari davant mesures especials per urgència o necessitat (col·laborar professionalment) i quin és un deure del personal estatutari.\n\n## Trampes freqüents\n- Considerar la vaga un dret il·limitat: s'han de garantir els serveis essencials.\n- Confondre drets (formació, descans) amb deures (actualitzar coneixements, complir jornada).\n- Oblidar que col·laborar en mesures especials d'urgència és un deure.\n- Pensar que els drets no s'apliquen al personal temporal: sí, en la mesura que la naturalesa ho permeti.\n\n## Normativa i guies de referència\n- Llei 55/2003, arts. 17-19.\n- Llei 31/1995 de prevenció de riscos laborals (dret a protecció en seguretat i salut).\n",
  "key_points": [
   "El personal estatutari té dret a formació continuada, promoció i carrera, descans i protecció en seguretat i salut.",
@@ -10,7 +13,13 @@
   "Cal identificar-se amb nom i categoria professional davant els usuaris."
  ],
  "sources": [
-  {"kind": "norma", "label": "Llei 55/2003, arts. 17-19", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101"}
+  {
+   "kind": "norma",
+   "label": "Llei 55/2003, arts. 17-19",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101"
+  }
  ],
- "review_flags": ["No s'ha consultat el desplegament català (p. ex. normativa d'identificació o carrera de l'ICS)."]
+ "review_flags": [
+  "No s'ha consultat el desplegament català (p. ex. normativa d'identificació o carrera de l'ICS)."
+ ]
 }

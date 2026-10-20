@@ -1,5 +1,8 @@
 {
  "epigraf": "T4.3",
+ "epigraf_v1": [
+  "T4.3"
+ ],
  "body_md": "## En una frase\nLa condició de personal estatutari fix s'adquireix en tres passos successius (superar la selecció, rebre el nomenament i incorporar-se a la plaça) i es perd només per les causes tipificades a la llei: renúncia, pèrdua de nacionalitat, separació del servei, inhabilitació, jubilació o incapacitat permanent.\n\n## Conceptes clau\n- **Adquisició (art. 20)**: requisits successius: (a) superar les proves de selecció; (b) nomenament conferit per l'òrgan competent; (c) incorporació a la plaça dins del termini de la convocatòria. No poden ser nomenats qui no acreditin els requisits un cop superat el procés. Si no s'incorpora per causa imputable a la persona i sense justificació, decau el dret derivat d'aquell procés.\n- **Pèrdua (art. 21)**: renúncia; pèrdua de la nacionalitat considerada per al nomenament; sanció disciplinària ferma de separació del servei; pena d'inhabilitació absoluta o especial (per a càrrec públic o per a la professió); jubilació; incapacitat permanent.\n- **Renúncia (art. 22)**: acte voluntari sol·licitat amb una antelació mínima de **15 dies**; s'accepta llevat que hi hagi expedient disciplinari o processament o obertura de judici oral per delicte en l'exercici de les funcions. No inhabilita per tornar a accedir per un nou procés selectiu.\n- **Nacionalitat (art. 23)**: la pèrdua de la nacionalitat determina la pèrdua de la condició, llevat que alhora s'adquireixi una altra que doni dret a accedir-hi.\n- **Inhabilitació (art. 25)**: absoluta, ferma, implica pèrdua; l'especial per a càrrec públic si afecta el nomenament; l'especial per a la professió només si **excedeix de sis anys**.\n- **Jubilació (art. 26)**: forçosa als **65 anys**, amb possibilitat de sol·licitar prolongar fins als **70** acreditant capacitat funcional i amb autorització del servei de salut; pròrroga si resten sis anys o menys de cotització; jubilació voluntària segons Seguretat Social.\n- **Incapacitat permanent (art. 27)**: pèrdua si es declara total per a la professió habitual, absoluta o gran invalidesa.\n- **Recuperació (art. 28)**: si desapareix la causa (nacionalitat) o es revisa la incapacitat; es passa a excedència voluntària (excepte reincorporació en dos anys a plaça de la mateixa categoria i àrea).\n\n## Valors, escales i classificacions\n| Dada | Valor |\n|---|---|\n| Preavís de renúncia | 15 dies |\n| Jubilació forçosa | 65 anys |\n| Pròrroga voluntària màxima | 70 anys |\n| Inhabilitació especial per a la professió que causa pèrdua | Més de 6 anys |\n| Revisió d'incapacitat amb dret a la mateixa plaça | Dins dels 2 anys |\n\n## Actuació infermera\nEpígraf normatiu. Cal conèixer els passos per adquirir la plaça fixa (oposició, nomenament, presa de possessió/incorporació dins del termini) i les conseqüències de no incorporar-se.\n\n## Què pregunten als exàmens\nCap pregunta oficial 2015-2024 classificada aquí. L'acadèmia de preparació indica que les preguntes de test transversal sobre adquisició i pèrdua són freqüents: causes de pèrdua, edat de jubilació i requisits successius.\n\n## Trampes freqüents\n- Pensar que n'hi ha prou amb aprovar l'oposició: calen també nomenament i incorporació.\n- Confondre la jubilació forçosa (65) amb el límit de pròrroga (70).\n- Donar qualsevol inhabilitació com a causa de pèrdua: l'especial per a la professió, només si supera sis anys.\n- Pensar que la renúncia és immediata: cal 15 dies d'antelació.\n\n## Normativa i guies de referència\n- Llei 55/2003, arts. 20-28.\n",
  "key_points": [
   "La condició de fix s'adquireix per selecció, nomenament i incorporació, en aquest ordre.",
@@ -10,7 +13,13 @@
   "Si la incapacitat es revisa en dos anys, hi ha dret a tornar a plaça de la mateixa categoria i àrea."
  ],
  "sources": [
-  {"kind": "norma", "label": "Llei 55/2003, arts. 20-28", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101"}
+  {
+   "kind": "norma",
+   "label": "Llei 55/2003, arts. 20-28",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101"
+  }
  ],
- "review_flags": ["L'edat de jubilació forçosa i les condicions de jubilació parcial o anticipada han canviat per reformes de pensions i pel règim propi de cada servei de salut; el text consolidat disponible pot no reflectir el règim actual de l'ICS. Verificar abans de l'examen."]
+ "review_flags": [
+  "L'edat de jubilació forçosa i les condicions de jubilació parcial o anticipada han canviat per reformes de pensions i pel règim propi de cada servei de salut; el text consolidat disponible pot no reflectir el règim actual de l'ICS. Verificar abans de l'examen."
+ ]
 }

@@ -1,7 +1,7 @@
 import "server-only";
 import { desc, eq } from "drizzle-orm";
 import { getDb } from "@/db";
-import { attempts, exams, practiceSessions, questions, reviewCards, topics, users } from "@/db/schema";
+import { attempts, exams, practiceSessions, questions, reviewCards, topics } from "@/db/schema";
 import { parseCard, retrievability } from "./srs";
 import { examLabel, isFudenExam } from "./exam-label";
 import { masteryOf, type MasteryState } from "./mastery";
@@ -35,9 +35,7 @@ export async function topicStats(userId: number, before?: Date): Promise<TopicSt
       .where(eq(attempts.userId, userId))
       .orderBy(desc(attempts.createdAt)),
   ]);
-  const [u] = await db.select({ f: users.fudenAccess }).from(users).where(eq(users.id, userId));
-  const visible = u?.f ? qs : qs.filter((q) => q.origin !== "fuden");
-  return computeStats(topicRows, visible, before ? at.filter((a) => a.createdAt < before) : at);
+  return computeStats(topicRows, qs, before ? at.filter((a) => a.createdAt < before) : at);
 }
 
 function computeStats(

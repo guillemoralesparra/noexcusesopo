@@ -37,8 +37,6 @@ export const users = pgTable("users", {
   displayName: text("display_name").notNull(),
   passwordHash: text("password_hash").notNull(),
   role: text("role").$type<"admin" | "student">().notNull().default("student"),
-  /** Alumna de FUDEN: pot veure el material propi de l'acadèmia (còpia privada) */
-  fudenAccess: boolean("fuden_access").notNull().default(false),
   createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
 });
 
@@ -180,14 +178,39 @@ export const notes = pgTable("notes", {
   updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
 });
 
-/** Índex de cerca per paraules clau (fitxes, preguntes i normativa) amb text complet en català. */
+export type TopicPart = "temari" | "resum" | "suport" | "presentacio" | "normativa" | "bibliografia";
+
+/**
+ * Contingut literal de cada epígraf (temari v2): text del material del curs i articles de la normativa,
+ * en l'ordre de lectura i partit en pàgines de ~4.000 paraules. Es carrega des de content-pipeline (temari_build.py).
+ */
+export const topicBlocks = pgTable(
+  "topic_blocks",
+  {
+    /** "<epígraf>:<ordre>", p. ex. "E3.12:4" */
+    id: text("id").primaryKey(),
+    epigrafId: text("epigraf_id").notNull(),
+    part: text("part").$type<TopicPart>().notNull(),
+    sort: integer("sort").notNull(),
+    title: text("title").notNull(),
+    /** D'on surt: document i pàgines, o la norma */
+    source: text("source").notNull(),
+    url: text("url"),
+    /** Markdown literal (sense imatges) */
+    body: text("body").notNull(),
+  },
+  (t) => [index("topic_blocks_epigraf_idx").on(t.epigrafId, t.sort)],
+);
+
+/**
+ * Índex de cerca per paraules clau: el temari (pàgines de contingut i fitxes) i les preguntes.
+ * La cerca mostra primer el temari.
+ */
 export const searchDocs = pgTable(
   "search_docs",
   {
     id: text("id").primaryKey(),
-    kind: text("kind").$type<"note" | "question" | "norma" | "fuden">().notNull(),
-    /** Només visible per a comptes amb accés FUDEN */
-    restricted: boolean("restricted").notNull().default(false),
+    kind: text("kind").$type<"temari" | "question">().notNull(),
     epigrafId: text("epigraf_id"),
     title: text("title").notNull(),
     body: text("body").notNull(),
@@ -200,29 +223,4 @@ export const searchDocs = pgTable(
       ),
   },
   (t) => [index("search_docs_tsv_idx").using("gin", t.tsv), index("search_docs_kind_idx").on(t.kind)],
-);
-
-/** Documents del material de FUDEN (referència privada; només comptes amb accés). */
-export const fudenDocs = pgTable("fuden_docs", {
-  id: integer("id").primaryKey(),
-  title: text("title").notNull(),
-  kind: text("kind").$type<"temari" | "presentacio" | "guia_clinica" | "normativa" | "test" | "simulacre" | "altres">().notNull(),
-  section: text("section").notNull(),
-  /** Enllaç a l'original al campus de FUDEN (requereix la sessió de FUDEN) */
-  moodleUrl: text("moodle_url"),
-  pages: integer("pages").notNull().default(0),
-  epigrafs: jsonb("epigrafs").$type<string[]>().notNull().default([]),
-  summary: text("summary"),
-  /** Apartats del document amb les pàgines i els epígrafs que cobreixen */
-  sections: jsonb("sections").$type<{ label: string; pages: string; epigrafs: string[] }[]>().notNull().default([]),
-});
-
-export const fudenPages = pgTable(
-  "fuden_pages",
-  {
-    docId: integer("doc_id").notNull(),
-    page: integer("page").notNull(),
-    text: text("text").notNull(),
-  },
-  (t) => [primaryKey({ columns: [t.docId, t.page] })],
 );

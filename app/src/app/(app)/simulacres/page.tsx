@@ -41,7 +41,7 @@ const L = {
 };
 
 export default async function SimulacresPage() {
-  const user = await requireUser();
+  await requireUser();
   const l = L[await getLang()];
   const db = await getDb();
   const [examRows, caseRows, qRows] = await Promise.all([
@@ -66,7 +66,7 @@ export default async function SimulacresPage() {
       {(
         [
           [l.official, null, examRows.filter((e) => !isFudenExam(e.id)).reverse()],
-          [l.fuden, l.fudenSub, user.fudenAccess ? examRows.filter((e) => isFudenExam(e.id)) : []],
+          [l.fuden, l.fudenSub, examRows.filter((e) => isFudenExam(e.id))],
         ] as const
       ).map(([heading, sub, rows]) => rows.length > 0 && (
       <section key={heading} className="space-y-3">

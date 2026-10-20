@@ -7,7 +7,7 @@
 import { randomBytes } from "node:crypto";
 import { existsSync, readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
-import { getTableColumns, sql } from "drizzle-orm";
+import { getTableColumns, notInArray, sql } from "drizzle-orm";
 import * as s from "../src/db/schema";
 import { migrateDb } from "./migrate";
 
@@ -64,7 +64,6 @@ type HistoricalItem = {
   explanation?: s.Explanation | null;
 };
 type NoteJson = { epigraf: string; body_md: string; key_points?: string[]; sources?: s.Explanation["sources"]; review_flags?: string[] };
-type NormaJson = { short: string; url: string; chunks: { id: string; unit: string; heading?: string; text: string }[] };
 type ClassItem = {
   id: string;
   epigraf: string;
@@ -93,6 +92,8 @@ async function main() {
   for (const row of topicRows) {
     await db.insert(s.topics).values(row).onConflictDoUpdate({ target: s.topics.id, set: row });
   }
+  // Temes i epígrafs que ja no són al temari (p. ex. T3.5 i T9.3 del temari v1)
+  await db.delete(s.topics).where(notInArray(s.topics.id, topicRows.map((t) => t.id)));
 
   // Exàmens i supòsits
   const examFiles = readdirSync(path.join(DATA, "exams")).filter((f) => /^\d{4}[A-Z_]*\.json$/.test(f));
@@ -208,6 +209,7 @@ async function main() {
         origin: "fuden",
         sourceLabel: `${set.label} · pregunta ${q.n}`,
         epigrafId: q.epigraf,
+        secondaryEpigrafId: q.secondary ?? null,
         currency: q.currency ?? "ok",
         currencyReason: q.currency_reason ?? null,
         explanation: null,
@@ -216,6 +218,11 @@ async function main() {
       fudenQCount++;
     }
   }
+
+  // Cap pregunta pot apuntar a un epígraf que no sigui al temari (p. ex. després d'un canvi de versió)
+  const epIds = new Set(topicRows.filter((t) => t.kind === "epigraf").map((t) => t.id));
+  const orphan = questionRows.filter((r) => !epIds.has(r.epigrafId) || (r.secondaryEpigrafId && !epIds.has(r.secondaryEpigrafId)));
+  if (orphan.length > 0) throw new Error(`${orphan.length} preguntes amb un epígraf que no és al temari (p. ex. ${orphan[0].id} → ${orphan[0].epigrafId})`);
 
   // 'status' no es toca: es gestiona des de l'app (suspensions)
   const qCols = [...new Set(questionRows.flatMap((r) => Object.keys(r)))].filter((k) => k !== "id" && k !== "status");
@@ -230,85 +237,49 @@ async function main() {
       });
   }
 
-  // Fitxes pròpies del temari
+  // Fitxes pròpies (resum redactat per la plataforma). Les que no són a data/notes (p. ex. d'epígrafs del temari v1) s'esborren.
   const notesDir = path.join(DATA, "notes");
   const noteFiles = existsSync(notesDir) ? readdirSync(notesDir).filter((f) => f.endsWith(".json")) : [];
-  for (const f of noteFiles) {
-    const n = read<NoteJson>(path.join("notes", f));
+  const noteList = noteFiles.map((f) => read<NoteJson>(path.join("notes", f)));
+  for (const n of noteList) {
     const row = { epigrafId: n.epigraf, body: n.body_md, keyPoints: n.key_points ?? [], sources: n.sources ?? [], reviewFlags: n.review_flags ?? [], updatedAt: new Date() };
     await db.insert(s.notes).values(row).onConflictDoUpdate({ target: s.notes.epigrafId, set: row });
   }
+  if (noteList.length > 0) await db.delete(s.notes).where(notInArray(s.notes.epigrafId, noteList.map((n) => n.epigraf)));
 
-  // Material de FUDEN: només si és a la màquina local (no és al repositori: còpia privada amb drets d'autor)
-  const fudenDir = path.join(DATA, "fuden");
-  const fudenPages: { docId: number; page: number; text: string }[] = [];
-  const fudenDocs: (typeof s.fudenDocs.$inferInsert)[] = [];
-  if (existsSync(path.join(fudenDir, "coverage.json"))) {
-    const coverage = read<{ documents: FudenCoverageDoc[] }>("fuden/coverage.json");
-    const catalog = new Map(read<FudenCatalogDoc[]>("fuden/catalog.json").map((d) => [d.id, d]));
-    const moodle = new Map<string, string>();
-    const map = JSON.parse(readFileSync(path.join(DATA, "..", "raw", "fuden", "map.json"), "utf-8")) as FudenMap;
-    // Clau: apartat + activitat (els fitxers dins de carpetes comparteixen l'enllaç de la carpeta)
-    const secName = (t: string) => t.replace(/^Mosaico:\s*/, "").split(" | ")[0].trim();
-    for (const sec of map.sections)
-      for (const a of sec.activities) {
-        moodle.set(`${secName(sec.title)}|${a.name}`, a.url);
-        if (!moodle.has(a.name)) moodle.set(a.name, a.url);
-      }
-    for (const d of coverage.documents) {
-      const cat = catalog.get(d.id);
-      const txtFile = path.join(fudenDir, "text", `${d.id}.txt`);
-      const pages = existsSync(txtFile) ? readFileSync(txtFile, "utf-8").split("\f") : [];
-      pages.forEach((raw, i) => {
-        const text = cleanFuden(raw);
-        if (text) fudenPages.push({ docId: d.id, page: i + 1, text });
-      });
-      fudenDocs.push({
-        id: d.id,
-        title: d.title,
-        kind: d.kind,
-        section: d.section,
-        moodleUrl: (cat && (moodle.get(`${cat.section}|${cat.activity}`) ?? moodle.get(cat.activity))) ?? null,
-        pages: pages.length,
-        epigrafs: d.epigrafs ?? [],
-        summary: d.summary ?? null,
-        sections: d.sections ?? [],
-      });
-    }
-    await db.delete(s.fudenDocs);
-    await db.delete(s.fudenPages);
-    for (let i = 0; i < fudenDocs.length; i += 200) await db.insert(s.fudenDocs).values(fudenDocs.slice(i, i + 200));
-    for (let i = 0; i < fudenPages.length; i += 200) await db.insert(s.fudenPages).values(fudenPages.slice(i, i + 200));
+  // Contingut literal del temari: content-pipeline/scripts/temari_build.py → data/fuden/temari/blocs.json
+  const blocsRel = path.join("fuden", "temari", "blocs.json");
+  const blocs = existsSync(path.join(DATA, blocsRel)) ? read<BlockJson[]>(blocsRel) : [];
+  if (blocs.length > 0) {
+    const bad = blocs.filter((b) => !epIds.has(b.epigraf));
+    if (bad.length > 0) throw new Error(`${bad.length} blocs de contingut amb un epígraf que no és al temari (p. ex. ${bad[0].id})`);
+    await db.delete(s.topicBlocks);
+    for (let i = 0; i < blocs.length; i += 100)
+      await db.insert(s.topicBlocks).values(
+        blocs.slice(i, i + 100).map((b) => ({ id: b.id, epigrafId: b.epigraf, part: b.part, sort: b.sort, title: b.title, source: b.source, url: b.url, body: b.body })),
+      );
+  } else {
+    console.warn("No hi ha data/fuden/temari/blocs.json: es manté el contingut del temari que ja hi ha a la base de dades.");
   }
 
-  // Índex de cerca: es reconstrueix sencer
+  // Índex de cerca (es reconstrueix sencer): temari i preguntes. El temari es parteix en fragments de ~3.000
+  // caràcters perquè el resultat porti a prop del text trobat.
   await db.delete(s.searchDocs);
   const docs: (typeof s.searchDocs.$inferInsert)[] = [];
   const epTitle = new Map(topicRows.map((t) => [t.id, t.title]));
-  for (const f of noteFiles) {
-    const n = read<NoteJson>(path.join("notes", f));
-    docs.push({ id: `note:${n.epigraf}`, kind: "note", epigrafId: n.epigraf, title: `${n.epigraf} ${epTitle.get(n.epigraf) ?? ""}`, body: [n.body_md, ...(n.key_points ?? [])].join(" ") });
+  const blocRows = blocs.length > 0 ? blocs : (await db.select().from(s.topicBlocks)).map((b) => ({ ...b, epigraf: b.epigrafId }));
+  for (const b of blocRows) {
+    passages(plainText(b.body)).forEach((text, k) =>
+      docs.push({ id: `t:${b.id}:${k}`, kind: "temari", epigrafId: b.epigraf, title: `${b.epigraf} ${epTitle.get(b.epigraf) ?? ""} · ${b.title}`, body: text, url: `/temari/${b.epigraf}?b=${b.sort}` }),
+    );
+  }
+  for (const n of noteList) {
+    docs.push({ id: `note:${n.epigraf}`, kind: "temari", epigrafId: n.epigraf, title: `${n.epigraf} ${epTitle.get(n.epigraf) ?? ""} · Fitxa resum`, body: plainText([n.body_md, ...(n.key_points ?? [])].join("\n\n")), url: `/temari/${n.epigraf}?vista=fitxa` });
   }
   const allQ = await db.select().from(s.questions);
   for (const q of allQ) {
-    if (q.annulled || q.status !== "active") continue;
-    docs.push({ id: `q:${q.id}`, kind: "question", restricted: q.origin === "fuden", epigrafId: q.epigrafId, title: q.stem.slice(0, 160), body: [q.stem, ...Object.values(q.options), q.explanation?.summary ?? ""].join(" ") });
-  }
-  const srcDir = path.join(DATA, "sources");
-  for (const f of existsSync(srcDir) ? readdirSync(srcDir).filter((x) => x.endsWith(".json") && x !== "index.json") : []) {
-    const norm = read<NormaJson>(path.join("sources", f));
-    for (const c of norm.chunks) {
-      if (!c.text?.trim()) continue;
-      docs.push({ id: `norma:${c.id}`, kind: "norma", epigrafId: null, title: `${norm.short}, ${c.unit}${c.heading ? ` · ${c.heading}` : ""}`, body: c.text.slice(0, 20000), url: norm.url });
-    }
-  }
-  const fudenById = new Map(fudenDocs.map((d) => [d.id as number, d]));
-  for (const p of fudenPages) {
-    const d = fudenById.get(p.docId)!;
-    if (p.text.length < 80) continue;
-    const sec = d.sections?.find((x) => inRange(p.page, x.pages));
-    const epigrafId = sec?.epigrafs[0] ?? (d.epigrafs?.length === 1 ? d.epigrafs[0] : null);
-    docs.push({ id: `fuden:${p.docId}:${p.page}`, kind: "fuden", restricted: true, epigrafId: epigrafId && epTitle.has(epigrafId) ? epigrafId : null, title: `${d.title} · p. ${p.page}`, body: p.text.slice(0, 20000), url: `/fuden/${p.docId}?p=${p.page}` });
+    if (q.annulled || q.status !== "active" || !epIds.has(q.epigrafId)) continue;
+    docs.push({ id: `q:${q.id}`, kind: "question", epigrafId: q.epigrafId, title: q.stem.slice(0, 160), body: [q.stem, ...Object.values(q.options), q.explanation?.summary ?? ""].join(" ") });
   }
   for (let i = 0; i < docs.length; i += 200) await db.insert(s.searchDocs).values(docs.slice(i, i + 200));
 
@@ -319,11 +290,10 @@ async function main() {
     console.log(`Codi d'invitació d'administració: ${code}`);
   }
 
-  console.log(`Temari: ${topicRows.length} nodes · Exàmens: ${examFiles.length} · Preguntes oficials: ${bank.length} · Històriques: ${histCount} · Explicacions: ${expl.size} · Fitxes: ${noteFiles.length} · Índex de cerca: ${docs.length} · FUDEN: ${fudenDocs.length} documents, ${fudenPages.length} pàgines, ${fudenQCount} preguntes`);
+  console.log(`Temari: ${topicRows.length} nodes · Exàmens: ${examFiles.length} · Preguntes oficials: ${bank.length} · Històriques: ${histCount} · Explicacions: ${expl.size} · Fitxes: ${noteFiles.length} · Contingut: ${blocRows.length} pàgines · Índex de cerca: ${docs.length} · Preguntes FUDEN: ${fudenQCount}`);
   process.exit(0);
 }
 
-type FudenCoverageDoc = { id: number; title: string; section: string; kind: NonNullable<(typeof s.fudenDocs.$inferInsert)["kind"]>; epigrafs?: string[]; summary?: string; sections?: { label: string; pages: string; epigrafs: string[] }[] };
 type FudenQuestionSet = {
   slug: string;
   label: string;
@@ -331,30 +301,40 @@ type FudenQuestionSet = {
   title: string;
   date: string | null;
   cases?: { id: string; title: string; text: string }[];
-  questions: { n: number; section?: "test" | "case"; case_id?: string | null; stem: string; options: Partial<Record<s.OptionKey, string>>; accepted: s.OptionKey[]; annulled?: boolean; epigraf: string; currency?: "ok" | "check"; currency_reason?: string }[];
+  questions: { n: number; section?: "test" | "case"; case_id?: string | null; stem: string; options: Partial<Record<s.OptionKey, string>>; accepted: s.OptionKey[]; annulled?: boolean; epigraf: string; secondary?: string | null; currency?: "ok" | "check"; currency_reason?: string }[];
 };
-type FudenCatalogDoc = { id: number; section: string; activity: string };
-type FudenMap = { sections: { title: string; activities: { name: string; url: string }[] }[] };
+type BlockJson = { id: string; epigraf: string; part: s.TopicPart; sort: number; title: string; source: string; url: string | null; body: string };
 
-/** Treu la marca d'aigua amb el compte de descàrrega i les línies buides de sobres. */
-function cleanFuden(t: string): string {
-  return t
-    .replace(/Descarga autorizada a[\s\S]{0,120}?desde(\s*oposiciones\.f[a-z.]*)?/g, "")
-    .replace(/^.*(JDLHH|138173|Descarga autorizada|desde oposiciones\.f).*$/gm, "")
-    .replace(/Scanned by CamScanner/g, "")
-    .replace(/\u0000/g, "")
-    .replace(/0000/g, "")
-    .replace(/0000/g, "")
-    .replace(/\n{3,}/g, "\n\n")
+/** Text pla per a la cerca: sense comentaris de pàgina, marques de Markdown ni etiquetes HTML. */
+function plainText(md: string): string {
+  return md
+    .replace(/<!--[\s\S]*?-->/g, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/^#{1,6}\s+/gm, "")
+    .replace(/[*_`|>]+/g, " ")
+    .replace(/-{3,}/g, " ")
+    .replace(/[ \t]+/g, " ")
+    .replace(/\n{2,}/g, "\n\n")
     .trim();
 }
 
-/** "4-5", "9" o "4-5, 8" */
-function inRange(page: number, ranges: string): boolean {
-  return ranges.split(",").some((r) => {
-    const [a, b] = r.split("-").map((x) => Number(x.trim()));
-    return Number.isFinite(a) && page >= a && page <= (Number.isFinite(b) ? b : a);
-  });
+/** Fragments de ~3.000 caràcters tallats per paràgrafs. */
+function passages(text: string, size = 3000): string[] {
+  const out: string[] = [];
+  let cur = "";
+  for (const para of text.split(/\n\n/)) {
+    if (cur && cur.length + para.length > size) {
+      out.push(cur);
+      cur = "";
+    }
+    cur += (cur ? "\n\n" : "") + para;
+    while (cur.length > size * 2) {
+      out.push(cur.slice(0, size));
+      cur = cur.slice(size);
+    }
+  }
+  if (cur.trim()) out.push(cur);
+  return out;
 }
 
 main().catch((e) => {

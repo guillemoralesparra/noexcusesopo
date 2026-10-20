@@ -1,5 +1,8 @@
 {
  "epigraf": "T5.2",
+ "epigraf_v1": [
+  "T5.2"
+ ],
  "body_md": "## En una frase\nEl Codi de conducta dels empleats públics (TREBEP, arts. 52-54) recull principis ètics (art. 53) i principis de conducta (art. 54) que obliguen tots els empleats públics i que inspiren el règim disciplinari.\n\n## Conceptes clau\n- **Deures i principis (art. 52)**: els empleats públics han d'acomplir amb diligència les tasques assignades i vetllar pels interessos generals amb subjecció a la Constitució i a l'ordenament, d'acord amb aquests principis: objectivitat, integritat, neutralitat, responsabilitat, imparcialitat, confidencialitat, dedicació al servei públic, transparència, exemplaritat, austeritat, accessibilitat, eficàcia, honradesa, promoció de l'entorn cultural i mediambiental i respecte a la igualtat entre dones i homes. Informen la interpretació del règim disciplinari.\n- **Principis ètics (art. 53)**: respectar la Constitució i les normes; perseguir l'interès general amb imparcialitat, deixant de banda factors personals, familiars o corporatius; lleialtat i bona fe; respecte als drets fonamentals i no discriminació; abstenció en assumptes amb interès personal i davant conflictes d'interessos; no acceptar tracte de favor ni privilegis injustificats; eficàcia, economia i eficiència; no influir en la tramitació d'un procediment sense causa justa; diligència i terminis; dedicació al servei públic; secret de la informació reservada.\n- **Principis de conducta (art. 54)**: tractar amb atenció i respecte ciutadans, superiors i companys; complir diligentment la jornada i l'horari; obeir les instruccions dels superiors tret que constitueixin una infracció manifesta de l'ordenament (en aquest cas s'han de posar en coneixement dels òrgans d'inspecció); informar els ciutadans dels seus drets; administrar amb austeritat els recursos públics; **rebutjar regals** i favors que superin els usos socials i de cortesia; garantir la constància i permanència dels documents; mantenir actualitzada la formació; complir les normes de seguretat i salut laboral; proposar millores; atendre el ciutadà en la llengua oficial que triï.\n- **ICS**: l'ICS té el seu propi Codi ètic (valors: competència, participació, compromís, equitat, innovació, transparència); no s'ha de confondre amb el codi de conducta del TREBEP.\n\n## Valors, escales i classificacions\n| Bloc | Article | Contingut |\n|---|---|---|\n| Principis generals | 52 | Llista de principis que inspiren el Codi |\n| Principis ètics | 53 | Imparcialitat, lleialtat, abstenció, no discriminació, no privilegis |\n| Principis de conducta | 54 | Tracte respectuós, obediència limitada, regals, formació, seguretat |\n\n## Actuació infermera\nAbstenir-se de rebre regals o favors, informar amb transparència els pacients, tractar amb respecte els usuaris i companys, mantenir la confidencialitat, complir horari i seguretat, formar-se de manera continuada, i advertir si una ordre infringeix manifestament la norma.\n\n## Què pregunten als exàmens\nCap pregunta oficial 2015-2024 classificada aquí. Probables enunciats: «quin NO és un principi ètic o de conducta», regals i tracte de favor, obediència a ordres il·legals.\n\n## Trampes freqüents\n- Confondre principis ètics (art. 53) amb principis de conducta (art. 54).\n- Pensar que s'ha d'obeir sempre l'ordre del superior: no si és infracció manifesta de l'ordenament.\n- Creure que qualsevol regal està prohibit: es rebutgen els que van més enllà dels usos socials i de cortesia.\n- Barrejar-ho amb els valors del Codi ètic de l'ICS.\n\n## Normativa i guies de referència\n- RDL 5/2015 (TREBEP), arts. 52-54.\n- Codi ètic de l'ICS (2017, revisió 2020).\n",
  "key_points": [
   "El Codi de conducta del TREBEP es configura amb els principis ètics (art. 53) i els principis de conducta (art. 54).",
@@ -10,8 +13,17 @@
   "Els principis del Codi informen la interpretació del règim disciplinari."
  ],
  "sources": [
-  {"kind": "norma", "label": "RDL 5/2015 (TREBEP), arts. 52-54", "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"},
-  {"kind": "ref", "label": "Codi ètic de l'Institut Català de la Salut, 2a edició 2017 (revisió 2020)"}
+  {
+   "kind": "norma",
+   "label": "RDL 5/2015 (TREBEP), arts. 52-54",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719"
+  },
+  {
+   "kind": "ref",
+   "label": "Codi ètic de l'Institut Català de la Salut, 2a edició 2017 (revisió 2020)"
+  }
  ],
- "review_flags": ["La llista exacta d'ítems de l'art. 53 (apartat 11 i següents) no s'ha llegit completa; revisar el text si cal memoritzar-lo literalment."]
+ "review_flags": [
+  "La llista exacta d'ítems de l'art. 53 (apartat 11 i següents) no s'ha llegit completa; revisar el text si cal memoritzar-lo literalment."
+ ]
 }
