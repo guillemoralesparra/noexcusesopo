@@ -9,7 +9,7 @@ import { notes } from "@/db/schema";
 import { requireUser } from "@/lib/auth";
 import { getDict, getLang } from "@/lib/lang";
 import { topicStats } from "@/lib/progress";
-import { blockIndex, getBlock, PART_LABEL, PARTS, sanitizeHtml } from "@/lib/temari";
+import { blockIndex, getBlock, PART_LABEL, PARTS, sanitizeHtml, withAnchors } from "@/lib/temari";
 import { startPractice } from "../../actions";
 
 const L = {
@@ -24,6 +24,8 @@ const L = {
     prev: "Anterior",
     next: "Següent",
     source: "Font",
+    onPage: "En aquesta pàgina",
+    reading: (n: number) => `${Math.max(1, Math.round(n / 200))} min de lectura`,
     words: (n: number) => (n >= 1000 ? `${(n / 1000).toFixed(1).replace(".", ",")}k paraules` : `${n} paraules`),
     official: (n: number) => (n === 1 ? "1 pregunta oficial" : `${n} preguntes oficials`),
     lang: "",
@@ -39,6 +41,8 @@ const L = {
     prev: "Anterior",
     next: "Siguiente",
     source: "Fuente",
+    onPage: "En esta página",
+    reading: (n: number) => `${Math.max(1, Math.round(n / 200))} min de lectura`,
     words: (n: number) => (n >= 1000 ? `${(n / 1000).toFixed(1).replace(".", ",")}k palabras` : `${n} palabras`),
     official: (n: number) => (n === 1 ? "1 pregunta oficial" : `${n} preguntas oficiales`),
     lang: "El texto se muestra en su idioma original (catalán o castellano).",
@@ -68,11 +72,10 @@ export default async function EpigrafPage({
   const showNote = sp.vista === "fitxa" || (index.length === 0 && !!note);
   const pos = showNote ? -1 : Math.max(0, index.findIndex((b) => String(b.sort) === sp.b));
   const current = !showNote && index.length > 0 ? await getBlock(epigraf, index[pos].sort) : null;
-  const html = current
-    ? sanitizeHtml(await marked.parse(current.body, { gfm: true }))
-    : showNote && note
-      ? await marked.parse(note.body, { gfm: true })
-      : "";
+  const { html, headings } = current
+    ? withAnchors(sanitizeHtml(await marked.parse(current.body, { gfm: true })))
+    : { html: showNote && note ? await marked.parse(note.body, { gfm: true }) : "", headings: [] };
+  const words = current ? Math.round(current.body.length / 6.5) : 0;
   const href = (sort: number) => `/temari/${epigraf}?b=${sort}`;
   const prev = pos > 0 ? index[pos - 1] : null;
   const next = pos >= 0 && pos < index.length - 1 ? index[pos + 1] : null;
@@ -138,7 +141,7 @@ export default async function EpigrafPage({
             <p className="text-sm font-semibold text-ink-3">{PART_LABEL[lang][current.part]}</p>
             <h2 className="text-xl font-extrabold leading-snug">{current.title}</h2>
             <p className="mt-1 text-[14px] text-ink-3">
-              {l.source}: {current.source}
+              {l.reading(words)} · {l.source}: {current.source}
               {current.url && (
                 <a href={current.url} target="_blank" rel="noreferrer" className="ml-2 inline-flex items-center gap-1 text-glaze underline">
                   <ExternalLink className="size-3.5" aria-hidden /> {current.url.replace(/^https?:\/\//, "").split("/")[0]}
@@ -149,8 +152,23 @@ export default async function EpigrafPage({
         )}
         {showNote && note && <p className="mt-6 text-[14px] text-ink-3">{l.noteHint}</p>}
 
+        {headings.length > 0 && (
+          <nav aria-label={l.onPage} className="mt-5 max-w-[72ch] rounded-2xl bg-surface p-4">
+            <h3 className="mb-2 text-[13px] font-bold uppercase tracking-wide text-ink-3">{l.onPage}</h3>
+            <ol className="grid gap-x-6 gap-y-1 text-[15px] sm:grid-cols-2">
+              {headings.map((h) => (
+                <li key={h.id} className="min-w-0">
+                  <a href={`#${h.id}`} className="block truncate rounded px-1 py-0.5 text-glaze hover:bg-glaze-soft" title={h.text}>
+                    {h.text}
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )}
+
         {html ? (
-          <div lang={current ? undefined : "ca"} className={`note mt-4 ${PROSE}`} dangerouslySetInnerHTML={{ __html: html }} />
+          <div lang={current ? undefined : "ca"} className={current ? "temari-text mt-6" : `note mt-4 ${PROSE}`} dangerouslySetInnerHTML={{ __html: html }} />
         ) : (
           <p className="mt-6 rounded-2xl bg-surface p-5 text-ink-2">{l.empty}</p>
         )}

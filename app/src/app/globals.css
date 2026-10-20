@@ -178,3 +178,137 @@ a {
     opacity: 1;
   }
 }
+
+/*
+ * Text del temari (material convertit de PDF): lectura llarga d'estudi. Títols amb el cantell vidrat,
+ * llistes i taules que respiren, ressaltats en ocre. Tot amb els tokens del món "Rajola de Sant Pau".
+ */
+.temari-text {
+  max-width: 72ch;
+  font-size: 17px;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+.temari-text > :first-child {
+  margin-top: 0;
+}
+.temari-text p {
+  margin: 0.8em 0;
+}
+.temari-text h4,
+.temari-text h5,
+.temari-text h6 {
+  scroll-margin-top: 1.5rem;
+  line-height: 1.3;
+  color: var(--glaze-deep);
+}
+.temari-text h4 {
+  margin: 2.2em 0 0.6em;
+  padding: 0.35em 0 0.35em 0.75em;
+  border-left: 4px solid var(--glaze);
+  background: var(--glaze-soft);
+  border-radius: 0 10px 10px 0;
+  font-size: 1.2em;
+  font-weight: 800;
+}
+.temari-text h5 {
+  margin: 1.9em 0 0.5em;
+  padding-left: 0.65em;
+  border-left: 3px solid var(--glaze-mid);
+  font-size: 1.1em;
+  font-weight: 800;
+}
+.temari-text h6 {
+  margin: 1.4em 0 0.4em;
+  font-size: 1em;
+  font-weight: 700;
+  color: var(--ink);
+}
+.temari-text strong {
+  font-weight: 700;
+  color: var(--ink);
+}
+.temari-text ul,
+.temari-text ol {
+  margin: 0.6em 0 1em;
+  padding-left: 1.5em;
+}
+.temari-text ul {
+  list-style: disc;
+}
+.temari-text ol {
+  list-style: decimal;
+}
+.temari-text ul ul {
+  list-style: circle;
+}
+.temari-text li {
+  margin: 0.3em 0;
+  padding-left: 0.2em;
+}
+.temari-text li::marker {
+  color: var(--glaze);
+  font-weight: 700;
+}
+.temari-text li > p {
+  margin: 0.2em 0;
+}
+.temari-text table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 1.2em 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 15px;
+  line-height: 1.5;
+  border: 2px solid var(--surface-2);
+  border-radius: 12px;
+}
+.temari-text th {
+  background: var(--surface-2);
+  font-weight: 700;
+  text-align: left;
+}
+.temari-text th,
+.temari-text td {
+  padding: 0.5em 0.75em;
+  vertical-align: top;
+  border-bottom: 1px solid var(--surface-2);
+}
+.temari-text tbody tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--surface-2) 40%, transparent);
+}
+.temari-text tr:last-child td {
+  border-bottom: 0;
+}
+.temari-text mark {
+  background: var(--ochre-soft);
+  color: inherit;
+  border-radius: 3px;
+  padding: 0 0.15em;
+}
+.temari-text u {
+  text-decoration-color: var(--ochre);
+  text-decoration-thickness: 2px;
+}
+.temari-text blockquote {
+  margin: 1em 0;
+  padding: 0.6em 1em;
+  border-left: 4px solid var(--ochre);
+  background: var(--ochre-soft);
+  border-radius: 0 10px 10px 0;
+  color: var(--ink);
+}
+.temari-text hr {
+  margin: 2em 0;
+  border: 0;
+  border-top: 2px dashed var(--surface-2);
+}
+.temari-text a {
+  color: var(--glaze);
+  text-decoration: underline;
+}
+.temari-text sup {
+  font-size: 0.7em;
+}

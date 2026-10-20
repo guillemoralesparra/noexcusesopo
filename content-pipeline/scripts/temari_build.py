@@ -15,6 +15,11 @@ import re
 import sys
 from collections import defaultdict
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))  # python -I no hi afegeix la carpeta del script
+from temari_format import Vocab, format_text  # noqa: E402
+
+VOCAB: Vocab | None = None
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 TEMARI = DATA / "fuden" / "temari"
@@ -141,6 +146,41 @@ def wm_fragment(m: re.Match) -> str:
     return m.group(0)
 
 
+# Marca de descàrrega d'una altra persona que porta la presentació de la sessió 3 (doc. 94):
+# "Descarga autorizada a ALVAREZ CARBAJALES, DAVID dcarbaja@vhebron.net IP: 88.2.28.171 10897700",
+# trossejada en fragments en cursiva o ratllats. Són dades personals d'un tercer: fora.
+# Formes exactes (amb majúscules) dels trossos de la marca: no toquen "Carbajal", "Carbajosa" ni "autorizada".
+WM2_TOKEN = re.compile(r"CARBAJ\s?ALES?|\S*dcarbaja@vheb\S*|(?<![A-Za-z])S\s+DAVID(?![A-Za-z])|(?<![A-Za-z])IP:|"
+                       r"(?<!\d)10897700(?!\d)|(?<![\d.])88\.2\.28\.171(?![\d.])|DescargaALVAREZ,?|Descarga(?= IP:)|"
+                       r"\bn\.net,?|\ba?autorizadad\w*")
+# Cada tros en cursiva (_…_) o ratllat (~~…~~), el més curt possible
+WM2_SPAN = re.compile(r"_[^_\n]+?_|~~[^~\n]+?~~")
+
+
+def strip_other_watermark(line: str) -> str:
+    if not WM2_TOKEN.search(line):
+        return line
+
+    def tokens_out(s: str) -> str:
+        # Diverses passades: en treure un tros ("CARBAJALE") el següent ("S DAVID") queda solt
+        while (t := WM2_TOKEN.sub(" ", s)) != s:
+            s = t
+        return s
+
+    def span(m: re.Match) -> str:
+        if not WM2_TOKEN.search(m.group(0)):
+            return m.group(0)
+        mark = m.group(0)[:2] if m.group(0).startswith("~~") else "_"
+        rest = tokens_out(m.group(0)[len(mark):-len(mark)]).strip(" ,")
+        # Si a la cursiva hi queda text real (barrejat amb la marca), es manté; si no, fora
+        return f"{mark}{re.sub(r' {2,}', ' ', rest)}{mark}" if re.search(r"[A-Za-zÀ-ÿ]{3,}", rest) else ""
+
+    line = WM2_SPAN.sub(span, line)
+    line = tokens_out(line)
+    line = re.sub(r"(?<!\w)(?:_\s*_|~~\s*~~)(?!\w)", "", line)
+    return re.sub(r"[ \t]{2,}", " ", line)
+
+
 def clean_text(text: str, repeated: set[str], img_prefix: str) -> str:
     out = []
     for line in text.splitlines():
@@ -150,6 +190,7 @@ def clean_text(text: str, repeated: set[str], img_prefix: str) -> str:
         if re.search(r"38173|jdlhh|descarga autorizada", line, re.I):
             line = re.sub(r"[^|]*(38173|JDLHH|Descarga autorizada)[^|]*", "", line, flags=re.I)
         line = WM_FRAG.sub(wm_fragment, line)
+        line = strip_other_watermark(line)
         line = line.replace("](../img/", f"]({img_prefix}")
         m = HEAD.match(line)
         if m:  # els títols del document queden per sota del de l'epígraf (#), la part (##) i el bloc (###)
@@ -163,7 +204,9 @@ def clean_text(text: str, repeated: set[str], img_prefix: str) -> str:
                 continue
             last = m.group(1)
         text.append(line)
-    return re.sub(r"\n{3,}", "\n\n", "\n".join(text)).strip()
+    text = re.sub(r"\n{3,}", "\n\n", "\n".join(text)).strip()
+    # Format d'estudi (lligadures, vinyetes, versaletes…) sense canviar el contingut: temari_format.py
+    return format_text(text, VOCAB) if VOCAB else text
 
 
 def doc_pages(md_rel: str) -> dict[int, str]:
@@ -240,9 +283,12 @@ def seg_no(s: dict) -> int:
 
 
 def build():
+    global VOCAB
     rows, errors, missing, eps, seg, by_id = assignments()
     if errors:
         raise SystemExit(f"{len(errors)} errors al repartiment: executa check")
+    # Vocabulari de tot el material: decideix quines correccions de format són segures
+    VOCAB = Vocab((WEB / d["md"]).read_text(encoding="utf-8") for d in by_id.values() if d["dup_doc"] is None)
     temes, _ = structure()
     out = TEMARI / "guia"
     out.mkdir(parents=True, exist_ok=True)

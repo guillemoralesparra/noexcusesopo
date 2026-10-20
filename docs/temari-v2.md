@@ -107,6 +107,33 @@ Resultat a `content-pipeline/data/generated/questions.json` (al repositori); el 
 - **E1.9**: «Situaciones de violencia» (riscos laborals) i «Agressions» (annex del tema 7), que abans eren a T7.3.
 - Els PDF són a `content-pipeline/raw/normativa/` i es passen a `data/sources/` amb `scripts/pdf_sources.py`.
 
+## Format d'estudi (20/10/2026)
+
+El text convertit dels PDF tenia defectes de conversió que en dificultaven la lectura. `content-pipeline/scripts/temari_format.py`
+els corregeix de manera determinista (sense cap model i sense reescriure res), dins de `temari_build.py build`:
+
+- **Símbols de fonts Wingdings/Symbol** (caràcters de la zona privada d'Unicode, que es veien com a quadrats) → el
+  caràcter que representen (•, ■, ✓, →, ↓…).
+- **Vinyetes escrites com a text** (■ • ● ▪ ►), a l'inici o enmig del paràgraf → llistes de Markdown, amb els sagnats
+  recalculats segons l'estructura (el PDF en deixava de 6 o més espais, que es mostrarien com a codi).
+- **Lligadures perdudes** ("planifcació", "efciència", "difcultats") → la paraula sencera, només si aquesta forma surt
+  al mateix temari.
+- **Majúscules soltes de les versaletes** ("caTalà", "funDamentos") i majúscules amb l'accent en minúscula
+  ("INSUFICIèNCIA") → la forma normal, només si surt al temari (es respecten dTpa, mmHg, McGraw…).
+- **Paraules partides a final de línia** ("inter- vención") → unides si la paraula unida surt al temari.
+- **Text espaiat lletra a lletra** i capçaleres repetides així ("P L A N S D E C U R E S …").
+- **Punts de farciment dels índexs** ("Introducció ........ 6") i línies de punts dels formularis ("……").
+- **Subtítols numerats enganxats al paràgraf** ("… **4.1.2. Clasificación** De manera …") → línia pròpia.
+- **Marca de descàrrega d'una altra persona** a la presentació de la sessió 3 (nom, correu, IP i número de descàrrega):
+  eliminada; són dades personals d'un tercer.
+
+Verificació: per a cada epígraf es compara el vocabulari abans i després; les úniques paraules que desapareixen són
+les formes deformades que s'han corregit i els trossos de la marca de descàrrega.
+
+A la web, el text es mostra amb un estil de lectura propi (`.temari-text` a `app/src/app/globals.css`): títols
+destacats amb el cantell vidrat, llistes amb vinyetes de color, taules amb capçalera i files alternes, ressaltats en
+ocre, i un índex "En aquesta pàgina" amb enllaços als apartats de la pàgina i el temps de lectura.
+
 ## Buits coneguts
 
 Només normativa (sense temari del curs): T1.1, T2.2, T4.3-T4.5 i T11.3. Detall complet a
