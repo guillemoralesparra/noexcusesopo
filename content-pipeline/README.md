@@ -74,4 +74,8 @@ instruccions completes a `data/fuden/web/README.md`.
    `data/classification/v2.json` (oficials i històriques; `frequency_map.py` i `merge_historical.py` l'apliquen)
    i al camp `epigraf` de `data/fuden/questions/*.json`. `scripts/notes_v2.py` passa les fitxes a ids v2.
 
+5. Preguntes pròpies per als epígrafs amb menys de 10: `scripts/gen_questions.py` (targets → redacció → check →
+   blind → merge) deixa les verificades a `data/generated/questions.json`. Documents oficials en PDF (protocol
+   d'assetjament, III Acord): `scripts/pdf_sources.py` → `data/sources/`.
+
 Disseny complet del canvi: `../docs/temari-v2.md`.

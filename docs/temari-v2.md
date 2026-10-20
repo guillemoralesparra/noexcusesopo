@@ -83,8 +83,32 @@ intents ni repassos: el progrés va lligat a les preguntes, que conserven l'id.
 - `0007_temari_v2_blocs` — crea `topic_blocks`.
 - `0008_sense_fuden_privat` — elimina `fuden_docs`, `fuden_pages`, `search_docs.restricted` i `users.fuden_access`.
 
+## Preguntes pròpies (20/10/2026)
+
+Per als 45 epígrafs que tenien menys de 10 preguntes s'han redactat **232 preguntes pròpies** (origen
+`generated`, etiqueta «Pregunta pròpia de la plataforma»), fins a arribar a 10 per epígraf. No compten per als
+pesos de prioritat. Procés (`content-pipeline/scripts/gen_questions.py`):
+
+1. Redacció per agents a partir només del contingut de l'epígraf (`guia/<tema>/<epígraf>.md`), sense repetir
+   les preguntes que ja hi havia. Cada pregunta porta l'explicació de cada opció, la font (article o document i
+   pàgina) i un fragment literal del temari que demostra la resposta (`evidence`).
+2. Comprovació automàtica: format, 4 opcions diferents i que l'`evidence` surti literal al temari de l'epígraf.
+3. Resolució a cegues per altres agents (sense la clau) amb el mateix temari: només es queden les que coincideixen.
+   Resultat: 232 de 233; se'n va descartar 1, i abans 2 de T6.2 basades en xifres del II Acord (2007-2010).
+
+Resultat a `content-pipeline/data/generated/questions.json` (al repositori); el seed les carrega.
+
+## Material afegit (20/10/2026)
+
+- **T7.4**: *Protocol per a la prevenció, la detecció, l'actuació i la resolució de situacions d'assetjament
+  sexual, per raó del sexe, de l'orientació sexual i/o de la identitat sexual a l'Administració de la Generalitat*
+  (Direcció General de Funció Pública), el text que cita el temari oficial. FUDEN només l'esmentava a l'índex.
+- **T5.3**: Resolució EMT/74/2024 (DOGC 9085, 23/01/2024), text publicat del III Acord.
+- **E1.9**: «Situaciones de violencia» (riscos laborals) i «Agressions» (annex del tema 7), que abans eren a T7.3.
+- Els PDF són a `content-pipeline/raw/normativa/` i es passen a `data/sources/` amb `scripts/pdf_sources.py`.
+
 ## Buits coneguts
 
-Sense material: T7.4 (protocol d'assetjament) i E1.9 (comunicació en crisi o violència). Només normativa:
-T1.1, T2.2, T4.3-T4.5 i T11.3. Detall complet a `data/fuden/temari/guia/00-GUIA.md` (secció «Buits i punts febles»).
-Epígrafs sense cap pregunta: T4.5, T7.2, T8.3, T11.2, T11.3.
+Només normativa (sense temari del curs): T1.1, T2.2, T4.3-T4.5 i T11.3. Detall complet a
+`data/fuden/temari/guia/00-GUIA.md` (secció «Buits i punts febles»). Després de les preguntes pròpies, tots els
+epígrafs tenen almenys 10 preguntes, excepte T11.3 (9).

@@ -219,6 +219,30 @@ async function main() {
     }
   }
 
+  // Preguntes pròpies per als epígrafs amb poques preguntes (content-pipeline/scripts/gen_questions.py): només les
+  // que tenen l'evidència literal al temari i que una resolució a cegues ha encertat. No fixen pesos.
+  const genRel = path.join("generated", "questions.json");
+  const generated = existsSync(path.join(DATA, genRel)) ? read<GeneratedItem[]>(genRel) : [];
+  for (const q of generated) {
+    questionRows.push({
+      id: q.id,
+      examId: null,
+      number: null,
+      section: "test",
+      caseId: null,
+      stem: q.stem,
+      options: q.options,
+      accepted: [q.answer],
+      annulled: false,
+      origin: "generated",
+      sourceLabel: "Pregunta pròpia de la plataforma",
+      epigrafId: q.epigraf,
+      currency: "ok",
+      currencyReason: null,
+      explanation: { summary: q.explanation.summary, options: q.explanation.options, keyPoint: q.explanation.keyPoint ?? null, sources: [q.source], status: "consistent", notes: [] },
+    });
+  }
+
   // Cap pregunta pot apuntar a un epígraf que no sigui al temari (p. ex. després d'un canvi de versió)
   const epIds = new Set(topicRows.filter((t) => t.kind === "epigraf").map((t) => t.id));
   const orphan = questionRows.filter((r) => !epIds.has(r.epigrafId) || (r.secondaryEpigrafId && !epIds.has(r.secondaryEpigrafId)));
@@ -290,7 +314,7 @@ async function main() {
     console.log(`Codi d'invitació d'administració: ${code}`);
   }
 
-  console.log(`Temari: ${topicRows.length} nodes · Exàmens: ${examFiles.length} · Preguntes oficials: ${bank.length} · Històriques: ${histCount} · Explicacions: ${expl.size} · Fitxes: ${noteFiles.length} · Contingut: ${blocRows.length} pàgines · Índex de cerca: ${docs.length} · Preguntes FUDEN: ${fudenQCount}`);
+  console.log(`Temari: ${topicRows.length} nodes · Exàmens: ${examFiles.length} · Preguntes oficials: ${bank.length} · Històriques: ${histCount} · Explicacions: ${expl.size} · Fitxes: ${noteFiles.length} · Contingut: ${blocRows.length} pàgines · Índex de cerca: ${docs.length} · Preguntes FUDEN: ${fudenQCount} · Pròpies: ${generated.length}`);
   process.exit(0);
 }
 
@@ -302,6 +326,15 @@ type FudenQuestionSet = {
   date: string | null;
   cases?: { id: string; title: string; text: string }[];
   questions: { n: number; section?: "test" | "case"; case_id?: string | null; stem: string; options: Partial<Record<s.OptionKey, string>>; accepted: s.OptionKey[]; annulled?: boolean; epigraf: string; secondary?: string | null; currency?: "ok" | "check"; currency_reason?: string }[];
+};
+type GeneratedItem = {
+  id: string;
+  epigraf: string;
+  stem: string;
+  options: Partial<Record<s.OptionKey, string>>;
+  answer: s.OptionKey;
+  source: s.Explanation["sources"][number];
+  explanation: { summary: string; options: Partial<Record<s.OptionKey, string>>; keyPoint?: string | null };
 };
 type BlockJson = { id: string; epigraf: string; part: s.TopicPart; sort: number; title: string; source: string; url: string | null; body: string };
 
